@@ -1,0 +1,191 @@
+{
+  "id": "unit-9-family-relationships",
+  "title": "Unit 9: Family Ties & Generations",
+  "tags": ["Lớp 6", "Lớp 7", "Lớp 11"],
+  "level": "Elementary",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "generation gap",
+        "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+        "pos": "noun",
+        "meaning": "khoảng cách thế hệ",
+        "example": "Open communication bridges the generation gap between parents and teens.",
+        "exampleVi": "Giao tiếp cởi mở giúp thu hẹp khoảng cách thế hệ giữa cha mẹ và con cái tuổi teen."
+      },
+      {
+        "stt": 2,
+        "word": "nuclear family",
+        "ipa": "/ˌnuːkliər ˈfæməli/",
+        "pos": "noun",
+        "meaning": "gia đình hạt nhân (chỉ gồm bố mẹ và con)",
+        "example": "A nuclear family typically consists of two parents and their children.",
+        "exampleVi": "Một gia đình hạt nhân thường bao gồm bố mẹ và con cái của họ."
+      },
+      {
+        "stt": 3,
+        "word": "extended family",
+        "ipa": "/ɪkˌstendɪd ˈfæməli/",
+        "pos": "noun",
+        "meaning": "đại gia đình (nhiều thế hệ sống chung)",
+        "example": "Living in an extended family allows grandparents to look after grandchildren.",
+        "exampleVi": "Sống trong một đại gia đình cho phép ông bà chăm sóc các cháu."
+      },
+      {
+        "stt": 4,
+        "word": "upbringing",
+        "ipa": "/ˈʌpbrɪŋɪŋ/",
+        "pos": "noun",
+        "meaning": "sự nuôi dưỡng, giáo dục gia đình",
+        "example": "Her gentle manner is credited to a loving family upbringing.",
+        "exampleVi": "Tính cách dịu dàng của cô ấy bắt nguồn từ sự nuôi dưỡng chan chứa yêu thương của gia đình."
+      },
+      {
+        "stt": 5,
+        "word": "empathy",
+        "ipa": "/ˈempəθi/",
+        "pos": "noun",
+        "meaning": "sự thấu cảm, đồng cảm",
+        "example": "Showing empathy helps family members resolve misunderstandings peacefully.",
+        "exampleVi": "Thể hiện sự thấu cảm giúp các thành viên gia đình giải quyết hiểu lầm một cách hoà bình."
+      },
+      {
+        "stt": 6,
+        "word": "compromise",
+        "ipa": "/ˈkɑːmprəmaɪz/",
+        "pos": "noun/verb",
+        "meaning": "sự thỏa hiệp, nhượng bộ",
+        "example": "Healthy relationships require both give-and-take compromise.",
+        "exampleVi": "Những mối quan hệ lành mạnh luôn đòi hỏi sự nhượng bộ và thấu hiểu từ hai phía."
+      },
+      {
+        "stt": 7,
+        "word": "reunion",
+        "ipa": "/ˌriːˈjuːniən/",
+        "pos": "noun",
+        "meaning": "buổi họp mặt, sum họp",
+        "example": "Tet Holiday is the most meaningful time for annual family reunions.",
+        "exampleVi": "Dịp Tết Nguyên Đán là khoảng thời gian ý nghĩa nhất để cả gia đình sum họp."
+      },
+      {
+        "stt": 8,
+        "word": "gratitude",
+        "ipa": "/ˈɡrætɪtuːd/",
+        "pos": "noun",
+        "meaning": "lòng biết ơn",
+        "example": "Children express heartfelt gratitude to their parents for unconditional sacrifices.",
+        "exampleVi": "Con cái bày tỏ lòng biết ơn sâu sắc tới cha mẹ vì những hy sinh vô điều kiện."
+      }
+    ],
+    "grammar": {
+      "title": "Comparisons of Adjectives and Adverbs (Các cấu trúc so sánh tính từ & trạng từ)",
+      "sections": [
+        {
+          "heading": "1. So sánh bằng & So sánh hơn",
+          "content": "Bằng: as + adj/adv + as | Hơn: adj-er / more + adj/adv + than",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Tính từ ngắn thêm -er (faster, older); tính từ dài dùng more (more patient, more understanding).",
+              "example": "Grandparents are often more patient than young parents.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. So sánh nhất (Superlative)",
+          "content": "the + adj-est / the most + adj/adv",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Tet is the most cherished holiday for Vietnamese families.",
+              "example": "My grandfather is the oldest person in our extended family.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Living in an extended family can be ______ than in a nuclear family due to multiple generations.",
+          "options": ["complicated", "more complicated", "most complicated", "as complicated"],
+          "correctIndex": 1,
+          "explanation": "Có 'than', dùng so sánh hơn với tính từ dài (more complicated)."
+        },
+        {
+          "id": 2,
+          "question": "Children should always show heartfelt ______ towards their hardworking parents.",
+          "options": ["gratitude", "deforestation", "cybersecurity", "warranty"],
+          "correctIndex": 0,
+          "explanation": "'Heartfelt gratitude' nghĩa là lòng biết ơn chân thành."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["generation gap", "upbringing", "empathy", "reunion", "gratitude"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Every Lunar New Year, our whole clan gathers together for a joyous family ______.",
+          "answer": "reunion",
+          "acceptAlternatives": ["gathering"]
+        },
+        {
+          "id": 2,
+          "question": "Parents can narrow down the ______ by patiently listening to their children's ideas.",
+          "answer": "generation gap",
+          "acceptAlternatives": []
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["is", "Family", "thing", "most", "important", "the", "in", "life"],
+          "correctOrder": [1, 0, 5, 3, 4, 2, 6, 7],
+          "answer": "Family is the most important thing in life"
+        },
+        {
+          "id": 2,
+          "words": ["show", "We", "gratitude", "to", "our", "parents", "should"],
+          "correctOrder": [1, 6, 0, 2, 3, 4, 5],
+          "answer": "We should show gratitude to our parents"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "No one in my family is as humorous as my uncle.",
+          "hint": "(THE MOST)",
+          "answer": "My uncle is the most humorous person in my family.",
+          "acceptAlternatives": [
+            "My uncle is the most humorous person in my family",
+            "My uncle is the most humorous in my family."
+          ]
+        },
+        {
+          "id": 2,
+          "question": "My younger brother is shorter than me.",
+          "hint": "(TALLER)",
+          "answer": "I am taller than my younger brother.",
+          "acceptAlternatives": [
+            "I am taller than my younger brother"
+          ]
+        }
+      ]
+    }
+  }
+}

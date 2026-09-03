@@ -1,0 +1,192 @@
+{
+  "id": "unit-3-community-service",
+  "title": "Unit 3: Community Service & Volunteering",
+  "tags": ["Lớp 7", "Lớp 8", "Lớp 10"],
+  "level": "Pre-Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "volunteer",
+        "ipa": "/ˌvɑːlənˈtɪr/",
+        "pos": "noun/verb",
+        "meaning": "tình nguyện viên, làm việc thiện nguyện",
+        "example": "Many high school students volunteer at the animal rescue shelter on weekends.",
+        "exampleVi": "Nhiều học sinh trung học tình nguyện tại trại cứu hộ động vật vào cuối tuần."
+      },
+      {
+        "stt": 2,
+        "word": "donate",
+        "ipa": "/ˈdoʊneɪt/",
+        "pos": "verb",
+        "meaning": "quyên góp, ủng hộ",
+        "example": "They decided to donate warm clothes and books to children in mountainous areas.",
+        "exampleVi": "Họ quyết định quyên góp quần áo ấm và sách vở cho trẻ em vùng cao."
+      },
+      {
+        "stt": 3,
+        "word": "benefit",
+        "ipa": "/ˈbenɪfɪt/",
+        "pos": "noun/verb",
+        "meaning": "lợi ích, đem lại lợi ích cho",
+        "example": "The newly built green library will benefit over 500 rural students.",
+        "exampleVi": "Thư viện xanh mới xây sẽ mang lại lợi ích cho hơn 500 học sinh nông thôn."
+      },
+      {
+        "stt": 4,
+        "word": "charity",
+        "ipa": "/ˈtʃærəti/",
+        "pos": "noun",
+        "meaning": "hội từ thiện, lòng bác ái",
+        "example": "All proceeds from the acoustic concert will be given to charity.",
+        "exampleVi": "Toàn bộ số tiền thu được từ đêm nhạc mộc sẽ được trao cho quỹ từ thiện."
+      },
+      {
+        "stt": 5,
+        "word": "elderly",
+        "ipa": "/ˈeldərli/",
+        "pos": "adj",
+        "meaning": "cao tuổi, người già",
+        "example": "Youth union members often assist elderly citizens with grocery shopping.",
+        "exampleVi": "Các đoàn viên thanh niên thường xuyên giúp đỡ các cụ già đi chợ mua đồ."
+      },
+      {
+        "stt": 6,
+        "word": "orphanage",
+        "ipa": "/ˈɔːrfənɪdʒ/",
+        "pos": "noun",
+        "meaning": "trại trẻ mồ côi",
+        "example": "We organized a Mid-Autumn festival celebration at the local orphanage.",
+        "exampleVi": "Chúng tôi đã tổ chức tết Trung thu ấm cúng tại trại trẻ mồ côi địa phương."
+      },
+      {
+        "stt": 7,
+        "word": "contribution",
+        "ipa": "/ˌkɑːntrɪˈbjuːʃn/",
+        "pos": "noun",
+        "meaning": "sự đóng góp, cống hiến",
+        "example": "Every small contribution helps provide hot meals for homeless people.",
+        "exampleVi": "Mỗi sự đóng góp nhỏ đều giúp mang lại những bữa cơm nóng cho người vô gia cư."
+      },
+      {
+        "stt": 8,
+        "word": "mentor",
+        "ipa": "/ˈmentɔːr/",
+        "pos": "verb/noun",
+        "meaning": "người hướng dẫn, cố vấn",
+        "example": "Senior students mentor junior peers in English speaking clubs.",
+        "exampleVi": "Các học sinh khoá trên hướng dẫn và kèm cặp các em khoá dưới trong câu lạc bộ tiếng Anh."
+      }
+    ],
+    "grammar": {
+      "title": "Gerunds and To-Infinitives (Danh động từ V-ing và Động từ nguyên mẫu có To)",
+      "sections": [
+        {
+          "heading": "1. Động từ theo sau bởi V-ing (Gerunds)",
+          "content": "Enjoy, avoid, mind, practice, suggest, spend time + V-ing",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Dùng sau giới từ (in, on, at, about, without, before, after).",
+              "example": "She is deeply interested in volunteering for animal welfare.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Động từ theo sau bởi To-V (To-infinitives)",
+          "content": "Decide, want, hope, plan, promise, agree, refuse + To-V",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Diễn đạt mục đích (in order to, so as to).",
+              "example": "They established a foundation to support underprivileged kids.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The youth club decided ______ food packs to flood victims last week.",
+          "options": ["to donate", "donating", "donate", "donated"],
+          "correctIndex": 0,
+          "explanation": "Động từ 'decide' đi kèm 'to V' (decide to donate)."
+        },
+        {
+          "id": 2,
+          "question": "He enjoys ______ English to kids at the community center.",
+          "options": ["teach", "to teach", "teaching", "taught"],
+          "correctIndex": 2,
+          "explanation": "'Enjoy' luôn đi với danh động từ V-ing (enjoy teaching)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["volunteer", "donate", "charity", "elderly", "contribution"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Students were thrilled to ______ their summer break helping renovate a rural school.",
+          "answer": "volunteer",
+          "acceptAlternatives": []
+        },
+        {
+          "id": 2,
+          "question": "His generous financial ______ helped build three clean water wells.",
+          "answer": "contribution",
+          "acceptAlternatives": ["donation"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["loves", "She", "helping", "people", "in", "elderly", "community", "her"],
+          "correctOrder": [1, 0, 2, 5, 3, 4, 7, 6],
+          "answer": "She loves helping elderly people in her community"
+        },
+        {
+          "id": 2,
+          "words": ["decided", "They", "to", "books", "donate", "poor", "students", "to"],
+          "correctOrder": [1, 0, 2, 4, 3, 7, 5, 6],
+          "answer": "They decided to donate books to poor students"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "It took them two days to clean up the polluted local beach.",
+          "hint": "(SPENT)",
+          "answer": "They spent two days cleaning up the polluted local beach.",
+          "acceptAlternatives": [
+            "They spent two days cleaning up the polluted local beach",
+            "They spent 2 days cleaning up the polluted local beach."
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Helping orphans brings her great happiness.",
+          "hint": "(HAPPY)",
+          "answer": "She is happy to help orphans.",
+          "acceptAlternatives": [
+            "She is happy to help orphans",
+            "She feels happy helping orphans."
+          ]
+        }
+      ]
+    }
+  }
+}

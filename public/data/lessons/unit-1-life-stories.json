@@ -1,0 +1,209 @@
+{
+  "id": "unit-1-life-stories",
+  "title": "Unit 1: Life Stories We Admire",
+  "tags": ["Lớp 10", "Lớp 11"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "admire",
+        "ipa": "/ədˈmaɪə(r)/",
+        "pos": "verb",
+        "meaning": "ngưỡng mộ, khâm phục",
+        "example": "I really admire her courage and kindness.",
+        "exampleVi": "Tôi thật sự ngưỡng mộ lòng dũng cảm và lòng tốt của cô ấy."
+      },
+      {
+        "stt": 2,
+        "word": "devotion",
+        "ipa": "/dɪˈvoʊʃn/",
+        "pos": "noun",
+        "meaning": "sự tận tuỵ, sự cống hiến hết mình",
+        "example": "His lifelong devotion to science inspired many young students.",
+        "exampleVi": "Sự tận tuỵ cả đời của ông cho khoa học đã truyền cảm hứng cho nhiều học sinh trẻ."
+      },
+      {
+        "stt": 3,
+        "word": "determination",
+        "ipa": "/dɪˌtɜːrmɪˈneɪʃn/",
+        "pos": "noun",
+        "meaning": "sự quyết tâm, lòng kiên định",
+        "example": "She won the scholarship thanks to sheer determination.",
+        "exampleVi": "Cô ấy đã giành được học bổng nhờ vào lòng quyết tâm cao độ."
+      },
+      {
+        "stt": 4,
+        "word": "generous",
+        "ipa": "/ˈdʒenərəs/",
+        "pos": "adj",
+        "meaning": "hào phóng, rộng lượng",
+        "example": "The businessman made a generous donation to the local hospital.",
+        "exampleVi": "Vị doanh nhân đã quyên góp một khoản hào phóng cho bệnh viện địa phương."
+      },
+      {
+        "stt": 5,
+        "word": "overcome",
+        "ipa": "/ˌoʊvərˈkʌm/",
+        "pos": "verb",
+        "meaning": "vượt qua (khó khăn, thử thách)",
+        "example": "He had to overcome severe poverty to achieve his dream.",
+        "exampleVi": "Anh ấy đã phải vượt qua nghèo khó tột cùng để đạt được ước mơ."
+      },
+      {
+        "stt": 6,
+        "word": "humble",
+        "ipa": "/ˈhʌmbl/",
+        "pos": "adj",
+        "meaning": "khiêm tốn, giản dị",
+        "example": "Despite his fame, he remained a humble and approachable teacher.",
+        "exampleVi": "Dù nổi tiếng, thầy ấy vẫn là một người thầy khiêm tốn và gần gũi."
+      },
+      {
+        "stt": 7,
+        "word": "biography",
+        "ipa": "/baɪˈɑːɡrəfi/",
+        "pos": "noun",
+        "meaning": "tiểu sử, truyện danh nhân",
+        "example": "I am reading an inspiring biography of Marie Curie.",
+        "exampleVi": "Tôi đang đọc một cuốn tiểu sử đầy cảm hứng về Marie Curie."
+      },
+      {
+        "stt": 8,
+        "word": "legacy",
+        "ipa": "/ˈleɡəsi/",
+        "pos": "noun",
+        "meaning": "di sản (tinh thần hoặc vật chất để lại cho đời)",
+        "example": "Her great legacy of peace lives on in our hearts.",
+        "exampleVi": "Di sản hoà bình vĩ đại của bà vẫn sống mãi trong trái tim chúng ta."
+      }
+    ],
+    "grammar": {
+      "title": "Past Simple and Past Continuous (Quá khứ đơn & Quá khứ tiếp diễn)",
+      "sections": [
+        {
+          "heading": "1. Thì Quá khứ đơn (Past Simple)",
+          "content": "Khẳng định: S + V2/V-ed | Phủ định: S + did not (didn't) + V-bare | Nghi vấn: Did + S + V-bare?",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Diễn tả một hành động đã xảy ra và kết thúc hoàn toàn tại một thời điểm xác định trong quá khứ.",
+              "example": "Nguyen Tat Thanh left Nha Rong Harbor in 1911.",
+              "highlight": false
+            },
+            {
+              "rule": "Diễn tả một chuỗi các hành động xảy ra liên tiếp nhau trong quá khứ.",
+              "example": "He entered the room, closed the door, and turned on the lamp.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Thì Quá khứ tiếp diễn (Past Continuous)",
+          "content": "Khẳng định: S + was/were + V-ing | Phủ định: S + was/were not + V-ing | Nghi vấn: Was/Were + S + V-ing?",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Diễn tả hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ.",
+              "example": "At 8 PM yesterday, I was studying English with Ms. Thúy.",
+              "highlight": false
+            },
+            {
+              "rule": "Kết hợp với 'When' và 'While': Một hành động đang xảy ra (chia Quá khứ tiếp diễn) thì có một hành động khác xen vào (chia Quá khứ đơn).",
+              "example": "While we were discussing the project, the lights went out.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Dấu hiệu nhận biết trọng tâm",
+          "content": "Past Simple: yesterday, ago, last night/week/month, in 2010, when...\nPast Continuous: at this time yesterday, at 7 AM yesterday, while, when...",
+          "highlight": false
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Thomas Edison ___ many difficulties before inventing the practical incandescent light bulb.",
+          "options": ["overcomes", "overcame", "was overcoming", "has overcome"],
+          "correctIndex": 1,
+          "explanation": "Sự kiện lịch sử đã hoàn thành trong quá khứ, dùng thì Quá khứ đơn (overcame)."
+        },
+        {
+          "id": 2,
+          "question": "While Jane ___ the biography of Nelson Mandela, her friend called her.",
+          "options": ["read", "is reading", "was reading", "reads"],
+          "correctIndex": 2,
+          "explanation": "Hành động đang diễn ra trong quá khứ sau 'While' chia Quá khứ tiếp diễn (was reading)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["admire", "devotion", "determination", "humble", "generous"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Everyone respected the scientist for his extraordinary ______ to cancer research.",
+          "answer": "devotion",
+          "acceptAlternatives": ["dedication"]
+        },
+        {
+          "id": 2,
+          "question": "I deeply ______ individuals who dedicate their whole life to helping the underprivileged.",
+          "answer": "admire",
+          "acceptAlternatives": ["respect"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["was", "TV", "I", "watching", "she", "when", "arrived"],
+          "correctOrder": [2, 0, 3, 1, 5, 4, 6],
+          "answer": "I was watching TV when she arrived"
+        },
+        {
+          "id": 2,
+          "words": ["He", "overcame", "all", "obstacles", "with", "great", "determination"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "He overcame all obstacles with great determination"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "She started admiring that author five years ago.",
+          "hint": "(FOR)",
+          "answer": "She has admired that author for five years.",
+          "acceptAlternatives": [
+            "She has admired that author for 5 years.",
+            "She has admired that author for five years",
+            "She has admired that author for 5 years"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "During my walk in the park yesterday, I saw my English teacher.",
+          "hint": "(WHILE)",
+          "answer": "While I was walking in the park yesterday, I saw my English teacher.",
+          "acceptAlternatives": [
+            "While I was walking in the park yesterday, I saw my English teacher",
+            "I saw my English teacher while I was walking in the park yesterday.",
+            "I saw my English teacher while I was walking in the park yesterday"
+          ]
+        }
+      ]
+    }
+  }
+}

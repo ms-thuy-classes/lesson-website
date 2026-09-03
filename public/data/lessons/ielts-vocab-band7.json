@@ -1,0 +1,191 @@
+{
+  "id": "ielts-vocab-band7",
+  "title": "IELTS Master: Band 7+ Lexical Resource",
+  "tags": ["IELTS", "Lớp 12"],
+  "level": "Advanced",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "ubiquitous",
+        "ipa": "/juːˈbɪkwɪtəs/",
+        "pos": "adj",
+        "meaning": "có mặt ở khắp nơi, phổ biến rộng khắp",
+        "example": "Smartphones have become ubiquitous in contemporary daily life.",
+        "exampleVi": "Điện thoại thông minh đã trở nên phổ biến ở khắp nơi trong đời sống hiện đại."
+      },
+      {
+        "stt": 2,
+        "word": "detrimental",
+        "ipa": "/ˌdetrɪˈmentl/",
+        "pos": "adj",
+        "meaning": "có hại, gây bất lợi (harmful)",
+        "example": "Excessive screentime exerts a detrimental effect on sleep quality.",
+        "exampleVi": "Thời gian sử dụng màn hình quá mức gây ra tác động có hại đối với chất lượng giấc ngủ."
+      },
+      {
+        "stt": 3,
+        "word": "paramount",
+        "ipa": "/ˈpærəmaʊnt/",
+        "pos": "adj",
+        "meaning": "tối quan trọng, có ý nghĩa tối cao",
+        "example": "Protecting biodiversity is of paramount importance to human survival.",
+        "exampleVi": "Bảo vệ đa dạng sinh học là điều tối quan trọng đối với sự sống còn của nhân loại."
+      },
+      {
+        "stt": 4,
+        "word": "exacerbate",
+        "ipa": "/ɪɡˈzæsərbeɪt/",
+        "pos": "verb",
+        "meaning": "làm trầm trọng thêm, khiến tồi tệ hơn",
+        "example": "Traffic congestion is further exacerbated during the monsoon rains.",
+        "exampleVi": "Tình trạng ùn tắc giao thông càng bị làm trầm trọng thêm trong những cơn mưa mùa."
+      },
+      {
+        "stt": 5,
+        "word": "substantiate",
+        "ipa": "/səbˈstænʃieɪt/",
+        "pos": "verb",
+        "meaning": "chứng minh bằng bằng chứng xác thực",
+        "example": "The author cited empirical studies to substantiate her central claim.",
+        "exampleVi": "Tác giả đã trích dẫn các nghiên cứu thực nghiệm để chứng minh cho luận điểm chính."
+      },
+      {
+        "stt": 6,
+        "word": "proponent",
+        "ipa": "/prəˈpoʊnənt/",
+        "pos": "noun",
+        "meaning": "người ủng hộ một quan điểm hay chính sách",
+        "example": "Proponents of renewable energy advocate for strict carbon taxation.",
+        "exampleVi": "Những người ủng hộ năng lượng tái tạo kêu gọi đánh thuế carbon nghiêm ngặt."
+      },
+      {
+        "stt": 7,
+        "word": "mitigate",
+        "ipa": "/ˈmɪtɪɡeɪt/",
+        "pos": "verb",
+        "meaning": "giảm nhẹ, xoa dịu (thiệt hại, rủi ro)",
+        "example": "Tree planting schemes can substantially mitigate urban heat island effects.",
+        "exampleVi": "Các chương trình trồng cây có thể giảm nhẹ đáng kể hiệu ứng đảo nhiệt đô thị."
+      },
+      {
+        "stt": 8,
+        "word": "plausible",
+        "ipa": "/ˈplɔːzəbl/",
+        "pos": "adj",
+        "meaning": "hợp lý, đáng tin cậy",
+        "example": "Her explanation offered a plausible hypothesis for the anomaly.",
+        "exampleVi": "Lời giải thích của cô ấy đã đưa ra một giả thuyết rất hợp lý cho sự bất thường đó."
+      }
+    ],
+    "grammar": {
+      "title": "Inversion for Academic Emphasis (Đảo ngữ nâng cao trong IELTS Writing & Speaking)",
+      "sections": [
+        {
+          "heading": "1. Cấu trúc Đảo ngữ với trạng từ phủ định / bán phủ định",
+          "content": "Not only + Trợ động từ + S + V, but S + also + V\nNever / Seldom / Rarely / Hardly + Trợ động từ + S + V",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Được sử dụng để nâng điểm tiêu chí Grammatical Range and Accuracy trong IELTS Writing Task 2.",
+              "example": "Not only does green technology curb emissions, but it also fosters green economic growth.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Cấu trúc Đảo ngữ điều kiện (Inverted Conditionals)",
+          "content": "Should + S + V (Loại 1) | Were + S + to V (Loại 2) | Had + S + V3/ed (Loại 3)",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Thay thế cho 'If' tạo nên văn phong học thuật trang trọng.",
+              "example": "Had governments acted promptly, climate calamities could have been averted.",
+              "highlight": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Never before ___ such an unprecedented surge in global digital connectivity.",
+          "options": ["we witnessed", "have we witnessed", "we have witnessed", "did we witnessed"],
+          "correctIndex": 1,
+          "explanation": "Đứng đầu câu là phó từ phủ định 'Never before', câu bắt buộc phải đảo trợ động từ lên trước chủ ngữ (have we witnessed)."
+        },
+        {
+          "id": 2,
+          "question": "The newly proposed fiscal policy is anticipated to have a ______ impact on small local businesses.",
+          "options": ["detrimental", "ubiquitous", "proponent", "mitigate"],
+          "correctIndex": 0,
+          "explanation": "Cần một tính từ mang nghĩa 'bất lợi/có hại', chọn 'detrimental'."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["mitigate", "paramount", "exacerbate", "plausible", "ubiquitous"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Effective reforestation projects help to ______ the harsh consequences of global warming.",
+          "answer": "mitigate",
+          "acceptAlternatives": ["alleviate", "reduce"]
+        },
+        {
+          "id": 2,
+          "question": "Ensuring fair access to tertiary education is of ______ significance to national prosperity.",
+          "answer": "paramount",
+          "acceptAlternatives": ["vital", "crucial"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["does", "Not", "only", "it", "save", "time", "also", "costs", "cuts", "it", "but"],
+          "correctOrder": [1, 2, 0, 3, 4, 5, 10, 9, 6, 8, 7],
+          "answer": "Not only does it save time but it also cuts costs"
+        },
+        {
+          "id": 2,
+          "words": ["Had", "prepared", "they", "earlier", "succeeded", "have", "would", "they"],
+          "correctOrder": [0, 2, 1, 3, 7, 6, 5, 4],
+          "answer": "Had they prepared earlier they would have succeeded"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "If governments should impose stricter penalties, pollution will drop significantly.",
+          "hint": "(SHOULD)",
+          "answer": "Should governments impose stricter penalties, pollution will drop significantly.",
+          "acceptAlternatives": [
+            "Should governments impose stricter penalties, pollution will drop significantly",
+            "Should governments impose stricter penalties pollution will drop significantly"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "He not only graduated with top honors, but he also founded a successful AI startup.",
+          "hint": "(NOT ONLY)",
+          "answer": "Not only did he graduate with top honors, but he also founded a successful AI startup.",
+          "acceptAlternatives": [
+            "Not only did he graduate with top honors, but he also founded a successful AI startup"
+          ]
+        }
+      ]
+    }
+  }
+}

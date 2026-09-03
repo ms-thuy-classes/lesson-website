@@ -1,0 +1,190 @@
+{
+  "id": "unit-8-future-careers",
+  "title": "Unit 8: Future Careers & Skills",
+  "tags": ["Lớp 11", "Lớp 12"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "entrepreneur",
+        "ipa": "/ˌɑːntrəprəˈnɜːr/",
+        "pos": "noun",
+        "meaning": "doanh nhân khởi nghiệp",
+        "example": "Successful entrepreneurs embrace calculated risks and creative innovation.",
+        "exampleVi": "Các doanh nhân thành đạt biết đón nhận rủi ro có tính toán và đổi mới sáng tạo."
+      },
+      {
+        "stt": 2,
+        "word": "internship",
+        "ipa": "/ˈɪntɜːrnʃɪp/",
+        "pos": "noun",
+        "meaning": "kỳ thực tập sinh",
+        "example": "An internship at a tech company provides valuable industry insights.",
+        "exampleVi": "Một kỳ thực tập tại công ty công nghệ đem lại hiểu biết thực tế quý giá trong ngành."
+      },
+      {
+        "stt": 3,
+        "word": "adaptability",
+        "ipa": "/əˌdæptəˈbɪləti/",
+        "pos": "noun",
+        "meaning": "khả năng thích nghi",
+        "example": "Adaptability is one of the highest valued soft skills in modern workplaces.",
+        "exampleVi": "Khả năng thích nghi là một trong những kỹ năng mềm được đánh giá cao nhất tại nơi làm việc hiện đại."
+      },
+      {
+        "stt": 4,
+        "word": "collaborative",
+        "ipa": "/kəˈlæbəreɪtɪv/",
+        "pos": "adj",
+        "meaning": "mang tính hợp tác, làm việc nhóm",
+        "example": "We solved the coding problem through a collaborative team effort.",
+        "exampleVi": "Chúng tôi đã giải quyết bài toán lập trình nhờ vào sự nỗ lực hợp tác của toàn đội ngũ."
+      },
+      {
+        "stt": 5,
+        "word": "aptitude",
+        "ipa": "/ˈæptɪtuːd/",
+        "pos": "noun",
+        "meaning": "năng khiếu, tố chất bẩm sinh",
+        "example": "She displayed an impressive aptitude for learning foreign languages.",
+        "exampleVi": "Cô ấy đã thể hiện một năng khiếu ấn tượng trong việc học ngoại ngữ."
+      },
+      {
+        "stt": 6,
+        "word": "remuneration",
+        "ipa": "/rɪˌmjuːnəˈreɪʃn/",
+        "pos": "noun",
+        "meaning": "thù lao, tiền công xứng đáng",
+        "example": "Competitive remuneration packages attract top global talent.",
+        "exampleVi": "Các gói đãi ngộ và thù lao cạnh tranh thu hút những nhân tài hàng đầu toàn cầu."
+      },
+      {
+        "stt": 7,
+        "word": "telecommuting",
+        "ipa": "/ˈtelikəˌmjuːtɪŋ/",
+        "pos": "noun",
+        "meaning": "làm việc từ xa qua mạng viễn thông",
+        "example": "Telecommuting grants employees greater flexibility in working hours.",
+        "exampleVi": "Làm việc từ xa đem lại cho nhân viên sự linh hoạt cao hơn về giờ giấc làm việc."
+      },
+      {
+        "stt": 8,
+        "word": "proficiency",
+        "ipa": "/prəˈfɪʃnsi/",
+        "pos": "noun",
+        "meaning": "sự thành thạo, tinh thông",
+        "example": "High English proficiency unlocks global career opportunities.",
+        "exampleVi": "Trình độ tiếng Anh thành thạo mở ra nhiều cơ hội việc làm toàn cầu."
+      }
+    ],
+    "grammar": {
+      "title": "Future Continuous & Future Perfect (Tương lai tiếp diễn & Tương lai hoàn thành)",
+      "sections": [
+        {
+          "heading": "1. Tương lai tiếp diễn (Future Continuous)",
+          "content": "S + will be + V-ing | Diễn tả hành động đang diễn ra tại một thời điểm cụ thể trong tương lai.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Ví dụ: 'At 10 AM tomorrow, I will be attending an interview with Ms. Thúy.'",
+              "example": "This time next year, she will be working as a software engineer.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Tương lai hoàn thành (Future Perfect)",
+          "content": "S + will have + V3/ed | Diễn tả hành động sẽ hoàn thành trước một thời điểm hoặc trước một hành động khác trong tương lai.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Thường đi với: By + thời gian tương lai (By 2030, By the end of this month).",
+              "example": "By the end of next month, he will have completed his summer internship.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "By the year 2030, automated AI systems ______ millions of routine administrative tasks.",
+          "options": ["will replace", "will have replaced", "are replacing", "replaced"],
+          "correctIndex": 1,
+          "explanation": "Có 'By the year 2030' là mốc thời gian trong tương lai, dùng thì Tương lai hoàn thành (will have replaced)."
+        },
+        {
+          "id": 2,
+          "question": "Candidates with remarkable ______ are capable of excelling in fast-paced startup environments.",
+          "options": ["adaptability", "deforestation", "invoice", "orphanage"],
+          "correctIndex": 0,
+          "explanation": "Cần danh từ 'adaptability' (khả năng thích ứng linh hoạt)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["entrepreneur", "internship", "collaborative", "proficiency", "remuneration"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Demonstrating high English ______ is an essential prerequisite for working abroad.",
+          "answer": "proficiency",
+          "acceptAlternatives": ["fluency"]
+        },
+        {
+          "id": 2,
+          "question": "During his university summer ______, Nam gained hands-on marketing experience.",
+          "answer": "internship",
+          "acceptAlternatives": []
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["will", "By", "2030", "completed", "have", "degree", "my", "I"],
+          "correctOrder": [1, 2, 7, 0, 4, 3, 6, 5],
+          "answer": "By 2030 I will have completed my degree"
+        },
+        {
+          "id": 2,
+          "words": ["Adaptability", "in", "vital", "workplace", "is", "the", "modern"],
+          "correctOrder": [0, 4, 2, 1, 5, 6, 3],
+          "answer": "Adaptability is vital in the modern workplace"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "They plan to finish the software training program before December.",
+          "hint": "(WILL HAVE)",
+          "answer": "They will have finished the software training program before December.",
+          "acceptAlternatives": [
+            "They will have finished the software training program before December"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "It is necessary to work together collaboratively to achieve the target.",
+          "hint": "(MUST)",
+          "answer": "We must work together collaboratively to achieve the target.",
+          "acceptAlternatives": [
+            "We must work together collaboratively to achieve the target"
+          ]
+        }
+      ]
+    }
+  }
+}

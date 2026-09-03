@@ -1,0 +1,190 @@
+{
+  "id": "unit-6-travel-culture",
+  "title": "Unit 6: Cultural Heritage & Tourism",
+  "tags": ["Lớp 11", "Lớp 12"],
+  "level": "Upper-Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "heritage",
+        "ipa": "/ˈherɪtɪdʒ/",
+        "pos": "noun",
+        "meaning": "di sản văn hoá",
+        "example": "Hoi An Ancient Town was recognized as a UNESCO World Cultural Heritage site.",
+        "exampleVi": "Phố cổ Hội An đã được công nhận là Di sản Văn hoá Thế giới của UNESCO."
+      },
+      {
+        "stt": 2,
+        "word": "hospitality",
+        "ipa": "/ˌhɑːspɪˈtæləti/",
+        "pos": "noun",
+        "meaning": "lòng hiếu khách",
+        "example": "Foreign travelers praise the warm and sincere hospitality of Vietnamese people.",
+        "exampleVi": "Du khách nước ngoài ca ngợi lòng hiếu khách nồng hậu và chân thành của người Việt Nam."
+      },
+      {
+        "stt": 3,
+        "word": "destination",
+        "ipa": "/ˌdestɪˈneɪʃn/",
+        "pos": "noun",
+        "meaning": "điểm đến du lịch",
+        "example": "Da Nang is ranked among top vacation destinations in Southeast Asia.",
+        "exampleVi": "Đà Nẵng được xếp hạng trong số các điểm đến nghỉ dưỡng hàng đầu Đông Nam Á."
+      },
+      {
+        "stt": 4,
+        "word": "authentic",
+        "ipa": "/ɔːˈθentɪk/",
+        "pos": "adj",
+        "meaning": "đích thực, nguyên bản",
+        "example": "We enjoyed an authentic bowl of traditional Hanoi Pho.",
+        "exampleVi": "Chúng tôi đã thưởng thức một tô phở Hà Nội truyền thống chuẩn vị đích thực."
+      },
+      {
+        "stt": 5,
+        "word": "architecture",
+        "ipa": "/ˈɑːrkɪtektʃər/",
+        "pos": "noun",
+        "meaning": "kiến trúc công trình",
+        "example": "Hue Imperial Citadel showcases splendid traditional imperial architecture.",
+        "exampleVi": "Đại Nội Huế thể hiện lối kiến trúc hoàng gia truyền thống lộng lẫy."
+      },
+      {
+        "stt": 6,
+        "word": "eco-tourism",
+        "ipa": "/ˈiːkoʊˌtʊrɪzəm/",
+        "pos": "noun",
+        "meaning": "du lịch sinh thái",
+        "example": "Eco-tourism promotes environmental protection and respects indigenous culture.",
+        "exampleVi": "Du lịch sinh thái thúc đẩy bảo vệ môi trường và tôn trọng văn hoá bản địa."
+      },
+      {
+        "stt": 7,
+        "word": "souvenir",
+        "ipa": "/ˌsuːvəˈnɪr/",
+        "pos": "noun",
+        "meaning": "quà lưu niệm",
+        "example": "Handmade silk scarves are beloved souvenirs among tourists.",
+        "exampleVi": "Khăn lụa thủ công là món quà lưu niệm được du khách rất yêu thích."
+      },
+      {
+        "stt": 8,
+        "word": "preserve",
+        "ipa": "/prɪˈzɜːrv/",
+        "pos": "verb",
+        "meaning": "gìn giữ, bảo tồn",
+        "example": "Communities work together to preserve ethnic folklore and music.",
+        "exampleVi": "Cộng đồng cùng chung tay gìn giữ văn hoá dân gian và âm nhạc dân tộc."
+      }
+    ],
+    "grammar": {
+      "title": "Relative Clauses (Mệnh đề quan hệ: Xác định & Không xác định)",
+      "sections": [
+        {
+          "heading": "1. Mệnh đề quan hệ xác định (Defining Relative Clauses)",
+          "content": "Who (người), Which (vật), That (thay cho who/which), Whose (sở hữu), Where (nơi chốn)",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Bổ nghĩa cho danh từ đứng trước, cần thiết để hiểu rõ đối tượng, không có dấu phẩy.",
+              "example": "The tour guide who showed us around Hue was very knowledgeable.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Mệnh đề quan hệ không xác định (Non-defining)",
+          "content": "Đứng sau danh từ riêng hoặc danh từ đã xác định rõ; BẮT BUỘC có dấu phẩy; KHÔNG dùng 'that'.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Cung cấp thêm thông tin bổ trợ.",
+              "example": "Ha Long Bay, which is famous for limestone karsts, attracts millions of visitors.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Hoi An, ______ ancient houses date back to the 16th century, is well-preserved.",
+          "options": ["which", "whose", "where", "that"],
+          "correctIndex": 1,
+          "explanation": "Chỉ sở hữu 'ancient houses của Hội An', dùng đại từ quan hệ 'whose'."
+        },
+        {
+          "id": 2,
+          "question": "The local people greeted international backpackers with heartwarming ______.",
+          "options": ["hospitality", "deforestation", "tuition", "merchandise"],
+          "correctIndex": 0,
+          "explanation": "'Hospitality' nghĩa là sự hiếu khách nồng hậu."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["heritage", "destination", "authentic", "architecture", "preserve"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Young generations should strive to ______ tangible and intangible cultural treasures.",
+          "answer": "preserve",
+          "acceptAlternatives": ["protect"]
+        },
+        {
+          "id": 2,
+          "question": "We visited an artisan village to see how artisans craft ______ lacquerware.",
+          "answer": "authentic",
+          "acceptAlternatives": ["traditional"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["attracts", "Ha Long Bay", "tourists", "thousands", "worldwide", "of"],
+          "correctOrder": [1, 0, 3, 5, 2, 4],
+          "answer": "Ha Long Bay attracts thousands of tourists worldwide"
+        },
+        {
+          "id": 2,
+          "words": ["must", "heritage", "protect", "our", "cultural", "We"],
+          "correctOrder": [5, 0, 2, 3, 4, 1],
+          "answer": "We must protect our cultural heritage"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The historic pagoda was restored recently. It was built in the 17th century.",
+          "hint": "(WHICH WAS)",
+          "answer": "The historic pagoda, which was built in the 17th century, was restored recently.",
+          "acceptAlternatives": [
+            "The historic pagoda, which was built in the 17th century, was restored recently"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "I met a tour guide yesterday. His English pronunciation was remarkable.",
+          "hint": "(WHOSE)",
+          "answer": "I met a tour guide yesterday whose English pronunciation was remarkable.",
+          "acceptAlternatives": [
+            "I met a tour guide yesterday whose English pronunciation was remarkable"
+          ]
+        }
+      ]
+    }
+  }
+}

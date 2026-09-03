@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Fredoka', cursive, sans-serif;
+    background: linear-gradient(135deg, #f8f0ff 0%, #fff0f6 50%, #ecfeff 100%);
+    min-height: 100vh;
+    color: #1e293b;
+    background-attachment: fixed;
+  }
+}
+
+/* Vibrant Palette custom gradients and helpers */
+.gradient-pastel-text {
+  background: linear-gradient(90deg, #c084fc 0%, #f472b6 50%, #22d3ee 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-pastel-bg {
+  background: linear-gradient(135deg, #c084fc 0%, #f472b6 50%, #22d3ee 100%);
+}
+
+.gradient-vibrant-bar {
+  background: linear-gradient(90deg, #c084fc 0%, #22d3ee 100%);
+}
+
+.gradient-brand-icon {
+  background: linear-gradient(135deg, #c084fc 0%, #f472b6 100%);
+}
+
+/* Vibrant Palette Glassmorphism helpers */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 10px 30px 0 rgba(192, 132, 252, 0.08);
+}
+
+.glass-card {
+  background: #ffffff;
+  border-radius: 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 10px 25px -5px rgba(226, 232, 240, 0.8), 0 8px 10px -6px rgba(192, 132, 252, 0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 35px -10px rgba(192, 132, 252, 0.25);
+}
+
+

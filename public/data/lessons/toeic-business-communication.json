@@ -1,0 +1,192 @@
+{
+  "id": "toeic-business-communication",
+  "title": "TOEIC Essential: Business Communication",
+  "tags": ["TOEIC"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "negotiation",
+        "ipa": "/nɪˌɡoʊʃiˈeɪʃn/",
+        "pos": "noun",
+        "meaning": "cuộc đàm phán, thương lượng",
+        "example": "The contract negotiations concluded successfully after three rounds.",
+        "exampleVi": "Các cuộc đàm phán hợp đồng đã kết thúc thành công sau ba vòng."
+      },
+      {
+        "stt": 2,
+        "word": "invoice",
+        "ipa": "/ˈɪnvɔɪs/",
+        "pos": "noun",
+        "meaning": "hoá đơn thương mại",
+        "example": "Please remit payment within 30 days upon receipt of this invoice.",
+        "exampleVi": "Vui lòng thanh toán trong vòng 30 ngày kể từ khi nhận được hoá đơn này."
+      },
+      {
+        "stt": 3,
+        "word": "merchandise",
+        "ipa": "/ˈmɜːrtʃəndaɪs/",
+        "pos": "noun",
+        "meaning": "hàng hoá thương mại",
+        "example": "Defective merchandise can be returned within 14 business days.",
+        "exampleVi": "Hàng hoá bị lỗi có thể được trả lại trong vòng 14 ngày làm việc."
+      },
+      {
+        "stt": 4,
+        "word": "warranty",
+        "ipa": "/ˈwɔːrənti/",
+        "pos": "noun",
+        "meaning": "bảo hành, phiếu bảo hành",
+        "example": "All electronics sold in our store come with a two-year warranty.",
+        "exampleVi": "Tất cả đồ điện tử bán tại cửa hàng chúng tôi đều đi kèm bảo hành hai năm."
+      },
+      {
+        "stt": 5,
+        "word": "consensus",
+        "ipa": "/kənˈsensəs/",
+        "pos": "noun",
+        "meaning": "sự đồng thuận, nhất trí",
+        "example": "The committee reached a general consensus on the annual marketing budget.",
+        "exampleVi": "Uỷ ban đã đạt được sự đồng thuận chung về ngân sách tiếp thị hàng năm."
+      },
+      {
+        "stt": 6,
+        "word": "agenda",
+        "ipa": "/əˈdʒendə/",
+        "pos": "noun",
+        "meaning": "chương trình nghị sự, lịch trình cuộc họp",
+        "example": "The meeting agenda will be circulated to all attendees beforehand.",
+        "exampleVi": "Chương trình nghị sự của cuộc họp sẽ được gửi trước cho tất cả người tham dự."
+      },
+      {
+        "stt": 7,
+        "word": "counterpart",
+        "ipa": "/ˈkaʊntərpɑːrt/",
+        "pos": "noun",
+        "meaning": "đối tác tương nhiệm, đồng cấp",
+        "example": "Our CEO held productive talks with her European counterpart.",
+        "exampleVi": "Giám đốc điều hành của chúng tôi đã có các cuộc đàm phán hiệu quả với đối tác đồng cấp châu Âu."
+      },
+      {
+        "stt": 8,
+        "word": "profitable",
+        "ipa": "/ˈprɑːfɪtəbl/",
+        "pos": "adj",
+        "meaning": "sinh lời, mang lại lợi nhuận",
+        "example": "Expanding to Asian markets proved to be exceptionally profitable.",
+        "exampleVi": "Việc mở rộng sang các thị trường châu Á đã chứng minh mang lại lợi nhuận đặc biệt cao."
+      }
+    ],
+    "grammar": {
+      "title": "Modal Verbs in Professional Correspondence (Động từ khuyết thiếu trong văn bản công sở)",
+      "sections": [
+        {
+          "heading": "1. Yêu cầu & Đề xuất lịch sự (Requests & Suggestions)",
+          "content": "Could / Would you please + V-bare?\nShould / May we suggest that...?",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Dùng 'Would you mind + V-ing' hoặc 'Could you please + V-bare' để đề nghị trang trọng thay vì 'Please do'.",
+              "example": "Could you please forward the signed agreement to Ms. Thúy?",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Nghĩa vụ & Quy định bắt buộc (Obligation)",
+          "content": "Must / Have to / Be required to / Be requested to + V-bare",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Trong hợp đồng kinh tế và cẩm nang công ty, 'shall' hoặc 'is required to' thường diễn đạt điều khoản mang tính pháp lý.",
+              "example": "Vendors are required to submit invoices before the 25th of each month.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The board of directors reached a unanimous ______ regarding the expansion project.",
+          "options": ["warranty", "consensus", "invoice", "merchandise"],
+          "correctIndex": 1,
+          "explanation": "Cụm 'reach a unanimous consensus' nghĩa là 'đạt được sự đồng thuận nhất trí'."
+        },
+        {
+          "id": 2,
+          "question": "All attendees are requested ______ punctually for the keynote presentation.",
+          "options": ["arrive", "arriving", "to arrive", "arrived"],
+          "correctIndex": 2,
+          "explanation": "Cấu trúc bị động 'be requested to V' (yêu cầu làm gì)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["invoice", "warranty", "agenda", "negotiation", "profitable"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "The accountant discovered a minor billing calculation discrepancy on the ______.",
+          "answer": "invoice",
+          "acceptAlternatives": ["bill"]
+        },
+        {
+          "id": 2,
+          "question": "According to the manufacturer, the comprehensive ______ covers free repairs for one year.",
+          "answer": "warranty",
+          "acceptAlternatives": ["guarantee"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["please", "Could", "the", "send", "you", "revised", "invoice"],
+          "correctOrder": [1, 4, 0, 3, 2, 5, 6],
+          "answer": "Could you please send the revised invoice"
+        },
+        {
+          "id": 2,
+          "words": ["reached", "Both", "consensus", "parties", "a", "prompt", "mutual"],
+          "correctOrder": [1, 3, 0, 4, 6, 5, 2],
+          "answer": "Both parties reached a prompt mutual consensus"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Please review the quarterly financial report at your earliest convenience.",
+          "hint": "(WOULD YOU MIND)",
+          "answer": "Would you mind reviewing the quarterly financial report at your earliest convenience?",
+          "acceptAlternatives": [
+            "Would you mind reviewing the quarterly financial report at your earliest convenience",
+            "Would you mind reviewing the quarterly financial report"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "It is necessary for all employees to attend tomorrow's training workshop.",
+          "hint": "(MUST)",
+          "answer": "All employees must attend tomorrow's training workshop.",
+          "acceptAlternatives": [
+            "All employees must attend tomorrow's training workshop",
+            "Employees must attend tomorrow's training workshop."
+          ]
+        }
+      ]
+    }
+  }
+}

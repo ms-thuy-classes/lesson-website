@@ -1,0 +1,6 @@
+{
+  "name": "Learn with Ms. Thúy",
+  "description": "Hệ thống học tiếng Anh trực tuyến hiện đại với thiết kế pastel gradient, lý thuyết từ vựng có phát âm, ngữ pháp chi tiết và 4 dạng bài tập tự động chấm điểm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

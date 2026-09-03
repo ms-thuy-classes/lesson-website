@@ -1,0 +1,178 @@
+{
+  "id": "unit-7-healthy-living",
+  "title": "Unit 7: Healthy Living & Wellness",
+  "tags": ["Lớp 8", "Lớp 9"],
+  "level": "Pre-Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "nutrient",
+        "ipa": "/ˈnuːtriənt/",
+        "pos": "noun",
+        "meaning": "chất dinh dưỡng",
+        "example": "Fresh vegetables and fruits are packed with essential nutrients.",
+        "exampleVi": "Rau quả tươi chứa đầy đủ các chất dinh dưỡng thiết yếu."
+      },
+      {
+        "stt": 2,
+        "word": "immune system",
+        "ipa": "/ɪˈmjuːn ˌsɪstəm/",
+        "pos": "noun",
+        "meaning": "hệ miễn dịch",
+        "example": "Regular physical exercise reinforces your body's immune system.",
+        "exampleVi": "Tập thể dục đều đặn củng cố hệ miễn dịch của cơ thể bạn."
+      },
+      {
+        "stt": 3,
+        "word": "meditation",
+        "ipa": "/ˌmedɪˈteɪʃn/",
+        "pos": "noun",
+        "meaning": "thiền định, sự tĩnh tâm",
+        "example": "Practicing mindfulness meditation relieves stress and anxiety.",
+        "exampleVi": "Thực hành thiền chánh niệm giúp giải tỏa căng thẳng và lo âu."
+      },
+      {
+        "stt": 4,
+        "word": "sedentary",
+        "ipa": "/ˈsednteri/",
+        "pos": "adj",
+        "meaning": "thụ động, ít vận động (lối sống)",
+        "example": "A sedentary lifestyle increases cardiovascular risk factors.",
+        "exampleVi": "Lối sống ít vận động làm tăng các yếu tố nguy cơ về tim mạch."
+      },
+      {
+        "stt": 5,
+        "word": "organic",
+        "ipa": "/ɔːrˈɡænɪk/",
+        "pos": "adj",
+        "meaning": "hữu cơ, tự nhiên không hoá chất",
+        "example": "Consumers increasingly favor organic agricultural produce.",
+        "exampleVi": "Người tiêu dùng ngày càng ưa chuộng nông sản hữu cơ."
+      },
+      {
+        "stt": 6,
+        "word": "hydrate",
+        "ipa": "/ˈhaɪdreɪt/",
+        "pos": "verb",
+        "meaning": "bổ sung nước, giữ ẩm",
+        "example": "Remember to hydrate your body by drinking at least two liters of water daily.",
+        "exampleVi": "Hãy nhớ bổ sung nước cho cơ thể bằng cách uống ít nhất hai lít nước mỗi ngày."
+      },
+      {
+        "stt": 7,
+        "word": "balanced diet",
+        "ipa": "/ˈbælənst ˈdaɪət/",
+        "pos": "noun",
+        "meaning": "chế độ ăn uống cân bằng",
+        "example": "A balanced diet provides vitamins and proteins in ideal proportions.",
+        "exampleVi": "Chế độ ăn cân đối cung cấp vitamin và chất đạm theo tỷ lệ lý tưởng."
+      },
+      {
+        "stt": 8,
+        "word": "vitality",
+        "ipa": "/vaɪˈtæləti/",
+        "pos": "noun",
+        "meaning": "sức sống dồi dào, sinh lực",
+        "example": "Adequate sleep restores physical vitality and mental clarity.",
+        "exampleVi": "Ngủ đủ giấc phục hồi sinh lực thể chất và sự minh mẫn tinh thần."
+      }
+    ],
+    "grammar": {
+      "title": "Reported Speech: Statements and Advice (Câu tường thuật: Lời trần thuật & Lời khuyên)",
+      "sections": [
+        {
+          "heading": "1. Quy tắc lùi thì trong câu gián tiếp",
+          "content": "Hiện tại đơn -> Quá khứ đơn | Hiện tại tiếp diễn -> Quá khứ tiếp diễn | Can -> Could | Will -> Would",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Đổi đại từ nhân xưng, tính từ sở hữu và trạng từ chỉ thời gian/nơi chốn (today -> that day, tomorrow -> the next day).",
+              "example": "Ms. Thúy said: 'Drink plenty of water' -> Ms. Thúy advised us to drink plenty of water.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The doctor advised Lan ______ a sedentary lifestyle and exercise more often.",
+          "options": ["avoid", "to avoid", "avoiding", "avoided"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc 'advise someone to V' (khuyên ai làm gì / to avoid)."
+        },
+        {
+          "id": 2,
+          "question": "Citrus fruits like oranges and lemons are exceptionally abundant in essential ______.",
+          "options": ["nutrients", "counterparts", "invoices", "warranties"],
+          "correctIndex": 0,
+          "explanation": "Cần danh từ 'nutrients' (chất dinh dưỡng)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["meditation", "organic", "sedentary", "hydrate", "nutrients"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Office workers sitting continuously for 8 hours are warned against having a ______ habit.",
+          "answer": "sedentary",
+          "acceptAlternatives": ["inactive"]
+        },
+        {
+          "id": 2,
+          "question": "Practicing daily ______ for fifteen minutes calms the nervous system.",
+          "answer": "meditation",
+          "acceptAlternatives": ["mindfulness"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["diet", "A", "balanced", "boosts", "immune", "the", "system"],
+          "correctOrder": [1, 2, 0, 3, 5, 4, 6],
+          "answer": "A balanced diet boosts the immune system"
+        },
+        {
+          "id": 2,
+          "words": ["water", "Drink", "to", "hydrate", "body", "your"],
+          "correctOrder": [1, 0, 2, 3, 5, 4],
+          "answer": "Drink water to hydrate your body"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "\"You should eat more fresh vegetables every day,\" the nutritionist told me.",
+          "hint": "(ADVISED)",
+          "answer": "The nutritionist advised me to eat more fresh vegetables every day.",
+          "acceptAlternatives": [
+            "The nutritionist advised me to eat more fresh vegetables every day"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "\"I am feeling energetic after morning yoga,\" Minh said.",
+          "hint": "(SAID THAT)",
+          "answer": "Minh said that he was feeling energetic after morning yoga.",
+          "acceptAlternatives": [
+            "Minh said that he was feeling energetic after morning yoga"
+          ]
+        }
+      ]
+    }
+  }
+}

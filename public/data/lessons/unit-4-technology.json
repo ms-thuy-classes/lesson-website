@@ -1,0 +1,179 @@
+{
+  "id": "unit-4-technology",
+  "title": "Unit 4: Technology & Inventions",
+  "tags": ["Lớp 10", "Lớp 11"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "artificial intelligence",
+        "ipa": "/ˌɑːrtɪfɪʃl ɪnˈtelɪdʒəns/",
+        "pos": "noun",
+        "meaning": "trí tuệ nhân tạo (AI)",
+        "example": "Artificial intelligence is transforming healthcare and language education.",
+        "exampleVi": "Trí tuệ nhân tạo đang thay đổi cách chăm sóc sức khoẻ và giáo dục ngôn ngữ."
+      },
+      {
+        "stt": 2,
+        "word": "automation",
+        "ipa": "/ˌɔːtəˈmeɪʃn/",
+        "pos": "noun",
+        "meaning": "sự tự động hoá",
+        "example": "Factory automation enhances production precision and speed.",
+        "exampleVi": "Tự động hoá nhà máy giúp nâng cao độ chính xác và tốc độ sản xuất."
+      },
+      {
+        "stt": 3,
+        "word": "breakthrough",
+        "ipa": "/ˈbreɪkθruː/",
+        "pos": "noun",
+        "meaning": "bước đột phá công nghệ",
+        "example": "Scientists made an astounding breakthrough in clean nuclear fusion.",
+        "exampleVi": "Các nhà khoa học đã đạt được một bước đột phá đáng kinh ngạc trong phản ứng nhiệt hạch sạch."
+      },
+      {
+        "stt": 4,
+        "word": "innovative",
+        "ipa": "/ˈɪnəveɪtɪv/",
+        "pos": "adj",
+        "meaning": "mang tính đổi mới, sáng tạo",
+        "example": "Ms. Thúy employs innovative interactive techniques to teach English.",
+        "exampleVi": "Cô Thúy áp dụng các phương pháp tương tác sáng tạo để giảng dạy tiếng Anh."
+      },
+      {
+        "stt": 5,
+        "word": "portable",
+        "ipa": "/ˈpɔːrtəbl/",
+        "pos": "adj",
+        "meaning": "nhỏ gọn, có thể mang theo dễ dàng",
+        "example": "Portable laptops allow people to work from anywhere.",
+        "exampleVi": "Máy tính xách tay nhỏ gọn cho phép mọi người làm việc ở bất cứ đâu."
+      },
+      {
+        "stt": 6,
+        "word": "device",
+        "ipa": "/dɪˈvaɪs/",
+        "pos": "noun",
+        "meaning": "thiết bị điện tử",
+        "example": "Electronic devices should be switched off during takeoff.",
+        "exampleVi": "Các thiết bị điện tử nên được tắt trong lúc máy bay cất cánh."
+      },
+      {
+        "stt": 7,
+        "word": "cybersecurity",
+        "ipa": "/ˌsaɪbərsɪˈkjʊrəti/",
+        "pos": "noun",
+        "meaning": "an ninh mạng, bảo mật thông tin",
+        "example": "Banks invest millions of dollars into cybersecurity algorithms.",
+        "exampleVi": "Các ngân hàng đầu tư hàng triệu đô la vào các thuật toán an ninh mạng."
+      },
+      {
+        "stt": 8,
+        "word": "revolutionary",
+        "ipa": "/ˌrevəˈluːʃəneri/",
+        "pos": "adj",
+        "meaning": "mang tính cách mạng",
+        "example": "The invention of smartphones was a truly revolutionary milestone.",
+        "exampleVi": "Phát minh điện thoại thông minh thực sự là một cột mốc mang tính cách mạng."
+      }
+    ],
+    "grammar": {
+      "title": "The Passive Voice (Câu bị động trong tiếng Anh)",
+      "sections": [
+        {
+          "heading": "1. Cấu trúc tổng quát",
+          "content": "Chủ động: S + V + O  -->  Bị động: S (O cũ) + Be (chia theo thì) + V3/ed + (by O)",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Hiện tại đơn: S + am/is/are + V3/ed\nQuá khứ đơn: S + was/were + V3/ed\nHiện tại hoàn thành: S + have/has been + V3/ed\nModal Verbs: S + can/could/will/must + be + V3/ed",
+              "example": "Thousands of new smartphones are manufactured every day.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The revolutionary smart app ______ by a team of young Vietnamese developers in 2024.",
+          "options": ["created", "was created", "has created", "is creating"],
+          "correctIndex": 1,
+          "explanation": "Câu bị động ở thì quá khứ đơn với mốc thời gian 'in 2024' (was created)."
+        },
+        {
+          "id": 2,
+          "question": "Cutting-edge AI algorithms are utilized to enhance personal computer ______.",
+          "options": ["cybersecurity", "curriculum", "warranty", "orphanage"],
+          "correctIndex": 0,
+          "explanation": "Từ vựng phù hợp chủ đề công nghệ là 'cybersecurity' (an ninh mạng)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["breakthrough", "innovative", "portable", "device", "automation"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "The scientific discovery was hailed as a major medical ______ in vaccine development.",
+          "answer": "breakthrough",
+          "acceptAlternatives": []
+        },
+        {
+          "id": 2,
+          "question": "This lightweight and ______ tablet fits conveniently into a backpack.",
+          "answer": "portable",
+          "acceptAlternatives": ["compact"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["is", "intelligence", "Artificial", "changing", "future", "our"],
+          "correctOrder": [2, 1, 0, 3, 5, 4],
+          "answer": "Artificial intelligence is changing our future"
+        },
+        {
+          "id": 2,
+          "words": ["smartphones", "Millions", "are", "of", "year", "every", "sold"],
+          "correctOrder": [1, 3, 0, 2, 6, 5, 4],
+          "answer": "Millions of smartphones are sold every year"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Engineers are testing the new battery prototype today.",
+          "hint": "(IS BEING)",
+          "answer": "The new battery prototype is being tested today.",
+          "acceptAlternatives": [
+            "The new battery prototype is being tested today",
+            "The new battery prototype is being tested by engineers today."
+          ]
+        },
+        {
+          "id": 2,
+          "question": "They will release the innovative software update next month.",
+          "hint": "(WILL BE)",
+          "answer": "The innovative software update will be released next month.",
+          "acceptAlternatives": [
+            "The innovative software update will be released next month"
+          ]
+        }
+      ]
+    }
+  }
+}

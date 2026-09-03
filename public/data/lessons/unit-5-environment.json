@@ -1,0 +1,192 @@
+{
+  "id": "unit-5-environment",
+  "title": "Unit 5: Protecting Our Environment",
+  "tags": ["Lớp 9", "Lớp 10"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "biodiversity",
+        "ipa": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+        "pos": "noun",
+        "meaning": "đa dạng sinh học",
+        "example": "Tropical rainforests harbor immense biodiversity.",
+        "exampleVi": "Rừng mưa nhiệt đới lưu giữ sự đa dạng sinh học vô cùng phong phú."
+      },
+      {
+        "stt": 2,
+        "word": "deforestation",
+        "ipa": "/diːˌfɔːrɪˈsteɪʃn/",
+        "pos": "noun",
+        "meaning": "sự tàn phá rừng",
+        "example": "Deforestation threatens the habitats of countless endangered animals.",
+        "exampleVi": "Nạn phá rừng đe doạ môi trường sống của vô số loài động vật có nguy cơ tuyệt chủng."
+      },
+      {
+        "stt": 3,
+        "word": "renewable",
+        "ipa": "/rɪˈnuːəbl/",
+        "pos": "adj",
+        "meaning": "có thể tái tạo (năng lượng)",
+        "example": "Solar and wind energy are prime examples of renewable power.",
+        "exampleVi": "Năng lượng mặt trời và gió là những ví dụ tiêu biểu của nguồn năng lượng tái tạo."
+      },
+      {
+        "stt": 4,
+        "word": "carbon footprint",
+        "ipa": "/ˈkɑːrbən ˈfʊtprɪnt/",
+        "pos": "noun",
+        "meaning": "dấu chân carbon (lượng khí thải CO2 cá nhân/tổ chức)",
+        "example": "Cycling to work noticeably reduces your carbon footprint.",
+        "exampleVi": "Đi xe đạp đi làm giúp giảm đáng kể lượng phát thải carbon của bạn."
+      },
+      {
+        "stt": 5,
+        "word": "conservation",
+        "ipa": "/ˌkɑːnsərˈveɪʃn/",
+        "pos": "noun",
+        "meaning": "sự bảo tồn thiên nhiên",
+        "example": "Wildlife conservation programs safeguard tigers from illegal poaching.",
+        "exampleVi": "Các chương trình bảo tồn động vật hoang dã bảo vệ loài hổ khỏi săn trộm trái phép."
+      },
+      {
+        "stt": 6,
+        "word": "ecosystem",
+        "ipa": "/ˈiːkoʊsɪstəm/",
+        "pos": "noun",
+        "meaning": "hệ sinh thái",
+        "example": "Polluting rivers disrupts the fragile aquatic ecosystem.",
+        "exampleVi": "Làm ô nhiễm các dòng sông làm xáo trộn hệ sinh thái dưới nước mong manh."
+      },
+      {
+        "stt": 7,
+        "word": "greenhouse effect",
+        "ipa": "/ˈɡriːnhaʊs ɪˌfekt/",
+        "pos": "noun",
+        "meaning": "hiệu ứng nhà kính",
+        "example": "The greenhouse effect accelerates global climate change.",
+        "exampleVi": "Hiệu ứng nhà kính đẩy nhanh tốc độ biến đổi khí hậu toàn cầu."
+      },
+      {
+        "stt": 8,
+        "word": "sustainable",
+        "ipa": "/səˈsteɪnəbl/",
+        "pos": "adj",
+        "meaning": "bền vững, thân thiện môi trường",
+        "example": "Sustainable farming methods avoid harmful chemical fertilizers.",
+        "exampleVi": "Các phương pháp canh tác bền vững tránh sử dụng phân bón hoá học độc hại."
+      }
+    ],
+    "grammar": {
+      "title": "Conditional Sentences: Type 1 & Type 2 (Câu điều kiện Loại 1 và Loại 2)",
+      "sections": [
+        {
+          "heading": "1. Câu điều kiện Loại 1 (Có thể xảy ra ở hiện tại hoặc tương lai)",
+          "content": "If + S + V(hiện tại đơn), S + will / can / may + V-bare",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Diễn tả sự việc có thật hoặc hoàn toàn có khả năng xảy ra nếu điều kiện được đáp ứng.",
+              "example": "If we reduce plastic waste, the oceans will stay cleaner.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Câu điều kiện Loại 2 (Không có thật ở hiện tại)",
+          "content": "If + S + V2/ed (were cho tất cả các ngôi), S + would / could + V-bare",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Diễn tả giả định trái ngược với thực tế ở hiện tại.",
+              "example": "If I were the Minister of Environment, I would ban single-use plastics.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "If everyone ______ reusable bags when shopping, plastic pollution would decrease dramatically.",
+          "options": ["uses", "used", "will use", "is using"],
+          "correctIndex": 1,
+          "explanation": "Vế chính có 'would decrease' (điều kiện loại 2), mệnh đề If chia quá khứ đơn 'used'."
+        },
+        {
+          "id": 2,
+          "question": "Solar panels convert sunlight into ______ electricity for modern houses.",
+          "options": ["renewable", "deforestation", "orphanage", "tuition"],
+          "correctIndex": 0,
+          "explanation": "'Renewable electricity' nghĩa là điện tái tạo."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["biodiversity", "conservation", "sustainable", "ecosystem", "deforestation"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "National parks are established to ensure wildlife ______ and preserve natural flora.",
+          "answer": "conservation",
+          "acceptAlternatives": ["protection"]
+        },
+        {
+          "id": 2,
+          "question": "Rampant ______ in tropical regions releases billions of tons of CO2.",
+          "answer": "deforestation",
+          "acceptAlternatives": []
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["must", "protect", "We", "the", "earth", "for", "generations", "future"],
+          "correctOrder": [2, 0, 1, 3, 4, 5, 7, 6],
+          "answer": "We must protect the earth for future generations"
+        },
+        {
+          "id": 2,
+          "words": ["plant", "If", "trees", "we", "air", "will", "cleaner", "become"],
+          "correctOrder": [0, 3, 1, 2, 4, 5, 7, 6],
+          "answer": "If we plant trees air will become cleaner"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Unless we take immediate actions, climate change will worsen.",
+          "hint": "(IF)",
+          "answer": "If we do not take immediate actions, climate change will worsen.",
+          "acceptAlternatives": [
+            "If we don't take immediate actions, climate change will worsen.",
+            "If we don't take immediate actions climate change will worsen"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "I don't have enough money, so I cannot install rooftop solar panels.",
+          "hint": "(IF I HAD)",
+          "answer": "If I had enough money, I could install rooftop solar panels.",
+          "acceptAlternatives": [
+            "If I had enough money, I would install rooftop solar panels.",
+            "If I had enough money I would install rooftop solar panels"
+          ]
+        }
+      ]
+    }
+  }
+}

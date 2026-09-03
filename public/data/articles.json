@@ -1,0 +1,150 @@
+{
+  "totalLessons": 12,
+  "lessonsPerPage": 10,
+  "lessons": [
+    {
+      "id": "unit-1-life-stories",
+      "title": "Unit 1: Life Stories We Admire",
+      "description": "Học từ vựng và ngữ pháp về các câu chuyện đời sống đáng ngưỡng mộ",
+      "tags": ["Lớp 10", "Lớp 11"],
+      "level": "Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-1-life-stories.json",
+      "thumbnail": "gradient-pastel"
+    },
+    {
+      "id": "unit-2-education",
+      "title": "Unit 2: Education & Lifelong Learning",
+      "description": "Từ vựng và cấu trúc ngữ pháp trọng tâm về chủ đề giáo dục hiện đại",
+      "tags": ["Lớp 10", "Lớp 12"],
+      "level": "Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-2-education.json",
+      "thumbnail": "gradient-blue"
+    },
+    {
+      "id": "unit-3-community-service",
+      "title": "Unit 3: Community Service & Volunteering",
+      "description": "Khám phá từ vựng hoạt động cộng đồng và cách phân biệt V-ing / To-V",
+      "tags": ["Lớp 7", "Lớp 8", "Lớp 10"],
+      "level": "Pre-Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-3-community-service.json",
+      "thumbnail": "gradient-green"
+    },
+    {
+      "id": "unit-4-technology",
+      "title": "Unit 4: Technology & Inventions",
+      "description": "Công nghệ số, trí tuệ nhân tạo và chuyên đề câu bị động Passive Voice",
+      "tags": ["Lớp 10", "Lớp 11"],
+      "level": "Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-4-technology.json",
+      "thumbnail": "gradient-purple"
+    },
+    {
+      "id": "unit-5-environment",
+      "title": "Unit 5: Protecting Our Environment",
+      "description": "Từ vựng sinh thái, biến đổi khí hậu và câu điều kiện loại 1 & loại 2",
+      "tags": ["Lớp 9", "Lớp 10"],
+      "level": "Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-5-environment.json",
+      "thumbnail": "gradient-emerald"
+    },
+    {
+      "id": "unit-6-travel-culture",
+      "title": "Unit 6: Cultural Heritage & Tourism",
+      "description": "Di sản văn hoá, du lịch bền vững và mệnh đề quan hệ Relative Clauses",
+      "tags": ["Lớp 11", "Lớp 12"],
+      "level": "Upper-Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-6-travel-culture.json",
+      "thumbnail": "gradient-amber"
+    },
+    {
+      "id": "ielts-vocab-band7",
+      "title": "IELTS Master: Band 7+ Lexical Resource",
+      "description": "Từ vựng học thuật cao cấp và cấu trúc đảo ngữ ghi điểm trong Writing & Speaking",
+      "tags": ["IELTS", "Lớp 12"],
+      "level": "Advanced",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/ielts-vocab-band7.json",
+      "thumbnail": "gradient-rose"
+    },
+    {
+      "id": "toeic-business-communication",
+      "title": "TOEIC Essential: Business Communication",
+      "description": "Giao tiếp thương mại, hợp đồng công sở và Modal Verbs trong văn phong chuyên nghiệp",
+      "tags": ["TOEIC"],
+      "level": "Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/toeic-business-communication.json",
+      "thumbnail": "gradient-cyan"
+    },
+    {
+      "id": "unit-7-healthy-living",
+      "title": "Unit 7: Healthy Living & Wellness",
+      "description": "Dinh dưỡng, thể chất, sức khoẻ tinh thần và câu gián tiếp Reported Speech",
+      "tags": ["Lớp 8", "Lớp 9"],
+      "level": "Pre-Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-7-healthy-living.json",
+      "thumbnail": "gradient-teal"
+    },
+    {
+      "id": "unit-8-future-careers",
+      "title": "Unit 8: Future Careers & Skills",
+      "description": "Định hướng nghề nghiệp thế kỷ 21 cùng thì tương lai tiếp diễn và hoàn thành",
+      "tags": ["Lớp 11", "Lớp 12"],
+      "level": "Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-8-future-careers.json",
+      "thumbnail": "gradient-indigo"
+    },
+    {
+      "id": "unit-9-family-relationships",
+      "title": "Unit 9: Family Ties & Generations",
+      "description": "Gia đình đa thế hệ, khoảng cách thế hệ và các cấp so sánh tính từ - trạng từ",
+      "tags": ["Lớp 6", "Lớp 7", "Lớp 11"],
+      "level": "Elementary",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-9-family-relationships.json",
+      "thumbnail": "gradient-pastel"
+    },
+    {
+      "id": "unit-10-media-communication",
+      "title": "Unit 10: Modern Media & Networks",
+      "description": "Truyền thông đại chúng, mạng xã hội và liên từ nối câu trong lập luận",
+      "tags": ["Lớp 10", "Lớp 12", "IELTS"],
+      "level": "Intermediate",
+      "vocabCount": 8,
+      "exerciseCount": 4,
+      "totalQuestions": 8,
+      "file": "data/lessons/unit-10-media-communication.json",
+      "thumbnail": "gradient-purple"
+    }
+  ]
+}

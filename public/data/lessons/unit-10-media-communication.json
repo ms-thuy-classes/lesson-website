@@ -1,0 +1,184 @@
+{
+  "id": "unit-10-media-communication",
+  "title": "Unit 10: Modern Media & Networks",
+  "tags": ["Lớp 10", "Lớp 12", "IELTS"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "misinformation",
+        "ipa": "/ˌmɪsɪnfərˈmeɪʃn/",
+        "pos": "noun",
+        "meaning": "thông tin sai lệch, tin giả",
+        "example": "Fact-checking websites help internet users detect dangerous misinformation.",
+        "exampleVi": "Các trang kiểm chứng thông tin giúp người dùng mạng phát hiện tin giả nguy hại."
+      },
+      {
+        "stt": 2,
+        "word": "algorithm",
+        "ipa": "/ˈælɡərɪðəm/",
+        "pos": "noun",
+        "meaning": "thuật toán gợi ý hoặc xử lý dữ liệu",
+        "example": "Social media algorithms personalize video feeds according to user preferences.",
+        "exampleVi": "Thuật toán mạng xã hội cá nhân hoá bảng tin video theo sở thích người dùng."
+      },
+      {
+        "stt": 3,
+        "word": "broadcast",
+        "ipa": "/ˈbrɔːdkæst/",
+        "pos": "verb/noun",
+        "meaning": "phát sóng truyền thanh/truyền hình",
+        "example": "The national television channel will broadcast the international football match live.",
+        "exampleVi": "Đài truyền hình quốc gia sẽ phát sóng trực tiếp trận bóng đá quốc tế."
+      },
+      {
+        "stt": 4,
+        "word": "viral",
+        "ipa": "/ˈvaɪrəl/",
+        "pos": "adj",
+        "meaning": "lan truyền nhanh chóng như virus",
+        "example": "The heartfelt rescue video went viral and garnered millions of views.",
+        "exampleVi": "Video giải cứu cảm động đã lan truyền chóng mặt và thu hút hàng triệu lượt xem."
+      },
+      {
+        "stt": 5,
+        "word": "cyberbullying",
+        "ipa": "/ˈsaɪbərbʊliɪŋ/",
+        "pos": "noun",
+        "meaning": "bắt nạt trên mạng",
+        "example": "Schools carry out educational workshops to prevent cyberbullying among teens.",
+        "exampleVi": "Các trường học tổ chức hội thảo giáo dục nhằm ngăn chặn bắt nạt qua mạng trong lứa tuổi thanh thiếu niên."
+      },
+      {
+        "stt": 6,
+        "word": "censorship",
+        "ipa": "/ˈsensərʃɪp/",
+        "pos": "noun",
+        "meaning": "sự kiểm duyệt nội dung",
+        "example": "Strict content censorship protects underage children from violence.",
+        "exampleVi": "Kiểm duyệt nội dung nghiêm ngặt bảo vệ trẻ vị thành niên khỏi bạo lực."
+      },
+      {
+        "stt": 7,
+        "word": "digital media",
+        "ipa": "/ˈdɪdʒɪtl ˈmiːdiə/",
+        "pos": "noun",
+        "meaning": "truyền thông kỹ thuật số",
+        "example": "Modern teenagers consume news primarily through interactive digital media.",
+        "exampleVi": "Thanh thiếu niên hiện đại tiếp nhận tin tức chủ yếu qua truyền thông kỹ thuật số tương tác."
+      },
+      {
+        "stt": 8,
+        "word": "credible",
+        "ipa": "/ˈkredəbl/",
+        "pos": "adj",
+        "meaning": "đáng tin cậy, có căn cứ",
+        "example": "Always consult credible journalistic sources before sharing news stories.",
+        "exampleVi": "Hãy luôn tham khảo các nguồn báo chí đáng tin cậy trước khi chia sẻ các mẩu tin tức."
+      }
+    ],
+    "grammar": {
+      "title": "Conjunctions and Discourse Connectors (Liên từ và từ nối liên kết câu)",
+      "sections": [
+        {
+          "heading": "1. Chỉ sự tương phản (Contrast)",
+          "content": "Although / Even though / Though + Mệnh đề (S + V)\nDespite / In spite of + Cụm danh từ / V-ing\nHowever / Nevertheless (đứng đầu câu hoặc giữa hai dấu phẩy)",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Ví dụ: Although the news was viral, it turned out to be false.",
+              "example": "Despite spending hours on social networks, he still passed the English test.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Chỉ nguyên nhân & kết quả (Cause & Effect)",
+          "content": "Because / Since / As + Mệnh đề\nBecause of / Due to + Cụm danh từ / V-ing\nTherefore / As a result",
+          "highlight": false
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "______ its enormous popularity, that viral social app has raised serious privacy concerns.",
+          "options": ["Although", "Despite", "Because", "However"],
+          "correctIndex": 1,
+          "explanation": "Sau chỗ trống là cụm danh từ 'its enormous popularity', ta dùng 'Despite'."
+        },
+        {
+          "id": 2,
+          "question": "Students must evaluate online articles carefully to avoid falling victim to ______.",
+          "options": ["misinformation", "curriculum", "scholarship", "heritage"],
+          "correctIndex": 0,
+          "explanation": "'Misinformation' nghĩa là thông tin sai lệch / tin giả."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["algorithm", "cyberbullying", "credible", "viral", "misinformation"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Always ensure you read news from verified and ______ publications.",
+          "answer": "credible",
+          "acceptAlternatives": ["trustworthy", "reliable"]
+        },
+        {
+          "id": 2,
+          "question": "Online platforms must take stringent measures to stop malicious ______ on young students.",
+          "answer": "cyberbullying",
+          "acceptAlternatives": []
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["check", "Always", "before", "facts", "sharing", "articles"],
+          "correctOrder": [1, 0, 3, 2, 4, 5],
+          "answer": "Always check facts before sharing articles"
+        },
+        {
+          "id": 2,
+          "words": ["video", "The", "inspiring", "went", "overnight", "viral"],
+          "correctOrder": [1, 2, 0, 3, 5, 4],
+          "answer": "The inspiring video went viral overnight"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Although the social media story looked realistic, it was completely fake.",
+          "hint": "(DESPITE)",
+          "answer": "Despite looking realistic, the social media story was completely fake.",
+          "acceptAlternatives": [
+            "Despite looking realistic, the social media story was completely fake",
+            "Despite its realistic look, the social media story was completely fake."
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Because there was severe cyberbullying, the forum had to be shut down.",
+          "hint": "(BECAUSE OF)",
+          "answer": "Because of severe cyberbullying, the forum had to be shut down.",
+          "acceptAlternatives": [
+            "Because of severe cyberbullying, the forum had to be shut down"
+          ]
+        }
+      ]
+    }
+  }
+}

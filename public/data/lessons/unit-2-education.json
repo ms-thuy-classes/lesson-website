@@ -1,0 +1,199 @@
+{
+  "id": "unit-2-education",
+  "title": "Unit 2: Education & Lifelong Learning",
+  "tags": ["Lớp 10", "Lớp 12"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "curriculum",
+        "ipa": "/kəˈrɪkjələm/",
+        "pos": "noun",
+        "meaning": "chương trình giảng dạy",
+        "example": "The modern curriculum focuses on critical thinking and problem solving.",
+        "exampleVi": "Chương trình giảng dạy hiện đại chú trọng tư duy phản biện và giải quyết vấn đề."
+      },
+      {
+        "stt": 2,
+        "word": "scholarship",
+        "ipa": "/ˈskɑːlərʃɪp/",
+        "pos": "noun",
+        "meaning": "học bổng",
+        "example": "Lan was awarded a full scholarship to study abroad in Melbourne.",
+        "exampleVi": "Lan đã được trao một học bổng toàn phần để đi du học tại Melbourne."
+      },
+      {
+        "stt": 3,
+        "word": "mandatory",
+        "ipa": "/ˈmændətɔːri/",
+        "pos": "adj",
+        "meaning": "bắt buộc",
+        "example": "Physical education is mandatory for all high school freshmen.",
+        "exampleVi": "Môn giáo dục thể chất là bắt buộc đối với tất cả học sinh năm nhất cấp ba."
+      },
+      {
+        "stt": 4,
+        "word": "qualification",
+        "ipa": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+        "pos": "noun",
+        "meaning": "bằng cấp, trình độ chuyên môn",
+        "example": "Practical experience is valued just as much as formal academic qualifications.",
+        "exampleVi": "Kinh nghiệm thực tế được coi trọng không kém bằng cấp học thuật chính quy."
+      },
+      {
+        "stt": 5,
+        "word": "distance learning",
+        "ipa": "/ˈdɪstəns ˈlɜːrnɪŋ/",
+        "pos": "noun",
+        "meaning": "học từ xa, đào tạo trực tuyến",
+        "example": "Distance learning allows working professionals to balance work and study.",
+        "exampleVi": "Học từ xa cho phép những người đang đi làm cân bằng giữa công việc và học tập."
+      },
+      {
+        "stt": 6,
+        "word": "tuition",
+        "ipa": "/tuˈɪʃn/",
+        "pos": "noun",
+        "meaning": "học phí, sự giảng dạy kèm",
+        "example": "The university provides tuition fee reductions for outstanding students.",
+        "exampleVi": "Trường đại học áp dụng chính sách giảm học phí cho sinh viên xuất sắc."
+      },
+      {
+        "stt": 7,
+        "word": "assignment",
+        "ipa": "/əˈsaɪnmənt/",
+        "pos": "noun",
+        "meaning": "bài tập được giao, nhiệm vụ",
+        "example": "Remember to submit your essay assignment before midnight.",
+        "exampleVi": "Hãy nhớ nộp bài tập luận của bạn trước nửa đêm."
+      },
+      {
+        "stt": 8,
+        "word": "literacy",
+        "ipa": "/ˈlɪtərəsi/",
+        "pos": "noun",
+        "meaning": "trình độ biết chữ, kỹ năng cơ bản",
+        "example": "Digital literacy is indispensable in our interconnected world.",
+        "exampleVi": "Hiểu biết kỹ thuật số là kỹ năng không thể thiếu trong thế giới kết nối ngày nay."
+      }
+    ],
+    "grammar": {
+      "title": "Present Perfect and Present Perfect Continuous (Hiện tại hoàn thành & Hoàn thành tiếp diễn)",
+      "sections": [
+        {
+          "heading": "1. Hiện tại hoàn thành (Present Perfect)",
+          "content": "Khẳng định: S + have/has + V3/ed | Phủ định: S + have/has not + V3/ed",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Nhấn mạnh kết quả hoặc kinh nghiệm tính tới thời điểm hiện tại.",
+              "example": "She has written three comprehensive essays today.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous)",
+          "content": "Khẳng định: S + have/has + been + V-ing",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Nhấn mạnh tính liên tục, khoảng thời gian kéo dài của một hành động bắt đầu ở quá khứ và vẫn đang tiếp diễn ở hiện tại.",
+              "example": "He has been studying for the English exam for three consecutive hours.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Dấu hiệu nhận biết",
+          "content": "Since, for, already, yet, recently, all day, so far, how long...",
+          "highlight": false
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Bài 1: Trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Nam ___ English with Ms. Thúy since he was in grade 6.",
+          "options": ["learns", "has learned", "is learning", "learned"],
+          "correctIndex": 1,
+          "explanation": "Có 'since + mốc thời gian quá khứ', ta dùng thì Hiện tại hoàn thành (has learned)."
+        },
+        {
+          "id": 2,
+          "question": "Her eyes are exhausted because she ___ assignments on the computer all morning.",
+          "options": ["has been typing", "types", "was typed", "typed"],
+          "correctIndex": 0,
+          "explanation": "Nhấn mạnh quá trình liên tục để lại hệ quả ở hiện tại, dùng Hiện tại hoàn thành tiếp diễn (has been typing)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Bài 2: Điền từ vào chỗ trống",
+      "wordbank": ["curriculum", "scholarship", "mandatory", "tuition", "assignment"],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Wearing uniforms on Monday mornings is ______ for all students in this school.",
+          "answer": "mandatory",
+          "acceptAlternatives": ["compulsory", "required"]
+        },
+        {
+          "id": 2,
+          "question": "He was thrilled to receive a prestigious university ______ covering four years of tuition.",
+          "answer": "scholarship",
+          "acceptAlternatives": []
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Bài 3: Sắp xếp câu",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["has", "She", "studying", "been", "English", "for", "years", "three"],
+          "correctOrder": [1, 0, 3, 2, 4, 5, 7, 6],
+          "answer": "She has been studying English for three years"
+        },
+        {
+          "id": 2,
+          "words": ["curriculum", "The", "promotes", "thinking", "skills", "critical"],
+          "correctOrder": [1, 0, 2, 5, 3, 4],
+          "answer": "The curriculum promotes critical thinking skills"
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Bài 4: Viết lại câu không đổi nghĩa",
+      "questions": [
+        {
+          "id": 1,
+          "question": "I started doing this research project at 8 AM. It is now 11 AM.",
+          "hint": "(HAVE BEEN)",
+          "answer": "I have been doing this research project for three hours.",
+          "acceptAlternatives": [
+            "I have been doing this research project for 3 hours.",
+            "I have been doing this research project for three hours",
+            "I have been doing this research project since 8 AM.",
+            "I have been doing this research project since 8 AM"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "This is the first time he has taken an international IELTS test.",
+          "hint": "(NEVER)",
+          "answer": "He has never taken an international IELTS test before.",
+          "acceptAlternatives": [
+            "He has never taken an international IELTS test before",
+            "He has never taken an IELTS test before."
+          ]
+        }
+      ]
+    }
+  }
+}
