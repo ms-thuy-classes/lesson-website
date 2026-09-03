@@ -875,6 +875,7 @@
           "id": 51,
           "question": "It is mandatory for students to follow the school rules.",
           "hint": "HAVE TO",
+          "startWith": "Students",
           "answer": "Students have to follow the school rules.",
           "acceptAlternatives": [
             "Students have to follow the school rules",
@@ -886,6 +887,7 @@
           "id": 52,
           "question": "I advise you to talk to your parents about your career choice.",
           "hint": "SHOULD",
+          "startWith": "You",
           "answer": "You should talk to your parents about your career choice.",
           "acceptAlternatives": [
             "You should talk to your parents about your career choice",
@@ -897,6 +899,7 @@
           "id": 53,
           "question": "Walking on the grass in this park is prohibited.",
           "hint": "MUSTN'T",
+          "startWith": "You",
           "answer": "You mustn't walk on the grass in this park.",
           "acceptAlternatives": [
             "You mustn't walk on the grass in this park",
@@ -910,6 +913,7 @@
           "id": 54,
           "question": "It is not necessary for you to complete the assignment today.",
           "hint": "DON'T HAVE TO",
+          "startWith": "You",
           "answer": "You don't have to complete the assignment today.",
           "acceptAlternatives": [
             "You don't have to complete the assignment today",
@@ -923,6 +927,7 @@
           "id": 55,
           "question": "I am sure that he is very intelligent because he solves complex problems easily.",
           "hint": "MUST",
+          "startWith": "He",
           "answer": "He must be very intelligent because he solves complex problems easily.",
           "acceptAlternatives": [
             "He must be very intelligent because he solves complex problems easily",
@@ -933,6 +938,7 @@
           "id": 56,
           "question": "It is a good idea for young people to limit their daily screen time.",
           "hint": "OUGHT TO",
+          "startWith": "Young people",
           "answer": "Young people ought to limit their daily screen time.",
           "acceptAlternatives": [
             "Young people ought to limit their daily screen time",
@@ -943,6 +949,7 @@
           "id": 57,
           "question": "Is it necessary for me to attend the family meeting tonight?",
           "hint": "MUST",
+          "startWith": "Must I",
           "answer": "Must I attend the family meeting tonight?",
           "acceptAlternatives": [
             "Must I attend the family meeting tonight",
@@ -954,6 +961,7 @@
           "id": 58,
           "question": "My parents don't allow me to stay out past 10 p.m.",
           "hint": "MUSTN'T",
+          "startWith": "I",
           "answer": "I mustn't stay out past 10 p.m.",
           "acceptAlternatives": [
             "I mustn't stay out past 10 p.m",
@@ -969,6 +977,7 @@
           "id": 59,
           "question": "I expect that she will arrive home before 8 o'clock.",
           "hint": "SHOULD",
+          "startWith": "She",
           "answer": "She should arrive home before 8 o'clock.",
           "acceptAlternatives": [
             "She should arrive home before 8 o'clock",
@@ -982,6 +991,7 @@
           "id": 60,
           "question": "It isn't compulsory for teenagers to follow in their parents' footsteps.",
           "hint": "NEEDN'T",
+          "startWith": "Teenagers",
           "answer": "Teenagers needn't follow in their parents' footsteps.",
           "acceptAlternatives": [
             "Teenagers needn't follow in their parents' footsteps",

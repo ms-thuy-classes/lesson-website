@@ -72,6 +72,7 @@ export interface RewriteQuestion {
   id: number;
   question: string;
   hint: string;
+  startWith?: string;
   answer: string;
   acceptAlternatives?: string[];
 }

@@ -30,7 +30,7 @@ export const RewriteExercise: React.FC<RewriteExerciseProps> = ({
     let correct = 0;
     questions.forEach((q) => {
       const input = userAnswers[q.id] || '';
-      if (isAnswerCorrect(input, q.answer, q.acceptAlternatives)) {
+      if (isAnswerCorrect(input, q.answer, q.acceptAlternatives, q.startWith)) {
         correct++;
       }
     });
@@ -56,7 +56,7 @@ export const RewriteExercise: React.FC<RewriteExerciseProps> = ({
               {title}
             </h4>
             <p className="text-xs text-slate-500">
-              Viết lại câu sao cho nghĩa không thay đổi, sử dụng gợi ý trong ngoặc
+              Viết lại câu sao cho nghĩa không thay đổi, sử dụng từ gợi ý và từ bắt đầu
             </p>
           </div>
         </div>
@@ -69,7 +69,7 @@ export const RewriteExercise: React.FC<RewriteExerciseProps> = ({
       <div className="space-y-6 mb-8">
         {questions.map((q, qIdx) => {
           const userVal = userAnswers[q.id] || '';
-          const isCorrect = isAnswerCorrect(userVal, q.answer, q.acceptAlternatives);
+          const isCorrect = isAnswerCorrect(userVal, q.answer, q.acceptAlternatives, q.startWith);
 
           return (
             <div
@@ -79,7 +79,7 @@ export const RewriteExercise: React.FC<RewriteExerciseProps> = ({
             >
               {/* Original sentence and hint */}
               <div className="mb-3">
-                <div className="flex items-start gap-2 mb-1">
+                <div className="flex items-start gap-2 mb-1.5">
                   <span className="font-bold text-emerald-600 text-sm">
                     Câu {qIdx + 1}:
                   </span>
@@ -88,12 +88,37 @@ export const RewriteExercise: React.FC<RewriteExerciseProps> = ({
                   </p>
                 </div>
                 {q.hint && (
-                  <div className="inline-flex items-center gap-1 text-xs font-bold text-purple-700 bg-purple-50 px-2.5 py-1 rounded-md border border-purple-200/60 ml-6">
+                  <div className="inline-flex items-center gap-1 text-xs font-bold text-purple-700 bg-purple-50 px-2.5 py-1 rounded-md border border-purple-200/60 ml-0 sm:ml-6">
                     <PenTool className="w-3 h-3" />
                     <span>Gợi ý: {q.hint}</span>
                   </div>
                 )}
               </div>
+
+              {/* Start With Prompt Words */}
+              {q.startWith && (
+                <div className="ml-0 sm:ml-6 mb-2.5 flex items-center gap-2 flex-wrap">
+                  <span className="text-emerald-600 font-bold text-base select-none">➔</span>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      if (!isChecked && !userVal.trim()) {
+                        handleInputChange(q.id, q.startWith + ' ');
+                      }
+                    }}
+                    title="Bấm để tự động điền phần đầu gợi ý vào ô làm bài"
+                    className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-emerald-50 hover:bg-emerald-100/90 text-emerald-900 border border-emerald-300 text-xs sm:text-sm font-bold transition-all shadow-2xs group cursor-pointer"
+                  >
+                    <span>{q.startWith}</span>
+                    <span className="text-[10px] font-semibold text-emerald-700 bg-white/90 px-1.5 py-0.5 rounded border border-emerald-200 group-hover:bg-emerald-600 group-hover:text-white transition-colors">
+                      Nhấp để điền
+                    </span>
+                  </button>
+                  <span className="text-slate-400 font-mono tracking-widest hidden sm:inline select-none">
+                    _________________________
+                  </span>
+                </div>
+              )}
 
               {/* Textarea or Input for User rewrite */}
               <div className="ml-0 sm:ml-6 mb-2">
@@ -103,7 +128,11 @@ export const RewriteExercise: React.FC<RewriteExerciseProps> = ({
                   value={userVal}
                   onChange={(e) => handleInputChange(q.id, e.target.value)}
                   disabled={isChecked}
-                  placeholder="Nhập câu viết lại của bạn vào đây..."
+                  placeholder={
+                    q.startWith
+                      ? `Tiếp tục viết câu bắt đầu bằng "${q.startWith}..." (hoặc viết toàn bộ câu)`
+                      : "Nhập câu viết lại của bạn vào đây..."
+                  }
                   className={`w-full p-3 text-xs sm:text-sm font-medium rounded-xl border focus:outline-none transition-all resize-none ${
                     isChecked
                       ? isCorrect

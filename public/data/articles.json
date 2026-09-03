@@ -1,7 +1,19 @@
 {
-  "totalLessons": 13,
+  "totalLessons": 14,
   "lessonsPerPage": 10,
   "lessons": [
+    {
+      "id": "unit-2-grade-12-cultural-diversity",
+      "title": "Unit 2: Cultural Diversity & Globalisation (Lớp 12)",
+      "description": "Đa dạng văn hóa, toàn cầu hóa và chuyên đề mạo từ A/An, The & Zero Article",
+      "tags": ["Lớp 12"],
+      "level": "Intermediate",
+      "vocabCount": 49,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-2-grade-12-cultural-diversity.json",
+      "thumbnail": "gradient-pastel"
+    },
     {
       "id": "unit-2-grade-11-generation-gap",
       "title": "Unit 2: Generation Gap (Lớp 11)",

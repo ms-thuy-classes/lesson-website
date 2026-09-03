@@ -1,0 +1,1116 @@
+{
+  "id": "unit-2-grade-12-cultural-diversity",
+  "title": "Unit 2: Cultural Diversity & Globalisation (Grade 12)",
+  "tags": ["Lớp 12"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "multicultural",
+        "ipa": "/ˌmʌltiˈkʌltʃərəl/",
+        "pos": "adj",
+        "meaning": "đa văn hoá",
+        "example": "Vietnam is a multicultural society with 54 ethnic groups living in harmony.",
+        "exampleVi": "Việt Nam là một xã hội đa văn hóa với 54 dân tộc anh em cùng chung sống hòa thuận."
+      },
+      {
+        "stt": 2,
+        "word": "cultural diversity",
+        "ipa": "/ˈkʌltʃərəl daɪˈvɜːsəti/",
+        "pos": "n.p",
+        "meaning": "đa dạng văn hoá",
+        "example": "Vietnam is a nation with rich cultural diversity, featuring many unique customs across regions.",
+        "exampleVi": "Việt Nam là một quốc gia có sự đa dạng văn hóa phong phú với nhiều phong tục độc đáo giữa các vùng miền."
+      },
+      {
+        "stt": 3,
+        "word": "cuisine",
+        "ipa": "/kwɪˈziːn/",
+        "pos": "n",
+        "meaning": "ẩm thực",
+        "example": "Italian cuisine is famous worldwide for its fresh ingredients and rich flavours.",
+        "exampleVi": "Ẩm thực Ý nổi tiếng khắp thế giới nhờ nguyên liệu tươi ngon và hương vị đậm đà."
+      },
+      {
+        "stt": 4,
+        "word": "booth",
+        "ipa": "/buːð/",
+        "pos": "n",
+        "meaning": "gian hàng",
+        "example": "During the school international festival, students visited each booth to sample traditional foods.",
+        "exampleVi": "Trong ngày hội quốc tế của trường, học sinh đã ghé thăm từng gian hàng để nếm thử các món ăn truyền thống."
+      },
+      {
+        "stt": 5,
+        "word": "spicy",
+        "ipa": "/ˈspaɪsi/",
+        "pos": "adj",
+        "meaning": "cay",
+        "example": "Thai and Korean dishes are typically spicy and full of vibrant herbs.",
+        "exampleVi": "Các món ăn Thái và Hàn Quốc đặc trưng bởi vị cay nồng và nhiều loại rau thơm tươi mát."
+      },
+      {
+        "stt": 6,
+        "word": "autograph",
+        "ipa": "/ˈɔːtəɡrɑːf/",
+        "pos": "n",
+        "meaning": "chữ ký của người nổi tiếng",
+        "example": "Fans waited patiently outside the concert hall to get an autograph from the singer.",
+        "exampleVi": "Người hâm mộ kiên nhẫn chờ bên ngoài phòng hòa nhạc để xin chữ ký của ca sĩ."
+      },
+      {
+        "stt": 7,
+        "word": "souvenir",
+        "ipa": "/ˌsuːvəˈnɪə(r)/",
+        "pos": "n",
+        "meaning": "đồ lưu niệm",
+        "example": "I bought a traditional hand-woven fan as a souvenir during my visit to Hoi An.",
+        "exampleVi": "Tôi đã mua một chiếc quạt dệt thủ công truyền thống làm đồ lưu niệm trong chuyến thăm Hội An."
+      },
+      {
+        "stt": 8,
+        "word": "tug of war",
+        "ipa": "/ˌtʌɡ əv ˈwɔː(r)/",
+        "pos": "n",
+        "meaning": "trò chơi kéo co",
+        "example": "Tug of war is a popular traditional folk game played during spring festivals.",
+        "exampleVi": "Kéo co là trò chơi dân gian truyền thống phổ biến được tổ chức trong các lễ hội mùa xuân."
+      },
+      {
+        "stt": 9,
+        "word": "bamboo dancing",
+        "ipa": "/ˌbæmˈbuː ˈdɑːnsɪŋ/",
+        "pos": "n",
+        "meaning": "nhảy sạp",
+        "example": "Visitors loved participating in bamboo dancing with local ethnic dancers in Northwest Vietnam.",
+        "exampleVi": "Du khách rất thích thú khi được tham gia nhảy sạp cùng các vũ công dân tộc ở vùng Tây Bắc Việt Nam."
+      },
+      {
+        "stt": 10,
+        "word": "delicious",
+        "ipa": "/dɪˈlɪʃəs/",
+        "pos": "adj",
+        "meaning": "ngon miệng (= tasty)",
+        "example": "The street food in Hanoi is both cheap and incredibly delicious.",
+        "exampleVi": "Ẩm thực đường phố Hà Nội vừa rẻ lại vừa vô cùng ngon miệng."
+      },
+      {
+        "stt": 11,
+        "word": "identity",
+        "ipa": "/aɪˈdentəti/",
+        "pos": "n",
+        "meaning": "bản sắc, đặc điểm nhận dạng",
+        "example": "Language and costumes are vital components of a community's cultural identity.",
+        "exampleVi": "Ngôn ngữ và trang phục là những yếu tố thiết yếu cấu thành bản sắc văn hóa của một cộng đồng."
+      },
+      {
+        "stt": 12,
+        "word": "origin",
+        "ipa": "/ˈɒrɪdʒɪn/",
+        "pos": "n",
+        "meaning": "nguồn gốc",
+        "example": "Historians are researching the cultural origin of this ancient harvest ritual.",
+        "exampleVi": "Các nhà sử học đang nghiên cứu nguồn gốc văn hóa của nghi lễ mừng mùa màng cổ xưa này."
+      },
+      {
+        "stt": 13,
+        "word": "popularity",
+        "ipa": "/ˌpɒpjuˈlærəti/",
+        "pos": "n",
+        "meaning": "sự phổ biến",
+        "example": "The popularity of Vietnamese coffee has grown significantly across Western countries.",
+        "exampleVi": "Sự phổ biến của cà phê Việt Nam đã gia tăng đáng kể ở các quốc gia phương Tây."
+      },
+      {
+        "stt": 14,
+        "word": "festivity",
+        "ipa": "/feˈstɪvəti/",
+        "pos": "n",
+        "meaning": "ngày hội, sự náo nhiệt lễ hội",
+        "example": "The town comes alive with music, dance, and festivity during the New Year holiday.",
+        "exampleVi": "Thị trấn trở nên sống động với âm nhạc, vũ điệu và không khí ngày hội trong dịp Tết."
+      },
+      {
+        "stt": 15,
+        "word": "trend",
+        "ipa": "/trend/",
+        "pos": "n",
+        "meaning": "xu hướng",
+        "example": "Following the latest global fashion trends can be very expensive for teenagers.",
+        "exampleVi": "Chạy theo những xu hướng thời trang toàn cầu mới nhất có thể rất tốn kém cho giới trẻ."
+      },
+      {
+        "stt": 16,
+        "word": "custom",
+        "ipa": "/ˈkʌstəm/",
+        "pos": "n",
+        "meaning": "phong tục",
+        "example": "Giving lucky money in red envelopes is a cherished custom during Lunar New Year.",
+        "exampleVi": "Mừng tuổi bằng phong bao lì xì đỏ là một phong tục đáng quý trong dịp Tết Nguyên Đán."
+      },
+      {
+        "stt": 17,
+        "word": "mystery",
+        "ipa": "/ˈmɪstri/",
+        "pos": "n",
+        "meaning": "điều bí ẩn",
+        "example": "The construction techniques of the ancient pyramids remain an unsolved mystery.",
+        "exampleVi": "Kỹ thuật xây dựng các kim tự tháp cổ đại vẫn còn là một điều bí ẩn chưa có lời giải."
+      },
+      {
+        "stt": 18,
+        "word": "globalisation",
+        "ipa": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+        "pos": "n",
+        "meaning": "toàn cầu hoá",
+        "example": "Due to globalisation, people around the world can easily share ideas, food, and culture.",
+        "exampleVi": "Nhờ toàn cầu hóa, mọi người trên khắp thế giới có thể dễ dàng chia sẻ ý tưởng, ẩm thực và văn hóa."
+      },
+      {
+        "stt": 19,
+        "word": "connected",
+        "ipa": "/kəˈnektɪd/",
+        "pos": "adj",
+        "meaning": "kết nối",
+        "example": "Digital technology makes modern people more connected than ever before.",
+        "exampleVi": "Công nghệ số giúp con người hiện đại kết nối với nhau chặt chẽ hơn bao giờ hết."
+      },
+      {
+        "stt": 20,
+        "word": "respect",
+        "ipa": "/rɪˈspekt/",
+        "pos": "n",
+        "meaning": "khía cạnh, phương diện (in this respect)",
+        "example": "The high cost of living affects every respect of modern daily life.",
+        "exampleVi": "Chi phí sinh hoạt đắt đỏ tác động đến mọi khía cạnh của đời sống thường nhật ngày nay."
+      },
+      {
+        "stt": 21,
+        "word": "dish",
+        "ipa": "/dɪʃ/",
+        "pos": "n",
+        "meaning": "món ăn",
+        "example": "Spring rolls are a signature Vietnamese dish served at celebratory dinners.",
+        "exampleVi": "Nem rán là món ăn đặc trưng của Việt Nam được phục vụ trong những bữa tiệc chúc mừng."
+      },
+      {
+        "stt": 22,
+        "word": "ingredient",
+        "ipa": "/ɪnˈɡriːdiənt/",
+        "pos": "n",
+        "meaning": "nguyên liệu, thành phần",
+        "example": "Fresh herbs, ginger, and fish sauce are key ingredients in Vietnamese cooking.",
+        "exampleVi": "Rau thơm tươi, gừng và nước mắm là những nguyên liệu chủ chốt trong nấu ăn Việt Nam."
+      },
+      {
+        "stt": 23,
+        "word": "unique",
+        "ipa": "/juˈniːk/",
+        "pos": "adj",
+        "meaning": "độc đáo, độc nhất",
+        "example": "Each ethnic minority in Vietnam boasts its own unique weaving and embroidery patterns.",
+        "exampleVi": "Mỗi dân tộc thiểu số ở Việt Nam đều có những họa tiết dệt và thêu độc đáo riêng biệt."
+      },
+      {
+        "stt": 24,
+        "word": "specialty",
+        "ipa": "/ˈspeʃəlti/",
+        "pos": "n",
+        "meaning": "đặc sản",
+        "example": "Bun cha is an iconic Hanoi specialty that captures the hearts of international foodies.",
+        "exampleVi": "Bún chả là đặc sản nức tiếng Hà thành chiếm trọn trái tim của thực khách quốc tế."
+      },
+      {
+        "stt": 25,
+        "word": "captivate",
+        "ipa": "/ˈkæptɪveɪt/",
+        "pos": "v",
+        "meaning": "thu hút, lôi cuốn",
+        "example": "The charming performance captivated the entire audience from start to finish.",
+        "exampleVi": "Màn trình diễn duyên dáng đã lôi cuốn toàn bộ khán giả từ đầu đến cuối."
+      },
+      {
+        "stt": 26,
+        "word": "cross-cultural",
+        "ipa": "/ˌkrɒs ˈkʌltʃərəl/",
+        "pos": "adj",
+        "meaning": "giao thoa văn hoá, liên văn hóa",
+        "example": "Studying abroad provides students with invaluable cross-cultural communication experience.",
+        "exampleVi": "Du học đem lại cho sinh viên trải nghiệm giao tiếp liên văn hóa vô giá."
+      },
+      {
+        "stt": 27,
+        "word": "blend",
+        "ipa": "/blend/",
+        "pos": "v",
+        "meaning": "pha trộn, kết hợp",
+        "example": "The restaurant blends traditional Asian spices with modern Western culinary styles.",
+        "exampleVi": "Nhà hàng kết hợp hài hòa gia vị truyền thống châu Á với phong cách ẩm thực phương Tây hiện đại."
+      },
+      {
+        "stt": 28,
+        "word": "reflect",
+        "ipa": "/rɪˈflekt/",
+        "pos": "v",
+        "meaning": "phản ánh",
+        "example": "Folklore and fairy tales reflect the moral values and dreams of our ancestors.",
+        "exampleVi": "Văn học dân gian và truyện cổ tích phản ánh những giá trị đạo đức và ước mơ của tổ tiên ta."
+      },
+      {
+        "stt": 29,
+        "word": "richness",
+        "ipa": "/ˈrɪtʃnəs/",
+        "pos": "n",
+        "meaning": "sự phong phú, giàu có về bản sắc",
+        "example": "The richness of Vietnamese cultural heritage attracts millions of travelers every year.",
+        "exampleVi": "Sự phong phú của di sản văn hóa Việt Nam thu hút hàng triệu du khách mỗi năm."
+      },
+      {
+        "stt": 30,
+        "word": "appreciate",
+        "ipa": "/əˈpriːʃieɪt/",
+        "pos": "v",
+        "meaning": "thưởng thức, trân trọng, đánh giá cao",
+        "example": "Taking time to appreciate different traditions helps cultivate mutual respect.",
+        "exampleVi": "Dành thời gian để trân trọng các truyền thống khác nhau giúp nuôi dưỡng sự tôn trọng lẫn nhau."
+      },
+      {
+        "stt": 31,
+        "word": "lifestyle",
+        "ipa": "/ˈlaɪfstaɪl/",
+        "pos": "n",
+        "meaning": "lối sống",
+        "example": "Modern lifestyles in major cities are changing rapidly due to technological breakthroughs.",
+        "exampleVi": "Lối sống hiện đại ở các thành phố lớn đang biến chuyển nhanh chóng nhờ những đột phá công nghệ."
+      },
+      {
+        "stt": 32,
+        "word": "celebrate",
+        "ipa": "/ˈselɪbreɪt/",
+        "pos": "v",
+        "meaning": "tổ chức, ăn mừng",
+        "example": "Families gather together to celebrate traditional holidays with delicious home-cooked feasts.",
+        "exampleVi": "Các gia đình quây quần bên nhau để ăn mừng những ngày lễ truyền thống bằng những bữa cơm ấm cúng."
+      },
+      {
+        "stt": 33,
+        "word": "extracurricular",
+        "ipa": "/ˌekstrəkəˈrɪkjələ(r)/",
+        "pos": "adj",
+        "meaning": "ngoại khoá",
+        "example": "Participating in extracurricular activities like cultural clubs helps students build confidence.",
+        "exampleVi": "Tham gia vào các hoạt động ngoại khóa như câu lạc bộ văn hóa giúp học sinh xây dựng sự tự tin."
+      },
+      {
+        "stt": 34,
+        "word": "culture shock",
+        "ipa": "/ˈkʌltʃə ʃɒk/",
+        "pos": "n",
+        "meaning": "sốc văn hoá",
+        "example": "Moving abroad can cause severe culture shock for exchange students during their first months.",
+        "exampleVi": "Chuyển ra nước ngoài có thể gây sốc văn hóa nghiêm trọng cho du học sinh trong những tháng đầu tiên."
+      },
+      {
+        "stt": 35,
+        "word": "language barrier",
+        "ipa": "/ˈlæŋɡwɪdʒ ˈbæriə(r)/",
+        "pos": "n",
+        "meaning": "rào cản ngôn ngữ",
+        "example": "Learning key local phrases helps international travelers overcome the initial language barrier.",
+        "exampleVi": "Học một vài cụm từ địa phương thông dụng giúp du khách quốc tế vượt qua rào cản ngôn ngữ ban đầu."
+      },
+      {
+        "stt": 36,
+        "word": "unfamiliar",
+        "ipa": "/ˌʌnfəˈmɪliə(r)/",
+        "pos": "adj",
+        "meaning": "không quen thuộc, xa lạ",
+        "example": "Feeling anxious in an unfamiliar social environment is a natural human reaction.",
+        "exampleVi": "Cảm thấy bồn chồn trong một môi trường xã hội xa lạ là phản ứng tự nhiên của con người."
+      },
+      {
+        "stt": 37,
+        "word": "insulting",
+        "ipa": "/ɪnˈsʌltɪŋ/",
+        "pos": "adj",
+        "meaning": "xúc phạm",
+        "example": "Making certain hand gestures abroad can be considered offensive or highly insulting.",
+        "exampleVi": "Thực hiện một số cử chỉ tay ở nước ngoài có thể bị coi là xúc phạm hoặc bất lịch sự nghiêm trọng."
+      },
+      {
+        "stt": 38,
+        "word": "overcome",
+        "ipa": "/ˌəʊvəˈkʌm/",
+        "pos": "v",
+        "meaning": "vượt qua",
+        "example": "With patience and open-mindedness, you can easily overcome cultural misunderstandings.",
+        "exampleVi": "Với sự kiên nhẫn và tinh thần cởi mở, bạn có thể dễ dàng vượt qua những hiểu lầm văn hóa."
+      },
+      {
+        "stt": 39,
+        "word": "staple",
+        "ipa": "/ˈsteɪpl/",
+        "pos": "adj",
+        "meaning": "cơ bản, thiết yếu (staple food / dish)",
+        "example": "Pho and rice are staple foods in Vietnamese daily nutrition.",
+        "exampleVi": "Phở và cơm gạo là những thực phẩm thiết yếu trong bữa ăn hàng ngày của người Việt."
+      },
+      {
+        "stt": 40,
+        "word": "costume",
+        "ipa": "/ˈkɒstjuːm/",
+        "pos": "n",
+        "meaning": "trang phục truyền thống / hóa trang",
+        "example": "Performers in colorful traditional costumes danced gracefully to lively folk melodies.",
+        "exampleVi": "Những nghệ sĩ biểu diễn trong trang phục truyền thống rực rỡ đã nhảy múa uyển chuyển theo điệu dân ca."
+      },
+      {
+        "stt": 41,
+        "word": "admire",
+        "ipa": "/ədˈmaɪə(r)/",
+        "pos": "v",
+        "meaning": "ngắm nhìn, chiêm ngưỡng, ngưỡng mộ",
+        "example": "Thousands of travelers come to admire the ancient architecture of the Imperial Citadel.",
+        "exampleVi": "Hàng ngàn du khách đến để chiêm ngưỡng kiến trúc cổ kính của Hoàng thành."
+      },
+      {
+        "stt": 42,
+        "word": "confusion",
+        "ipa": "/kənˈfjuːʒn/",
+        "pos": "n",
+        "meaning": "sự bối rối, sự nhầm lẫn",
+        "example": "Differences in body language can create awkward confusion between conversational partners.",
+        "exampleVi": "Sự khác biệt về ngôn ngữ cơ thể có thể tạo ra sự bối rối gượng gạo giữa hai người đối thoại."
+      },
+      {
+        "stt": 43,
+        "word": "anxiety",
+        "ipa": "/æŋˈzaɪəti/",
+        "pos": "n",
+        "meaning": "sự lo lắng, cảm giác bồn chồn",
+        "example": "Moving to a foreign school caused a lot of anxiety for the young exchange student.",
+        "exampleVi": "Việc chuyển đến một ngôi trường ngoại quốc đã mang lại rất nhiều nỗi lo lắng cho du học sinh nhỏ tuổi."
+      },
+      {
+        "stt": 44,
+        "word": "a wide range of",
+        "ipa": "/ə waɪd reɪndʒ əv/",
+        "pos": "phrase",
+        "meaning": "đa dạng thứ gì, nhiều loại",
+        "example": "The festival offers a wide range of activities, from cooking workshops to music shows.",
+        "exampleVi": "Lễ hội mang đến đa dạng các hoạt động, từ hội thảo ẩm thực đến các chương trình âm nhạc."
+      },
+      {
+        "stt": 45,
+        "word": "gain in popularity",
+        "ipa": "/ɡeɪn ɪn ˌpɒpjuˈlærəti/",
+        "pos": "phrase",
+        "meaning": "ngày càng trở nên phổ biến",
+        "example": "Korean music and cuisine continue to gain in popularity among young people globally.",
+        "exampleVi": "Âm nhạc và ẩm thực Hàn Quốc tiếp tục ngày càng trở nên phổ biến trong giới trẻ toàn cầu."
+      },
+      {
+        "stt": 46,
+        "word": "be on the rise",
+        "ipa": "/biː ɒn ðə raɪz/",
+        "pos": "phrase",
+        "meaning": "đang gia tăng",
+        "example": "Fast food consumption is on the rise in many fast-growing urban centers.",
+        "exampleVi": "Mức tiêu thụ đồ ăn nhanh đang gia tăng tại nhiều trung tâm đô thị phát triển nhanh."
+      },
+      {
+        "stt": 47,
+        "word": "keep up with",
+        "ipa": "/kiːp ʌp wɪð/",
+        "pos": "ph.v",
+        "meaning": "theo kịp, bắt kịp",
+        "example": "Young professionals must constantly upgrade their skills to keep up with global trends.",
+        "exampleVi": "Người đi làm trẻ tuổi phải liên tục nâng cao kỹ năng để bắt kịp các xu hướng toàn cầu."
+      },
+      {
+        "stt": 48,
+        "word": "sense of identity",
+        "ipa": "/sens əv aɪˈdentəti/",
+        "pos": "phrase",
+        "meaning": "tinh thần bản sắc, ý thức về cội nguồn",
+        "example": "Maintaining a strong sense of identity gives people a deep feeling of belonging.",
+        "exampleVi": "Gìn giữ một tinh thần bản sắc vững mạnh mang lại cho con người cảm giác thuộc về sâu sắc."
+      },
+      {
+        "stt": 49,
+        "word": "take seriously",
+        "ipa": "/teɪk ˈsɪəriəsli/",
+        "pos": "phrase",
+        "meaning": "để tâm, chú ý, coi trọng thứ gì",
+        "example": "Travelers should take local customs seriously when visiting sacred temples and heritage sites.",
+        "exampleVi": "Du khách nên đặc biệt coi trọng phong tục địa phương khi thăm viếng các ngôi đền linh thiêng và di tích di sản."
+      }
+    ],
+    "grammar": {
+      "title": "Chuyên đề mạo từ: A / AN, THE & ZERO ARTICLE (Mạo từ)",
+      "sections": [
+        {
+          "heading": "1. Mạo từ bất định (Indefinite Articles): A / AN",
+          "content": "Dùng 'a' hoặc 'an' trước danh từ đếm được số ít khi người nghe/đọc chưa biết chính xác đối tượng đó hoặc khi đối tượng được nhắc đến lần đầu tiên.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Dùng 'an' trước từ bắt đầu bằng nguyên âm (u, e, o, a, i theo cách phát âm) hoặc phụ âm 'h' câm.",
+              "example": "an hour, an honest person, an uncle, an elephant",
+              "highlight": true
+            },
+            {
+              "rule": "Dùng 'a' trước từ bắt đầu bằng một phụ âm (kể cả chữ cái là nguyên âm nhưng phát âm là bán nguyên âm /j/ hoặc /w/).",
+              "example": "a book, a unit (/ˈjuːnɪt/), a university, a European (/ˌjʊərəˈpiːən/)",
+              "highlight": false
+            },
+            {
+              "rule": "Dùng trước danh từ chỉ nghề nghiệp.",
+              "example": "She wants to become a doctor. / My father is an engineer.",
+              "highlight": false
+            },
+            {
+              "rule": "Dùng trong các từ/cụm từ chỉ số lượng: a hundred, a thousand, a million, a pair of shoes, a few, a little, a wide range of...",
+              "example": "The festival offers a wide range of activities.",
+              "highlight": false
+            },
+            {
+              "rule": "KHÔNG dùng a/an trước danh từ không đếm được (sugar, milk, information, water, advice, weather...).",
+              "example": "I need some information (NOT an information).",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Trường hợp BẮT BUỘC DÙNG 'THE' (Definite Article)",
+          "content": "Dùng 'the' khi danh từ đã được xác định cụ thể, người nói và người nghe đều biết rõ đối tượng đang được đề cập.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Trước tên các đại dương, sông ngòi, biển, vịnh và các hồ (ở số nhiều): The Atlantic Ocean, the Amazon River, the Red Sea, the Persian Gulf, the Great Lakes.",
+              "example": "We took a boat tour along the Amazon River.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước tên các DÃY NÚI (số nhiều): The Rocky Mountains, the Himalayas, the Alps.",
+              "example": "Mount Everest is located in the Himalayas.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước vật thể duy nhất trong vũ trụ hoặc trên thế giới: The earth, the sun, the moon, the universe, the world.",
+              "example": "The moon orbits the earth.",
+              "highlight": false
+            },
+            {
+              "rule": "Cấu trúc The schools, colleges, universities + OF + danh từ riêng: The University of Florida, The College of Arts.",
+              "example": "He graduated from the University of London.",
+              "highlight": false
+            },
+            {
+              "rule": "the + số thứ tự + danh từ: The first lesson, the second time, the third chapter.",
+              "example": "Please turn to the third chapter.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên các cuộc chiến tranh khu vực được tính từ hóa: The Korean War, The Vietnamese economy.",
+              "example": "Many veterans survived the Korean War.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên quốc gia có từ hai từ trở lên (trừ Great Britain) hoặc có chứa Republic, Kingdom, States: The United States, The United Kingdom, The Czech Republic.",
+              "example": "The United States is home to diverse cultures.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước tên quốc gia là một quần đảo hoặc quần đảo: The Philippines, The Virgin Islands, The Hawaii.",
+              "example": "Tropical storms often hit the Philippines.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên tài liệu lịch sử hoặc sự kiện quan trọng: The Constitution, The Magna Carta.",
+              "example": "The Constitution guarantees fundamental rights.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên nhóm dân tộc thiểu số hoặc quốc tịch số nhiều chỉ tập thể: The Indians, The Vietnamese, The French.",
+              "example": "The Indians shared their traditional corn cultivation methods.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên môn học cụ thể: The Solid Matter Physics.",
+              "example": "He wrote a thesis on the Solid Matter Physics.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên NHẠC CỤ khi đề cập chung hoặc trong cụm từ 'play the + nhạc cụ': The violin is difficult to play / Who is that on the piano? / play the guitar.",
+              "example": "My brother plays the violin in the school orchestra.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Trường hợp KHÔNG DÙNG 'THE' (Zero Article - Ø)",
+          "content": "Quy tắc không sử dụng mạo từ xác định 'the' trước các danh từ riêng, địa danh đơn lẻ hoặc khái niệm chung.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Trước tên MỘT HỒ NƯỚC đơn lẻ (có chữ Lake đứng trước): Lake Geneva, Lake Baikal, Lake Superior.",
+              "example": "They are planning a trip to explore Lake Geneva.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước tên MỘT NGỌN NÚI đơn lẻ (có chữ Mount đứng trước): Mount Everest, Mount Vesuvius, Mount Fuji.",
+              "example": "They visited Mount Vesuvius in Italy.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước tên các hành tinh hoặc chòm sao: Venus, Mars, Jupiter, Orion.",
+              "example": "Mars is known as the Red Planet.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên trường học nếu tên riêng đứng trước: Stetson University, Harvard University, Oxford University (so sánh với 'The University of Oxford').",
+              "example": "She applied to Harvard University.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước danh từ đi cùng với SỐ ĐẾM: Chapter three, Gate 5, Room 102 (so sánh với 'The third chapter').",
+              "example": "Read Chapter three for homework.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên quốc gia bắt đầu bằng New, chỉ phương hướng hoặc quốc gia chỉ có MỘT TỪ: New Zealand, North Korea, France, Vietnam, Japan.",
+              "example": "They moved to New Zealand last spring.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước tên các lục địa, tỉnh, tiểu bang, thành phố, quận, huyện: Europe, Asia, Florida, Tokyo, Hanoi.",
+              "example": "Globalisation connects cities across Europe and Asia.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên bất kỳ MÔN THỂ THAO nào: baseball, basketball, football, tennis, badminton.",
+              "example": "He loves playing football on weekends.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước DANH TỪ TRỪU TƯỢNG nói chung: freedom, happiness, love, honesty, peace.",
+              "example": "Freedom is valued across every democratic culture.",
+              "highlight": false
+            },
+            {
+              "rule": "Trước tên MÔN HỌC nói chung: mathematics, history, physics, biology.",
+              "example": "She wants to major in mathematics at university.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước tên các NGÀY LỄ, TẾT: Christmas, Thanksgiving, Easter, New Year, Tet.",
+              "example": "People celebrate Christmas by sharing meals together.",
+              "highlight": true
+            },
+            {
+              "rule": "Trước tên nhạc cụ trong các hình thức biểu diễn thể loại âm nhạc cụ thể: To perform jazz on trumpet and piano.",
+              "example": "He loves playing jazz on trumpet and piano.",
+              "highlight": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Bài tập trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Vietnam is a nation with rich _________, featuring many unique customs across different regions.",
+          "options": ["language barrier", "cultural diversity", "culture shock", "daily argument"],
+          "correctIndex": 1,
+          "explanation": "Cụm danh từ 'cultural diversity' (sự đa dạng văn hóa) phù hợp nhất với ngữ cảnh Việt Nam có nhiều phong tục độc đáo giữa các vùng miền."
+        },
+        {
+          "id": 2,
+          "question": "Pho is considered a _________ dish in Vietnamese cuisine, eaten by millions every morning.",
+          "options": ["staple", "spicy", "cross-cultural", "multi-cultural"],
+          "correctIndex": 0,
+          "explanation": "'Staple dish' mang nghĩa là món ăn cơ bản / thiết yếu trong khẩu phần ăn hàng ngày."
+        },
+        {
+          "id": 3,
+          "question": "During the school international festival, students visited each _________ to sample traditional foods.",
+          "options": ["custom", "autograph", "booth", "barrier"],
+          "correctIndex": 2,
+          "explanation": "'booth' nghĩa là gian hàng hội chợ nơi trưng bày và phục vụ đồ ăn, đồ lưu niệm."
+        },
+        {
+          "id": 4,
+          "question": "Wearing traditional ao dai helps young people maintain a strong _________ in a modern world.",
+          "options": ["sense of identity", "gain in popularity", "trend", "language barrier"],
+          "correctIndex": 0,
+          "explanation": "Cụm từ cố định 'sense of identity' nghĩa là ý thức về cội nguồn, tinh thần bản sắc văn hóa."
+        },
+        {
+          "id": 5,
+          "question": "Moving to a foreign country with completely unfamiliar customs can often cause severe _________.",
+          "options": ["cuisine", "culture shock", "specialty", "festivity"],
+          "correctIndex": 1,
+          "explanation": "'culture shock' (sốc văn hóa) là cảm giác bỡ ngỡ, choáng ngợp trước những phong tục hoàn toàn xa lạ ở xứ người."
+        },
+        {
+          "id": 6,
+          "question": "Korean pop music has continued to _________ among teenagers in Southeast Asia over the last decade.",
+          "options": ["gain in popularity", "adapt to", "respect", "overcome"],
+          "correctIndex": 0,
+          "explanation": "Cụm thành ngữ 'gain in popularity' mang nghĩa là ngày càng trở nên thịnh hành, phổ biến."
+        },
+        {
+          "id": 7,
+          "question": "Traditional street games like _________ and bamboo dancing were the main highlights of the festival.",
+          "options": ["trend", "tug of war", "globalisation", "footprint"],
+          "correctIndex": 1,
+          "explanation": "'tug of war' (trò chơi kéo co) ghép cùng với 'bamboo dancing' (nhảy sạp) là hai trò chơi dân gian đặc trưng."
+        },
+        {
+          "id": 8,
+          "question": "The fusion restaurant serves dishes that _________ Asian spices with Western cooking techniques.",
+          "options": ["reflect", "admire", "blend", "overcome"],
+          "correctIndex": 2,
+          "explanation": "'blend' nghĩa là pha trộn, hòa quyện hoặc kết hợp gia vị châu Á với kỹ thuật nấu ăn phương Tây."
+        },
+        {
+          "id": 9,
+          "question": "International festivals offer _________ of activities, from cooking workshops to musical performances.",
+          "options": ["a wide range", "a sense of identity", "a custom", "a language barrier"],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc 'a wide range of something' mang nghĩa là mang đến một chuỗi rất đa dạng các hoạt động."
+        },
+        {
+          "id": 10,
+          "question": "You should be careful with gestures abroad, as making the wrong motion can be seen as highly _________.",
+          "options": ["connected", "unique", "insulting", "staple"],
+          "correctIndex": 2,
+          "explanation": "'insulting' (tính từ) nghĩa là xúc phạm, sỉ nhục hoặc thiếu tôn trọng người bản xứ."
+        },
+        {
+          "id": 11,
+          "question": "My brother plays _________ violin in the school orchestra every Friday afternoon.",
+          "options": ["a", "an", "the", "Ø (không dùng mạo từ)"],
+          "correctIndex": 2,
+          "explanation": "Quy tắc: Luôn dùng mạo từ 'the' trước tên nhạc cụ khi nói về việc chơi nhạc cụ (play the violin, play the piano)."
+        },
+        {
+          "id": 12,
+          "question": "They are planning a summer trip to explore the natural beauty around _________ Lake Geneva.",
+          "options": ["a", "an", "the", "Ø (không dùng mạo từ)"],
+          "correctIndex": 3,
+          "explanation": "Quy tắc: KHÔNG dùng mạo từ 'the' trước tên một hồ nước đơn lẻ có từ 'Lake' đứng trước (Lake Geneva)."
+        },
+        {
+          "id": 13,
+          "question": "_________ United States is home to people from many different cultural backgrounds.",
+          "options": ["A", "An", "The", "Ø (không dùng mạo từ)"],
+          "correctIndex": 2,
+          "explanation": "Quy tắc: Dùng 'The' trước tên quốc gia có từ hai từ trở lên hoặc có chứa States, Kingdom, Republic (The United States)."
+        },
+        {
+          "id": 14,
+          "question": "We took a boat tour along _________ Amazon River to experience the rainforest.",
+          "options": ["a", "an", "the", "Ø (không dùng mạo từ)"],
+          "correctIndex": 2,
+          "explanation": "Quy tắc: Dùng mạo từ 'the' trước tên các dòng sông (the Amazon River, the Nile, the Mekong River)."
+        },
+        {
+          "id": 15,
+          "question": "She wants to major in _________ mathematics when she goes to university next year.",
+          "options": ["a", "an", "the", "Ø (không dùng mạo từ)"],
+          "correctIndex": 3,
+          "explanation": "Quy tắc: KHÔNG dùng mạo từ trước tên các môn học nói chung (mathematics, physics, history)."
+        },
+        {
+          "id": 16,
+          "question": "Fast food culture is currently _________ in many developing nations.",
+          "options": ["in the rise", "on the rise", "at the rise", "on a rise"],
+          "correctIndex": 1,
+          "explanation": "Cụm cố định 'be on the rise' nghĩa là đang trên đà gia tăng nhanh chóng."
+        },
+        {
+          "id": 17,
+          "question": "Foreign tourists need time to _________ the initial language barrier when living abroad.",
+          "options": ["overcome", "captivate", "reflect", "admire"],
+          "correctIndex": 0,
+          "explanation": "Cụm 'overcome the language barrier' nghĩa là vượt qua được rào cản ngôn ngữ."
+        },
+        {
+          "id": 18,
+          "question": "Mount Everest, located in _________ Himalayas, is the tallest peak in the world.",
+          "options": ["a", "an", "the", "Ø (không dùng mạo từ)"],
+          "correctIndex": 2,
+          "explanation": "Quy tắc: Dùng mạo từ 'the' trước tên các dãy núi (danh từ số nhiều như the Himalayas, the Rocky Mountains)."
+        },
+        {
+          "id": 19,
+          "question": "Young people need to learn English to _________ global technology trends.",
+          "options": ["rely on", "keep up with", "complain about", "consist of"],
+          "correctIndex": 1,
+          "explanation": "Cụm động từ 'keep up with' mang nghĩa là theo kịp, bắt kịp với xu thế thời đại."
+        },
+        {
+          "id": 20,
+          "question": "People in this village celebrate _________ Christmas by sharing traditional meals together.",
+          "options": ["a", "an", "the", "Ø (không dùng mạo từ)"],
+          "correctIndex": 3,
+          "explanation": "Quy tắc: KHÔNG dùng mạo từ trước tên các ngày lễ, Tết truyền thống (Christmas, Thanksgiving, New Year)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền vào chỗ trống (Fill in the blanks)",
+      "wordbank": [
+        "cuisine",
+        "souvenir",
+        "respect",
+        "captivate",
+        "custom",
+        "globalisation",
+        "unfamiliar",
+        "ingredients",
+        "unique",
+        "extracurricular",
+        "language barrier",
+        "costume",
+        "costumes",
+        "appreciate",
+        "anxiety",
+        "trend",
+        "trends"
+      ],
+      "questions": [
+        {
+          "id": 21,
+          "question": "Italian ______ is famous worldwide for dishes like pasta and pizza.",
+          "answer": "cuisine"
+        },
+        {
+          "id": 22,
+          "question": "I bought a traditional hand-woven fan as a ______ during my visit to Hoi An.",
+          "answer": "souvenir"
+        },
+        {
+          "id": 23,
+          "question": "The high cost of living in major cities is an issue that affects every ______ of modern life.",
+          "answer": "respect",
+          "acceptAlternatives": ["aspect"]
+        },
+        {
+          "id": 24,
+          "question": "The performance was so beautiful that it managed to ______ the entire audience from start to finish.",
+          "answer": "captivate"
+        },
+        {
+          "id": 25,
+          "question": "Wearing black clothes at a funeral is a common ______ in many Western countries.",
+          "answer": "custom"
+        },
+        {
+          "id": 26,
+          "question": "Due to ______, people around the world can easily share ideas, food, and media.",
+          "answer": "globalisation",
+          "acceptAlternatives": ["globalization"]
+        },
+        {
+          "id": 27,
+          "question": "When travelling to a new country, feeling nervous in ______ environments is quite normal.",
+          "answer": "unfamiliar"
+        },
+        {
+          "id": 28,
+          "question": "Fresh herbs and local spices are key ______ in making authentic Vietnamese broth.",
+          "answer": "ingredients",
+          "acceptAlternatives": ["ingredient"]
+        },
+        {
+          "id": 29,
+          "question": "Each region has its own ______ cooking methods that cannot be found anywhere else.",
+          "answer": "unique"
+        },
+        {
+          "id": 30,
+          "question": "Participating in ______ activities like cultural clubs helps students build confidence.",
+          "answer": "extracurricular"
+        },
+        {
+          "id": 31,
+          "question": "Learning a few local phrases can help international travelers overcome the initial ______.",
+          "answer": "language barrier",
+          "acceptAlternatives": ["language-barrier"]
+        },
+        {
+          "id": 32,
+          "question": "Performers in colorful traditional ______ danced gracefully to folk music.",
+          "answer": "costumes",
+          "acceptAlternatives": ["costume"]
+        },
+        {
+          "id": 33,
+          "question": "Taking time to ______ different traditions helps people foster mutual respect.",
+          "answer": "appreciate"
+        },
+        {
+          "id": 34,
+          "question": "Moving to a foreign school created a lot of ______ for the young student.",
+          "answer": "anxiety"
+        },
+        {
+          "id": 35,
+          "question": "Following the latest fashion ______ can be expensive for teenagers.",
+          "answer": "trends",
+          "acceptAlternatives": ["trend"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu hoàn chỉnh (Sentence Arrangement)",
+      "questions": [
+        {
+          "id": 36,
+          "words": ["Many", "foreign", "tourists", "enjoy", "Vietnamese", "street", "food"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "Many foreign tourists enjoy Vietnamese street food."
+        },
+        {
+          "id": 37,
+          "words": ["Globalisation", "brings", "different", "cultures", "closer", "together"],
+          "correctOrder": [0, 1, 2, 3, 4, 5],
+          "answer": "Globalisation brings different cultures closer together.",
+          "acceptAlternatives": [
+            "Globalisation brings different cultures together closer."
+          ]
+        },
+        {
+          "id": 38,
+          "words": ["They", "visited", "the", "United Kingdom", "last", "summer", "holiday"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "They visited the United Kingdom last summer holiday."
+        },
+        {
+          "id": 39,
+          "words": ["You", "should", "take", "cultural", "traditions", "seriously", "when", "visiting", "sacred", "places"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+          "answer": "You should take cultural traditions seriously when visiting sacred places."
+        },
+        {
+          "id": 40,
+          "words": ["She", "bought", "a", "handmade", "souvenir", "at", "the", "local", "market"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "She bought a handmade souvenir at the local market."
+        },
+        {
+          "id": 41,
+          "words": ["My", "sister", "plays", "the", "piano", "very", "well"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "My sister plays the piano very well."
+        },
+        {
+          "id": 42,
+          "words": ["The", "school", "organized", "a festival", "offering", "a", "wide", "range", "of", "activities"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+          "answer": "The school organized a festival offering a wide range of activities.",
+          "acceptAlternatives": [
+            "The school organized a festival offering a wide range of activities"
+          ]
+        },
+        {
+          "id": 43,
+          "words": ["Moving", "abroad", "can", "cause", "severe", "culture shock", "for", "teenagers"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "Moving abroad can cause severe culture shock for teenagers.",
+          "acceptAlternatives": [
+            "Moving abroad can cause severe culture shock for teenagers"
+          ]
+        },
+        {
+          "id": 44,
+          "words": ["We", "must", "learn", "to", "overcome", "language", "barriers", "when", "travelling"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "We must learn to overcome language barriers when travelling."
+        },
+        {
+          "id": 45,
+          "words": ["Modern", "lifestyles", "are", "changing", "rapidly", "due to", "technology"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "Modern lifestyles are changing rapidly due to technology."
+        },
+        {
+          "id": 46,
+          "words": ["Traditional", "costumes", "reflect", "the", "rich", "culture", "of", "a", "nation"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "Traditional costumes reflect the rich culture of a nation."
+        },
+        {
+          "id": 47,
+          "words": ["They", "went", "hiking", "in", "the", "Rocky", "Mountains", "last", "month"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "They went hiking in the Rocky Mountains last month."
+        },
+        {
+          "id": 48,
+          "words": ["Pho", "is", "a", "staple", "dish", "in", "Vietnamese", "daily", "life"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "Pho is a staple dish in Vietnamese daily life."
+        },
+        {
+          "id": 49,
+          "words": ["Students", "should", "keep up with", "global", "trends", "in", "education"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "Students should keep up with global trends in education."
+        },
+        {
+          "id": 50,
+          "words": ["The", "popularity", "of", "foreign", "films", "is", "on", "the", "rise"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "The popularity of foreign films is on the rise."
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu không đổi nghĩa (Sentence Rewriting)",
+      "questions": [
+        {
+          "id": 51,
+          "question": "There are many different traditional dishes at the festival.",
+          "hint": "A WIDE RANGE OF",
+          "startWith": "The festival offers",
+          "answer": "The festival offers a wide range of traditional dishes.",
+          "acceptAlternatives": [
+            "The festival offers a wide range of traditional dishes",
+            "The festival offers a wide range of dishes.",
+            "There is a wide range of traditional dishes at the festival.",
+            "There is a wide range of traditional dishes at the festival"
+          ]
+        },
+        {
+          "id": 52,
+          "question": "More and more young people are listening to K-pop nowadays.",
+          "hint": "ON THE RISE",
+          "startWith": "The popularity of K-pop",
+          "answer": "The popularity of K-pop is on the rise nowadays.",
+          "acceptAlternatives": [
+            "The popularity of K-pop is on the rise nowadays",
+            "The popularity of K-pop is on the rise.",
+            "The popularity of K-pop is on the rise",
+            "Listening to K-pop is on the rise nowadays."
+          ]
+        },
+        {
+          "id": 53,
+          "question": "It is important to pay attention to local customs when travelling abroad.",
+          "hint": "TAKE... SERIOUSLY",
+          "startWith": "Travelers should",
+          "answer": "Travelers should take local customs seriously when travelling abroad.",
+          "acceptAlternatives": [
+            "Travelers should take local customs seriously when travelling abroad",
+            "Travelers should take local customs seriously when traveling abroad.",
+            "Travelers should take cultural traditions seriously when travelling abroad.",
+            "You should take local customs seriously when travelling abroad.",
+            "We should take local customs seriously when travelling abroad."
+          ]
+        },
+        {
+          "id": 54,
+          "question": "The performance was so charming that everyone was attracted by it.",
+          "hint": "CAPTIVATED",
+          "startWith": "The charming performance",
+          "answer": "The charming performance captivated everyone from start to finish.",
+          "acceptAlternatives": [
+            "The charming performance captivated everyone from start to finish",
+            "The charming performance captivated everyone.",
+            "The charming performance captivated everyone",
+            "The performance was so charming that it captivated everyone.",
+            "The performance was so charming that it captivated everyone"
+          ]
+        },
+        {
+          "id": 55,
+          "question": "He finds it difficult to stay updated with new cultural trends.",
+          "hint": "KEEP UP WITH",
+          "startWith": "It is hard for him",
+          "answer": "It is hard for him to keep up with new cultural trends.",
+          "acceptAlternatives": [
+            "It is hard for him to keep up with new cultural trends",
+            "It is difficult for him to keep up with new cultural trends.",
+            "It is difficult for him to keep up with new cultural trends",
+            "He finds it hard to keep up with new cultural trends.",
+            "He finds it hard to keep up with new cultural trends"
+          ]
+        },
+        {
+          "id": 56,
+          "question": "Her ambition is to become a professional doctor in the future.",
+          "hint": "A",
+          "startWith": "She wants to",
+          "answer": "She wants to become a doctor in the future.",
+          "acceptAlternatives": [
+            "She wants to become a doctor in the future",
+            "She wants to become a professional doctor in the future.",
+            "She wants to become a professional doctor in the future"
+          ]
+        },
+        {
+          "id": 57,
+          "question": "Mount Vesuvius is an active volcano located in Italy.",
+          "hint": "ZERO ARTICLE (KHÔNG DÙNG THE TRƯỚC MOUNT)",
+          "startWith": "They visited",
+          "answer": "They visited Mount Vesuvius in Italy last year.",
+          "acceptAlternatives": [
+            "They visited Mount Vesuvius in Italy last year",
+            "They visited Mount Vesuvius in Italy.",
+            "They visited Mount Vesuvius in Italy",
+            "Mount Vesuvius is an active volcano in Italy.",
+            "Mount Vesuvius is located in Italy."
+          ]
+        },
+        {
+          "id": 58,
+          "question": "The Pacific Ocean is the largest ocean on Earth.",
+          "hint": "THE",
+          "startWith": "Among all oceans,",
+          "answer": "Among all oceans, the Pacific Ocean is the largest.",
+          "acceptAlternatives": [
+            "Among all oceans, the Pacific Ocean is the largest",
+            "Among all oceans, the Pacific Ocean is the largest ocean.",
+            "Among all oceans, the Pacific Ocean is the largest ocean on Earth.",
+            "The Pacific Ocean is the largest ocean in the world."
+          ]
+        },
+        {
+          "id": 59,
+          "question": "Having a distinct cultural identity gives people a feeling of belonging.",
+          "hint": "SENSE OF IDENTITY",
+          "startWith": "Maintaining a strong",
+          "answer": "Maintaining a strong sense of identity gives people a feeling of belonging.",
+          "acceptAlternatives": [
+            "Maintaining a strong sense of identity gives people a feeling of belonging",
+            "Having a strong sense of identity gives people a feeling of belonging.",
+            "A strong sense of identity gives people a feeling of belonging.",
+            "Maintaining a sense of identity gives people a feeling of belonging."
+          ]
+        },
+        {
+          "id": 60,
+          "question": "Understanding different cultures helps people beat initial cultural confusion.",
+          "hint": "OVERCOME",
+          "startWith": "Learning about cultures helps people",
+          "answer": "Learning about cultures helps people overcome initial cultural confusion.",
+          "acceptAlternatives": [
+            "Learning about cultures helps people overcome initial cultural confusion",
+            "Understanding different cultures helps people overcome initial cultural confusion.",
+            "Understanding different cultures helps people overcome initial cultural confusion",
+            "Learning about different cultures helps people overcome initial cultural confusion."
+          ]
+        }
+      ]
+    }
+  }
+}
