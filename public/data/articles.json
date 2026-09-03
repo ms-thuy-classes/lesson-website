@@ -1,7 +1,19 @@
 {
-  "totalLessons": 12,
+  "totalLessons": 13,
   "lessonsPerPage": 10,
   "lessons": [
+    {
+      "id": "unit-2-grade-11-generation-gap",
+      "title": "Unit 2: Generation Gap (Lớp 11)",
+      "description": "Khoảng cách thế hệ, gia đình đa thế hệ và chuyên đề Modal Verbs: must, have to, should, ought to",
+      "tags": ["Lớp 11"],
+      "level": "Intermediate",
+      "vocabCount": 45,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-2-grade-11-generation-gap.json",
+      "thumbnail": "gradient-pastel"
+    },
     {
       "id": "unit-1-life-stories",
       "title": "Unit 1: Life Stories We Admire",

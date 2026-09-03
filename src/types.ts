@@ -65,6 +65,7 @@ export interface ArrangeQuestion {
   words: string[];
   correctOrder: number[];
   answer: string;
+  acceptAlternatives?: string[];
 }
 
 export interface RewriteQuestion {

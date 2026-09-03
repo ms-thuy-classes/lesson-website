@@ -1,0 +1,996 @@
+{
+  "id": "unit-2-grade-11-generation-gap",
+  "title": "Unit 2: Generation Gap (Grade 11)",
+  "tags": ["Lớp 11"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "adapt to",
+        "ipa": "/əˈdæpt tuː/",
+        "pos": "ph.v",
+        "meaning": "thích nghi với",
+        "example": "Teenagers need to learn how to adapt to new environments when moving to college.",
+        "exampleVi": "Thanh thiếu niên cần học cách thích nghi với môi trường mới khi bước vào đại học."
+      },
+      {
+        "stt": 2,
+        "word": "argue",
+        "ipa": "/ˈɑːrɡjuː/",
+        "pos": "v",
+        "meaning": "tranh luận, tranh cãi",
+        "example": "Siblings often argue about who should do the household chores.",
+        "exampleVi": "Anh chị em thường tranh cãi về việc ai nên làm việc nhà."
+      },
+      {
+        "stt": 3,
+        "word": "behavior",
+        "ipa": "/bɪˈheɪvjər/",
+        "pos": "n",
+        "meaning": "hành vi",
+        "example": "Parents are very concerned about their children's behavior at school.",
+        "exampleVi": "Cha mẹ rất quan tâm đến hành vi của con cái ở trường."
+      },
+      {
+        "stt": 4,
+        "word": "belief",
+        "ipa": "/bɪˈliːf/",
+        "pos": "n",
+        "meaning": "niềm tin",
+        "example": "Older generations often hold a firm belief in traditional values.",
+        "exampleVi": "Các thế hệ đi trước thường giữ niềm tin vững chắc vào các giá trị truyền thống."
+      },
+      {
+        "stt": 5,
+        "word": "breadwinner",
+        "ipa": "/ˈbrɛdˌwɪnər/",
+        "pos": "n",
+        "meaning": "người trụ cột gia đình",
+        "example": "My father is the main breadwinner in our household; he works hard to pay for all expenses.",
+        "exampleVi": "Bố tôi là người trụ cột chính trong nhà; ông làm việc chăm chỉ để trang trải mọi chi phí."
+      },
+      {
+        "stt": 6,
+        "word": "career choices",
+        "ipa": "/kəˈrɪər ˈtʃɔɪsɪz/",
+        "pos": "n",
+        "meaning": "lựa chọn nghề nghiệp",
+        "example": "Teenagers want to make their own career choices instead of following family pressure.",
+        "exampleVi": "Thanh thiếu niên muốn tự đưa ra lựa chọn nghề nghiệp thay vì chịu áp lực gia đình."
+      },
+      {
+        "stt": 7,
+        "word": "characteristic",
+        "ipa": "/ˌkærɪktərˈɪstɪk/",
+        "pos": "n",
+        "meaning": "đặc điểm",
+        "example": "Independence is a prominent characteristic of Generation Z.",
+        "exampleVi": "Tính độc lập là một đặc điểm nổi bật của thế hệ Gen Z."
+      },
+      {
+        "stt": 8,
+        "word": "common",
+        "ipa": "/ˈkɒmən/",
+        "pos": "adj",
+        "meaning": "phổ biến, thông thường",
+        "example": "Disagreements over clothes and hairstyles are common between parents and teens.",
+        "exampleVi": "Bất đồng về trang phục và kiểu tóc rất phổ biến giữa cha mẹ và con cái."
+      },
+      {
+        "stt": 9,
+        "word": "complain about",
+        "ipa": "/kəmˈpleɪn əˈbaʊt/",
+        "pos": "ph.v",
+        "meaning": "phàn nàn về",
+        "example": "Parents often complain about their children spending too much screen time every day.",
+        "exampleVi": "Cha mẹ thường phàn nàn về việc con cái dành quá nhiều thời gian dùng màn hình mỗi ngày."
+      },
+      {
+        "stt": 10,
+        "word": "conflict",
+        "ipa": "/ˈkɒnflɪkt/",
+        "pos": "n",
+        "meaning": "xung đột",
+        "example": "Open communication helps family members resolve conflict peacefully.",
+        "exampleVi": "Giao tiếp cởi mở giúp các thành viên trong gia đình giải quyết xung đột một cách êm đẹp."
+      },
+      {
+        "stt": 11,
+        "word": "consist of",
+        "ipa": "/kənˈsɪst ɒv/",
+        "pos": "ph.v",
+        "meaning": "bao gồm",
+        "example": "A modern nuclear family usually consists of parents and their children.",
+        "exampleVi": "Một gia đình hạt nhân hiện đại thường bao gồm cha mẹ và các con."
+      },
+      {
+        "stt": 12,
+        "word": "critical thinker",
+        "ipa": "/ˈkrɪtɪkəl ˈθɪŋkər/",
+        "pos": "n",
+        "meaning": "người có tư duy phản biện",
+        "example": "A critical thinker always analyzes information carefully before accepting it as true.",
+        "exampleVi": "Người có tư duy phản biện luôn phân tích kỹ thông tin trước khi chấp nhận đó là sự thật."
+      },
+      {
+        "stt": 13,
+        "word": "curious about",
+        "ipa": "/ˈkjʊriəs əˈbaʊt/",
+        "pos": "ph.v",
+        "meaning": "tò mò về",
+        "example": "Young children are naturally curious about everything around them and love asking questions.",
+        "exampleVi": "Trẻ nhỏ vốn tò mò về mọi thứ xung quanh và rất thích đặt câu hỏi."
+      },
+      {
+        "stt": 14,
+        "word": "daily argument",
+        "ipa": "/ˈdeɪli ˈɑːrɡjəmənt/",
+        "pos": "ph.v",
+        "meaning": "cuộc tranh luận hàng ngày",
+        "example": "Having a daily argument over homework or curfew can exhaust family relationships.",
+        "exampleVi": "Những cuộc tranh cãi hàng ngày về bài tập hay giờ giới nghiêm có thể làm mệt mỏi mối quan hệ gia đình."
+      },
+      {
+        "stt": 15,
+        "word": "digital natives",
+        "ipa": "/ˈdɪdʒɪtəl ˈneɪtɪvz/",
+        "pos": "n",
+        "meaning": "thế hệ sinh ra trong kỷ nguyên số",
+        "example": "Members of Gen Z are digital natives because they grew up with smartphones and computers.",
+        "exampleVi": "Gen Z là thế hệ sinh ra trong kỷ nguyên số vì họ lớn lên cùng điện thoại thông minh và máy tính."
+      },
+      {
+        "stt": 16,
+        "word": "disagreement",
+        "ipa": "/ˌdɪsəˈɡriːmənt/",
+        "pos": "n",
+        "meaning": "sự bất đồng ý kiến",
+        "example": "Although my brother and I had a disagreement yesterday, we made peace this morning.",
+        "exampleVi": "Mặc dù hôm qua hai anh em tôi có bất đồng ý kiến, sáng nay chúng tôi đã làm hòa."
+      },
+      {
+        "stt": 17,
+        "word": "experience",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "pos": "n",
+        "meaning": "kinh nghiệm, trải nghiệm",
+        "example": "Teenagers ought to respect their elders' valuable life experience and advice.",
+        "exampleVi": "Thanh thiếu niên nên tôn trọng kinh nghiệm sống quý báu và lời khuyên của người lớn tuổi."
+      },
+      {
+        "stt": 18,
+        "word": "express opinion",
+        "ipa": "/ɪkˈsprɛs əˈpɪnjən/",
+        "pos": "ph.v",
+        "meaning": "bày tỏ ý kiến",
+        "example": "Teenagers should be encouraged to express their own opinion on social matters.",
+        "exampleVi": "Thanh thiếu niên nên được khuyến khích bày tỏ ý kiến riêng về các vấn đề xã hội."
+      },
+      {
+        "stt": 19,
+        "word": "extended family",
+        "ipa": "/ɪkˈstɛndɪd ˈfæməli/",
+        "pos": "n",
+        "meaning": "gia đình nhiều thế hệ, đại gia đình",
+        "example": "My grandparents live in an extended family, including three generations under the same roof.",
+        "exampleVi": "Ông bà tôi sống trong một đại gia đình gồm ba thế hệ dưới cùng một mái nhà."
+      },
+      {
+        "stt": 20,
+        "word": "eyesight",
+        "ipa": "/ˈaɪˌsaɪt/",
+        "pos": "n",
+        "meaning": "thị lực",
+        "example": "Staring at mobile phones in the dark can severely damage your eyesight.",
+        "exampleVi": "Nhìn chằm chằm vào điện thoại trong bóng tối có thể làm hỏng thị lực của bạn nghiêm trọng."
+      },
+      {
+        "stt": 21,
+        "word": "footstep",
+        "ipa": "/ˈfʊtstɛp/",
+        "pos": "n",
+        "meaning": "dấu chân, bước chân",
+        "example": "My father is a doctor, but I do not want to follow in his footsteps.",
+        "exampleVi": "Bố tôi là bác sĩ, nhưng tôi không muốn nối gót theo con đường của ông."
+      },
+      {
+        "stt": 22,
+        "word": "gender",
+        "ipa": "/ˈdʒɛndər/",
+        "pos": "n",
+        "meaning": "giới tính",
+        "example": "Gender equality is an important topic being discussed across generations.",
+        "exampleVi": "Bình đẳng giới là chủ đề quan trọng đang được thảo luận qua nhiều thế hệ."
+      },
+      {
+        "stt": 23,
+        "word": "generation gap",
+        "ipa": "/ˌdʒɛnəˈreɪʃən ɡæp/",
+        "pos": "n",
+        "meaning": "khoảng cách thế hệ",
+        "example": "Generational differences often lead to a wide generation gap between parents and teens.",
+        "exampleVi": "Sự khác biệt về thế hệ thường dẫn đến một khoảng cách thế hệ lớn giữa cha mẹ và con cái."
+      },
+      {
+        "stt": 24,
+        "word": "generational",
+        "ipa": "/ˌdʒɛnəˈreɪʃənəl/",
+        "pos": "adj",
+        "meaning": "liên quan đến thế hệ",
+        "example": "Generational differences in viewpoints can cause serious arguments at home.",
+        "exampleVi": "Sự khác biệt mang tính thế hệ trong quan điểm có thể gây ra tranh cãi gay gắt ở nhà."
+      },
+      {
+        "stt": 25,
+        "word": "grow up",
+        "ipa": "/ɡroʊ ʌp/",
+        "pos": "ph.v",
+        "meaning": "lớn lên",
+        "example": "Young people who grow up with the internet have very different communication habits.",
+        "exampleVi": "Những người trẻ lớn lên cùng internet có thói quen giao tiếp rất khác biệt."
+      },
+      {
+        "stt": 26,
+        "word": "hire",
+        "ipa": "/ˈhaɪər/",
+        "pos": "v",
+        "meaning": "thuê, tuyển dụng",
+        "example": "The company decided to hire several young graduates with innovative ideas.",
+        "exampleVi": "Công ty đã quyết định tuyển dụng một vài sinh viên mới tốt nghiệp có ý tưởng sáng tạo."
+      },
+      {
+        "stt": 27,
+        "word": "honesty",
+        "ipa": "/ˈɒnɪsti/",
+        "pos": "n",
+        "meaning": "sự trung thực",
+        "example": "In our family, honesty is always highly praised because lying destroys trust.",
+        "exampleVi": "Trong gia đình tôi, sự trung thực luôn được đề cao vì dối trá sẽ phá hủy lòng tin."
+      },
+      {
+        "stt": 28,
+        "word": "immigrant",
+        "ipa": "/ˈɪmɪɡrənt/",
+        "pos": "n",
+        "meaning": "người nhập cư",
+        "example": "Digital immigrants are people who had to adapt to technology later in life.",
+        "exampleVi": "Người nhập cư kỹ thuật số là những người phải thích nghi với công nghệ ở giai đoạn sau của cuộc đời."
+      },
+      {
+        "stt": 29,
+        "word": "individualism",
+        "ipa": "/ˌɪndəˈvɪdʒʊəˌlɪzəm/",
+        "pos": "n",
+        "meaning": "chủ nghĩa cá nhân",
+        "example": "Modern society tends to place more emphasis on individualism than collectivism.",
+        "exampleVi": "Xã hội hiện đại có xu hướng chú trọng vào chủ nghĩa cá nhân hơn chủ nghĩa tập thể."
+      },
+      {
+        "stt": 30,
+        "word": "influence",
+        "ipa": "/ˈɪnfluəns/",
+        "pos": "n/v",
+        "meaning": "ảnh hưởng",
+        "example": "Social media has a huge influence on youth culture and lifestyle.",
+        "exampleVi": "Mạng xã hội có ảnh hưởng to lớn đến văn hóa và lối sống của giới trẻ."
+      },
+      {
+        "stt": 31,
+        "word": "limit",
+        "ipa": "/ˈlɪmɪt/",
+        "pos": "n/v",
+        "meaning": "giới hạn",
+        "example": "Parents should set a reasonable limit on the time kids spend playing video games.",
+        "exampleVi": "Cha mẹ nên đặt ra một giới hạn hợp lý về thời gian con chơi điện tử."
+      },
+      {
+        "stt": 32,
+        "word": "make a decision",
+        "ipa": "/meɪk dɪˈsɪʒənz/",
+        "pos": "ph.v",
+        "meaning": "ra quyết định",
+        "example": "As a young adult, you need to learn to make an important decision on your own.",
+        "exampleVi": "Khi bước vào tuổi trưởng thành, bạn cần học cách tự mình đưa ra quyết định quan trọng."
+      },
+      {
+        "stt": 33,
+        "word": "musical taste",
+        "ipa": "/ˈmjuːzɪkəl teɪst/",
+        "pos": "n",
+        "meaning": "gu âm nhạc",
+        "example": "Our family's musical taste is very diverse; my dad loves classical while I prefer pop.",
+        "exampleVi": "Gu âm nhạc của gia đình tôi rất đa dạng; bố tôi mê nhạc cổ điển còn tôi thích nhạc pop."
+      },
+      {
+        "stt": 34,
+        "word": "nuclear family",
+        "ipa": "/ˈnjuːkliər ˈfæməli/",
+        "pos": "n",
+        "meaning": "gia đình hạt nhân (chỉ ba mẹ & con cái)",
+        "example": "Many young couples in big cities prefer living in a nuclear family.",
+        "exampleVi": "Nhiều cặp vợ chồng trẻ ở các thành phố lớn thích sống trong gia đình hạt nhân."
+      },
+      {
+        "stt": 35,
+        "word": "platform",
+        "ipa": "/ˈplætfɔrm/",
+        "pos": "n",
+        "meaning": "nền tảng",
+        "example": "TikTok is a popular video-sharing platform among teenagers worldwide.",
+        "exampleVi": "TikTok là một nền tảng chia sẻ video thịnh hành với giới trẻ toàn cầu."
+      },
+      {
+        "stt": 36,
+        "word": "quality",
+        "ipa": "/ˈkwɒl.ə.ti/",
+        "pos": "n",
+        "meaning": "chất lượng",
+        "example": "Spending quality time together strengthens family bonding.",
+        "exampleVi": "Dành thời gian chất lượng bên nhau giúp củng cố sự gắn kết gia đình."
+      },
+      {
+        "stt": 37,
+        "word": "quantity",
+        "ipa": "/ˈkwɒntɪti/",
+        "pos": "n",
+        "meaning": "số lượng",
+        "example": "In education, learning quality matters far more than mere quantity.",
+        "exampleVi": "Trong giáo dục, chất lượng học tập quan trọng hơn nhiều so với số lượng đơn thuần."
+      },
+      {
+        "stt": 38,
+        "word": "rely on",
+        "ipa": "/rɪˈlaɪ ɒn/",
+        "pos": "ph.v",
+        "meaning": "dựa vào, tin tưởng vào",
+        "example": "Children shouldn't rely completely on their parents when they grow up.",
+        "exampleVi": "Con cái không nên dựa dẫm hoàn toàn vào cha mẹ khi đã trưởng thành."
+      },
+      {
+        "stt": 39,
+        "word": "respect",
+        "ipa": "/rɪˈspɛkt/",
+        "pos": "n/v",
+        "meaning": "tôn trọng",
+        "example": "Children should show genuine respect for their parents and elders at all times.",
+        "exampleVi": "Con cái nên thể hiện sự tôn trọng chân thành với cha mẹ và người lớn tuổi mọi lúc."
+      },
+      {
+        "stt": 40,
+        "word": "screen time",
+        "ipa": "/skrin taɪm/",
+        "pos": "n",
+        "meaning": "thời gian sử dụng thiết bị điện tử",
+        "example": "Excessive screen time can cause poor eyesight and significant weight gain.",
+        "exampleVi": "Thời gian sử dụng màn hình quá mức có thể gây giảm thị lực và tăng cân rõ rệt."
+      },
+      {
+        "stt": 41,
+        "word": "strictly",
+        "ipa": "/ˈstrɪktli/",
+        "pos": "adv",
+        "meaning": "một cách nghiêm khắc",
+        "example": "The library and exam rules are strictly enforced for all students.",
+        "exampleVi": "Quy định thư viện và phòng thi được thực thi một cách nghiêm ngặt đối với mọi học sinh."
+      },
+      {
+        "stt": 42,
+        "word": "value",
+        "ipa": "/ˈvæljuː/",
+        "pos": "n/v",
+        "meaning": "giá trị",
+        "example": "Each culture has its own traditional values passed down through generations.",
+        "exampleVi": "Mỗi nền văn hóa đều có những giá trị truyền thống riêng được lưu truyền qua nhiều thế hệ."
+      },
+      {
+        "stt": 43,
+        "word": "view",
+        "ipa": "/vjuː/",
+        "pos": "n",
+        "meaning": "quan điểm",
+        "example": "Grandparents and grandchildren often hold contrasting views on fashion.",
+        "exampleVi": "Ông bà và con cháu thường có những quan điểm trái ngược nhau về thời trang."
+      },
+      {
+        "stt": 44,
+        "word": "weight gain",
+        "ipa": "/weɪt ɡeɪn/",
+        "pos": "n",
+        "meaning": "tăng cân",
+        "example": "A sedentary lifestyle combined with late-night snacking often leads to weight gain.",
+        "exampleVi": "Lối sống ít vận động kết hợp với ăn vặt khuya thường dẫn đến tình trạng tăng cân."
+      },
+      {
+        "stt": 45,
+        "word": "worry about",
+        "ipa": "/ˈwɜːri əˈbaʊt/",
+        "pos": "ph.v",
+        "meaning": "lo lắng về",
+        "example": "Parents worry about their children's safety and wellbeing on social media platforms.",
+        "exampleVi": "Các bậc phụ huynh luôn lo lắng về sự an toàn và sức khỏe của con trên mạng xã hội."
+      }
+    ],
+    "grammar": {
+      "title": "Modal verbs: MUST, HAVE TO and SHOULD / OUGHT TO",
+      "sections": [
+        {
+          "heading": "1. MUST (Phải) & MUSTN'T / NEEDN'T",
+          "content": "MUST + V-bare: Diễn tả bổn phận, sự bắt buộc chủ quan từ người nói hoặc kết luận đương nhiên.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Diễn tả sự cần thiết, bắt buộc chủ quan đến từ cảm xúc, mong muốn của người nói.",
+              "example": "Students must pass an examination to study at this school.",
+              "highlight": false
+            },
+            {
+              "rule": "Bao hàm 1 kết luận đương nhiên / cách giải thích duy nhất hợp lý theo ý nghĩ của người nói (hẳn là, chắc chắn là).",
+              "example": "You have worked hard all day, you must be tired.",
+              "highlight": true
+            },
+            {
+              "rule": "'mustn't' (không được phép) diễn tả sự cấm đoán tuyệt đối.",
+              "example": "You mustn't walk on the grass.",
+              "highlight": true
+            },
+            {
+              "rule": "Để diễn tả thể phủ định của 'must' với nghĩa không cần phải làm gì, sử dụng 'needn't'.",
+              "example": "Must I do it now? - No, you needn't.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. HAVE TO (Phải - Khách quan)",
+          "content": "HAVE TO + V-bare: Diễn tả sự bắt buộc khách quan do nội quy, luật pháp, hoàn cảnh bên ngoài.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Diễn tả 1 mệnh lệnh / bắt buộc khách quan do nội quy, quy định, luật pháp hoặc sự thỏa hiệp bên ngoài.",
+              "example": "They have to leave earlier than usual. / In Japan, guests have to leave their shoes at the door.",
+              "highlight": false
+            },
+            {
+              "rule": "'have to' KHÔNG THỂ thay thế 'must' khi 'must' mang nghĩa kết luận đương nhiên / suy đoán logic.",
+              "example": "He must be mad. (I personally thought that he was mad - NOT He has to be mad).",
+              "highlight": true
+            },
+            {
+              "rule": "'have to' dùng thay cho 'must' trong những hình thức chia thì mà 'must' không có (quá khứ had to, tương lai will/shall have to).",
+              "example": "He shall have to hurry if he is going to catch the 12 p.m train.",
+              "highlight": false
+            },
+            {
+              "rule": "Phủ định 'don't/doesn't have to' nghĩa là không phải / không cần thiết làm gì (tùy ý).",
+              "example": "You don't have to wear a uniform on Saturdays.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. OUGHT TO = SHOULD (Nên)",
+          "content": "SHOULD / OUGHT TO + V-bare: Đưa ra lời khuyên, ý kiến hoặc sự mong đợi.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Lời khuyên, lời đề nghị; nên dùng kèm với 'I think / I don't think / do you think...'",
+              "example": "I think he should do something to solve this. / You ought not to stay up so late.",
+              "highlight": true
+            },
+            {
+              "rule": "Hỏi xin lời khuyên, ý kiến hoặc sự hướng dẫn.",
+              "example": "What should we do now?",
+              "highlight": false
+            },
+            {
+              "rule": "Diễn tả sự mong đợi (expectation) một sự việc sẽ xảy ra theo kế hoạch.",
+              "example": "He should / ought to be home by 7 o'clock. [I expect him to be home by 7 o'clock.]",
+              "highlight": false
+            },
+            {
+              "rule": "Diễn tả 1 sự việc gần đúng / rất có thể đúng (logical likelihood).",
+              "example": "If she left home at 9:00, she should be here any minute now.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Bài tập trắc nghiệm (Multiple Choice)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "My grandparents live in a(n) _________ family, including three generations under the same roof.",
+          "options": ["nuclear", "extended", "single-parent", "small"],
+          "correctIndex": 1,
+          "explanation": "Gia đình có 3 thế hệ cùng chung sống dưới một mái nhà là 'extended family' (đại gia đình / gia đình nhiều thế hệ)."
+        },
+        {
+          "id": 2,
+          "question": "Members of Gen Z are often considered _________ because they have grown up with smartphones and the internet.",
+          "options": ["immigrants", "breadwinners", "digital natives", "critical thinkers"],
+          "correctIndex": 2,
+          "explanation": "'digital natives' là thế hệ bản địa kỹ thuật số, lớn lên trong thời đại thiết bị thông minh và internet."
+        },
+        {
+          "id": 3,
+          "question": "Parents often _________ about their children spending too much screen time every day.",
+          "options": ["complain", "rely", "adapt", "argue"],
+          "correctIndex": 0,
+          "explanation": "Cụm động từ 'complain about something' mang nghĩa là phàn nàn, than phiền về điều gì."
+        },
+        {
+          "id": 4,
+          "question": "My father is the main _________ in our household; he works hard to pay for all our expenses.",
+          "options": ["characteristic", "critical thinker", "immigrant", "breadwinner"],
+          "correctIndex": 3,
+          "explanation": "'breadwinner' là người trụ cột kinh tế chính trong gia đình, kiếm tiền chi trả các hóa đơn và sinh hoạt phí."
+        },
+        {
+          "id": 5,
+          "question": "Spending too much time looking at screens can harm your _________ and lead to weight gain.",
+          "options": ["behavior", "eyesight", "honesty", "decision"],
+          "correctIndex": 1,
+          "explanation": "Dùng thiết bị điện tử quá nhiều gây hại trực tiếp cho 'eyesight' (thị lực)."
+        },
+        {
+          "id": 6,
+          "question": "Different generations often have different musical _________ and fashion preferences.",
+          "options": ["footstep", "taste", "quantity", "quality"],
+          "correctIndex": 1,
+          "explanation": "'musical taste' là gu thưởng thức âm nhạc hoặc sở thích âm nhạc."
+        },
+        {
+          "id": 7,
+          "question": "Teenagers need to learn how to _________ to new environments when moving to college.",
+          "options": ["adapt", "rely", "limit", "value"],
+          "correctIndex": 0,
+          "explanation": "'adapt to' là thích nghi, làm quen với môi trường sống hoặc học tập mới."
+        },
+        {
+          "id": 8,
+          "question": "The company decided to _________ several new young employees who have strong critical thinking skills.",
+          "options": ["hire", "argue", "express", "worry"],
+          "correctIndex": 0,
+          "explanation": "'hire' là thuê mướn, tuyển dụng nhân sự mới."
+        },
+        {
+          "id": 9,
+          "question": "Children should show _________ for their parents and elders at all times.",
+          "options": ["conflict", "argument", "respect", "disagreement"],
+          "correctIndex": 2,
+          "explanation": "Cụm từ 'show respect for someone' nghĩa là thể hiện sự kính trọng, tôn trọng đối với ai đó."
+        },
+        {
+          "id": 10,
+          "question": "A modern nuclear family usually _________ of parents and their children.",
+          "options": ["relies", "consists", "complains", "focuses"],
+          "correctIndex": 1,
+          "explanation": "'consists of' nghĩa là bao gồm / cấu thành từ các thành phần (bố mẹ và các con)."
+        },
+        {
+          "id": 11,
+          "question": "You _________ talk loudly in the library; it is against the strict rules.",
+          "options": ["shouldn't", "needn't", "mustn't", "don't have to"],
+          "correctIndex": 2,
+          "explanation": "'mustn't' thể hiện sự cấm đoán tuyệt đối vi phạm nội quy thư viện (không được phép nói lớn)."
+        },
+        {
+          "id": 12,
+          "question": "Look at the traffic light! Cars _________ stop when the light is red.",
+          "options": ["have to", "should", "ought to", "needn't"],
+          "correctIndex": 0,
+          "explanation": "Dừng xe khi đèn đỏ là luật giao thông quy định bắt buộc khách quan, dùng 'have to'."
+        },
+        {
+          "id": 13,
+          "question": "You look very pale and tired. You _________ go to the doctor for a check-up.",
+          "options": ["mustn't", "should", "have to", "needn't"],
+          "correctIndex": 1,
+          "explanation": "Đưa ra lời khuyên nhẹ nhàng khi thấy bạn mệt mỏi ta dùng 'should' (nên)."
+        },
+        {
+          "id": 14,
+          "question": "Teenagers usually want to make their own career choices without being _________ by their parents.",
+          "options": ["value", "limited", "agreed", "consisted"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc bị động: 'without being limited by' nghĩa là không bị cha mẹ áp đặt, gò bó hay giới hạn lựa chọn."
+        },
+        {
+          "id": 15,
+          "question": "John has been studying continuously for 10 hours. He _________ be exhausted now.",
+          "options": ["must", "has to", "should", "ought to"],
+          "correctIndex": 0,
+          "explanation": "'must be' diễn tả kết luận đương nhiên / suy đoán logic có căn cứ rõ ràng ('hẳn là rất mệt')."
+        },
+        {
+          "id": 16,
+          "question": "Teenagers should be encouraged to express their own _________ on social issues.",
+          "options": ["values", "behaviors", "opinions", "footsteps"],
+          "correctIndex": 2,
+          "explanation": "Cụm 'express opinions' nghĩa là bày tỏ quan điểm, góc nhìn cá nhân."
+        },
+        {
+          "id": 17,
+          "question": "In my opinion, teenagers _________ to discuss their daily issues openly with their parents.",
+          "options": ["must", "should", "have to", "ought"],
+          "correctIndex": 3,
+          "explanation": "Có 'to discuss' phía sau nên chọn 'ought' (cấu trúc 'ought to' = 'should')."
+        },
+        {
+          "id": 18,
+          "question": "You _________ bring a present to the party, but it would be very nice if you did.",
+          "options": ["mustn't", "don't have to", "should", "ought not to"],
+          "correctIndex": 1,
+          "explanation": "'don't have to' nghĩa là không bắt buộc / không cần thiết phải mang quà, tùy bạn quyết định."
+        },
+        {
+          "id": 19,
+          "question": "Overuse of smart devices can lead to a lack of physical activity and severe _________.",
+          "options": ["eyesight", "weight gain", "behavior", "platform"],
+          "correctIndex": 1,
+          "explanation": "Ngồi một chỗ lướt thiết bị điện tử thiếu vận động gây 'weight gain' (tăng cân béo phì)."
+        },
+        {
+          "id": 20,
+          "question": "Parents are often _________ about their children's safety on online social platforms.",
+          "options": ["curious", "worried", "strict", "critical"],
+          "correctIndex": 1,
+          "explanation": "Cụm 'worried about' mang nghĩa là cảm thấy lo lắng, bất an về điều gì."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền vào chỗ trống (Fill in the blanks)",
+      "wordbank": [
+        "generation gap",
+        "behavior",
+        "critical thinker",
+        "value",
+        "values",
+        "screen time",
+        "honesty",
+        "daily argument",
+        "rely on",
+        "curious about",
+        "decision",
+        "footstep",
+        "footsteps",
+        "musical taste",
+        "disagreement",
+        "strictly",
+        "platform"
+      ],
+      "questions": [
+        {
+          "id": 21,
+          "question": "Generational differences often lead to a wide ______ between parents and teenagers.",
+          "answer": "generation gap",
+          "acceptAlternatives": ["generation-gap"]
+        },
+        {
+          "id": 22,
+          "question": "Parents are very concerned about their children's bad ______ at school.",
+          "answer": "behavior",
+          "acceptAlternatives": ["behaviour"]
+        },
+        {
+          "id": 23,
+          "question": "In our family, ______ is always highly praised because we believe lying destroys trust.",
+          "answer": "honesty"
+        },
+        {
+          "id": 24,
+          "question": "My grandfather was a famous doctor, but I do not want to follow in his ______.",
+          "answer": "footsteps",
+          "acceptAlternatives": ["footstep"]
+        },
+        {
+          "id": 25,
+          "question": "Teenagers should cut down on their ______ to protect their eyes and health.",
+          "answer": "screen time",
+          "acceptAlternatives": ["screentime"]
+        },
+        {
+          "id": 26,
+          "question": "Having a ______ over household chores is quite common in many families.",
+          "answer": "daily argument",
+          "acceptAlternatives": ["disagreement", "conflict"]
+        },
+        {
+          "id": 27,
+          "question": "As a young adult, you need to learn to make an important ______ on your own.",
+          "answer": "decision",
+          "acceptAlternatives": ["decisions"]
+        },
+        {
+          "id": 28,
+          "question": "Young children are naturally ______ everything around them and love asking questions.",
+          "answer": "curious about"
+        },
+        {
+          "id": 29,
+          "question": "You cannot always ______ your parents for financial support as you grow up.",
+          "answer": "rely on",
+          "acceptAlternatives": ["depend on"]
+        },
+        {
+          "id": 30,
+          "question": "Although my brother and I had a strong ______ yesterday, we made peace this morning.",
+          "answer": "disagreement",
+          "acceptAlternatives": ["argument", "conflict"]
+        },
+        {
+          "id": 31,
+          "question": "The school rules are ______ enforced to maintain good discipline among students.",
+          "answer": "strictly"
+        },
+        {
+          "id": 32,
+          "question": "Each culture has its own traditional ______ and beliefs passed down through generations.",
+          "answer": "values",
+          "acceptAlternatives": ["value"]
+        },
+        {
+          "id": 33,
+          "question": "A ______ always analyzes information carefully before accepting it as true.",
+          "answer": "critical thinker"
+        },
+        {
+          "id": 34,
+          "question": "TikTok is a popular video-sharing ______ among teenagers worldwide.",
+          "answer": "platform"
+        },
+        {
+          "id": 35,
+          "question": "Our family's ______ is very diverse; my dad loves classical music while I prefer modern pop.",
+          "answer": "musical taste",
+          "acceptAlternatives": ["music taste"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu hoàn chỉnh (Sentence Arrangement)",
+      "questions": [
+        {
+          "id": 36,
+          "words": ["Children", "rely", "shouldn't", "their", "parents", "completely", "on", "when", "grow up", "they"],
+          "correctOrder": [0, 2, 1, 5, 6, 3, 4, 7, 9, 8],
+          "answer": "Children shouldn't rely completely on their parents when they grow up.",
+          "acceptAlternatives": [
+            "Children shouldn't rely on their parents completely when they grow up.",
+            "Children should not rely completely on their parents when they grow up.",
+            "Children should not rely on their parents completely when they grow up."
+          ]
+        },
+        {
+          "id": 37,
+          "words": ["Many", "complain about", "teenagers", "their parents", "being", "too", "strict"],
+          "correctOrder": [0, 2, 1, 3, 4, 5, 6],
+          "answer": "Many teenagers complain about their parents being too strict.",
+          "acceptAlternatives": [
+            "Many teenagers complain about their parents being too strict"
+          ]
+        },
+        {
+          "id": 38,
+          "words": ["A", "nuclear", "family", "consists of", "only", "parents", "and", "children"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "A nuclear family consists of only parents and children.",
+          "acceptAlternatives": [
+            "A nuclear family consists of parents and children only."
+          ]
+        },
+        {
+          "id": 39,
+          "words": ["You", "wear", "must", "a helmet", "when", "you", "ride", "a motorbike"],
+          "correctOrder": [0, 2, 1, 3, 4, 5, 6, 7],
+          "answer": "You must wear a helmet when you ride a motorbike."
+        },
+        {
+          "id": 40,
+          "words": ["Generational", "differences", "can", "lead to", "serious", "daily", "arguments", "at home"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "Generational differences can lead to serious daily arguments at home."
+        },
+        {
+          "id": 41,
+          "words": ["Teenagers", "ought", "to", "respect", "their", "elders'", "experience", "and", "advice"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "Teenagers ought to respect their elders' experience and advice."
+        },
+        {
+          "id": 42,
+          "words": ["My", "father", "is", "the main", "breadwinner", "who", "earns", "money", "for", "the", "family"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+          "answer": "My father is the main breadwinner who earns money for the family."
+        },
+        {
+          "id": 43,
+          "words": ["Young", "people", "are", "digital natives", "who", "grow up", "with", "technology"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "Young people are digital natives who grow up with technology."
+        },
+        {
+          "id": 44,
+          "words": ["You", "don't", "have to", "wear", "a uniform", "on", "Saturdays"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "You don't have to wear a uniform on Saturdays."
+        },
+        {
+          "id": 45,
+          "words": ["Parents", "worry", "should", "not", "too much", "about", "their", "children's", "career choices"],
+          "correctOrder": [0, 2, 3, 1, 4, 5, 6, 7, 8],
+          "answer": "Parents should not worry too much about their children's career choices.",
+          "acceptAlternatives": [
+            "Parents shouldn't worry too much about their children's career choices."
+          ]
+        },
+        {
+          "id": 46,
+          "words": ["Excessive", "screen time", "can", "cause", "weight gain", "and", "poor", "eyesight"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "Excessive screen time can cause weight gain and poor eyesight.",
+          "acceptAlternatives": [
+            "Excessive screen time can cause poor eyesight and weight gain."
+          ]
+        },
+        {
+          "id": 47,
+          "words": ["She", "must", "be", "tired", "after", "working", "all", "day", "long"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "She must be tired after working all day long."
+        },
+        {
+          "id": 48,
+          "words": ["We", "need to", "learn", "how to", "adapt", "to", "new", "social", "environments"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "We need to learn how to adapt to new social environments."
+        },
+        {
+          "id": 49,
+          "words": ["Teenagers", "should", "be", "allowed", "to", "express", "their", "own", "opinions"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "Teenagers should be allowed to express their own opinions."
+        },
+        {
+          "id": 50,
+          "words": ["Students", "mustn't", "cheat", "during", "the", "final", "examination"],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+          "answer": "Students mustn't cheat during the final examination.",
+          "acceptAlternatives": [
+            "Students must not cheat during the final examination."
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu không đổi nghĩa (Sentence Rewriting)",
+      "questions": [
+        {
+          "id": 51,
+          "question": "It is mandatory for students to follow the school rules.",
+          "hint": "HAVE TO",
+          "answer": "Students have to follow the school rules.",
+          "acceptAlternatives": [
+            "Students have to follow the school rules",
+            "Students have to obey the school rules.",
+            "Students have to obey the school rules"
+          ]
+        },
+        {
+          "id": 52,
+          "question": "I advise you to talk to your parents about your career choice.",
+          "hint": "SHOULD",
+          "answer": "You should talk to your parents about your career choice.",
+          "acceptAlternatives": [
+            "You should talk to your parents about your career choice",
+            "You should talk with your parents about your career choice.",
+            "You should talk with your parents about your career choice"
+          ]
+        },
+        {
+          "id": 53,
+          "question": "Walking on the grass in this park is prohibited.",
+          "hint": "MUSTN'T",
+          "answer": "You mustn't walk on the grass in this park.",
+          "acceptAlternatives": [
+            "You mustn't walk on the grass in this park",
+            "You must not walk on the grass in this park.",
+            "You must not walk on the grass in this park",
+            "We mustn't walk on the grass in this park.",
+            "People mustn't walk on the grass in this park."
+          ]
+        },
+        {
+          "id": 54,
+          "question": "It is not necessary for you to complete the assignment today.",
+          "hint": "DON'T HAVE TO",
+          "answer": "You don't have to complete the assignment today.",
+          "acceptAlternatives": [
+            "You don't have to complete the assignment today",
+            "You do not have to complete the assignment today.",
+            "You do not have to complete the assignment today",
+            "You don't have to finish the assignment today.",
+            "You do not have to finish the assignment today."
+          ]
+        },
+        {
+          "id": 55,
+          "question": "I am sure that he is very intelligent because he solves complex problems easily.",
+          "hint": "MUST",
+          "answer": "He must be very intelligent because he solves complex problems easily.",
+          "acceptAlternatives": [
+            "He must be very intelligent because he solves complex problems easily",
+            "He must be very smart because he solves complex problems easily."
+          ]
+        },
+        {
+          "id": 56,
+          "question": "It is a good idea for young people to limit their daily screen time.",
+          "hint": "OUGHT TO",
+          "answer": "Young people ought to limit their daily screen time.",
+          "acceptAlternatives": [
+            "Young people ought to limit their daily screen time",
+            "Young people ought to limit their screen time."
+          ]
+        },
+        {
+          "id": 57,
+          "question": "Is it necessary for me to attend the family meeting tonight?",
+          "hint": "MUST",
+          "answer": "Must I attend the family meeting tonight?",
+          "acceptAlternatives": [
+            "Must I attend the family meeting tonight",
+            "Must I join the family meeting tonight?",
+            "Must I go to the family meeting tonight?"
+          ]
+        },
+        {
+          "id": 58,
+          "question": "My parents don't allow me to stay out past 10 p.m.",
+          "hint": "MUSTN'T",
+          "answer": "I mustn't stay out past 10 p.m.",
+          "acceptAlternatives": [
+            "I mustn't stay out past 10 p.m",
+            "I mustn't stay out past 10 pm.",
+            "I mustn't stay out past 10 pm",
+            "I must not stay out past 10 p.m.",
+            "I must not stay out past 10 pm.",
+            "I mustn't stay out after 10 p.m.",
+            "I must not stay out after 10 p.m."
+          ]
+        },
+        {
+          "id": 59,
+          "question": "I expect that she will arrive home before 8 o'clock.",
+          "hint": "SHOULD",
+          "answer": "She should arrive home before 8 o'clock.",
+          "acceptAlternatives": [
+            "She should arrive home before 8 o'clock",
+            "She should arrive home before 8 oclock.",
+            "She should be home before 8 o'clock.",
+            "She should be home before 8 o'clock",
+            "She should get home before 8 o'clock."
+          ]
+        },
+        {
+          "id": 60,
+          "question": "It isn't compulsory for teenagers to follow in their parents' footsteps.",
+          "hint": "NEEDN'T",
+          "answer": "Teenagers needn't follow in their parents' footsteps.",
+          "acceptAlternatives": [
+            "Teenagers needn't follow in their parents' footsteps",
+            "Teenagers needn't follow in their parents footsteps.",
+            "Teenagers need not follow in their parents' footsteps.",
+            "Teenagers need not follow in their parents footsteps."
+          ]
+        }
+      ]
+    }
+  }
+}

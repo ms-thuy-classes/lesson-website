@@ -50,7 +50,7 @@ export const ArrangeExercise: React.FC<ArrangeExerciseProps> = ({
     questions.forEach((q) => {
       const selectedIndices = arrangedWords[q.id] || [];
       const userSentence = selectedIndices.map((i) => q.words[i]).join(' ');
-      if (isAnswerCorrect(userSentence, q.answer)) {
+      if (isAnswerCorrect(userSentence, q.answer, q.acceptAlternatives)) {
         correct++;
       }
     });
