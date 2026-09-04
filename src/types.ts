@@ -55,7 +55,8 @@ export interface MCQQuestion {
 
 export interface FillBlankQuestion {
   id: number;
-  question: string;
+  question?: string;
+  sentence?: string;
   answer: string;
   acceptAlternatives?: string[];
 }

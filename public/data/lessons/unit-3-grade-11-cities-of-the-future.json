@@ -1,0 +1,1025 @@
+{
+  "id": "unit-3-grade-11-cities-of-the-future",
+  "title": "Unit 3: Cities of the Future (Grade 11)",
+  "tags": ["Lớp 11"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "architecture",
+        "ipa": "/ˈɑːrkɪtɛkʧər/",
+        "pos": "n",
+        "meaning": "kiến trúc",
+        "example": "The new museum has an impressive modern architecture designed by a famous Italian architect.",
+        "exampleVi": "Bảo tàng mới có lối kiến trúc hiện đại ấn tượng do một kiến trúc sư người Ý nổi tiếng thiết kế."
+      },
+      {
+        "stt": 2,
+        "word": "bank card",
+        "ipa": "/bæŋk kɑːrd/",
+        "pos": "n",
+        "meaning": "thẻ ngân hàng",
+        "example": "You can swipe your phone or bank card at the card reader to make a quick payment.",
+        "exampleVi": "Bạn có thể quẹt điện thoại hoặc thẻ ngân hàng vào máy đọc thẻ để thanh toán nhanh chóng."
+      },
+      {
+        "stt": 3,
+        "word": "be impressed with",
+        "ipa": "/bi ɪmˈprɛst wɪð/",
+        "pos": "phrase",
+        "meaning": "ấn tượng với",
+        "example": "Tourists were very impressed with the modern infrastructure and clean streets of Singapore.",
+        "exampleVi": "Khách du lịch rất ấn tượng với cơ sở hạ tầng hiện đại và đường phố sạch sẽ của Singapore."
+      },
+      {
+        "stt": 4,
+        "word": "book an appointment",
+        "ipa": "/bʊk ən əˈpɔɪntmənt/",
+        "pos": "phrase",
+        "meaning": "đặt cuộc hẹn",
+        "example": "You should book an appointment with the doctor early to avoid waiting in long queues.",
+        "exampleVi": "Bạn nên đặt hẹn sớm với bác sĩ để tránh phải chờ đợi xếp hàng dài."
+      },
+      {
+        "stt": 5,
+        "word": "card reader",
+        "ipa": "/kɑːrd ˈriːdər/",
+        "pos": "n",
+        "meaning": "máy đọc thẻ",
+        "example": "Hold your smart travel card over the card reader until you hear a beep sound.",
+        "exampleVi": "Giữ thẻ đi lại thông minh của bạn trên máy đọc thẻ cho đến khi nghe thấy tiếng bíp."
+      },
+      {
+        "stt": 6,
+        "word": "city dweller",
+        "ipa": "/ˈsɪti ˈdwɛlər/",
+        "pos": "n",
+        "meaning": "dân thành phố",
+        "example": "City dwellers often have to cope with high noise levels and traffic congestion daily.",
+        "exampleVi": "Cư dân thành phố thường xuyên phải đối phó với tiếng ồn lớn và ùn tắc giao thông hàng ngày."
+      },
+      {
+        "stt": 7,
+        "word": "cope with",
+        "ipa": "/koʊp wɪð/",
+        "pos": "phrase",
+        "meaning": "đối phó với",
+        "example": "Many modern cities are struggling to cope with rising temperatures and air pollution.",
+        "exampleVi": "Nhiều thành phố hiện đại đang chật vật đối phó với nhiệt độ gia tăng và ô nhiễm không khí."
+      },
+      {
+        "stt": 8,
+        "word": "cybercrime",
+        "ipa": "/ˈsaɪbərˌkraɪm/",
+        "pos": "n",
+        "meaning": "tội phạm trên mạng",
+        "example": "The police are working hard to protect online bank card users from dangerous cybercrime.",
+        "exampleVi": "Cảnh sát đang nỗ lực bảo vệ người dùng thẻ ngân hàng trực tuyến khỏi tội phạm mạng nguy hiểm."
+      },
+      {
+        "stt": 9,
+        "word": "economy",
+        "ipa": "/ɪˈkɒnəmi/",
+        "pos": "n",
+        "meaning": "kinh tế",
+        "example": "A strong digital economy allows a country to invest more in modern public transport systems.",
+        "exampleVi": "Một nền kinh tế số vững mạnh cho phép một quốc gia đầu tư nhiều hơn vào hệ thống giao thông công cộng hiện đại."
+      },
+      {
+        "stt": 10,
+        "word": "exhibition",
+        "ipa": "/ˌɛksɪˈbɪʃən/",
+        "pos": "n",
+        "meaning": "triển lãm",
+        "example": "The city council is holding an art exhibition to showcase sustainable architecture designs.",
+        "exampleVi": "Hội đồng thành phố đang tổ chức một cuộc triển lãm nghệ thuật để trưng bày các thiết kế kiến trúc bền vững."
+      },
+      {
+        "stt": 11,
+        "word": "facility",
+        "ipa": "/fəˈsɪlɪti/",
+        "pos": "n",
+        "meaning": "cơ sở vật chất, tiện ích",
+        "example": "The local government is building a new sports facility to serve the growing population.",
+        "exampleVi": "Chính quyền địa phương đang xây dựng một cơ sở thể thao mới để phục vụ dân số ngày càng tăng."
+      },
+      {
+        "stt": 12,
+        "word": "high-rise building",
+        "ipa": "/haɪ-raɪz ˈbɪldɪŋ/",
+        "pos": "n",
+        "meaning": "tòa nhà cao tầng",
+        "example": "Living in a giant high-rise building can sometimes make people feel isolated from their neighbors.",
+        "exampleVi": "Sống trong một tòa nhà cao tầng khổng lồ đôi khi có thể khiến mọi người cảm thấy biệt lập với hàng xóm."
+      },
+      {
+        "stt": 13,
+        "word": "impact on",
+        "ipa": "/ˈɪmpækt ɒn/",
+        "pos": "phrase",
+        "meaning": "ảnh hưởng đến",
+        "example": "Smart technology has had a positive impact on the way city dwellers travel every day.",
+        "exampleVi": "Công nghệ thông minh đã có tác động tích cực đến cách người dân thành phố đi lại mỗi ngày."
+      },
+      {
+        "stt": 14,
+        "word": "infrastructure",
+        "ipa": "/ˈɪnfrəstrʌktʃər/",
+        "pos": "n",
+        "meaning": "cơ sở hạ tầng",
+        "example": "The government plans to invest more money in public infrastructure to reduce urban traffic jams.",
+        "exampleVi": "Chính phủ có kế hoạch đầu tư thêm tiền vào cơ sở hạ tầng công cộng để giảm ùn tắc giao thông đô thị."
+      },
+      {
+        "stt": 15,
+        "word": "interact with",
+        "ipa": "/ɪntərˈækt wɪð/",
+        "pos": "phrase",
+        "meaning": "tương tác với",
+        "example": "Smart mobile apps allow citizens to easily interact with local government services online.",
+        "exampleVi": "Các ứng dụng di động thông minh cho phép công dân dễ dàng tương tác trực tuyến với các dịch vụ chính quyền địa phương."
+      },
+      {
+        "stt": 16,
+        "word": "liveable",
+        "ipa": "/ˈlɪvəbəl/",
+        "pos": "adj",
+        "meaning": "đáng sống",
+        "example": "Vienna is frequently ranked as one of the most liveable and green cities in the world.",
+        "exampleVi": "Vienna thường xuyên được xếp hạng là một trong những thành phố đáng sống và xanh nhất trên thế giới."
+      },
+      {
+        "stt": 17,
+        "word": "make a payment",
+        "ipa": "/meɪk ə ˈpeɪmənt/",
+        "pos": "phrase",
+        "meaning": "thanh toán",
+        "example": "You can make a payment using your bank card, digital wallet, or QR code.",
+        "exampleVi": "Bạn có thể thực hiện thanh toán bằng thẻ ngân hàng, ví điện tử hoặc mã QR."
+      },
+      {
+        "stt": 18,
+        "word": "make room for",
+        "ipa": "/meɪk rum fɔr/",
+        "pos": "phrase",
+        "meaning": "nhường chỗ cho",
+        "example": "Old dilapidated buildings were demolished to make room for a new green park.",
+        "exampleVi": "Những tòa nhà cũ nát đã bị phá dỡ để nhường chỗ cho một công viên cây xanh mới."
+      },
+      {
+        "stt": 19,
+        "word": "operate",
+        "ipa": "/ˈɒpəreɪt/",
+        "pos": "v",
+        "meaning": "vận hành",
+        "example": "Smart technologies help local authorities operate the public transport network smoothly.",
+        "exampleVi": "Công nghệ thông minh giúp chính quyền địa phương vận hành mạng lưới giao thông công cộng một cách trơn tru."
+      },
+      {
+        "stt": 20,
+        "word": "pedal",
+        "ipa": "/ˈpɛdəl/",
+        "pos": "v",
+        "meaning": "đạp (bàn đạp, đạp xe)",
+        "example": "To stay healthy, many citizens choose to pedal their bicycles to work instead of driving cars.",
+        "exampleVi": "Để giữ gìn sức khỏe, nhiều người dân chọn đạp xe đạp đi làm thay vì lái ô tô."
+      },
+      {
+        "stt": 21,
+        "word": "pedestrian zone",
+        "ipa": "/pəˈdɛstriən zoʊn/",
+        "pos": "n",
+        "meaning": "khu vực dành cho người đi bộ",
+        "example": "Many modern cities build pedestrian zones to allow people to walk freely without worrying about traffic.",
+        "exampleVi": "Nhiều thành phố hiện đại xây dựng các khu phố đi bộ để người dân có thể thoải mái dạo bộ mà không lo về xe cộ."
+      },
+      {
+        "stt": 22,
+        "word": "prescription",
+        "ipa": "/prɪˈskrɪpʃən/",
+        "pos": "n",
+        "meaning": "đơn thuốc",
+        "example": "The doctor gave me a digital prescription for some antibiotics after my health examination.",
+        "exampleVi": "Bác sĩ đã kê cho tôi một đơn thuốc điện tử gồm một số loại kháng sinh sau khi kiểm tra sức khỏe."
+      },
+      {
+        "stt": 23,
+        "word": "privacy",
+        "ipa": "/ˈpraɪvəsi/",
+        "pos": "n",
+        "meaning": "sự riêng tư",
+        "example": "Many people worry that smart AI cameras in public places might invade their personal privacy.",
+        "exampleVi": "Nhiều người lo lắng rằng camera AI thông minh ở nơi công cộng có thể xâm phạm quyền riêng tư cá nhân của họ."
+      },
+      {
+        "stt": 24,
+        "word": "private vehicle",
+        "ipa": "/ˈpraɪvɪt ˈviːɪkəl/",
+        "pos": "n",
+        "meaning": "phương tiện cá nhân",
+        "example": "Cities encourage citizens to reduce their reliance on private vehicles to curb carbon emissions.",
+        "exampleVi": "Các thành phố khuyến khích người dân giảm sự phụ thuộc vào phương tiện cá nhân để hạn chế khí thải carbon."
+      },
+      {
+        "stt": 25,
+        "word": "pros and cons",
+        "ipa": "/prəʊz ænd kɒnz/",
+        "pos": "phrase",
+        "meaning": "ưu điểm và nhược điểm",
+        "example": "Before moving to a bustling metropolis, you should carefully weigh the pros and cons of urban life.",
+        "exampleVi": "Trước khi chuyển đến một đại đô thị nhộn nhịp, bạn nên cân nhắc kỹ lưỡng những ưu và nhược điểm của cuộc sống thành thị."
+      },
+      {
+        "stt": 26,
+        "word": "public transport",
+        "ipa": "/ˈpʌblɪk ˈtrænspɔːrt/",
+        "pos": "n",
+        "meaning": "phương tiện giao thông công cộng",
+        "example": "Modern city dwellers prefer to use public transport like buses and electric metro systems.",
+        "exampleVi": "Cư dân thành phố hiện đại thích sử dụng các phương tiện giao thông công cộng như xe buýt và hệ thống tàu điện ngầm."
+      },
+      {
+        "stt": 27,
+        "word": "refund",
+        "ipa": "/ˈriːˌfʌnd/",
+        "pos": "n",
+        "meaning": "hoàn tiền",
+        "example": "If the smart device you bought at the tech store is defective, you can ask for a full refund.",
+        "exampleVi": "Nếu thiết bị thông minh bạn mua tại cửa hàng công nghệ bị lỗi, bạn có thể yêu cầu hoàn tiền đầy đủ."
+      },
+      {
+        "stt": 28,
+        "word": "roof garden",
+        "ipa": "/ruːf ˈɡɑːrdn/",
+        "pos": "n",
+        "meaning": "vườn trên mái nhà",
+        "example": "Installing green plants on top of skyscrapers helps turn a roof garden into an eco-friendly sanctuary.",
+        "exampleVi": "Việc trồng cây xanh trên nóc các tòa nhà chọc trời giúp biến một khu vườn trên mái nhà thành một nơi trú ngụ thân thiện với môi trường."
+      },
+      {
+        "stt": 29,
+        "word": "route",
+        "ipa": "/ruːt/",
+        "pos": "n",
+        "meaning": "tuyến đường",
+        "example": "Traffic smart sensors help drivers find the fastest and least congested route during rush hours.",
+        "exampleVi": "Các cảm biến giao thông thông minh giúp tài xế tìm thấy tuyến đường nhanh nhất và ít tắc nghẽn nhất trong giờ cao điểm."
+      },
+      {
+        "stt": 30,
+        "word": "sense of community",
+        "ipa": "/sɛns ʌv kəˈmjuːnɪti/",
+        "pos": "n",
+        "meaning": "tinh thần cộng đồng",
+        "example": "Living in a green neighborhood helps residents improve mental health and builds a strong sense of community.",
+        "exampleVi": "Sống trong một khu phố xanh giúp cư dân cải thiện sức khỏe tinh thần và xây dựng tinh thần cộng đồng bền chặt."
+      },
+      {
+        "stt": 31,
+        "word": "skyscraper",
+        "ipa": "/ˈskaɪˌskreɪpər/",
+        "pos": "n",
+        "meaning": "tòa nhà chọc trời",
+        "example": "High-rise skyscrapers with glittering glass facades dominate the skyline of the financial district.",
+        "exampleVi": "Những tòa nhà chọc trời cao tầng với mặt kính lấp lánh thống trị đường chân trời của khu tài chính."
+      },
+      {
+        "stt": 32,
+        "word": "smart sensor",
+        "ipa": "/smɑːrt ˈsɛnsər/",
+        "pos": "n",
+        "meaning": "cảm biến thông minh",
+        "example": "Local governments are installing smart sensors to monitor traffic flow and ambient air quality.",
+        "exampleVi": "Chính quyền địa phương đang lắp đặt các cảm biến thông minh để giám sát lưu lượng giao thông và chất lượng không khí xung quanh."
+      },
+      {
+        "stt": 33,
+        "word": "suburb",
+        "ipa": "/ˈsʌbɜːrb/",
+        "pos": "n",
+        "meaning": "vùng ngoại ô",
+        "example": "Many young families prefer to live in the quiet suburbs because it is greener and less stressful.",
+        "exampleVi": "Nhiều gia đình trẻ thích sống ở các vùng ngoại ô yên tĩnh vì nơi đó xanh hơn và ít căng thẳng hơn."
+      },
+      {
+        "stt": 34,
+        "word": "sustainable",
+        "ipa": "/səˈsteɪnəbl/",
+        "pos": "adj",
+        "meaning": "bền vững",
+        "example": "Modern urban centers must develop sustainable energy sources like solar, wind, and geothermal power.",
+        "exampleVi": "Các trung tâm đô thị hiện đại phải phát triển các nguồn năng lượng bền vững như năng lượng mặt trời, gió và địa nhiệt."
+      },
+      {
+        "stt": 35,
+        "word": "urban center",
+        "ipa": "/ˈɜːrbən ˈsɛntər/",
+        "pos": "n",
+        "meaning": "trung tâm đô thị",
+        "example": "The historical urban center is being upgraded with pedestrian walkways and cycling networks.",
+        "exampleVi": "Trung tâm đô thị lịch sử đang được nâng cấp với các lối đi dành cho người đi bộ và mạng lưới đường cho xe đạp."
+      }
+    ],
+    "grammar": {
+      "title": "Stative verbs in the continuous form & Linking verbs (Động từ chỉ trạng thái và động từ nối)",
+      "sections": [
+        {
+          "heading": "1. Action verbs vs. Stative verbs (Động từ hành động & Động từ trạng thái)",
+          "content": "Phân biệt cơ bản giữa động từ diễn tả hành động thể chất và động từ diễn tả trạng thái, cảm xúc, tri giác của chủ ngữ.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Action verbs (Động từ hành động): Chỉ hành động thể chất của chủ ngữ, có thể chia ở bất kỳ thì nào (đơn, tiếp diễn, hoàn thành).",
+              "example": "Eg: Quang runs everyday. / They are building a high-rise tower right now.",
+              "highlight": false
+            },
+            {
+              "rule": "Stative verbs (Động từ trạng thái): Không chỉ hành động của chủ ngữ mà biểu thị trạng thái, nhận thức, cảm xúc, sở hữu. Có thể chia ở dạng đơn, hoàn thành nhưng thông thường KHÔNG chia ở thể tiếp diễn (không có dạng V-ing).",
+              "example": "Eg: Today, I feel unpleasant. (feel = cảm giác) | Long loves this song! (love = cảm xúc)",
+              "highlight": true
+            },
+            {
+              "rule": "Nhóm 1 - Chỉ giác quan & cảm giác: seem, hear, sound, taste, see, look, smell, recognize, feel, sense.",
+              "example": "Eg: The soup smells delicious. (Không dùng: is smelling)",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 2 - Chỉ cảm xúc & mong muốn: want, like, hate, need, love, prefer, adore, appreciate, envy, detest, dislike.",
+              "example": "Eg: I want to live in a sustainable city. (Không dùng: am wanting)",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 3 - Chỉ suy nghĩ, quan điểm & nhận thức: know, understand, think (tin rằng), believe, suppose, doubt, wish, agree, disagree, mind, guess, remember, recall, forget, pretend, recognize...",
+              "example": "Eg: I think that smart cities will solve traffic jams. (think = believe)",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 4 - Chỉ sự sở hữu: have (có), possess, belong, own, include, consist, contain.",
+              "example": "Eg: The complex consists of four smart skyscrapers. (consist of)",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 5 - Chỉ trạng thái khác: exist, fit, be, depend, weigh, involve, concern, lack, deserve, matter, resemble.",
+              "example": "Eg: This project matters a lot to all city dwellers.",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Động từ vừa chỉ trạng thái vừa chỉ hành động (Action vs. State verbs)",
+          "content": "Một số động từ vốn là động từ trạng thái nhưng VẪN ĐƯỢC DÙNG Ở THÌ TIẾP DIỄN khi diễn tả một trạng thái tạm thời, hoặc khi chúng mang nghĩa của một hành động cụ thể trong ngữ cảnh.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "THINK: (Action) = xem xét, cân nhắc (= consider) -> dùng tiếp diễn. (State) = nghĩ rằng, tin là (= believe) -> chỉ dùng thì đơn.",
+              "example": "Action: I'm thinking of buying an electric car. | State: I think that she is right.",
+              "highlight": true
+            },
+            {
+              "rule": "FEEL: (Action) = sờ, chạm vào; cảm giác sức khỏe tạm thời -> dùng tiếp diễn. (State) = nhận thấy, cảm thấy -> chỉ dùng thì đơn.",
+              "example": "Action: I am feeling the door. / I am feeling well now. | State: I feel so happy.",
+              "highlight": false
+            },
+            {
+              "rule": "TASTE: (Action) = nếm thử (hành động chủ động nếm) -> dùng tiếp diễn. (State) = có vị (tính chất của món ăn) -> chỉ dùng thì đơn.",
+              "example": "Action: Phuong is tasting the sauce in the kitchen. | State: The soup tastes delicious.",
+              "highlight": true
+            },
+            {
+              "rule": "SMELL: (Action) = ngửi (hành động chủ động) -> dùng tiếp diễn. (State) = có mùi / tỏa mùi -> chỉ dùng thì đơn.",
+              "example": "Action: The cat is smelling strangers. / He is smelling the perfume. | State: This thing smells awful.",
+              "highlight": true
+            },
+            {
+              "rule": "HAVE: (Action) = ăn, uống, tắm, tổ chức... -> dùng tiếp diễn. (State) = sở hữu, có -> chỉ dùng thì đơn.",
+              "example": "Action: Taki is having a bath. / They are having lunch. | State: I have two bank cards in my wallet.",
+              "highlight": false
+            },
+            {
+              "rule": "SEE: (Action) = gặp gỡ (meet), hẹn hò -> dùng tiếp diễn. (State) = hiểu ra, nhận biết bằng mắt -> chỉ dùng thì đơn.",
+              "example": "Action: Ngoc is seeing me this morning. | State: I see your point. (Tôi hiểu ý bạn)",
+              "highlight": false
+            },
+            {
+              "rule": "LOOK: (Action) = nhìn chăm chú vào ai/cái gì (look at) -> dùng tiếp diễn. (State) = trông có vẻ (linking verb) -> chỉ dùng thì đơn.",
+              "example": "Action: Laura is looking strangely at me. | State: You look amazing in this new outfit!",
+              "highlight": true
+            },
+            {
+              "rule": "ENJOY: (Action) = thưởng thức, tận hưởng (hoạt động trải nghiệm) -> dùng tiếp diễn. (State) = thích nói chung -> chỉ dùng thì đơn.",
+              "example": "Action: I'm enjoying my holiday in Singapore. | State: I enjoy going to the cinema.",
+              "highlight": false
+            },
+            {
+              "rule": "WEIGH & MEASURE: (Action) = đang cân / đang đo đạc -> dùng tiếp diễn. (State) = nặng bao nhiêu / có kích thước bao nhiêu -> chỉ dùng thì đơn.",
+              "example": "Action: The chef is weighing the ingredients. | State: The smart reader weighs 200 grams.",
+              "highlight": true
+            },
+            {
+              "rule": "EXPECT: (Action) = đang mong chờ (chờ đón điều gì) -> dùng tiếp diễn. (State) = cho rằng, nghĩ rằng -> chỉ dùng thì đơn.",
+              "example": "Action: I'm expecting to be offered the job. | State: I expect that they don't like modern buildings.",
+              "highlight": false
+            },
+            {
+              "rule": "TURN & STAY: (Action) = quay, rẽ; ở tại nơi nào -> dùng tiếp diễn. (State) = trở nên, chuyển biến; giữ nguyên trạng thái -> chỉ dùng thì đơn.",
+              "example": "Action: He is turning left at the corner. | State: The leaves turn red in autumn. / He stays calm under pressure.",
+              "highlight": false
+            },
+            {
+              "rule": "APPEAR: (Action) = xuất hiện (trên TV, sân khấu) -> dùng tiếp diễn. (State) = dường như, có vẻ -> chỉ dùng thì đơn.",
+              "example": "Action: The mayor is appearing on TV right now. | State: Tommy appears hopeless after the defeat.",
+              "highlight": true
+            },
+            {
+              "rule": "BE: (Action - tiếp diễn tạm thời: S + is/are being + Adj) = cư xử, hành động bất thường trong một khoảnh khắc nhất định. (State - thì đơn: S + is/am/are + Adj) = bản chất, tính cách vốn có.",
+              "example": "Action: Today John is being very rude to the bus driver. | State: He is always very polite.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Linking verbs (Động từ nối / Động từ liên kết)",
+          "content": "Động từ liên kết kết nối chủ ngữ với tính từ hoặc danh từ bổ nghĩa. Chúng không diễn đạt hành động thể chất và KHÔNG dùng ở thể tiếp diễn.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Công thức cơ bản: S + Linking Verb + ADJECTIVE (Tính từ). So sánh với Động từ hành động: S + Action Verb + ADVERB (Trạng từ).",
+              "example": "Linking: The boss looks angry. (Trông có vẻ tức giận) | Action: The boss looks at me angrily. (Nhìn một cách tức giận)",
+              "highlight": true
+            },
+            {
+              "rule": "Nhóm 1 - Chỉ trạng thái tồn tại: be, get (thì, là, ở, trở nên).",
+              "example": "Eg: The city becomes more crowded during rush hour.",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 2 - Chỉ cảm quan, ấn tượng: seem, appear (dường như, có vẻ như).",
+              "example": "Eg: The new smart system seems very efficient.",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 3 - Duy trì trạng thái: remain, stay, keep (vẫn giữ nguyên trạng thái nào đó).",
+              "example": "Eg: The room remains quiet throughout the presentation. / Stay calm!",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 4 - Sự biến đổi trạng thái: become, come, turn, go, grow, get (trở nên, trở thành).",
+              "example": "Eg: Milk goes bad quickly in hot weather. / It is growing dark.",
+              "highlight": false
+            },
+            {
+              "rule": "Nhóm 5 - Tri giác giác quan: taste (có vị), smell (có mùi), sound (nghe có vẻ), look (trông có vẻ), feel (cảm thấy), prove (chứng tỏ là).",
+              "example": "Eg: That plan sounds great. / This fabric feels soft. / The experiment proved successful.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Bài tập trắc nghiệm (Multiple Choice Questions)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Many modern cities build _________ to allow people to walk freely without worrying about traffic.",
+          "options": ["skyscrapers", "pedestrian zones", "suburbs", "card readers"],
+          "correctIndex": 1,
+          "explanation": "Pedestrian zone là khu vực dành riêng cho người đi bộ (không có xe cộ lưu thông)."
+        },
+        {
+          "id": 2,
+          "question": "Local governments are installing _________ to monitor traffic flow and environmental quality.",
+          "options": ["roof gardens", "smart sensors", "bank cards", "prescriptions"],
+          "correctIndex": 1,
+          "explanation": "Smart sensor (cảm biến thông minh) được lắp đặt để giám sát giao thông và môi trường."
+        },
+        {
+          "id": 3,
+          "question": "Living in a green city helps residents improve their mental health and builds a strong _________.",
+          "options": ["sense of community", "cybercrime", "high-rise building", "refund"],
+          "correctIndex": 0,
+          "explanation": "Cụm từ sense of community mang nghĩa là 'tinh thần / ý thức cộng đồng'."
+        },
+        {
+          "id": 4,
+          "question": "The government plans to invest more money in public _________ to reduce urban traffic jams.",
+          "options": ["economy", "architecture", "infrastructure", "privacy"],
+          "correctIndex": 2,
+          "explanation": "Infrastructure (cơ sở hạ tầng) bao gồm hệ thống đường xá, giao thông, cầu cống..."
+        },
+        {
+          "id": 5,
+          "question": "Modern city dwellers prefer to use _________ like buses and metro systems instead of driving personal cars.",
+          "options": ["private vehicles", "public transport", "roof gardens", "card readers"],
+          "correctIndex": 1,
+          "explanation": "Public transport (phương tiện giao thông công cộng) như xe buýt, tàu điện ngầm."
+        },
+        {
+          "id": 6,
+          "question": "You can swipe your phone or _________ at the card reader to make a payment.",
+          "options": ["bank card", "prescription", "route", "exhibition"],
+          "correctIndex": 0,
+          "explanation": "Bank card (thẻ ngân hàng) quẹt qua card reader (máy đọc thẻ) để thanh toán (make a payment)."
+        },
+        {
+          "id": 7,
+          "question": "Old buildings were demolished to _________ a new green park in the urban center.",
+          "options": ["cope with", "book an appointment", "make room for", "interact with"],
+          "correctIndex": 2,
+          "explanation": "Cụm từ make room for mang nghĩa là 'nhường chỗ cho / lấy chỗ cho cái gì'."
+        },
+        {
+          "id": 8,
+          "question": "Many people prefer to live in the _________ because it is quieter and less crowded than the inner city.",
+          "options": ["skyscrapers", "suburbs", "urban centers", "pedestrian zones"],
+          "correctIndex": 1,
+          "explanation": "Suburbs (vùng ngoại ô) là nơi yên tĩnh và ít đông đúc hơn trung tâm thành phố."
+        },
+        {
+          "id": 9,
+          "question": "Smart technologies help local authorities _________ the public transport network more efficiently.",
+          "options": ["pedal", "operate", "refund", "impact"],
+          "correctIndex": 1,
+          "explanation": "Operate (vận hành / quản lý) mạng lưới giao thông."
+        },
+        {
+          "id": 10,
+          "question": "The doctor gave me a _________ for some medicine after my health check-up.",
+          "options": ["prescription", "facility", "route", "privacy"],
+          "correctIndex": 0,
+          "explanation": "Prescription (đơn thuốc) do bác sĩ kê sau khi khám bệnh."
+        },
+        {
+          "id": 11,
+          "question": "Listen! The soup on the stove _________ delicious. Can I try some?",
+          "options": ["is smelling", "smells", "smell", "was smelling"],
+          "correctIndex": 1,
+          "explanation": "Smell ở đây là động từ trạng thái (stative verb) mang nghĩa 'có mùi / tỏa mùi', đi kèm tính từ delicious nên không dùng dạng tiếp diễn."
+        },
+        {
+          "id": 12,
+          "question": "Why _________ the soup right now? Is it missing some salt?",
+          "options": ["do you taste", "are you tasting", "taste you", "have you tasted"],
+          "correctIndex": 1,
+          "explanation": "Taste ở đây là động từ chỉ hành động (action verb) mang nghĩa 'nếm thử' (chủ ngữ chủ động thực hiện), diễn ra ngay lúc nói (right now) -> Chia thì Hiện tại tiếp diễn."
+        },
+        {
+          "id": 13,
+          "question": "Look at that guy over there! He _________ at us in a very strange way.",
+          "options": ["looks", "is looking", "look", "seemed"],
+          "correctIndex": 1,
+          "explanation": "Look at là động từ hành động 'nhìn vào ai đó' -> Dùng dạng tiếp diễn (is looking)."
+        },
+        {
+          "id": 14,
+          "question": "The food at the new restaurant in the urban center _________ terrible last night.",
+          "options": ["tasted", "was tasting", "tastes", "is tasting"],
+          "correctIndex": 0,
+          "explanation": "Taste mang nghĩa 'có vị như thế nào' là động từ nối (linking verb), theo sau bởi tính từ terrible. Dấu hiệu last night -> Chia Quá khứ đơn."
+        },
+        {
+          "id": 15,
+          "question": "I _________ that smart cities will completely solve traffic congestion in the next decade.",
+          "options": ["am thinking", "think", "was thinking", "am thought"],
+          "correctIndex": 1,
+          "explanation": "Think mang nghĩa 'nghĩ rằng / tin rằng' (= believe) là động từ trạng thái, không chia dạng tiếp diễn."
+        },
+        {
+          "id": 16,
+          "question": "Be quiet! The city mayor _________ the new infrastructure plan on TV right now.",
+          "options": ["appears", "is appearing", "appeared", "has appeared"],
+          "correctIndex": 1,
+          "explanation": "Appear mang nghĩa 'xuất hiện' (trên TV) là động từ chỉ hành động -> Chia Hiện tại tiếp diễn (is appearing) với dấu hiệu right now."
+        },
+        {
+          "id": 17,
+          "question": "Modern urban centers need to focus on _________ energy sources like solar and wind power.",
+          "options": ["liveable", "sustainable", "high-rise", "private"],
+          "correctIndex": 1,
+          "explanation": "Sustainable energy (năng lượng bền vững / tái tạo) như năng lượng mặt trời, gió."
+        },
+        {
+          "id": 18,
+          "question": "Today, John _________ very rude to the bus driver, but usually he is very polite.",
+          "options": ["is", "is being", "was", "has been"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc 'S + is/are being + Adj' dùng để miêu tả bản chất/hành vi cư xử bất thường, tạm thời của ai đó trong một thời điểm cụ thể (thường ngày lịch sự, hôm nay lại vô lễ)."
+        },
+        {
+          "id": 19,
+          "question": "The new museum has an impressive modern _________ designed by a famous Italian architect.",
+          "options": ["architecture", "cybercrime", "refund", "facility"],
+          "correctIndex": 0,
+          "explanation": "Architecture (kiến trúc / phong cách kiến trúc) của tòa nhà."
+        },
+        {
+          "id": 20,
+          "question": "City dwellers often have to _________ high noise levels and air pollution daily.",
+          "options": ["cope with", "impact on", "interact with", "depend on"],
+          "correctIndex": 0,
+          "explanation": "Cụm động từ cope with mang nghĩa 'đối phó / giải quyết' với tiếng ồn và ô nhiễm."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền vào chỗ trống (Fill in the blanks)",
+      "wordbank": [
+        "high-rise building",
+        "privacy",
+        "cybercrime",
+        "liveable",
+        "refund",
+        "roof garden",
+        "route",
+        "pedal",
+        "pros and cons",
+        "be impressed with",
+        "interact with",
+        "impact on",
+        "facility",
+        "economy",
+        "exhibition"
+      ],
+      "questions": [
+        {
+          "id": 21,
+          "question": "The city council is holding an art _________ to showcase sustainable architecture designs.",
+          "answer": "exhibition",
+          "acceptAlternatives": ["exhibition", "art exhibition"]
+        },
+        {
+          "id": 22,
+          "question": "Installing green spaces on top of skyscrapers helps turn a _________ into an eco-friendly area.",
+          "answer": "roof garden",
+          "acceptAlternatives": ["roof garden"]
+        },
+        {
+          "id": 23,
+          "question": "Many people worry that smart cameras in public places might invade their personal _________.",
+          "answer": "privacy",
+          "acceptAlternatives": ["privacy"]
+        },
+        {
+          "id": 24,
+          "question": "The police are working hard to protect online bank card users from _________.",
+          "answer": "cybercrime",
+          "acceptAlternatives": ["cybercrime"]
+        },
+        {
+          "id": 25,
+          "question": "If the product you bought at the store is defective, you can ask for a full _________.",
+          "answer": "refund",
+          "acceptAlternatives": ["refund"]
+        },
+        {
+          "id": 26,
+          "question": "Tourists were very _________ the modern infrastructure and clean streets of Singapore.",
+          "answer": "impressed with",
+          "acceptAlternatives": ["impressed with", "be impressed with"]
+        },
+        {
+          "id": 27,
+          "question": "Before moving to a big city, you should carefully weigh the _________ of urban life.",
+          "answer": "pros and cons",
+          "acceptAlternatives": ["pros and cons"]
+        },
+        {
+          "id": 28,
+          "question": "Smart technology has a positive _________ the way city dwellers travel every day.",
+          "answer": "impact on",
+          "acceptAlternatives": ["impact on"]
+        },
+        {
+          "id": 29,
+          "question": "To stay healthy, many citizens choose to _________ their bicycles to work instead of driving.",
+          "answer": "pedal",
+          "acceptAlternatives": ["pedal"]
+        },
+        {
+          "id": 30,
+          "question": "The local government is building a new sports _________ to serve the growing population.",
+          "answer": "facility",
+          "acceptAlternatives": ["facility"]
+        },
+        {
+          "id": 31,
+          "question": "Traffic smart sensors help drivers find the fastest _________ during rush hour.",
+          "answer": "route",
+          "acceptAlternatives": ["route"]
+        },
+        {
+          "id": 32,
+          "question": "Vienna is frequently ranked as one of the most _________ cities in the world.",
+          "answer": "liveable",
+          "acceptAlternatives": ["liveable"]
+        },
+        {
+          "id": 33,
+          "question": "A strong _________ allows a country to invest more in modern public transport systems.",
+          "answer": "economy",
+          "acceptAlternatives": ["economy"]
+        },
+        {
+          "id": 34,
+          "question": "Living in a giant _________ can sometimes make people feel isolated from their neighbors.",
+          "answer": "high-rise building",
+          "acceptAlternatives": ["high-rise building"]
+        },
+        {
+          "id": 35,
+          "question": "Smart apps allow citizens to easily _________ local government services online.",
+          "answer": "interact with",
+          "acceptAlternatives": ["interact with"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu (Sentence Arrangement)",
+      "questions": [
+        {
+          "id": 36,
+          "words": ["Many", "city dwellers", "prefer", "to", "live", "in", "the", "suburbs"],
+          "answer": "Many city dwellers prefer to live in the suburbs.",
+          "acceptAlternatives": [
+            "Many city dwellers prefer to live in the suburbs",
+            "Many city dwellers prefer to live in the suburbs."
+          ]
+        },
+        {
+          "id": 37,
+          "words": ["You", "can", "make", "a", "payment", "using", "your", "bank card"],
+          "answer": "You can make a payment using your bank card.",
+          "acceptAlternatives": [
+            "You can make a payment using your bank card",
+            "You can make a payment using your bank card."
+          ]
+        },
+        {
+          "id": 38,
+          "words": ["The", "public transport", "system", "operates", "smoothly", "in", "this", "city"],
+          "answer": "The public transport system operates smoothly in this city.",
+          "acceptAlternatives": [
+            "The public transport system operates smoothly in this city",
+            "The public transport system operates smoothly in this city."
+          ]
+        },
+        {
+          "id": 39,
+          "words": ["Smart sensors", "help", "monitor", "air", "quality", "in", "urban", "centers"],
+          "answer": "Smart sensors help monitor air quality in urban centers.",
+          "acceptAlternatives": [
+            "Smart sensors help monitor air quality in urban centers",
+            "Smart sensors help monitor air quality in urban centers."
+          ]
+        },
+        {
+          "id": 40,
+          "words": ["Old", "buildings", "were", "demolished", "to", "make room for", "a", "park"],
+          "answer": "Old buildings were demolished to make room for a park.",
+          "acceptAlternatives": [
+            "Old buildings were demolished to make room for a park",
+            "Old buildings were demolished to make room for a park."
+          ]
+        },
+        {
+          "id": 41,
+          "words": ["I", "am", "thinking", "of", "buying", "an", "electric", "car", "next", "year"],
+          "answer": "I am thinking of buying an electric car next year.",
+          "acceptAlternatives": [
+            "I am thinking of buying an electric car next year",
+            "I am thinking of buying an electric car next year."
+          ]
+        },
+        {
+          "id": 42,
+          "words": ["This", "flower", "smells", "sweet", "in", "the", "garden"],
+          "answer": "This flower smells sweet in the garden.",
+          "acceptAlternatives": [
+            "This flower smells sweet in the garden",
+            "This flower smells sweet in the garden."
+          ]
+        },
+        {
+          "id": 43,
+          "words": ["They", "are", "tasting", "the", "soup", "to", "check", "its", "flavor"],
+          "answer": "They are tasting the soup to check its flavor.",
+          "acceptAlternatives": [
+            "They are tasting the soup to check its flavor",
+            "They are tasting the soup to check its flavor."
+          ]
+        },
+        {
+          "id": 44,
+          "words": ["High-rise", "buildings", "dominate", "the", "skyline", "in", "modern", "cities"],
+          "answer": "High-rise buildings dominate the skyline in modern cities.",
+          "acceptAlternatives": [
+            "High-rise buildings dominate the skyline in modern cities",
+            "High-rise buildings dominate the skyline in modern cities."
+          ]
+        },
+        {
+          "id": 45,
+          "words": ["You", "should", "book", "an appointment", "with", "the", "doctor", "early"],
+          "answer": "You should book an appointment with the doctor early.",
+          "acceptAlternatives": [
+            "You should book an appointment with the doctor early",
+            "You should book an appointment with the doctor early."
+          ]
+        },
+        {
+          "id": 46,
+          "words": ["Public", "transport", "reduces", "traffic", "jams", "and", "air", "pollution"],
+          "answer": "Public transport reduces traffic jams and air pollution.",
+          "acceptAlternatives": [
+            "Public transport reduces traffic jams and air pollution",
+            "Public transport reduces traffic jams and air pollution."
+          ]
+        },
+        {
+          "id": 47,
+          "words": ["The", "chef", "is", "weighing", "the", "ingredients", "for", "dinner"],
+          "answer": "The chef is weighing the ingredients for dinner.",
+          "acceptAlternatives": [
+            "The chef is weighing the ingredients for dinner",
+            "The chef is weighing the ingredients for dinner."
+          ]
+        },
+        {
+          "id": 48,
+          "words": ["Sustainable", "cities", "protect", "the", "environment", "for", "future", "generations"],
+          "answer": "Sustainable cities protect the environment for future generations.",
+          "acceptAlternatives": [
+            "Sustainable cities protect the environment for future generations",
+            "Sustainable cities protect the environment for future generations."
+          ]
+        },
+        {
+          "id": 49,
+          "words": ["City dwellers", "have to", "cope with", "daily", "traffic", "congestion"],
+          "answer": "City dwellers have to cope with daily traffic congestion.",
+          "acceptAlternatives": [
+            "City dwellers have to cope with daily traffic congestion",
+            "City dwellers have to cope with daily traffic congestion."
+          ]
+        },
+        {
+          "id": 50,
+          "words": ["She", "looks", "stunning", "in", "her", "traditional", "costume", "tonight"],
+          "answer": "She looks stunning in her traditional costume tonight.",
+          "acceptAlternatives": [
+            "She looks stunning in her traditional costume tonight",
+            "She looks stunning in her traditional costume tonight."
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu không đổi nghĩa (Sentence Rewriting)",
+      "questions": [
+        {
+          "id": 51,
+          "question": "The modern architecture of the skyscraper amazed all the visitors.",
+          "hint": "be impressed with",
+          "startWith": "All the visitors were",
+          "answer": "All the visitors were impressed with the modern architecture of the skyscraper.",
+          "acceptAlternatives": [
+            "All the visitors were impressed with the modern architecture of the skyscraper",
+            "All the visitors were impressed with the modern architecture of the skyscraper.",
+            "impressed with the modern architecture of the skyscraper",
+            "impressed with the modern architecture of the skyscraper.",
+            "All the visitors were impressed by the modern architecture of the skyscraper",
+            "All the visitors were impressed by the modern architecture of the skyscraper.",
+            "impressed by the modern architecture of the skyscraper",
+            "impressed by the modern architecture of the skyscraper."
+          ]
+        },
+        {
+          "id": 52,
+          "question": "I am considering moving to the suburbs next month.",
+          "hint": "thinking of",
+          "startWith": "I am",
+          "answer": "I am thinking of moving to the suburbs next month.",
+          "acceptAlternatives": [
+            "I am thinking of moving to the suburbs next month",
+            "I am thinking of moving to the suburbs next month.",
+            "thinking of moving to the suburbs next month",
+            "thinking of moving to the suburbs next month."
+          ]
+        },
+        {
+          "id": 53,
+          "question": "In my opinion, living in a smart city has many advantages.",
+          "hint": "think",
+          "startWith": "I think",
+          "answer": "I think living in a smart city has many advantages.",
+          "acceptAlternatives": [
+            "I think living in a smart city has many advantages",
+            "I think living in a smart city has many advantages.",
+            "living in a smart city has many advantages",
+            "living in a smart city has many advantages.",
+            "I think that living in a smart city has many advantages",
+            "I think that living in a smart city has many advantages.",
+            "that living in a smart city has many advantages",
+            "that living in a smart city has many advantages."
+          ]
+        },
+        {
+          "id": 54,
+          "question": "The chef is testing the flavor of the sauce right now.",
+          "hint": "is tasting",
+          "startWith": "The chef is",
+          "answer": "The chef is tasting the sauce right now.",
+          "acceptAlternatives": [
+            "The chef is tasting the sauce right now",
+            "The chef is tasting the sauce right now.",
+            "tasting the sauce right now",
+            "tasting the sauce right now."
+          ]
+        },
+        {
+          "id": 55,
+          "question": "This dish has a delicious taste.",
+          "hint": "tastes + Adj",
+          "startWith": "This dish tastes",
+          "answer": "This dish tastes delicious.",
+          "acceptAlternatives": [
+            "This dish tastes delicious",
+            "This dish tastes delicious.",
+            "delicious",
+            "delicious."
+          ]
+        },
+        {
+          "id": 56,
+          "question": "The old houses were destroyed so that a new pedestrian zone could be built.",
+          "hint": "make room for",
+          "startWith": "The old houses were destroyed to make",
+          "answer": "The old houses were destroyed to make room for a new pedestrian zone.",
+          "acceptAlternatives": [
+            "The old houses were destroyed to make room for a new pedestrian zone",
+            "The old houses were destroyed to make room for a new pedestrian zone.",
+            "room for a new pedestrian zone",
+            "room for a new pedestrian zone.",
+            "The old houses were destroyed to make room for a pedestrian zone",
+            "The old houses were destroyed to make room for a pedestrian zone."
+          ]
+        },
+        {
+          "id": 57,
+          "question": "City dwellers find it hard to deal with heavy traffic every day.",
+          "hint": "cope with",
+          "startWith": "City dwellers find it hard to cope",
+          "answer": "City dwellers find it hard to cope with heavy traffic every day.",
+          "acceptAlternatives": [
+            "City dwellers find it hard to cope with heavy traffic every day",
+            "City dwellers find it hard to cope with heavy traffic every day.",
+            "with heavy traffic every day",
+            "with heavy traffic every day."
+          ]
+        },
+        {
+          "id": 58,
+          "question": "He is holding the perfume bottle and breathing in its fragrance.",
+          "hint": "is smelling",
+          "startWith": "He is",
+          "answer": "He is smelling the perfume bottle.",
+          "acceptAlternatives": [
+            "He is smelling the perfume bottle",
+            "He is smelling the perfume bottle.",
+            "smelling the perfume bottle",
+            "smelling the perfume bottle."
+          ]
+        },
+        {
+          "id": 59,
+          "question": "What is the weight of this smart card reader?",
+          "hint": "weigh",
+          "startWith": "How much does",
+          "answer": "How much does this smart card reader weigh?",
+          "acceptAlternatives": [
+            "How much does this smart card reader weigh?",
+            "How much does this smart card reader weigh",
+            "this smart card reader weigh?",
+            "this smart card reader weigh"
+          ]
+        },
+        {
+          "id": 60,
+          "question": "Why are you acting so selfishly today? You aren't usually like this.",
+          "hint": "is/are being",
+          "startWith": "Why are",
+          "answer": "Why are you being so selfish today?",
+          "acceptAlternatives": [
+            "Why are you being so selfish today?",
+            "Why are you being so selfish today",
+            "you being so selfish today?",
+            "you being so selfish today"
+          ]
+        }
+      ]
+    }
+  }
+}

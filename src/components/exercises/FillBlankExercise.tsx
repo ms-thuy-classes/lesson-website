@@ -113,7 +113,8 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
           const isCorrect = isAnswerCorrect(userVal, q.answer, q.acceptAlternatives);
 
           // Split question around '______' or '___'
-          const parts = q.question.split(/_{3,}/);
+          const rawText = q.question || q.sentence || '';
+          const parts = rawText.includes('___') ? rawText.split(/_{3,}/) : [rawText, ''];
 
           return (
             <div
