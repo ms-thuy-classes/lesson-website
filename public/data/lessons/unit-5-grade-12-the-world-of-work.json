@@ -1,0 +1,944 @@
+{
+  "id": "unit-5-grade-12-the-world-of-work",
+  "title": "Unit 5: The World of Work (Grade 12)",
+  "tags": ["Lớp 12"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "shift",
+        "ipa": "/ʃɪft/",
+        "pos": "n",
+        "meaning": "ca làm việc",
+        "example": "Factory employees often have to rotate between the day shift and the night shift.",
+        "exampleVi": "Công nhân nhà máy thường phải luân phiên giữa ca ngày và ca đêm."
+      },
+      {
+        "stt": 2,
+        "word": "tiring",
+        "ipa": "/ˈtaɪərɪŋ/",
+        "pos": "adj",
+        "meaning": "gây mệt mỏi",
+        "example": "Standing on your feet all day at the customer service desk is extremely tiring.",
+        "exampleVi": "Đứng cả ngày ở quầy chăm sóc khách hàng vô cùng mệt mỏi."
+      },
+      {
+        "stt": 3,
+        "word": "stressful",
+        "ipa": "/ˈstresfl/",
+        "pos": "adj",
+        "meaning": "căng thẳng, gây áp lực",
+        "example": "Meeting strict deadlines under heavy workloads makes the project very stressful.",
+        "exampleVi": "Kịp hạn chót dưới khối lượng công việc nặng nề khiến dự án rất căng thẳng."
+      },
+      {
+        "stt": 4,
+        "word": "nine-to-five",
+        "ipa": "/ˌnaɪn tə ˈfaɪv/",
+        "pos": "adj",
+        "meaning": "giờ hành chính (từ 9h sáng đến 5h chiều)",
+        "example": "She left her corporate nine-to-five job to establish her own freelance design studio.",
+        "exampleVi": "Cô ấy đã nghỉ công việc hành chính ở tập đoàn để thành lập xưởng thiết kế tự do của riêng mình."
+      },
+      {
+        "stt": 5,
+        "word": "accountant",
+        "ipa": "/əˈkaʊntənt/",
+        "pos": "n",
+        "meaning": "kế toán viên",
+        "example": "The certified accountant spent three days auditing the annual tax reports.",
+        "exampleVi": "Kế toán viên được cấp chứng chỉ đã dành ba ngày để kiểm toán báo cáo thuế hàng năm."
+      },
+      {
+        "stt": 6,
+        "word": "overtime",
+        "ipa": "/ˈəʊvətaɪm/",
+        "pos": "n",
+        "meaning": "ngoài giờ làm việc, giờ tăng ca",
+        "example": "He put in ten hours of overtime this week to finalize the software rollout.",
+        "exampleVi": "Anh ấy đã làm tăng ca mười tiếng trong tuần này để hoàn thiện việc triển khai phần mềm."
+      },
+      {
+        "stt": 7,
+        "word": "challenging",
+        "ipa": "/ˈtʃælɪndʒɪŋ/",
+        "pos": "adj",
+        "meaning": "đầy thách thức, kích thích trí tuệ",
+        "example": "Leading a multinational team is a challenging yet stimulating responsibility.",
+        "exampleVi": "Dẫn dắt một đội ngũ đa quốc gia là một trách nhiệm đầy thử thách nhưng kích thích phát triển."
+      },
+      {
+        "stt": 8,
+        "word": "relevant",
+        "ipa": "/ˈreləvənt/",
+        "pos": "adj",
+        "meaning": "có liên quan, thích hợp",
+        "example": "Candidates should highlight all relevant work experience on their curriculum vitae.",
+        "exampleVi": "Các ứng viên nên làm nổi bật mọi kinh nghiệm làm việc có liên quan trong sơ yếu lý lịch."
+      },
+      {
+        "stt": 9,
+        "word": "bonus",
+        "ipa": "/ˈbəʊnəs/",
+        "pos": "n",
+        "meaning": "tiền thưởng",
+        "example": "Sales representatives receive an attractive performance bonus at the end of each quarter.",
+        "exampleVi": "Đại diện bán hàng nhận được khoản tiền thưởng hiệu suất hấp dẫn vào cuối mỗi quý."
+      },
+      {
+        "stt": 10,
+        "word": "employ",
+        "ipa": "/ɪmˈplɔɪ/",
+        "pos": "v",
+        "meaning": "tuyển dụng, thuê nhân viên",
+        "example": "The tech enterprise intends to employ thirty data analysts next month.",
+        "exampleVi": "Doanh nghiệp công nghệ dự định tuyển dụng ba mươi chuyên viên phân tích dữ liệu vào tháng tới."
+      },
+      {
+        "stt": 11,
+        "word": "rewarding",
+        "ipa": "/rɪˈwɔːdɪŋ/",
+        "pos": "adj",
+        "meaning": "đáng làm, mang lại sự thỏa mãn, bổ ích",
+        "example": "Nursing can be emotionally demanding, but it is a thoroughly rewarding profession.",
+        "exampleVi": "Ngành điều dưỡng có thể nhiều áp lực cảm xúc, nhưng là một nghề nghiệp vô cùng ý nghĩa và thỏa mãn."
+      },
+      {
+        "stt": 12,
+        "word": "qualification",
+        "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+        "pos": "n",
+        "meaning": "bằng cấp, trình độ chuyên môn",
+        "example": "A university degree is the minimum academic qualification for this managerial position.",
+        "exampleVi": "Bằng đại học là văn bằng trình độ tối thiểu cho vị trí quản lý này."
+      },
+      {
+        "stt": 13,
+        "word": "well-paid",
+        "ipa": "/ˌwel ˈpeɪd/",
+        "pos": "adj",
+        "meaning": "được trả lương cao, hậu hĩnh",
+        "example": "Software engineering remains one of the most well-paid careers in the technology industry.",
+        "exampleVi": "Kỹ thuật phần mềm vẫn là một trong những nghề được trả lương cao nhất trong ngành công nghệ."
+      },
+      {
+        "stt": 14,
+        "word": "vacancy",
+        "ipa": "/ˈveɪkənsi/",
+        "pos": "n",
+        "meaning": "vị trí công việc còn trống",
+        "example": "Our marketing division announced a vacancy for an experienced digital content creator.",
+        "exampleVi": "Phòng marketing của chúng tôi đã thông báo một vị trí còn trống cho chuyên viên sáng tạo nội dung số có kinh nghiệm."
+      },
+      {
+        "stt": 15,
+        "word": "flexible",
+        "ipa": "/ˈfleksəbl/",
+        "pos": "adj",
+        "meaning": "linh hoạt (thời gian, địa điểm)",
+        "example": "Modern enterprises provide flexible working arrangements such as telecommuting.",
+        "exampleVi": "Các doanh nghiệp hiện đại cung cấp sắp xếp làm việc linh hoạt như làm việc từ xa."
+      },
+      {
+        "stt": 16,
+        "word": "review",
+        "ipa": "/rɪˈvjuː/",
+        "pos": "n",
+        "meaning": "bài đánh giá, sự xem xét lại",
+        "example": "During her annual performance review, the director praised her leadership initiatives.",
+        "exampleVi": "Trong buổi đánh giá hiệu suất hàng năm, giám đốc đã khen ngợi các sáng kiến lãnh đạo của cô ấy."
+      },
+      {
+        "stt": 17,
+        "word": "hard-working",
+        "ipa": "/ˌhɑːd ˈwɜːkɪŋ/",
+        "pos": "adj",
+        "meaning": "chăm chỉ, siêng năng",
+        "example": "Hard-working apprentices quickly master complex technical skills on the production line.",
+        "exampleVi": "Những người học việc chăm chỉ nhanh chóng thành thạo các kỹ năng kỹ thuật phức tạp trên dây chuyền sản xuất."
+      },
+      {
+        "stt": 18,
+        "word": "on-the-job",
+        "ipa": "/ɒn-ðə-dʒɒb/",
+        "pos": "adj",
+        "meaning": "trong công việc, khi đang làm việc thực tế",
+        "example": "New recruits receive comprehensive on-the-job training from seasoned mentors.",
+        "exampleVi": "Nhân viên mới nhận được sự đào tạo trực tiếp trong công việc từ các cố vấn dày dặn kinh nghiệm."
+      },
+      {
+        "stt": 19,
+        "word": "wage",
+        "ipa": "/weɪdʒ/",
+        "pos": "n",
+        "meaning": "tiền công (theo giờ hoặc tuần)",
+        "example": "The government raised the legal minimum hourly wage for restaurant employees.",
+        "exampleVi": "Chính phủ đã tăng mức tiền công tối thiểu theo giờ hợp pháp cho nhân viên nhà hàng."
+      },
+      {
+        "stt": 20,
+        "word": "responsibility",
+        "ipa": "/rɪˌspɒnsəˈbɪləti/",
+        "pos": "n",
+        "meaning": "trách nhiệm, nhiệm vụ",
+        "example": "His primary responsibility is supervising the daily logistics and distribution channels.",
+        "exampleVi": "Trách nhiệm chính của anh ấy là giám sát hậu cần hàng ngày và các kênh phân phối."
+      },
+      {
+        "stt": 21,
+        "word": "supervise",
+        "ipa": "/ˈsuːpəvaɪz/",
+        "pos": "v",
+        "meaning": "giám sát, quản lý",
+        "example": "Experienced team leads closely supervise every phase of product manufacturing.",
+        "exampleVi": "Các trưởng nhóm giàu kinh nghiệm giám sát chặt chẽ từng giai đoạn sản xuất sản phẩm."
+      },
+      {
+        "stt": 22,
+        "word": "attendance",
+        "ipa": "/əˈtendəns/",
+        "pos": "n",
+        "meaning": "sự chuyên cần, điểm danh",
+        "example": "The company recognizes employees who achieve a hundred percent attendance record.",
+        "exampleVi": "Công ty khen thưởng những nhân viên đạt kỷ lục chuyên cần một trăm phần trăm."
+      },
+      {
+        "stt": 23,
+        "word": "responsible",
+        "ipa": "/rɪˈspɒnsəbl/",
+        "pos": "adj",
+        "meaning": "có trách nhiệm, chịu trách nhiệm",
+        "example": "The project architect is responsible for ensuring safety code compliance.",
+        "exampleVi": "Kiến trúc sư dự án chịu trách nhiệm đảm bảo việc tuân thủ quy chuẩn an toàn."
+      },
+      {
+        "stt": 24,
+        "word": "enthusiastic",
+        "ipa": "/ɪnˌθjuːziˈæstɪk/",
+        "pos": "adj",
+        "meaning": "nhiệt tình, hào hứng",
+        "example": "The startup founder was enthusiastic about pitching her product to investors.",
+        "exampleVi": "Người sáng lập công ty khởi nghiệp rất hào hứng khi thuyết trình sản phẩm của mình trước các nhà đầu tư."
+      },
+      {
+        "stt": 25,
+        "word": "on a night shift",
+        "ipa": "/ɒn ə naɪt ʃɪft/",
+        "pos": "phrase",
+        "meaning": "làm ca buổi tối, làm ca đêm",
+        "example": "Medical doctors working on a night shift must remain alert during emergency situations.",
+        "exampleVi": "Các bác sĩ làm ca đêm phải luôn tỉnh táo trong các tình huống khẩn cấp."
+      },
+      {
+        "stt": 26,
+        "word": "go on a business trip",
+        "ipa": "/ɡəʊ ɒn ə ˈbɪznəs trɪp/",
+        "pos": "phrase",
+        "meaning": "đi công tác",
+        "example": "The senior consultant had to go on a business trip to Singapore to seal the contract.",
+        "exampleVi": "Chuyên viên tư vấn cao cấp phải đi công tác đến Singapore để hoàn tất hợp đồng."
+      },
+      {
+        "stt": 27,
+        "word": "follow in one's footsteps",
+        "ipa": "/ˈfɒləʊ ɪn wʌnz ˈfʊtstɛps/",
+        "pos": "phrase",
+        "meaning": "nối gót, theo nghiệp ai",
+        "example": "She decided to follow in her mother's footsteps and become an accountant.",
+        "exampleVi": "Cô ấy quyết định nối gót mẹ mình và trở thành một kế toán viên."
+      },
+      {
+        "stt": 28,
+        "word": "apply for something",
+        "ipa": "/əˈplaɪ fɔːr ˈsʌmθɪŋ/",
+        "pos": "phr. v",
+        "meaning": "ứng tuyển cho vị trí gì, nộp đơn xin",
+        "example": "More than two hundred recent graduates decided to apply for the marketing vacancy.",
+        "exampleVi": "Hơn hai trăm sinh viên mới tốt nghiệp đã quyết định ứng tuyển cho vị trí tuyển dụng marketing."
+      },
+      {
+        "stt": 29,
+        "word": "interfere with something",
+        "ipa": "/ˌɪntəˈfɪər wɪð ˈsʌmθɪŋ/",
+        "pos": "phr. v",
+        "meaning": "can thiệp vào, cản trở cái gì",
+        "example": "Do not let excessive work stress interfere with your personal health and family life.",
+        "exampleVi": "Đừng để áp lực công việc quá mức can thiệp và ảnh hưởng xấu đến sức khỏe cá nhân và đời sống gia đình."
+      },
+      {
+        "stt": 30,
+        "word": "wait on tables",
+        "ipa": "/weɪt ɒn ˈteɪblz/",
+        "pos": "phrase",
+        "meaning": "phục vụ đồ ăn thức uống cho khách trong nhà hàng",
+        "example": "He used to wait on tables at an Italian bistro to pay for his college tuition.",
+        "exampleVi": "Anh ấy từng phục vụ bàn tại một quán ăn Ý để chi trả học phí đại học."
+      },
+      {
+        "stt": 31,
+        "word": "give rise to something",
+        "ipa": "/ɡɪv raɪz tuː ˈsʌmθɪŋ/",
+        "pos": "phrase",
+        "meaning": "khiến điều gì xuất hiện, dẫn đến cái gì",
+        "example": "Unclear job descriptions can easily give rise to workplace conflicts and misunderstandings.",
+        "exampleVi": "Mô tả công việc không rõ ràng có thể dễ dàng dẫn đến xung đột và hiểu lầm tại nơi làm việc."
+      }
+    ],
+    "grammar": {
+      "title": "Sentence Types: Simple, Compound & Complex Sentences (Câu đơn, Câu ghép và Câu phức)",
+      "sections": [
+        {
+          "heading": "1. Simple Sentences (Câu đơn)",
+          "content": "Câu đơn là câu chỉ có 1 mệnh đề chính độc lập, gồm 1 chủ ngữ và 1 vị ngữ (động từ). Câu cũng có thể có chủ ngữ gồm 2 danh từ nối bằng 'and' (chủ ngữ kép) hoặc 2 động từ nối bằng 'and' (vị ngữ kép) nhưng vẫn là 1 câu đơn.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Cấu trúc cơ bản của câu đơn:",
+              "example": "• S + V + (O/A):\n  - I went to the supermarket yesterday.\n• Chủ ngữ kép (Compound Subject) + V:\n  - Mary and Tom are playing tennis.\n• S + Vị ngữ kép (Compound Predicate):\n  - My brother ate a sandwich and drank beer.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Compound Sentences (Câu ghép)",
+          "content": "Câu ghép gồm 2 hay nhiều mệnh đề độc lập về ý nghĩa (có thể đứng riêng thành câu hoàn chỉnh), được kết nối với nhau bởi liên từ kết hợp (Coordinating Conjunctions: FANBOYS - and, or, but, so...).",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Các liên từ kết hợp thường gặp (Coordinating Conjunctions):",
+              "example": "• and (và): Bổ sung thêm thông tin\n  (Eg: The Japanese eat a lot of fish, and they eat a lot of tofu too.)\n• or (hoặc): Thể hiện sự lựa chọn\n  (Eg: You can take this medicine, or you can drink hot ginger tea.)\n• but (nhưng): Nối hai mệnh đề mang ý nghĩa trái ngược, đối lập\n  (Eg: She doesn't eat much, but she's still fat.)\n• so (nên/ vì vậy mà/ vậy nên): Chỉ kết quả của sự việc nhắc trước đó\n  (Eg: My mother eats healthily, so she is very strong.)",
+              "highlight": true
+            },
+            {
+              "rule": "Cấu trúc & Quy tắc dấu phẩy trong câu ghép:",
+              "example": "• Cấu trúc: Mệnh đề 1 + (,) + Liên từ kết hợp + Mệnh đề 2\n  - You should eat less fast food or you can put on weight.\n  - I wasn't very hungry, but I ate a lot.\n  - My mother does exercise every day, so she looks very young and fit.\n• Lưu ý: BẮT BUỘC sử dụng dấu phẩy trước liên từ 'so'. Với 'and', 'or', 'but' có thể có dấu phẩy hoặc không.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Complex Sentences (Câu phức)",
+          "content": "Câu phức bao gồm 1 mệnh đề độc lập (Independent Clause) và ít nhất 1 mệnh đề phụ thuộc (Dependent Clause) liên kết với nhau bằng các liên từ phụ thuộc (Subordinating Conjunctions).",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Quy tắc vị trí mệnh đề và dấu phẩy trong câu phức:",
+              "example": "• Mệnh đề đi liền ngay sau liên từ phụ thuộc chính là mệnh đề phụ thuộc (Dependent Clause).\n• Khi mệnh đề phụ thuộc đứng TRƯỚC mệnh đề độc lập ➔ Cần có dấu phẩy ngăn cách:\n  - Even though he is busy, he always takes time to play with his daughter.\n  - If you want to study abroad, you should think about saving money now.\n• Khi mệnh đề phụ thuộc đứng SAU mệnh đề độc lập ➔ KHÔNG cần dấu phẩy:\n  - He always takes time to play with his daughter even though he is extremely busy.\n  - You should think about saving money from now if you want to study abroad.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "4. Tổng hợp các Liên từ phụ thuộc thường gặp (Subordinating Conjunctions)",
+          "content": "Bảng tra cứu nhanh các liên từ phụ thuộc quan trọng được chia theo nhóm ý nghĩa:",
+          "highlight": true,
+          "layout": "two-columns",
+          "points": [
+            {
+              "rule": "Nhóm Thời gian & Nguyên nhân / Mục đích (Cột 1):",
+              "example": "• After: Sau khi\n• Before: Trước khi\n• When: Khi\n• While / Whereas: Trong khi đó\n• As soon as: Ngay khi\n• Once: Một khi\n• Since / Until: Kể từ khi / Cho đến khi\n• Because / As / Since: Bởi vì\n• In order that / So that: Cốt để mà, nhằm mục đích",
+              "highlight": true
+            },
+            {
+              "rule": "Nhóm Nhượng bộ, Điều kiện & Cách thức (Cột 2):",
+              "example": "• Although / Even though / Though: Mặc dù\n• Even if: Thậm chí nếu, dù cho\n• If / Unless: Nếu / Trừ phi (Nếu không)\n• As long as: Miễn là\n• In case: Phòng khi, trong trường hợp\n• As if / As though: Như thể là\n• As much as: Nhiều như là",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Trắc nghiệm khách quan (Multiple Choice - 20 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Working a night __________ can disrupt your natural sleep cycle and lead to health issues.",
+          "options": ["shift", "wage", "bonus", "vacancy"],
+          "correctIndex": 0,
+          "explanation": "Cụm danh từ: 'night shift' (ca làm việc ban đêm). 'Working a night shift can disrupt your natural sleep cycle...'"
+        },
+        {
+          "id": 2,
+          "question": "Doing repetitive data entry tasks all day can be extremely __________ for office staff.",
+          "options": ["flexible", "tiring", "well-paid", "relevant"],
+          "correctIndex": 1,
+          "explanation": "'tiring' (adj): gây mệt mỏi, tốn nhiều sức lực. Nhiệm vụ nhập liệu lặp đi lặp lại cả ngày gây mệt mỏi cho nhân viên."
+        },
+        {
+          "id": 3,
+          "question": "Managing high-stakes financial accounts is a highly __________ job that requires great focus.",
+          "options": ["on-the-job", "hard-working", "stressful", "enthusiastic"],
+          "correctIndex": 2,
+          "explanation": "'stressful' (adj): căng thẳng, áp lực lớn khi quản lý các tài khoản tài chính giá trị cao."
+        },
+        {
+          "id": 4,
+          "question": "Many office employees prefer a traditional __________ schedule because it offers predictable working hours.",
+          "options": ["well-paid", "nine-to-five", "overtime", "rewarding"],
+          "correctIndex": 1,
+          "explanation": "'nine-to-five' (adj): giờ hành chính cố định từ 9 giờ sáng đến 5 giờ chiều."
+        },
+        {
+          "id": 5,
+          "question": "The firm hired a certified __________ to inspect their yearly financial statements.",
+          "options": ["accountant", "vacancy", "attendance", "responsibility"],
+          "correctIndex": 0,
+          "explanation": "'accountant' (n): kế toán viên chuyên nghiệp kiểm tra và lập báo cáo tài chính hàng năm."
+        },
+        {
+          "id": 6,
+          "question": "If you stay late to finish the quarterly budget report, you will earn extra __________ pay.",
+          "options": ["wage", "overtime", "shift", "qualification"],
+          "correctIndex": 1,
+          "explanation": "'overtime pay' (tiền làm thêm giờ, tiền lương tăng ca khi ở lại làm muộn)."
+        },
+        {
+          "id": 7,
+          "question": "Solving complex IT issues on a tight deadline can be a __________ but satisfying task.",
+          "options": ["challenging", "tiring", "nine-to-five", "relevant"],
+          "correctIndex": 0,
+          "explanation": "'challenging' (adj): đầy tính thách thức, kích thích trí tuệ và kỹ năng giải quyết vấn đề."
+        },
+        {
+          "id": 8,
+          "question": "Please make sure all the certificates you submit are directly __________ to the job position.",
+          "options": ["flexible", "relevant", "responsible", "hard-working"],
+          "correctIndex": 1,
+          "explanation": "'relevant to' (adj): có liên quan, phù hợp trực tiếp với vị trí công việc ứng tuyển."
+        },
+        {
+          "id": 9,
+          "question": "Employees who meet their annual sales targets will receive a Christmas __________.",
+          "options": ["vacancy", "shift", "bonus", "attendance"],
+          "correctIndex": 2,
+          "explanation": "'bonus' (n): tiền thưởng khích lệ khi hoàn thành hoặc vượt chỉ tiêu doanh số."
+        },
+        {
+          "id": 10,
+          "question": "The technology company plans to __________ fifty new software developers next month.",
+          "options": ["supervise", "employ", "review", "wait on"],
+          "correctIndex": 1,
+          "explanation": "'employ' (v): tuyển dụng, thuê nhân sự làm việc cho công ty."
+        },
+        {
+          "id": 11,
+          "question": "Teaching young children is a deeply __________ career that brings great personal satisfaction.",
+          "options": ["stressful", "rewarding", "tiring", "flexible"],
+          "correctIndex": 1,
+          "explanation": "'rewarding' (adj): mang lại cảm giác thỏa mãn, ý nghĩa và bổ ích (deeply rewarding career)."
+        },
+        {
+          "id": 12,
+          "question": "Applicants must possess the appropriate academic __________ before applying for the post.",
+          "options": ["qualification", "attendance", "bonus", "wage"],
+          "correctIndex": 0,
+          "explanation": "'qualification' (n): văn bằng, chứng chỉ hoặc trình độ chuyên môn."
+        },
+        {
+          "id": 13,
+          "question": "Doctors and surgeons are usually __________, reflecting their high level of expertise and responsibility.",
+          "options": ["well-paid", "nine-to-five", "tiring", "relevant"],
+          "correctIndex": 0,
+          "explanation": "'well-paid' (adj): được trả lương cao, đãi ngộ tài chính tương xứng với chuyên môn."
+        },
+        {
+          "id": 14,
+          "question": "The HR department posted a job __________ for a marketing coordinator on their website.",
+          "options": ["attendance", "responsibility", "vacancy", "bonus"],
+          "correctIndex": 2,
+          "explanation": "'job vacancy' (vị trí công việc đang còn trống cần tuyển dụng nhân sự mới)."
+        },
+        {
+          "id": 15,
+          "question": "Freelancers enjoy __________ working hours, allowing them to balance work and personal life.",
+          "options": ["flexible", "stressful", "hard-working", "well-paid"],
+          "correctIndex": 0,
+          "explanation": "'flexible working hours' (giờ giấc làm việc linh hoạt, tự do sắp xếp)."
+        },
+        {
+          "id": 16,
+          "question": "The annual performance __________ helps employees understand their strengths and areas for growth.",
+          "options": ["wage", "review", "shift", "qualification"],
+          "correctIndex": 1,
+          "explanation": "'performance review' (kỳ/bài đánh giá hiệu quả công việc thường niên)."
+        },
+        {
+          "id": 17,
+          "question": "A __________ employee is always willing to put in extra effort to achieve company goals.",
+          "options": ["hard-working", "flexible", "relevant", "tiring"],
+          "correctIndex": 0,
+          "explanation": "'hard-working' (adj): chăm chỉ, siêng năng và cống hiến hết mình vì mục tiêu chung."
+        },
+        {
+          "id": 18,
+          "question": "New hires receive comprehensive __________ training to learn practical operational procedures.",
+          "options": ["nine-to-five", "on-the-job", "well-paid", "rewarding"],
+          "correctIndex": 1,
+          "explanation": "'on-the-job training' (đào tạo thực tế ngay trong quá trình làm việc)."
+        },
+        {
+          "id": 19,
+          "question": "Workers in the construction industry are often paid a weekly __________ based on worked hours.",
+          "options": ["qualification", "wage", "vacancy", "bonus"],
+          "correctIndex": 1,
+          "explanation": "'wage' (n): tiền công trả theo giờ hoặc theo tuần dựa trên số giờ lao động thực tế."
+        },
+        {
+          "id": 20,
+          "question": "Managing a team of twenty engineers comes with great corporate __________.",
+          "options": ["attendance", "shift", "responsibility", "review"],
+          "correctIndex": 2,
+          "explanation": "'responsibility' (n): trọng trách, trách nhiệm quản lý đội ngũ nhân viên."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền từ vào chỗ trống (Fill in the Blanks - 15 câu)",
+      "wordbank": [
+        "supervise",
+        "attendance",
+        "responsible",
+        "enthusiastic",
+        "night shift",
+        "business trip",
+        "footsteps",
+        "apply for",
+        "interfere with",
+        "wait on",
+        "give rise to",
+        "and",
+        "but",
+        "so",
+        "although"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Senior managers must _______ junior staff members to ensure quality standards are met.",
+          "sentence": "Senior managers must _______ junior staff members to ensure quality standards are met.",
+          "answer": "supervise",
+          "acceptAlternatives": ["supervise"],
+          "hint": "Động từ: giám sát, quản lý nhân viên cấp dưới"
+        },
+        {
+          "id": 2,
+          "question": "The company tracks employee _______ using a digital clock-in system every morning.",
+          "sentence": "The company tracks employee _______ using a digital clock-in system every morning.",
+          "answer": "attendance",
+          "acceptAlternatives": ["attendance"],
+          "hint": "Danh từ: sự chuyên cần, việc chấm công điểm danh"
+        },
+        {
+          "id": 3,
+          "question": "Every team member is _______ for keeping their workplace clean and safe.",
+          "sentence": "Every team member is _______ for keeping their workplace clean and safe.",
+          "answer": "responsible",
+          "acceptAlternatives": ["responsible"],
+          "hint": "Tính từ: có trách nhiệm (responsible for)"
+        },
+        {
+          "id": 4,
+          "question": "The new intern is very _______ about taking on new challenges in the creative department.",
+          "sentence": "The new intern is very _______ about taking on new challenges in the creative department.",
+          "answer": "enthusiastic",
+          "acceptAlternatives": ["enthusiastic"],
+          "hint": "Tính từ: hào hứng, nhiệt tình (enthusiastic about)"
+        },
+        {
+          "id": 5,
+          "question": "Working on a _______ requires sleeping during the daytime, which can be difficult to adapt to.",
+          "sentence": "Working on a _______ requires sleeping during the daytime, which can be difficult to adapt to.",
+          "answer": "night shift",
+          "acceptAlternatives": ["night shift"],
+          "hint": "Cụm danh từ: ca làm việc ban đêm"
+        },
+        {
+          "id": 6,
+          "question": "The director had to go on a _______ to Tokyo to negotiate a partnership contract.",
+          "sentence": "The director had to go on a _______ to Tokyo to negotiate a partnership contract.",
+          "answer": "business trip",
+          "acceptAlternatives": ["business trip"],
+          "hint": "Cụm danh từ: chuyến công tác (go on a business trip)"
+        },
+        {
+          "id": 7,
+          "question": "He decided to follow in his father's _______ by pursuing a career in law.",
+          "sentence": "He decided to follow in his father's _______ by pursuing a career in law.",
+          "answer": "footsteps",
+          "acceptAlternatives": ["footsteps"],
+          "hint": "Thành ngữ: nối gót ai (follow in one's footsteps)"
+        },
+        {
+          "id": 8,
+          "question": "Hundreds of candidates decided to _______ the job vacancy advertised online.",
+          "sentence": "Hundreds of candidates decided to _______ the job vacancy advertised online.",
+          "answer": "apply for",
+          "acceptAlternatives": ["apply for"],
+          "hint": "Cụm động từ: nộp đơn ứng tuyển (apply for)"
+        },
+        {
+          "id": 9,
+          "question": "Late-night video gaming should not _______ your work performance the next morning.",
+          "sentence": "Late-night video gaming should not _______ your work performance the next morning.",
+          "answer": "interfere with",
+          "acceptAlternatives": ["interfere with"],
+          "hint": "Cụm động từ: can thiệp, cản trở, ảnh hưởng tiêu cực đến (interfere with)"
+        },
+        {
+          "id": 10,
+          "question": "During college, she used to _______ tables at a local restaurant to cover her living expenses.",
+          "sentence": "During college, she used to _______ tables at a local restaurant to cover her living expenses.",
+          "answer": "wait on",
+          "acceptAlternatives": ["wait on"],
+          "hint": "Cụm động từ: phục vụ bàn trong nhà hàng (wait on tables)"
+        },
+        {
+          "id": 11,
+          "question": "Poor workplace communication can _______ unnecessary misunderstandings among team members.",
+          "sentence": "Poor workplace communication can _______ unnecessary misunderstandings among team members.",
+          "answer": "give rise to",
+          "acceptAlternatives": ["give rise to"],
+          "hint": "Cụm thành ngữ: làm nảy sinh, gây ra (give rise to)"
+        },
+        {
+          "id": 12,
+          "question": "The accountant checked the financial figures, _______ she found several balance errors.",
+          "sentence": "The accountant checked the financial figures, _______ she found several balance errors.",
+          "answer": "but",
+          "acceptAlternatives": ["but", "and"],
+          "hint": "Liên từ kết hợp mang ý tương phản đối lập: nhưng"
+        },
+        {
+          "id": 13,
+          "question": "He gained relevant work experience, _______ he was offered a higher position.",
+          "sentence": "He gained relevant work experience, _______ he was offered a higher position.",
+          "answer": "so",
+          "acceptAlternatives": ["so"],
+          "hint": "Liên từ kết hợp chỉ kết quả: nên, vì vậy"
+        },
+        {
+          "id": 14,
+          "question": "The job is physically tiring, _______ it provides a very generous monthly compensation.",
+          "sentence": "The job is physically tiring, _______ it provides a very generous monthly compensation.",
+          "answer": "but",
+          "acceptAlternatives": ["but"],
+          "hint": "Liên từ kết hợp thể hiện hai vế đối lập: nhưng"
+        },
+        {
+          "id": 15,
+          "question": "_______ she lacks formal qualifications, her practical experience makes her a strong candidate.",
+          "sentence": "_______ she lacks formal qualifications, her practical experience makes her a strong candidate.",
+          "answer": "Although",
+          "acceptAlternatives": ["Although", "although"],
+          "hint": "Liên từ phụ thuộc đứng đầu câu chỉ sự nhượng bộ: Mặc dù"
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu hoàn chỉnh (Sentence Reordering - 10 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["Although", "a nine-to-five job", "offers", "stability,", "it can", "become repetitive."],
+          "answer": "Although a nine-to-five job offers stability, it can become repetitive.",
+          "acceptAlternatives": [
+            "Although a nine-to-five job offers stability, it can become repetitive.",
+            "Although a nine-to-five job offers stability, it can become repetitive"
+          ]
+        },
+        {
+          "id": 2,
+          "words": ["You", "must", "have", "relevant qualifications", "to apply for", "this position."],
+          "answer": "You must have relevant qualifications to apply for this position.",
+          "acceptAlternatives": [
+            "You must have relevant qualifications to apply for this position.",
+            "You must have relevant qualifications to apply for this position"
+          ]
+        },
+        {
+          "id": 3,
+          "words": ["She", "followed in", "her mother's footsteps", "and became", "an accountant."],
+          "answer": "She followed in her mother's footsteps and became an accountant.",
+          "acceptAlternatives": [
+            "She followed in her mother's footsteps and became an accountant.",
+            "She followed in her mother's footsteps and became an accountant"
+          ]
+        },
+        {
+          "id": 4,
+          "words": ["Working overtime", "continuously", "can", "give rise to", "severe fatigue."],
+          "answer": "Working overtime continuously can give rise to severe fatigue.",
+          "acceptAlternatives": [
+            "Working overtime continuously can give rise to severe fatigue.",
+            "Working overtime continuously can give rise to severe fatigue"
+          ]
+        },
+        {
+          "id": 5,
+          "words": ["The manager", "decided to", "employ", "three new accountants."],
+          "answer": "The manager decided to employ three new accountants.",
+          "acceptAlternatives": [
+            "The manager decided to employ three new accountants.",
+            "The manager decided to employ three new accountants"
+          ]
+        },
+        {
+          "id": 6,
+          "words": ["You should", "submit your CV", "before", "the application deadline", "passes."],
+          "answer": "You should submit your CV before the application deadline passes.",
+          "acceptAlternatives": [
+            "You should submit your CV before the application deadline passes.",
+            "You should submit your CV before the application deadline passes"
+          ]
+        },
+        {
+          "id": 7,
+          "words": ["The shift supervisor", "is", "responsible for", "supervising", "the production line."],
+          "answer": "The shift supervisor is responsible for supervising the production line.",
+          "acceptAlternatives": [
+            "The shift supervisor is responsible for supervising the production line.",
+            "The shift supervisor is responsible for supervising the production line"
+          ]
+        },
+        {
+          "id": 8,
+          "words": ["He", "worked hard,", "so", "he", "earned a big bonus", "during the project."],
+          "answer": "He worked hard, so he earned a big bonus during the project.",
+          "acceptAlternatives": [
+            "He worked hard, so he earned a big bonus during the project.",
+            "He worked hard, so he earned a big bonus during the project"
+          ]
+        },
+        {
+          "id": 9,
+          "words": ["The company", "provides", "on-the-job training", "for all", "new recruits."],
+          "answer": "The company provides on-the-job training for all new recruits.",
+          "acceptAlternatives": [
+            "The company provides on-the-job training for all new recruits.",
+            "The company provides on-the-job training for all new recruits"
+          ]
+        },
+        {
+          "id": 10,
+          "words": ["Do not", "let work stress", "interfere with", "your health", "or personal life."],
+          "answer": "Do not let work stress interfere with your health or personal life.",
+          "acceptAlternatives": [
+            "Do not let work stress interfere with your health or personal life.",
+            "Do not let work stress interfere with your health or personal life"
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu với Liên từ (Sentence Rewriting with Conjunctions - 15 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "She worked hard all week, so she received an extra performance bonus.",
+          "hint": "Use 'Because' at the beginning",
+          "startWith": "Because",
+          "answer": "Because she worked hard all week, she received an extra performance bonus.",
+          "acceptAlternatives": [
+            "Because she worked hard all week, she received an extra performance bonus.",
+            "Because she worked hard all week, she received an extra performance bonus",
+            "she worked hard all week, she received an extra performance bonus.",
+            "she worked hard all week, she received an extra performance bonus"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "He was tired after a 12-hour shift, but he continued to review the financial report.",
+          "hint": "Use 'Although' at the beginning",
+          "startWith": "Although",
+          "answer": "Although he was tired after a 12-hour shift, he continued to review the financial report.",
+          "acceptAlternatives": [
+            "Although he was tired after a 12-hour shift, he continued to review the financial report.",
+            "Although he was tired after a 12-hour shift, he continued to review the financial report",
+            "he was tired after a 12-hour shift, he continued to review the financial report.",
+            "he was tired after a 12-hour shift, he continued to review the financial report"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "You can apply for the job vacancy online, or you can drop off your CV at reception.",
+          "hint": "Use 'Either... or...'",
+          "startWith": "Either",
+          "answer": "Either you can apply for the job vacancy online, or you can drop off your CV at reception.",
+          "acceptAlternatives": [
+            "Either you can apply for the job vacancy online, or you can drop off your CV at reception.",
+            "Either you can apply for the job vacancy online, or you can drop off your CV at reception",
+            "you can apply for the job vacancy online, or you can drop off your CV at reception.",
+            "you can apply for the job vacancy online, or you can drop off your CV at reception",
+            "Either apply for the job vacancy online, or drop off your CV at reception."
+          ]
+        },
+        {
+          "id": 4,
+          "question": "She is taking an advanced qualification course because she wants to earn a higher wage.",
+          "hint": "She wants to earn a higher wage, so...",
+          "startWith": "She wants to earn a higher wage, so",
+          "answer": "She wants to earn a higher wage, so she is taking an advanced qualification course.",
+          "acceptAlternatives": [
+            "She wants to earn a higher wage, so she is taking an advanced qualification course.",
+            "She wants to earn a higher wage, so she is taking an advanced qualification course",
+            "she is taking an advanced qualification course.",
+            "she is taking an advanced qualification course"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Finish your work assignment first, and then you can go home early.",
+          "hint": "Use 'As soon as' at the beginning",
+          "startWith": "As soon as",
+          "answer": "As soon as you finish your work assignment, you can go home early.",
+          "acceptAlternatives": [
+            "As soon as you finish your work assignment, you can go home early.",
+            "As soon as you finish your work assignment, you can go home early",
+            "you finish your work assignment, you can go home early.",
+            "you finish your work assignment, you can go home early"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "He has high academic qualifications, but he lacks practical on-the-job experience.",
+          "hint": "Use 'Even though' at the beginning",
+          "startWith": "Even though",
+          "answer": "Even though he has high academic qualifications, he lacks practical on-the-job experience.",
+          "acceptAlternatives": [
+            "Even though he has high academic qualifications, he lacks practical on-the-job experience.",
+            "Even though he has high academic qualifications, he lacks practical on-the-job experience",
+            "he has high academic qualifications, he lacks practical on-the-job experience.",
+            "he has high academic qualifications, he lacks practical on-the-job experience"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "You will get the job offer only if you have relevant work experience.",
+          "hint": "Use 'Unless' at the beginning",
+          "startWith": "Unless",
+          "answer": "Unless you have relevant work experience, you will not get the job offer.",
+          "acceptAlternatives": [
+            "Unless you have relevant work experience, you will not get the job offer.",
+            "Unless you have relevant work experience, you will not get the job offer",
+            "Unless you have relevant work experience, you won't get the job offer.",
+            "Unless you have relevant work experience, you won't get the job offer",
+            "you have relevant work experience, you will not get the job offer.",
+            "you have relevant work experience, you won't get the job offer."
+          ]
+        },
+        {
+          "id": 8,
+          "question": "The accountant checked the numbers, and then she signed the budget document.",
+          "hint": "Use 'After' at the beginning",
+          "startWith": "After",
+          "answer": "After the accountant checked the numbers, she signed the budget document.",
+          "acceptAlternatives": [
+            "After the accountant checked the numbers, she signed the budget document.",
+            "After the accountant checked the numbers, she signed the budget document",
+            "the accountant checked the numbers, she signed the budget document.",
+            "the accountant checked the numbers, she signed the budget document"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "If you don't stop letting your part-time job interfere with your studies, your grades will drop.",
+          "hint": "Stop letting your part-time job interfere with your studies, or...",
+          "startWith": "Stop letting your part-time job interfere with your studies, or",
+          "answer": "Stop letting your part-time job interfere with your studies, or your grades will drop.",
+          "acceptAlternatives": [
+            "Stop letting your part-time job interfere with your studies, or your grades will drop.",
+            "Stop letting your part-time job interfere with your studies, or your grades will drop",
+            "your grades will drop.",
+            "your grades will drop"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "He went on a business trip to Tokyo, and he met new corporate clients there.",
+          "hint": "Use 'When' at the beginning",
+          "startWith": "When",
+          "answer": "When he went on a business trip to Tokyo, he met new corporate clients there.",
+          "acceptAlternatives": [
+            "When he went on a business trip to Tokyo, he met new corporate clients there.",
+            "When he went on a business trip to Tokyo, he met new corporate clients there",
+            "he went on a business trip to Tokyo, he met new corporate clients there.",
+            "he went on a business trip to Tokyo, he met new corporate clients there"
+          ]
+        },
+        {
+          "id": 11,
+          "question": "The manager and the team supervisors held a meeting this morning.",
+          "hint": "While the team supervisors were meeting with the manager...",
+          "startWith": "While the team supervisors were meeting with the manager,",
+          "answer": "While the team supervisors were meeting with the manager, they discussed this morning's plans.",
+          "acceptAlternatives": [
+            "While the team supervisors were meeting with the manager, they discussed this morning's plans.",
+            "While the team supervisors were meeting with the manager, they discussed this morning's plans",
+            "While the team supervisors were meeting with the manager, important issues were discussed.",
+            "While the team supervisors were meeting with the manager, important issues were discussed",
+            "they discussed this morning's plans.",
+            "they discussed this morning's plans",
+            "important issues were discussed.",
+            "important issues were discussed"
+          ]
+        },
+        {
+          "id": 12,
+          "question": "She applied for the vacancy, but she was not selected for an interview.",
+          "hint": "Use 'Although' at the beginning",
+          "startWith": "Although",
+          "answer": "Although she applied for the vacancy, she was not selected for an interview.",
+          "acceptAlternatives": [
+            "Although she applied for the vacancy, she was not selected for an interview.",
+            "Although she applied for the vacancy, she was not selected for an interview",
+            "she applied for the vacancy, she was not selected for an interview.",
+            "she applied for the vacancy, she was not selected for an interview"
+          ]
+        },
+        {
+          "id": 13,
+          "question": "While the supervisor was reviewing the reports, the clerks updated the attendance records.",
+          "hint": "The supervisor was reviewing the reports, and at the same time...",
+          "startWith": "The supervisor was reviewing the reports, and at the same time",
+          "answer": "The supervisor was reviewing the reports, and at the same time the clerks updated the attendance records.",
+          "acceptAlternatives": [
+            "The supervisor was reviewing the reports, and at the same time the clerks updated the attendance records.",
+            "The supervisor was reviewing the reports, and at the same time the clerks updated the attendance records",
+            "the clerks updated the attendance records.",
+            "the clerks updated the attendance records"
+          ]
+        },
+        {
+          "id": 14,
+          "question": "To get a high-paying job, you need to acquire relevant qualifications and practical skills.",
+          "hint": "If you want to...",
+          "startWith": "If you want to",
+          "answer": "If you want to get a high-paying job, you need to acquire relevant qualifications and practical skills.",
+          "acceptAlternatives": [
+            "If you want to get a high-paying job, you need to acquire relevant qualifications and practical skills.",
+            "If you want to get a high-paying job, you need to acquire relevant qualifications and practical skills",
+            "get a high-paying job, you need to acquire relevant qualifications and practical skills.",
+            "get a high-paying job, you need to acquire relevant qualifications and practical skills"
+          ]
+        },
+        {
+          "id": 15,
+          "question": "My father works on a night shift, so he usually rests during the day.",
+          "hint": "Use 'Because' at the beginning",
+          "startWith": "Because",
+          "answer": "Because my father works on a night shift, he usually rests during the day.",
+          "acceptAlternatives": [
+            "Because my father works on a night shift, he usually rests during the day.",
+            "Because my father works on a night shift, he usually rests during the day",
+            "my father works on a night shift, he usually rests during the day.",
+            "my father works on a night shift, he usually rests during the day"
+          ]
+        }
+      ]
+    }
+  }
+}
