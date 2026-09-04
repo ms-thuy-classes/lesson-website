@@ -14,8 +14,12 @@ import unit9Data from '../../public/data/lessons/unit-9-family-relationships.jso
 import unit10Data from '../../public/data/lessons/unit-10-media-communication.json';
 import ieltsData from '../../public/data/lessons/ielts-vocab-band7.json';
 import toeicData from '../../public/data/lessons/toeic-business-communication.json';
+import unit4Grade11Data from '../../public/data/lessons/unit-4-grade-11-asean-and-vietnam.json';
+import unit5Grade11Data from '../../public/data/lessons/unit-5-grade-11-global-warming.json';
 
 const bundledLessons: Record<string, LessonData> = {
+  'unit-5-grade-11-global-warming': unit5Grade11Data as LessonData,
+  'unit-4-grade-11-asean-and-vietnam': unit4Grade11Data as LessonData,
   'unit-1-life-stories': unit1Data as LessonData,
   'unit-2-education': unit2Data as LessonData,
   'unit-3-community-service': unit3Data as LessonData,

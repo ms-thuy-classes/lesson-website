@@ -38,6 +38,7 @@ export interface GrammarSection {
   content?: string;
   highlight?: boolean;
   points?: GrammarPoint[];
+  layout?: 'two-columns' | 'single-column';
 }
 
 export interface GrammarTheory {
@@ -64,7 +65,7 @@ export interface FillBlankQuestion {
 export interface ArrangeQuestion {
   id: number;
   words: string[];
-  correctOrder: number[];
+  correctOrder?: number[];
   answer: string;
   acceptAlternatives?: string[];
 }

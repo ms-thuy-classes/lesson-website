@@ -112,8 +112,10 @@ export const GrammarView: React.FC<GrammarViewProps> = ({ grammar }) => {
       {/* Grammar Sections */}
       <div className="space-y-8">
         {grammar.sections.map((sec, idx) => {
-          // If section has 4 or more points (like verb-preposition categories), display as responsive 2-column grid
-          const isMultiColumn = sec.points && sec.points.length >= 4;
+          // If section has layout='two-columns' or 2 or 4+ points, display as responsive 2-column grid
+          const isMultiColumn =
+            sec.layout === 'two-columns' ||
+            Boolean(sec.points && (sec.points.length >= 4 || sec.points.length === 2));
 
           return (
             <div

@@ -22,10 +22,10 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
 }) => {
   // Keep scores of each exercise in this lesson
   const [exerciseScores, setExerciseScores] = useState<Record<string, { correct: number; total: number }>>({
-    mcq: { correct: 0, total: lesson.exercises.mcq.questions.length },
-    fillBlank: { correct: 0, total: lesson.exercises.fillBlank.questions.length },
-    arrange: { correct: 0, total: lesson.exercises.arrange.questions.length },
-    rewrite: { correct: 0, total: lesson.exercises.rewrite.questions.length },
+    mcq: { correct: 0, total: lesson.exercises?.mcq?.questions?.length ?? 0 },
+    fillBlank: { correct: 0, total: lesson.exercises?.fillBlank?.questions?.length ?? 0 },
+    arrange: { correct: 0, total: lesson.exercises?.arrange?.questions?.length ?? 0 },
+    rewrite: { correct: 0, total: lesson.exercises?.rewrite?.questions?.length ?? 0 },
   });
 
   const [activeSectionTab, setActiveSectionTab] = useState<'theory' | 'exercises'>('theory');
@@ -184,33 +184,41 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
         </div>
 
         {/* Exercise 1: Multiple Choice (Trắc nghiệm) */}
-        <MCQExercise
-          title={lesson.exercises.mcq.title}
-          questions={lesson.exercises.mcq.questions}
-          onScoreUpdate={handleScoreUpdate}
-        />
+        {lesson.exercises?.mcq && (
+          <MCQExercise
+            title={lesson.exercises.mcq.title}
+            questions={lesson.exercises.mcq.questions}
+            onScoreUpdate={handleScoreUpdate}
+          />
+        )}
 
         {/* Exercise 2: Fill in Blank (Điền từ) */}
-        <FillBlankExercise
-          title={lesson.exercises.fillBlank.title}
-          wordbank={lesson.exercises.fillBlank.wordbank}
-          questions={lesson.exercises.fillBlank.questions}
-          onScoreUpdate={handleScoreUpdate}
-        />
+        {lesson.exercises?.fillBlank && (
+          <FillBlankExercise
+            title={lesson.exercises.fillBlank.title}
+            wordbank={lesson.exercises.fillBlank.wordbank}
+            questions={lesson.exercises.fillBlank.questions}
+            onScoreUpdate={handleScoreUpdate}
+          />
+        )}
 
         {/* Exercise 3: Arrange Sentence (Sắp xếp câu) */}
-        <ArrangeExercise
-          title={lesson.exercises.arrange.title}
-          questions={lesson.exercises.arrange.questions}
-          onScoreUpdate={handleScoreUpdate}
-        />
+        {lesson.exercises?.arrange && (
+          <ArrangeExercise
+            title={lesson.exercises.arrange.title}
+            questions={lesson.exercises.arrange.questions}
+            onScoreUpdate={handleScoreUpdate}
+          />
+        )}
 
         {/* Exercise 4: Rewrite Sentence (Viết lại câu) */}
-        <RewriteExercise
-          title={lesson.exercises.rewrite.title}
-          questions={lesson.exercises.rewrite.questions}
-          onScoreUpdate={handleScoreUpdate}
-        />
+        {lesson.exercises?.rewrite && (
+          <RewriteExercise
+            title={lesson.exercises.rewrite.title}
+            questions={lesson.exercises.rewrite.questions}
+            onScoreUpdate={handleScoreUpdate}
+          />
+        )}
 
         {/* Completion Card */}
         <div id="lesson-completion-card" className="glass-panel rounded-2xl p-6 sm:p-8 text-center border border-white/80 shadow-sm mt-8">

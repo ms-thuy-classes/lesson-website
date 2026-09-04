@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Check, RotateCcw, HelpCircle, CheckCircle2, XCircle } from 'lucide-react';
+import { Check, RotateCcw, HelpCircle, CheckCircle2, XCircle, X } from 'lucide-react';
 import { FillBlankQuestion } from '../../types';
 import { isAnswerCorrect } from '../../utils/stringComparison';
 
@@ -36,10 +36,45 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
       const firstEmpty = questions.find((q) => !userInputs[q.id]?.trim());
       targetId = firstEmpty ? firstEmpty.id : questions[0].id;
     }
+
+    // If the target question already has this exact word, toggle it off / clear it
+    if (userInputs[targetId]?.trim().toLowerCase() === word.trim().toLowerCase()) {
+      setUserInputs((prev) => {
+        const next = { ...prev };
+        delete next[targetId!];
+        return next;
+      });
+      return;
+    }
+
     setUserInputs((prev) => ({
       ...prev,
       [targetId!]: word,
     }));
+  };
+
+  // Helper to determine if a word in the word bank is currently in use
+  const isWordBankItemUsed = (word: string, indexInBank: number): boolean => {
+    if (!word) return false;
+    const targetNorm = word.trim().toLowerCase();
+    const targetNoHyphen = targetNorm.replace(/-/g, ' ');
+
+    // How many times this word appeared before indexInBank
+    const occurrencesBefore = wordbank
+      ? wordbank.slice(0, indexInBank).filter((w) => {
+          const wNorm = w.trim().toLowerCase();
+          return wNorm === targetNorm || wNorm.replace(/-/g, ' ') === targetNoHyphen;
+        }).length
+      : 0;
+
+    // How many user inputs currently match this word
+    const matchCount = (Object.values(userInputs) as (string | undefined)[]).filter((val) => {
+      if (!val || typeof val !== 'string') return false;
+      const userNorm = val.trim().toLowerCase();
+      return userNorm === targetNorm || userNorm.replace(/-/g, ' ') === targetNoHyphen;
+    }).length;
+
+    return matchCount > occurrencesBefore;
   };
 
   const handleCheck = () => {
@@ -60,6 +95,10 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
     setActiveQuestionId(null);
     onScoreUpdate('fillBlank', 0, questions.length);
   };
+
+  const usedCount = wordbank
+    ? wordbank.filter((w, idx) => isWordBankItemUsed(w, idx)).length
+    : 0;
 
   return (
     <div id="exercise-fillblank-container" className="glass-panel rounded-2xl p-5 sm:p-7 border border-white/80 shadow-sm mb-10">
@@ -86,22 +125,46 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
       {/* Word Bank if provided */}
       {wordbank && wordbank.length > 0 && (
         <div className="mb-6 p-4 rounded-xl bg-purple-50/70 border border-purple-100">
-          <span className="text-xs font-bold text-purple-800 uppercase tracking-wider block mb-2">
-            Ngân hàng từ gợi ý (Word Bank):
-          </span>
+          <div className="flex flex-wrap items-center justify-between gap-2 mb-2.5">
+            <span className="text-xs font-bold text-purple-800 uppercase tracking-wider">
+              Ngân hàng từ gợi ý (Word Bank):
+            </span>
+            <span className="text-[11px] font-semibold text-purple-700 bg-purple-100/90 px-2.5 py-0.5 rounded-full">
+              Đã chọn: {usedCount}/{wordbank.length} từ
+            </span>
+          </div>
           <div className="flex flex-wrap gap-2">
-            {wordbank.map((word, idx) => (
-              <button
-                key={idx}
-                id={`wordbank-item-${idx}`}
-                onClick={() => handleWordBankClick(word)}
-                disabled={isChecked}
-                className="px-3 py-1.5 rounded-lg bg-white text-purple-700 font-semibold text-xs sm:text-sm border border-purple-200/80 shadow-xs hover:bg-purple-600 hover:text-white transition-all cursor-pointer disabled:cursor-not-allowed disabled:opacity-60"
-                title="Nhấp để điền nhanh"
-              >
-                {word}
-              </button>
-            ))}
+            {wordbank.map((word, idx) => {
+              const isUsed = isWordBankItemUsed(word, idx);
+
+              return (
+                <button
+                  key={idx}
+                  id={`wordbank-item-${idx}`}
+                  onClick={() => handleWordBankClick(word)}
+                  disabled={isChecked}
+                  className={`px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold transition-all cursor-pointer flex items-center gap-1.5 ${
+                    isUsed
+                      ? 'bg-slate-100/90 text-slate-400 border border-dashed border-slate-300 opacity-65 hover:opacity-100 hover:bg-slate-200/60 hover:text-slate-600 shadow-none'
+                      : 'bg-white text-purple-700 border border-purple-200/80 shadow-xs hover:bg-purple-600 hover:text-white hover:border-purple-600 hover:scale-105 active:scale-95'
+                  } disabled:cursor-not-allowed disabled:opacity-60`}
+                  title={
+                    isUsed
+                      ? `Từ "${word}" đã được điền (nhấp để đổi ô hoặc xóa khỏi ô để khôi phục)`
+                      : `Nhấp để điền nhanh "${word}"`
+                  }
+                >
+                  <span className={isUsed ? 'line-through decoration-slate-400 decoration-1.5' : ''}>
+                    {word}
+                  </span>
+                  {isUsed && (
+                    <span className="text-[10px] font-bold text-slate-400 no-underline inline-block">
+                      ✓
+                    </span>
+                  )}
+                </button>
+              );
+            })}
           </div>
         </div>
       )}
@@ -128,22 +191,40 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
                 </span>
                 <div className="text-sm sm:text-base font-medium text-slate-800 leading-loose flex flex-wrap items-center gap-1.5 w-full">
                   <span>{parts[0]}</span>
-                  <input
-                    id={`fillblank-input-${q.id}`}
-                    type="text"
-                    value={userVal}
-                    onChange={(e) => handleInputChange(q.id, e.target.value)}
-                    onFocus={() => setActiveQuestionId(q.id)}
-                    disabled={isChecked}
-                    placeholder="..."
-                    className={`px-3 py-1 text-sm font-semibold rounded-lg border focus:outline-none transition-all w-36 sm:w-44 text-center ${
-                      isChecked
-                        ? isCorrect
-                          ? 'bg-emerald-50 border-emerald-400 text-emerald-800 ring-2 ring-emerald-300/40'
-                          : 'bg-rose-50 border-rose-400 text-rose-800'
-                        : 'bg-white border-slate-300 text-purple-900 focus:ring-2 focus:ring-purple-400 focus:border-transparent'
-                    }`}
-                  />
+                  <div className="inline-flex items-center relative my-0.5">
+                    <input
+                      id={`fillblank-input-${q.id}`}
+                      type="text"
+                      value={userVal}
+                      onChange={(e) => handleInputChange(q.id, e.target.value)}
+                      onFocus={() => setActiveQuestionId(q.id)}
+                      disabled={isChecked}
+                      placeholder="..."
+                      className={`px-3 py-1 text-sm font-semibold rounded-lg border focus:outline-none transition-all w-36 sm:w-48 text-center ${
+                        !isChecked && userVal ? 'pr-7' : ''
+                      } ${
+                        isChecked
+                          ? isCorrect
+                            ? 'bg-emerald-50 border-emerald-400 text-emerald-800 ring-2 ring-emerald-300/40'
+                            : 'bg-rose-50 border-rose-400 text-rose-800'
+                          : activeQuestionId === q.id
+                          ? 'bg-white border-purple-500 text-purple-900 ring-2 ring-purple-300/50'
+                          : 'bg-white border-slate-300 text-purple-900 focus:ring-2 focus:ring-purple-400 focus:border-transparent'
+                      }`}
+                    />
+                    {!isChecked && userVal && (
+                      <button
+                        type="button"
+                        id={`fillblank-clear-${q.id}`}
+                        onClick={() => handleInputChange(q.id, '')}
+                        className="absolute right-1.5 p-0.5 rounded-full text-slate-400 hover:text-rose-500 hover:bg-slate-100 transition-colors cursor-pointer"
+                        title="Xóa từ khỏi ô này (khôi phục lại từ trong ngân hàng từ)"
+                        aria-label="Xóa từ khỏi ô"
+                      >
+                        <X className="w-3.5 h-3.5" />
+                      </button>
+                    )}
+                  </div>
                   <span>{parts[1] || ''}</span>
                 </div>
               </div>

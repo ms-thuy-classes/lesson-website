@@ -1,0 +1,1084 @@
+{
+  "id": "unit-4-grade-11-asean-and-vietnam",
+  "title": "Unit 4: ASEAN and Vietnam (Grade 11)",
+  "tags": ["Lớp 11"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "ancestor",
+        "ipa": "/ˈænˌsɛstər/",
+        "pos": "n",
+        "meaning": "tổ tiên, ông bà tiên sinh",
+        "example": "During the Lunar New Year, Vietnamese families prepare offerings to honor their ancestors.",
+        "exampleVi": "Trong dịp Tết Nguyên Đán, các gia đình Việt Nam chuẩn bị lễ vật để tưởng nhớ tổ tiên."
+      },
+      {
+        "stt": 2,
+        "word": "apply for",
+        "ipa": "/əˈplaɪ fɔːr/",
+        "pos": "phrasal verb",
+        "meaning": "nộp đơn xin, ứng tuyển vào",
+        "example": "Many ambitious university students decided to apply for the ASEAN youth leadership summit.",
+        "exampleVi": "Nhiều sinh viên đại học đầy hoài bão đã quyết định nộp đơn ứng tuyển hội nghị thượng đỉnh lãnh đạo trẻ ASEAN."
+      },
+      {
+        "stt": 3,
+        "word": "arrangement",
+        "ipa": "/əˈreɪndʒmənt/",
+        "pos": "n",
+        "meaning": "sự sắp xếp, sắp đặt",
+        "example": "The organizing committee made every travel arrangement for international delegates.",
+        "exampleVi": "Ban tổ chức đã thực hiện mọi sự sắp xếp việc đi lại cho các đại biểu quốc tế."
+      },
+      {
+        "stt": 4,
+        "word": "bring together",
+        "ipa": "/brɪŋ təˈɡeðər/",
+        "pos": "ph. v",
+        "meaning": "kết hợp, tụ họp, gắn kết",
+        "example": "The regional festival brings together young talents from all ten ASEAN member nations.",
+        "exampleVi": "Lễ hội khu vực gắn kết các tài năng trẻ từ cả mười quốc gia thành viên ASEAN."
+      },
+      {
+        "stt": 5,
+        "word": "climate change",
+        "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+        "pos": "n",
+        "meaning": "biến đổi khí hậu",
+        "example": "Climate change poses serious threats to agriculture and coastal communities in Southeast Asia.",
+        "exampleVi": "Biến đổi khí hậu đặt ra những mối đe dọa nghiêm trọng đối với nông nghiệp và các cộng đồng ven biển ở Đông Nam Á."
+      },
+      {
+        "stt": 6,
+        "word": "conference",
+        "ipa": "/ˈkɒnfərəns/",
+        "pos": "n",
+        "meaning": "hội nghị, hội thảo",
+        "example": "Vietnam successfully hosted an international conference on sustainable economic growth.",
+        "exampleVi": "Việt Nam đã đăng cai tổ chức thành công một hội nghị quốc tế về tăng trưởng kinh tế bền vững."
+      },
+      {
+        "stt": 7,
+        "word": "contribute (to)",
+        "ipa": "/kənˈtrɪbjuːt tuː/",
+        "pos": "v",
+        "meaning": "đóng góp (cho)",
+        "example": "Every volunteer can contribute meaningfully to community development and education.",
+        "exampleVi": "Mỗi tình nguyện viên đều có thể đóng góp ý nghĩa vào sự phát triển cộng đồng và giáo dục."
+      },
+      {
+        "stt": 8,
+        "word": "contribution",
+        "ipa": "/ˌkɒntrɪˈbjuːʃən/",
+        "pos": "n",
+        "meaning": "sự đóng góp, cống hiến",
+        "example": "Vietnam has made remarkable contributions to regional security and peace.",
+        "exampleVi": "Việt Nam đã có những đóng góp nổi bật vào an ninh và hòa bình khu vực."
+      },
+      {
+        "stt": 9,
+        "word": "cultural exchange",
+        "ipa": "/ˈkʌltʃərəl ɪksˈtʃeɪndʒ/",
+        "pos": "n",
+        "meaning": "trao đổi văn hóa, giao lưu văn hóa",
+        "example": "Taking part in a cultural exchange helps youth understand traditional arts and diverse customs.",
+        "exampleVi": "Tham gia giao lưu văn hóa giúp thanh thiếu niên hiểu được các nghệ thuật truyền thống và phong tục đa dạng."
+      },
+      {
+        "stt": 10,
+        "word": "current issue",
+        "ipa": "/ˈkɜːrənt ˈɪʃuː/",
+        "pos": "n",
+        "meaning": "vấn đề hiện tại, vấn đề đang xảy ra",
+        "example": "Delegates spent several hours discussing current issues like digital economy and clean energy.",
+        "exampleVi": "Các đại biểu đã dành vài giờ thảo luận về những vấn đề thời sự như kinh tế số và năng lượng sạch."
+      },
+      {
+        "stt": 11,
+        "word": "depend on",
+        "ipa": "/dɪˈpɛnd ɒn/",
+        "pos": "ph. v",
+        "meaning": "phụ thuộc vào, dựa vào",
+        "example": "Economic stability in Southeast Asia depends on close cooperation among all members.",
+        "exampleVi": "Sự ổn định kinh tế ở Đông Nam Á phụ thuộc vào sự hợp tác chặt chẽ giữa tất cả các thành viên."
+      },
+      {
+        "stt": 12,
+        "word": "development",
+        "ipa": "/dɪˈvɛləpmənt/",
+        "pos": "n",
+        "meaning": "sự phát triển",
+        "example": "Sustainable urban development requires green infrastructure and smart resource management.",
+        "exampleVi": "Phát triển đô thị bền vững đòi hỏi cơ sở hạ tầng xanh và quản lý tài nguyên thông minh."
+      },
+      {
+        "stt": 13,
+        "word": "disability",
+        "ipa": "/dɪsəˈbɪləti/",
+        "pos": "n",
+        "meaning": "sự khuyết tật, tàn tật",
+        "example": "The community center provides vocational training for youngsters with a physical disability.",
+        "exampleVi": "Trung tâm cộng đồng cung cấp đào tạo nghề cho thanh thiếu niên khuyết tật thể chất."
+      },
+      {
+        "stt": 14,
+        "word": "discuss",
+        "ipa": "/dɪˈskʌs/",
+        "pos": "v",
+        "meaning": "thảo luận, bàn luận",
+        "example": "Students gathered in groups to discuss innovative solutions for environmental conservation.",
+        "exampleVi": "Học sinh tập hợp theo nhóm để thảo luận các giải pháp sáng tạo cho việc bảo tồn môi trường."
+      },
+      {
+        "stt": 15,
+        "word": "experience",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "pos": "n/v",
+        "meaning": "kinh nghiệm, trải nghiệm",
+        "example": "Working with foreign delegates gave her valuable hands-on experience in public diplomacy.",
+        "exampleVi": "Làm việc cùng các đại biểu nước ngoài đã mang lại cho cô ấy kinh nghiệm thực tiễn quý giá trong ngoại giao công chúng."
+      },
+      {
+        "stt": 16,
+        "word": "eye-opening",
+        "ipa": "/ˈaɪˌoʊpənɪŋ/",
+        "pos": "adj",
+        "meaning": "mở mang tầm mắt, mở rộng kiến thức",
+        "example": "Visiting rural farming projects was an eye-opening journey for city students.",
+        "exampleVi": "Đến thăm các dự án nông nghiệp nông thôn là một chuyến đi mở mang tầm mắt cho học sinh thành phố."
+      },
+      {
+        "stt": 17,
+        "word": "gender equality",
+        "ipa": "/ˈdʒɛndər ɪˈkwɒlɪti/",
+        "pos": "n",
+        "meaning": "bình đẳng giới",
+        "example": "Promoting gender equality ensures that boys and girls enjoy equal educational opportunities.",
+        "exampleVi": "Thúc đẩy bình đẳng giới đảm bảo trẻ em trai và gái đều được hưởng cơ hội giáo dục như nhau."
+      },
+      {
+        "stt": 18,
+        "word": "interview",
+        "ipa": "/ˈɪntərˌvjuː/",
+        "pos": "n/v",
+        "meaning": "phỏng vấn, cuộc phỏng vấn",
+        "example": "He practiced speaking confidently in English before attending his scholarship interview.",
+        "exampleVi": "Cậu ấy đã luyện tập nói tiếng Anh tự tin trước khi tham dự buổi phỏng vấn học bổng."
+      },
+      {
+        "stt": 19,
+        "word": "issue",
+        "ipa": "/ˈɪʃuː/",
+        "pos": "n",
+        "meaning": "vấn đề, đề tài",
+        "example": "Water pollution remains a pressing environmental issue in many developing river basins.",
+        "exampleVi": "Ô nhiễm nguồn nước vẫn là một vấn đề môi trường cấp bách ở nhiều lưu vực sông đang phát triển."
+      },
+      {
+        "stt": 20,
+        "word": "keen on",
+        "ipa": "/kiːn ɒn/",
+        "pos": "phrase",
+        "meaning": "say mê, đam mê, rất thích",
+        "example": "My sister is extremely keen on learning Southeast Asian musical instruments.",
+        "exampleVi": "Chị gái tôi cực kỳ say mê tìm hiểu các nhạc cụ dân tộc của Đông Nam Á."
+      },
+      {
+        "stt": 21,
+        "word": "leadership skills",
+        "ipa": "/ˈliːdərʃɪp skɪlz/",
+        "pos": "n",
+        "meaning": "kỹ năng lãnh đạo",
+        "example": "Youth forums are wonderful environments to cultivate strong leadership skills.",
+        "exampleVi": "Các diễn đàn thanh niên là môi trường tuyệt vời để trau dồi kỹ năng lãnh đạo vững vàng."
+      },
+      {
+        "stt": 22,
+        "word": "make friends",
+        "ipa": "/meɪk frɛnds/",
+        "pos": "phrase",
+        "meaning": "kết bạn",
+        "example": "She was able to make friends with delegates from Thailand, Malaysia, and Indonesia.",
+        "exampleVi": "Cô ấy đã kết bạn được với các đại biểu đến từ Thái Lan, Malaysia và Indonesia."
+      },
+      {
+        "stt": 23,
+        "word": "make sure",
+        "ipa": "/meɪk ʃʊr/",
+        "pos": "phrase",
+        "meaning": "đảm bảo, chắc chắn",
+        "example": "Please make sure that you bring your passport and student card to registration.",
+        "exampleVi": "Xin hãy chắc chắn rằng bạn mang theo hộ chiếu và thẻ sinh viên đến bàn đăng ký."
+      },
+      {
+        "stt": 24,
+        "word": "participate",
+        "ipa": "/pɑːrˈtɪsɪˌpeɪt/",
+        "pos": "v",
+        "meaning": "tham gia, tham dự",
+        "example": "Over two hundred high school students will participate in the ASEAN friendship camp.",
+        "exampleVi": "Hơn hai trăm học sinh trung học phổ thông sẽ tham gia trại hè hữu nghị ASEAN."
+      },
+      {
+        "stt": 25,
+        "word": "peace",
+        "ipa": "/piːs/",
+        "pos": "n",
+        "meaning": "hòa bình, thái bình",
+        "example": "Preserving peace and mutual trust is a founding objective of the ASEAN community.",
+        "exampleVi": "Giữ gìn hòa bình và tin cậy lẫn nhau là mục tiêu nền tảng của cộng đồng ASEAN."
+      },
+      {
+        "stt": 26,
+        "word": "problem-solving skills",
+        "ipa": "/ˈprɑːbləmˌsɑːlvɪŋ skɪlz/",
+        "pos": "n",
+        "meaning": "kỹ năng giải quyết vấn đề",
+        "example": "Modern employers prioritize candidates with sharp communication and problem-solving skills.",
+        "exampleVi": "Các nhà tuyển dụng hiện đại ưu tiên ứng viên có kỹ năng giao tiếp và giải quyết vấn đề nhạy bén."
+      },
+      {
+        "stt": 27,
+        "word": "promote",
+        "ipa": "/prəˈmoʊt/",
+        "pos": "v",
+        "meaning": "thúc đẩy, khuyến khích, quảng bá",
+        "example": "The conference aims to promote mutual understanding among Southeast Asian youth.",
+        "exampleVi": "Hội nghị hướng tới việc thúc đẩy sự hiểu biết lẫn nhau giữa thanh niên Đông Nam Á."
+      },
+      {
+        "stt": 28,
+        "word": "propose",
+        "ipa": "/prəˈpoʊz/",
+        "pos": "v",
+        "meaning": "đề xuất, đề nghị",
+        "example": "The Vietnamese delegation will propose a joint campaign against plastic pollution.",
+        "exampleVi": "Đoàn đại biểu Việt Nam sẽ đề xuất một chiến dịch chung chống lại ô nhiễm rác thải nhựa."
+      },
+      {
+        "stt": 29,
+        "word": "prosperity",
+        "ipa": "/ˌprɒˈspɛrɪti/",
+        "pos": "n",
+        "meaning": "sự thịnh vượng, phồn vinh",
+        "example": "Regional trade integration has brought great prosperity to Southeast Asian nations.",
+        "exampleVi": "Hội nhập thương mại khu vực đã mang lại sự phồn vinh to lớn cho các quốc gia Đông Nam Á."
+      },
+      {
+        "stt": 30,
+        "word": "put out a call",
+        "ipa": "/pʊt aʊt ə kɔːl/",
+        "pos": "phrase",
+        "meaning": "phát đi thông báo, gửi lời kêu gọi",
+        "example": "The organizers put out a call for volunteers to assist visiting delegates during the summit.",
+        "exampleVi": "Ban tổ chức đã phát đi lời kêu gọi tình nguyện viên hỗ trợ các đoàn đại biểu trong hội nghị."
+      },
+      {
+        "stt": 31,
+        "word": "qualified",
+        "ipa": "/ˈkwɒlɪfaɪd/",
+        "pos": "adj",
+        "meaning": "đủ tư cách, đủ năng lực, có trình độ",
+        "example": "Only qualified candidates with good English proficiency are shortlisted for the interview.",
+        "exampleVi": "Chỉ những ứng viên đủ tiêu chuẩn và có trình độ tiếng Anh tốt mới được vào danh sách phỏng vấn."
+      },
+      {
+        "stt": 32,
+        "word": "raise awareness of",
+        "ipa": "/reɪz əˈwɛrˌnɛs ʌv/",
+        "pos": "phrase",
+        "meaning": "nâng cao nhận thức về",
+        "example": "We should launch campaigns to raise awareness of endangered marine species.",
+        "exampleVi": "Chúng ta nên phát động các chiến dịch nhằm nâng cao nhận thức về các loài sinh vật biển có nguy cơ tuyệt chủng."
+      },
+      {
+        "stt": 33,
+        "word": "region",
+        "ipa": "/ˈriːdʒən/",
+        "pos": "n",
+        "meaning": "vùng, khu vực",
+        "example": "Southeast Asia is one of the most economically dynamic regions in the world.",
+        "exampleVi": "Đông Nam Á là một trong những khu vực năng động kinh tế nhất trên thế giới."
+      },
+      {
+        "stt": 34,
+        "word": "relations",
+        "ipa": "/rɪˈleɪʃənz/",
+        "pos": "n",
+        "meaning": "mối quan hệ, quan hệ ngoại giao",
+        "example": "Vietnam has established diplomatic relations with all ASEAN member countries.",
+        "exampleVi": "Việt Nam đã thiết lập quan hệ ngoại giao với tất cả các quốc gia thành viên ASEAN."
+      },
+      {
+        "stt": 35,
+        "word": "represent",
+        "ipa": "/ˌrɛprɪˈzɛnt/",
+        "pos": "v",
+        "meaning": "đại diện, tượng trưng cho",
+        "example": "Two outstanding high school students were chosen to represent Vietnam at the summit.",
+        "exampleVi": "Hai học sinh THPT xuất sắc đã được lựa chọn để đại diện cho Việt Nam tại hội nghị thượng đỉnh."
+      },
+      {
+        "stt": 36,
+        "word": "representative",
+        "ipa": "/ˌrɛprɪˈzɛntətɪv/",
+        "pos": "n/adj",
+        "meaning": "người đại diện; tiêu biểu",
+        "example": "Each member country sends a youth representative to deliver a five-minute speech.",
+        "exampleVi": "Mỗi quốc gia thành viên cử một đại biểu thanh niên tới phát biểu bài diễn thuyết 5 phút."
+      },
+      {
+        "stt": 37,
+        "word": "scholarship",
+        "ipa": "/ˈskɒlərʃɪp/",
+        "pos": "n",
+        "meaning": "học bổng",
+        "example": "She won an ASEAN undergraduate scholarship to study computer science in Singapore.",
+        "exampleVi": "Cô ấy đã giành được học bổng đại học ASEAN để theo học ngành khoa học máy tính tại Singapore."
+      },
+      {
+        "stt": 38,
+        "word": "take part",
+        "ipa": "/teɪk pɑːrt/",
+        "pos": "ph. v",
+        "meaning": "tham gia, tham dự (take part in)",
+        "example": "Local students are eager to take part in tree-planting activities along the river.",
+        "exampleVi": "Học sinh địa phương rất hào hứng tham gia các hoạt động trồng cây ven bờ sông."
+      },
+      {
+        "stt": 39,
+        "word": "take place",
+        "ipa": "/teɪk pleɪs/",
+        "pos": "phrase",
+        "meaning": "diễn ra, xảy ra",
+        "example": "The opening ceremony of the ASEAN games will take place at the national stadium.",
+        "exampleVi": "Lễ khai mạc đại hội thể thao ASEAN sẽ diễn ra tại sân vận động quốc gia."
+      },
+      {
+        "stt": 40,
+        "word": "theme",
+        "ipa": "/θiːm/",
+        "pos": "n",
+        "meaning": "chủ đề",
+        "example": "The official theme for this year's regional meeting is 'One Vision, One Identity'.",
+        "exampleVi": "Chủ đề chính thức cho cuộc họp khu vực năm nay là 'Một Tầm nhìn, Một Bản sắc'."
+      },
+      {
+        "stt": 41,
+        "word": "unforgettable",
+        "ipa": "/ˌʌnfərˈɡɛtəbl/",
+        "pos": "adj",
+        "meaning": "không thể quên, đáng nhớ",
+        "example": "The homestay trip to a floating village in Vietnam was an unforgettable memory.",
+        "exampleVi": "Chuyến trải nghiệm homestay tại làng nổi ở Việt Nam là một kỷ niệm không thể nào quên."
+      },
+      {
+        "stt": 42,
+        "word": "volunteer",
+        "ipa": "/ˌvɒlənˈtɪr/",
+        "pos": "n/v",
+        "meaning": "tình nguyện viên; làm tình nguyện",
+        "example": "Hundreds of university students registered to volunteer at the ASEAN games.",
+        "exampleVi": "Hàng trăm sinh viên đại học đã đăng ký làm tình nguyện viên tại đại hội thể thao ASEAN."
+      },
+      {
+        "stt": 43,
+        "word": "youth",
+        "ipa": "/juːθ/",
+        "pos": "n",
+        "meaning": "thanh niên, tuổi trẻ, giới trẻ",
+        "example": "The future and innovative energy of Southeast Asia depend on its vibrant youth.",
+        "exampleVi": "Tương lai và nguồn năng lượng đổi mới của Đông Nam Á phụ thuộc vào thế hệ trẻ đầy nhiệt huyết."
+      }
+    ],
+    "grammar": {
+      "title": "Gerunds (Danh động từ V-ing)",
+      "sections": [
+        {
+          "heading": "1. Khái niệm & Vị trí của Gerunds (Danh động từ)",
+          "content": "Danh động từ (Gerund) có dạng thức V + -ing, đóng vai trò và thực hiện chức năng ngữ pháp tương đương một Danh từ (Noun) trong câu.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Làm chủ ngữ trong câu (Subject of a sentence):",
+              "example": "• Doing exercise regularly is very good for our health.\n• Learning about ASEAN cultures helps broaden our horizons.\n• Swimming is my favorite morning sport.",
+              "highlight": true
+            },
+            {
+              "rule": "Làm tân ngữ đứng sau một số cụm từ cố định (Special Expressions):",
+              "example": "• it's (not) worth + V-ing (đáng / không đáng làm gì)\n  (Eg: It's worth buying an expensive ticket to this concert.)\n• it's no use / it's no good + V-ing (vô ích khi làm gì)\n  (Eg: It is no use arguing about this issue any longer.)\n• can't help / can't bear / can't stand + V-ing (không thể nhịn được / không chịu nổi)\n• in addition to + V-ing (bên cạnh việc...)",
+              "highlight": true
+            },
+            {
+              "rule": "Đứng sau các cụm động từ / Giới từ (Phrasal verbs & Prepositions):",
+              "example": "• give up + V-ing (từ bỏ)\n• put off + V-ing (trì hoãn)\n• keep on / carry on / go on + V-ing (tiếp tục)\n• look forward to + V-ing (trông mong, háo hức chờ đợi)\n• be/get used to + V-ing (quen với việc gì ở hiện tại)\n• be opposed to / be against + V-ing (phản đối việc gì)\n• be interested in / be keen on + V-ing (thích thú, say mê)\n  (Eg: I get used to getting up early.)",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Động từ theo sau bởi Danh động từ (Verb + V-ing)",
+          "content": "Dưới đây là 30 động từ quan trọng thường gặp bắt buộc theo sau bởi V-ing khi đứng vai trò tân ngữ trực tiếp:",
+          "highlight": true,
+          "layout": "two-columns",
+          "points": [
+            {
+              "rule": "Cột 1 (Từ số 1 đến 15):",
+              "example": "• 1. allow: cho phép\n• 2. avoid: tránh\n• 3. admit: thừa nhận\n• 4. advise: khuyên nhủ\n• 5. appreciate: đánh giá cao\n• 6. complete: hoàn thành\n• 7. consider: xem xét\n• 8. continue: tiếp tục\n• 9. delay: trì hoãn\n• 10. deny: phủ nhận\n• 11. discuss: thảo luận\n• 12. dislike / hate: ghét\n• 13. enjoy / fancy: thích\n• 14. encourage: khuyến khích\n• 15. forbid: cấm",
+              "highlight": true
+            },
+            {
+              "rule": "Cột 2 (Từ số 16 đến hết):",
+              "example": "• 16. finish: hoàn thành\n• 17. imagine: tưởng tượng\n• 18. involve: bao gồm\n• 19. include: bao gồm\n• 20. mention: đề cập\n• 21. mind: phiền, ngại\n• 22. miss: nhớ, bỏ lỡ\n• 23. permit: cho phép\n• 24. postpone: hoãn lại\n• 25. practice: luyện tập\n• 26. quit / give up: từ bỏ\n• 27. recall: nhớ lại, gợi nhớ\n• 28. recollect: nhớ ra\n• 29. recommend: gợi ý, đề xuất\n• 30. risk: liều lĩnh\n(Eg: My mother suggests visiting Can Gio.)",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Động từ đi với cả V-ing và To-V (Khác nhau về ngữ nghĩa)",
+          "content": "Một số động từ có thể đi với cả V-ing hoặc To-V nhưng mang sắc thái ý nghĩa hoàn toàn khác nhau cần đặc biệt lưu ý:",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "STOP + V-ing  vs  STOP + to-V:",
+              "example": "• stop + V-ing: Dừng hẳn một thói quen hoặc hành động đang làm.\n  (Eg: He stopped smoking three years ago.)\n• stop + to-V: Tạm dừng việc đang làm để chuyển sang làm việc khác.\n  (Eg: He stopped to buy a newspaper on his way home.)",
+              "highlight": true
+            },
+            {
+              "rule": "REMEMBER / FORGET / REGRET + V-ing  vs  + to-V:",
+              "example": "• + V-ing: Nhớ / quên / hối tiếc một việc ĐÃ LÀM trong quá khứ.\n  (Eg: She remembers seeing him at the international conference.)\n  (Eg: I regret not attending the regional summit last week.)\n• + to-V: Nhớ / quên / tiếc khi PHẢI LÀM việc gì (ở hiện tại hoặc tương lai).\n  (Eg: Remember to submit your application before Friday.)\n  (Eg: I regret to inform you that the flight was delayed.)",
+              "highlight": true
+            },
+            {
+              "rule": "TRY + V-ing  vs  TRY + to-V:",
+              "example": "• try + V-ing: Thử làm điều gì đó xem kết quả ra sao.\n  (Eg: You should try wearing this traditional costume.)\n• try + to-V: Nỗ lực, cố gắng vượt qua khó khăn để làm gì.\n  (Eg: I try to pass the scholarship entrance examination.)",
+              "highlight": true
+            },
+            {
+              "rule": "PREFER:",
+              "example": "• prefer + V-ing + TO + V-ing: Thích làm việc này hơn việc kia.\n  (Eg: I prefer staying at home to going out on rainy days.)\n• prefer + to-V + RATHER THAN + V (bare): Thích làm gì hơn làm gì.\n  (Eg: I prefer to stay at home rather than go out.)",
+              "highlight": false
+            },
+            {
+              "rule": "MEAN + V-ing  vs  MEAN + to-V:",
+              "example": "• mean + V-ing: Có nghĩa là gì, kéo theo hậu quả gì.\n  (Eg: Missing this train means waiting for another hour.)\n• mean + to-V: Có ý định, mục đích làm gì.\n  (Eg: He didn't mean to hurt your feelings.)",
+              "highlight": false
+            },
+            {
+              "rule": "NEED + V-ing  vs  NEED + to-V:",
+              "example": "• need + V-ing (= need to be done): Mang nghĩa bị động (Cần được làm gì).\n  (Eg: Your hair needs cutting. = Your hair needs to be cut.)\n• need + to-V: Mang nghĩa chủ động (Chủ ngữ cần phải làm gì).\n  (Eg: I need to clean the conference hall before the guests arrive.)",
+              "highlight": true
+            },
+            {
+              "rule": "USED TO + V  vs  BE/GET USED TO + V-ing:",
+              "example": "• used + to-V: Đã từng thường xuyên làm gì trong quá khứ (nay đã chấm dứt).\n  (Eg: I used to get up early when I was at high school.)\n• be / get used to + V-ing: Đã quen với việc gì (ở hiện tại).\n  (Eg: I am used to getting up at 6 a.m. every morning.)",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Bài tập trắc nghiệm (Multiple Choice Questions - 20 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Joining the youth volunteer program was an __________ experience that broadened my perspective.",
+          "options": ["eye-opening", "unforgettable", "qualified", "current"],
+          "correctIndex": 0,
+          "explanation": "'eye-opening' (adj): mở mang tầm mắt, mở rộng tầm hiểu biết. Cụm từ 'broadened my perspective' (mở rộng góc nhìn) làm rõ nghĩa cho trải nghiệm mang tính mở mang kiến thức."
+        },
+        {
+          "id": 2,
+          "question": "The main __________ of this year's ASEAN Youth Meeting is sustainable development in the region.",
+          "options": ["ancestor", "theme", "scholarship", "disability"],
+          "correctIndex": 1,
+          "explanation": "'theme' (n): chủ đề chính của sự kiện, hội nghị. 'The main theme of this year's ASEAN Youth Meeting...'"
+        },
+        {
+          "id": 3,
+          "question": "We need to __________ awareness of environmental issues caused by climate change.",
+          "options": ["propose", "raise", "discuss", "promote"],
+          "correctIndex": 1,
+          "explanation": "Cụm thành ngữ cố định (collocation): 'raise awareness of something' (nâng cao nhận thức về điều gì)."
+        },
+        {
+          "id": 4,
+          "question": "The ASEAN summit aims to bring __________ young leaders from all member states.",
+          "options": ["up", "together", "out", "on"],
+          "correctIndex": 1,
+          "explanation": "Cụm động từ: 'bring together' mang nghĩa gắn kết, tập hợp nhiều người từ các nơi lại với nhau."
+        },
+        {
+          "id": 5,
+          "question": "Vietnam has made significant __________ to peace and economic growth in the ASEAN region.",
+          "options": ["contributions", "arrangements", "disabled", "developments"],
+          "correctIndex": 0,
+          "explanation": "Cụm thành ngữ: 'make contributions to something' (đóng góp cống hiến cho cái gì)."
+        },
+        {
+          "id": 6,
+          "question": "Young delegates gathered at the international __________ to discuss gender equality.",
+          "options": ["conference", "ancestor", "scholarship", "arrangement"],
+          "correctIndex": 0,
+          "explanation": "'conference' (n): hội nghị, hội thảo quốc tế nơi các đại biểu tập hợp để thảo luận."
+        },
+        {
+          "id": 7,
+          "question": "They decided to __________ a call for volunteers to support people with disabilities.",
+          "options": ["make", "put out", "take", "set up"],
+          "correctIndex": 1,
+          "explanation": "Cụm thành ngữ: 'put out a call' (phát đi lời kêu gọi, gửi thông báo chiêu mộ tình nguyện viên)."
+        },
+        {
+          "id": 8,
+          "question": "Participating in this cultural exchange program helps students __________ friends from different countries.",
+          "options": ["do", "make", "get", "take"],
+          "correctIndex": 1,
+          "explanation": "Cụm từ cố định: 'make friends' (kết bạn, làm quen bạn mới)."
+        },
+        {
+          "id": 9,
+          "question": "The youth representative proposed __________ a new project to promote peace in the community.",
+          "options": ["starting", "to start", "start", "started"],
+          "correctIndex": 0,
+          "explanation": "Quy tắc ngữ pháp: Động từ 'propose' đi trực tiếp với danh động từ: propose + V-ing (đề xuất làm gì)."
+        },
+        {
+          "id": 10,
+          "question": "You should avoid __________ late for the scholarship interview tomorrow morning.",
+          "options": ["arrive", "to arrive", "arriving", "arrived"],
+          "correctIndex": 2,
+          "explanation": "Động từ 'avoid' luôn theo sau bởi V-ing: avoid + V-ing (tránh làm việc gì)."
+        },
+        {
+          "id": 11,
+          "question": "My teacher suggested __________ more about ASEAN history before applying for the exchange program.",
+          "options": ["learn", "learning", "to learn", "learned"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc: 'suggest + V-ing' (gợi ý cùng làm việc gì)."
+        },
+        {
+          "id": 12,
+          "question": "She spent all afternoon __________ her leadership skills for the upcoming conference.",
+          "options": ["practice", "practicing", "to practice", "practiced"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc: 'spend + time + V-ing' (dành thời gian làm việc gì)."
+        },
+        {
+          "id": 13,
+          "question": "Don't forget __________ your application form before the deadline on Friday.",
+          "options": ["submitting", "to submit", "submit", "submitted"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc: 'forget / don't forget + to-V' nhắc nhở việc cần phải làm trong tương lai (đừng quên nộp đơn)."
+        },
+        {
+          "id": 14,
+          "question": "I clearly remember __________ my passport in this bag, but now I can't find it anywhere!",
+          "options": ["putting", "to put", "put", "puts"],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc: 'remember + V-ing' nhớ một việc mình ĐÃ LÀM trong quá khứ (nhớ rõ là đã bỏ hộ chiếu vào túi này)."
+        },
+        {
+          "id": 15,
+          "question": "He stopped __________ a newspaper on his way to the youth conference.",
+          "options": ["buy", "buying", "to buy", "bought"],
+          "correctIndex": 2,
+          "explanation": "Cấu trúc: 'stop + to-V' dừng việc đang làm lại để làm một việc khác (dừng lại để mua tờ báo trên đường đi)."
+        },
+        {
+          "id": 16,
+          "question": "The government continues __________ regional cooperation to ensure economic stability.",
+          "options": ["promote", "promoting", "promoted", "is promoting"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc: 'continue + V-ing' (tiếp tục làm điều gì đó)."
+        },
+        {
+          "id": 17,
+          "question": "She stopped __________ junk food after learning about its negative impacts on health.",
+          "options": ["eat", "to eat", "eating", "ate"],
+          "correctIndex": 2,
+          "explanation": "Cấu trúc: 'stop + V-ing' dừng hẳn, từ bỏ hẳn một thói quen (ngừng ăn đồ ăn nhanh)."
+        },
+        {
+          "id": 18,
+          "question": "Lan is very keen __________ taking part in community service projects.",
+          "options": ["in", "on", "at", "with"],
+          "correctIndex": 1,
+          "explanation": "Cụm tính từ đi với giới từ: 'be keen on + V-ing' (rất thích, say mê việc gì)."
+        },
+        {
+          "id": 19,
+          "question": "They are looking forward to __________ the international delegates at the airport.",
+          "options": ["meet", "meeting", "to meet", "met"],
+          "correctIndex": 1,
+          "explanation": "Cụm từ cố định: 'look forward to + V-ing' (trông mong, háo hức chờ đón ai/cái gì)."
+        },
+        {
+          "id": 20,
+          "question": "This program is worth __________ because it offers valuable leadership training.",
+          "options": ["join", "to join", "joining", "joined"],
+          "correctIndex": 2,
+          "explanation": "Cấu trúc: 'be worth + V-ing' (rất đáng để làm việc gì)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền từ vào chỗ trống (Fill in the Blanks - 15 câu)",
+      "wordbank": [
+        "ancestors",
+        "qualified",
+        "disability",
+        "prosperity",
+        "representative",
+        "climate change",
+        "scholarship",
+        "gender equality",
+        "applying",
+        "organizing",
+        "discussing",
+        "to inform",
+        "meeting",
+        "to check",
+        "learning"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "On traditional holidays, Vietnamese people usually show respect to their _______.",
+          "sentence": "On traditional holidays, Vietnamese people usually show respect to their _______.",
+          "answer": "ancestors",
+          "acceptAlternatives": ["ancestors"],
+          "hint": "Danh từ số nhiều chỉ ông bà, tổ tiên"
+        },
+        {
+          "id": 2,
+          "question": "The ASEAN Youth Forum promotes _______ so that women and men have equal opportunities.",
+          "sentence": "The ASEAN Youth Forum promotes _______ so that women and men have equal opportunities.",
+          "answer": "gender equality",
+          "acceptAlternatives": ["gender equality"],
+          "hint": "Cụm danh từ chỉ sự bình đẳng giữa nam và nữ"
+        },
+        {
+          "id": 3,
+          "question": "He was awarded a full _______ to study in Singapore thanks to his excellent academic results.",
+          "sentence": "He was awarded a full _______ to study in Singapore thanks to his excellent academic results.",
+          "answer": "scholarship",
+          "acceptAlternatives": ["scholarship"],
+          "hint": "Danh từ chỉ phần thưởng tiền hỗ trợ học tập"
+        },
+        {
+          "id": 4,
+          "question": "Economic growth in the region has brought peace and _______ to millions of people.",
+          "sentence": "Economic growth in the region has brought peace and _______ to millions of people.",
+          "answer": "prosperity",
+          "acceptAlternatives": ["prosperity"],
+          "hint": "Danh từ chỉ sự phồn vinh, thịnh vượng"
+        },
+        {
+          "id": 5,
+          "question": "Each member nation sent a youth _______ to present their national project.",
+          "sentence": "Each member nation sent a youth _______ to present their national project.",
+          "answer": "representative",
+          "acceptAlternatives": ["representative"],
+          "hint": "Danh từ chỉ người đại diện tiêu biểu"
+        },
+        {
+          "id": 6,
+          "question": "Many low-lying regions in Southeast Asia suffer greatly from the impacts of _______.",
+          "sentence": "Many low-lying regions in Southeast Asia suffer greatly from the impacts of _______.",
+          "answer": "climate change",
+          "acceptAlternatives": ["climate change"],
+          "hint": "Cụm danh từ chỉ hiện tượng biến đổi khí hậu toàn cầu"
+        },
+        {
+          "id": 7,
+          "question": "Candidates who are highly _______ will be invited for an in-person interview.",
+          "sentence": "Candidates who are highly _______ will be invited for an in-person interview.",
+          "answer": "qualified",
+          "acceptAlternatives": ["qualified"],
+          "hint": "Tính từ chỉ người có đầy đủ phẩm chất, năng lực"
+        },
+        {
+          "id": 8,
+          "question": "The charity organization provides support and job training for children with a _______.",
+          "sentence": "The charity organization provides support and job training for children with a _______.",
+          "answer": "disability",
+          "acceptAlternatives": ["disability"],
+          "hint": "Danh từ chỉ tình trạng khiếm khuyết cơ thể hoặc trí tuệ"
+        },
+        {
+          "id": 9,
+          "question": "Have you considered _______ for the ASEAN Student Exchange Program this year?",
+          "sentence": "Have you considered _______ for the ASEAN Student Exchange Program this year?",
+          "answer": "applying",
+          "acceptAlternatives": ["applying"],
+          "hint": "Dạng V-ing sau động từ consider: nộp hồ sơ, ứng tuyển"
+        },
+        {
+          "id": 10,
+          "question": "We delayed _______ the cultural festival due to bad weather conditions.",
+          "sentence": "We delayed _______ the cultural festival due to bad weather conditions.",
+          "answer": "organizing",
+          "acceptAlternatives": ["organizing"],
+          "hint": "Dạng V-ing sau delay: tổ chức sự kiện"
+        },
+        {
+          "id": 11,
+          "question": "They finished _______ the current environmental issues late last night.",
+          "sentence": "They finished _______ the current environmental issues late last night.",
+          "answer": "discussing",
+          "acceptAlternatives": ["discussing"],
+          "hint": "Dạng V-ing sau finish: thảo luận, bàn bạc"
+        },
+        {
+          "id": 12,
+          "question": "I regret _______ you that your application for the grant was not successful.",
+          "sentence": "I regret _______ you that your application for the grant was not successful.",
+          "answer": "to inform",
+          "acceptAlternatives": ["to inform"],
+          "hint": "Dạng to-V sau regret khi thông báo một tin buồn ở hiện tại"
+        },
+        {
+          "id": 13,
+          "question": "Do you mind _______ me at the community center after school?",
+          "sentence": "Do you mind _______ me at the community center after school?",
+          "answer": "meeting",
+          "acceptAlternatives": ["meeting"],
+          "hint": "Dạng V-ing sau cụm 'mind': gặp gỡ"
+        },
+        {
+          "id": 14,
+          "question": "Please remember _______ all spelling errors before sending your essay.",
+          "sentence": "Please remember _______ all spelling errors before sending your essay.",
+          "answer": "to check",
+          "acceptAlternatives": ["to check"],
+          "hint": "Dạng to-V sau remember để nhắc nhở nhiệm vụ cần làm: kiểm tra"
+        },
+        {
+          "id": 15,
+          "question": "She is used to _______ new languages quickly through interactive activities.",
+          "sentence": "She is used to _______ new languages quickly through interactive activities.",
+          "answer": "learning",
+          "acceptAlternatives": ["learning"],
+          "hint": "Dạng V-ing sau 'be used to': quen với việc học hỏi"
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu hoàn chỉnh (Sentence Reordering - 10 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["Young volunteers", "play", "a vital role", "in", "raising awareness of", "environmental issues"],
+          "answer": "Young volunteers play a vital role in raising awareness of environmental issues.",
+          "acceptAlternatives": [
+            "Young volunteers play a vital role in raising awareness of environmental issues",
+            "Young volunteers play a vital role in raising awareness of environmental issues."
+          ]
+        },
+        {
+          "id": 2,
+          "words": ["ASEAN", "promotes", "economic growth", "and prosperity", "among", "member states"],
+          "answer": "ASEAN promotes economic growth and prosperity among member states.",
+          "acceptAlternatives": [
+            "ASEAN promotes economic growth and prosperity among member states",
+            "ASEAN promotes economic growth and prosperity among member states.",
+            "ASEAN promotes prosperity and economic growth among member states",
+            "ASEAN promotes prosperity and economic growth among member states."
+          ]
+        },
+        {
+          "id": 3,
+          "words": ["She", "decided", "to apply for", "the international", "youth scholarship"],
+          "answer": "She decided to apply for the international youth scholarship.",
+          "acceptAlternatives": [
+            "She decided to apply for the international youth scholarship",
+            "She decided to apply for the international youth scholarship."
+          ]
+        },
+        {
+          "id": 4,
+          "words": ["Taking part in", "cultural exchanges", "helps students", "improve", "problem-solving skills"],
+          "answer": "Taking part in cultural exchanges helps students improve problem-solving skills.",
+          "acceptAlternatives": [
+            "Taking part in cultural exchanges helps students improve problem-solving skills",
+            "Taking part in cultural exchanges helps students improve problem-solving skills."
+          ]
+        },
+        {
+          "id": 5,
+          "words": ["They", "suggested", "improving", "digital access", "in rural areas"],
+          "answer": "They suggested improving digital access in rural areas.",
+          "acceptAlternatives": [
+            "They suggested improving digital access in rural areas",
+            "They suggested improving digital access in rural areas."
+          ]
+        },
+        {
+          "id": 6,
+          "words": ["We", "are looking forward", "to meeting", "delegates", "from different ASEAN countries"],
+          "answer": "We are looking forward to meeting delegates from different ASEAN countries.",
+          "acceptAlternatives": [
+            "We are looking forward to meeting delegates from different ASEAN countries",
+            "We are looking forward to meeting delegates from different ASEAN countries."
+          ]
+        },
+        {
+          "id": 7,
+          "words": ["He", "avoids", "talking about", "his personal problems", "during", "formal meetings"],
+          "answer": "He avoids talking about his personal problems during formal meetings.",
+          "acceptAlternatives": [
+            "He avoids talking about his personal problems during formal meetings",
+            "He avoids talking about his personal problems during formal meetings."
+          ]
+        },
+        {
+          "id": 8,
+          "words": ["It is", "worth", "participating in", "this", "community project"],
+          "answer": "It is worth participating in this community project.",
+          "acceptAlternatives": [
+            "It is worth participating in this community project",
+            "It is worth participating in this community project."
+          ]
+        },
+        {
+          "id": 9,
+          "words": ["My brother", "stopped", "eating", "fast food", "to keep fit"],
+          "answer": "My brother stopped eating fast food to keep fit.",
+          "acceptAlternatives": [
+            "My brother stopped eating fast food to keep fit",
+            "My brother stopped eating fast food to keep fit."
+          ]
+        },
+        {
+          "id": 10,
+          "words": ["The government", "put out", "a call for", "youth volunteers", "to support", "green initiatives"],
+          "answer": "The government put out a call for youth volunteers to support green initiatives.",
+          "acceptAlternatives": [
+            "The government put out a call for youth volunteers to support green initiatives",
+            "The government put out a call for youth volunteers to support green initiatives."
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu theo gợi ý (Sentence Rewriting - 15 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "\"Why don't we organize a cultural exchange day next month?\" Nam said.",
+          "hint": "suggested + V-ing",
+          "startWith": "Nam",
+          "answer": "Nam suggested organizing a cultural exchange day the next month.",
+          "acceptAlternatives": [
+            "Nam suggested organizing a cultural exchange day the next month.",
+            "Nam suggested organizing a cultural exchange day next month.",
+            "Nam suggested organizing a cultural exchange day the following month.",
+            "suggested organizing a cultural exchange day the next month.",
+            "suggested organizing a cultural exchange day next month.",
+            "suggested organizing a cultural exchange day the following month.",
+            "Nam suggested organizing a cultural exchange day next month",
+            "suggested organizing a cultural exchange day next month"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "It is useless to argue about this issue any longer.",
+          "hint": "It is no use...",
+          "startWith": "It is",
+          "answer": "It is no use arguing about this issue any longer.",
+          "acceptAlternatives": [
+            "It is no use arguing about this issue any longer.",
+            "no use arguing about this issue any longer.",
+            "It is no use arguing about this issue any longer",
+            "no use arguing about this issue any longer"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "She wants to join the youth parliament very much.",
+          "hint": "is keen on",
+          "startWith": "She",
+          "answer": "She is keen on joining the youth parliament.",
+          "acceptAlternatives": [
+            "She is keen on joining the youth parliament.",
+            "is keen on joining the youth parliament.",
+            "She is keen on joining the youth parliament",
+            "is keen on joining the youth parliament"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "I last visited the ASEAN museum three years ago.",
+          "hint": "remember + V-ing",
+          "startWith": "I remember",
+          "answer": "I remember visiting the ASEAN museum three years ago.",
+          "acceptAlternatives": [
+            "I remember visiting the ASEAN museum three years ago.",
+            "visiting the ASEAN museum three years ago.",
+            "I remember visiting the ASEAN museum three years ago",
+            "visiting the ASEAN museum three years ago"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Don't forget to turn off the lights before leaving the conference room.",
+          "hint": "Remember + to-V",
+          "startWith": "Remember",
+          "answer": "Remember to turn off the lights before leaving the conference room.",
+          "acceptAlternatives": [
+            "Remember to turn off the lights before leaving the conference room.",
+            "to turn off the lights before leaving the conference room.",
+            "Remember to turn off the lights before leaving the conference room",
+            "to turn off the lights before leaving the conference room"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "He tried to solve the problem, but he couldn't.",
+          "hint": "tried + to-V",
+          "startWith": "He tried",
+          "answer": "He tried to solve the problem, but he couldn't.",
+          "acceptAlternatives": [
+            "He tried to solve the problem, but he couldn't.",
+            "to solve the problem, but he couldn't.",
+            "He tried to solve the problem, but he couldn't",
+            "to solve the problem, but he couldn't"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Learning about ASEAN cultures is very interesting.",
+          "hint": "Gerund as subject 'Learning...'",
+          "startWith": "Learning",
+          "answer": "Learning about ASEAN cultures is very interesting.",
+          "acceptAlternatives": [
+            "Learning about ASEAN cultures is very interesting.",
+            "about ASEAN cultures is very interesting.",
+            "Learning about ASEAN cultures is very interesting",
+            "about ASEAN cultures is very interesting"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "They allowed us to use the hall for our youth workshop.",
+          "hint": "permitted + V-ing or allowed + V-ing",
+          "startWith": "They allowed",
+          "answer": "They allowed using the hall for our youth workshop.",
+          "acceptAlternatives": [
+            "They allowed using the hall for our youth workshop.",
+            "using the hall for our youth workshop.",
+            "They allowed us to use the hall for our youth workshop.",
+            "us to use the hall for our youth workshop.",
+            "They permitted using the hall for our youth workshop.",
+            "permitted using the hall for our youth workshop.",
+            "They permitted us to use the hall for our youth workshop.",
+            "permitted us to use the hall for our youth workshop.",
+            "They allowed using the hall for our youth workshop",
+            "using the hall for our youth workshop"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "She quit her job as a coordinator two months ago.",
+          "hint": "gave up + V-ing",
+          "startWith": "She",
+          "answer": "She gave up working as a coordinator two months ago.",
+          "acceptAlternatives": [
+            "She gave up working as a coordinator two months ago.",
+            "gave up working as a coordinator two months ago.",
+            "She gave up her job as a coordinator two months ago.",
+            "gave up her job as a coordinator two months ago.",
+            "She gave up working as a coordinator two months ago",
+            "gave up working as a coordinator two months ago"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "I am excited about traveling to Thailand for the youth summit.",
+          "hint": "look forward to + V-ing",
+          "startWith": "I am",
+          "answer": "I am looking forward to traveling to Thailand for the youth summit.",
+          "acceptAlternatives": [
+            "I am looking forward to traveling to Thailand for the youth summit.",
+            "looking forward to traveling to Thailand for the youth summit.",
+            "I am looking forward to travelling to Thailand for the youth summit.",
+            "looking forward to travelling to Thailand for the youth summit.",
+            "I am looking forward to traveling to Thailand for the youth summit",
+            "looking forward to traveling to Thailand for the youth summit"
+          ]
+        },
+        {
+          "id": 11,
+          "question": "He made an attempt to speak English fluently during the interview.",
+          "hint": "tried + to-V",
+          "startWith": "He tried",
+          "answer": "He tried to speak English fluently during the interview.",
+          "acceptAlternatives": [
+            "He tried to speak English fluently during the interview.",
+            "to speak English fluently during the interview.",
+            "He tried to speak English fluently during the interview",
+            "to speak English fluently during the interview"
+          ]
+        },
+        {
+          "id": 12,
+          "question": "It is not a good idea to spend too much time on social media.",
+          "hint": "It is not worth...",
+          "startWith": "It is not",
+          "answer": "It is not worth spending too much time on social media.",
+          "acceptAlternatives": [
+            "It is not worth spending too much time on social media.",
+            "worth spending too much time on social media.",
+            "It is not worth spending too much time on social media",
+            "worth spending too much time on social media"
+          ]
+        },
+        {
+          "id": 13,
+          "question": "My father used to take part in volunteer activities when he was young.",
+          "hint": "used to + V",
+          "startWith": "My father",
+          "answer": "My father used to take part in volunteer activities when he was young.",
+          "acceptAlternatives": [
+            "My father used to take part in volunteer activities when he was young.",
+            "used to take part in volunteer activities when he was young.",
+            "My father used to take part in volunteer activities when he was young",
+            "used to take part in volunteer activities when he was young"
+          ]
+        },
+        {
+          "id": 14,
+          "question": "Now my father is accustomed to getting up early every morning.",
+          "hint": "is used to + V-ing",
+          "startWith": "My father",
+          "answer": "My father is used to getting up early every morning.",
+          "acceptAlternatives": [
+            "My father is used to getting up early every morning.",
+            "is used to getting up early every morning.",
+            "My father is used to getting up early every morning",
+            "is used to getting up early every morning"
+          ]
+        },
+        {
+          "id": 15,
+          "question": "I feel sorry that I didn't attend the regional conference last week.",
+          "hint": "regret + V-ing",
+          "startWith": "I regret",
+          "answer": "I regret not attending the regional conference last week.",
+          "acceptAlternatives": [
+            "I regret not attending the regional conference last week.",
+            "not attending the regional conference last week.",
+            "I regret not attending the regional conference last week",
+            "not attending the regional conference last week"
+          ]
+        }
+      ]
+    }
+  }
+}

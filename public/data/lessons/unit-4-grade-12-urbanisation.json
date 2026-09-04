@@ -1,0 +1,843 @@
+{
+  "id": "unit-4-grade-12-urbanisation",
+  "title": "Unit 4: Urbanisation",
+  "grade": 12,
+  "unit": 4,
+  "tags": ["Lớp 12", "Urbanisation", "Present Perfect", "Double Comparison"],
+  "level": "Intermediate (B1)",
+  "timeMinutes": 60,
+  "totalQuestions": 60,
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "high-rise",
+        "ipa": "/ˈhaɪ raɪz/",
+        "pos": "adj",
+        "meaning": "cao tầng",
+        "example": "Modern high-rise towers dominate the skyline of major metropolitan areas.",
+        "exampleVi": "Những tòa tháp cao tầng hiện đại thống trị đường chân trời của các đô thị lớn."
+      },
+      {
+        "stt": 2,
+        "word": "urban",
+        "ipa": "/ˈɜːbən/",
+        "pos": "adj",
+        "meaning": "thuộc về đô thị",
+        "example": "Urban planning is crucial to prevent severe environmental degradation.",
+        "exampleVi": "Quy hoạch đô thị có vai trò then chốt trong việc ngăn chặn sự suy thoái môi trường nghiêm trọng."
+      },
+      {
+        "stt": 3,
+        "word": "urban sprawl",
+        "ipa": "/ˈɜːbən sprɔːl/",
+        "pos": "n.p",
+        "meaning": "sự bành trướng đô thị",
+        "example": "Uncontrolled urban sprawl has destroyed thousands of hectares of productive farmland.",
+        "exampleVi": "Sự bành trướng đô thị mất kiểm soát đã phá hủy hàng ngàn héc-ta đất nông nghiệp màu mỡ."
+      },
+      {
+        "stt": 4,
+        "word": "urbanisation",
+        "ipa": "/ˌɜːbənaɪˈzeɪʃn/",
+        "pos": "n",
+        "meaning": "đô thị hoá",
+        "example": "Rapid urbanisation in developing nations creates tremendous economic opportunities and social challenges.",
+        "exampleVi": "Đô thị hóa nhanh chóng ở các nước đang phát triển tạo ra cơ hội kinh tế to lớn lẫn thách thức xã hội."
+      },
+      {
+        "stt": 5,
+        "word": "leisure",
+        "ipa": "/ˈleʒə(r)/",
+        "pos": "n",
+        "meaning": "sự giải trí, sự thư giãn",
+        "example": "Busy workers often struggle to allocate enough time for wholesome leisure pursuits.",
+        "exampleVi": "Những người lao động bận rộn thường khó có thể dành đủ thời gian cho các hoạt động giải trí lành mạnh."
+      },
+      {
+        "stt": 6,
+        "word": "convenience store",
+        "ipa": "/kənˈviːniəns stɔː(r)/",
+        "pos": "n",
+        "meaning": "cửa hàng tiện lợi",
+        "example": "A 24-hour convenience store was opened right across the street from my apartment.",
+        "exampleVi": "Một cửa hàng tiện lợi mở cửa 24 giờ vừa được khai trương ngay đối diện chung cư của tôi."
+      },
+      {
+        "stt": 7,
+        "word": "convenient",
+        "ipa": "/kənˈviːniənt/",
+        "pos": "adj",
+        "meaning": "thuận tiện",
+        "example": "Living near the underground station is remarkably convenient for commuters.",
+        "exampleVi": "Sống gần trạm tàu điện ngầm rất thuận tiện cho người đi làm."
+      },
+      {
+        "stt": 8,
+        "word": "crowded",
+        "ipa": "/ˈkraʊdɪd/",
+        "pos": "adj",
+        "meaning": "đông đúc",
+        "example": "The pedestrian streets are always crowded with tourists and street vendors on weekends.",
+        "exampleVi": "Các tuyến phố đi bộ luôn đông đúc khách du lịch và người bán hàng rong vào cuối tuần."
+      },
+      {
+        "stt": 9,
+        "word": "rush hour",
+        "ipa": "/ˈrʌʃ aʊə(r)/",
+        "pos": "n.p",
+        "meaning": "giờ cao điểm",
+        "example": "Severe traffic congestion during rush hour causes huge economic losses every year.",
+        "exampleVi": "Tắc nghẽn giao thông nghiêm trọng trong giờ cao điểm gây thiệt hại kinh tế lớn mỗi năm."
+      },
+      {
+        "stt": 10,
+        "word": "afford",
+        "ipa": "/əˈfɔːd/",
+        "pos": "v",
+        "meaning": "có đủ khả năng chi trả",
+        "example": "Many young professionals cannot afford the skyrocketing house prices in city centers.",
+        "exampleVi": "Nhiều chuyên gia trẻ không đủ khả năng chi trả giá nhà tăng vọt ở trung tâm thành phố."
+      },
+      {
+        "stt": 11,
+        "word": "housing",
+        "ipa": "/ˈhaʊzɪŋ/",
+        "pos": "n",
+        "meaning": "nhà ở",
+        "example": "The government launched new social housing projects to accommodate low-income laborers.",
+        "exampleVi": "Chính phủ đã khởi động các dự án nhà ở xã hội mới để hỗ trợ chỗ ở cho người lao động thu nhập thấp."
+      },
+      {
+        "stt": 12,
+        "word": "expand",
+        "ipa": "/ɪkˈspænd/",
+        "pos": "v",
+        "meaning": "mở rộng",
+        "example": "The metropolitan transport authority plans to expand the rapid transit network.",
+        "exampleVi": "Cơ quan giao thông đô thị dự định mở rộng mạng lưới giao thông nhanh."
+      },
+      {
+        "stt": 13,
+        "word": "seek",
+        "ipa": "/siːk/",
+        "pos": "v",
+        "meaning": "tìm kiếm",
+        "example": "Thousands of graduates migrate to big cities each year to seek lucrative employment.",
+        "exampleVi": "Hàng ngàn sinh viên tốt nghiệp di cư đến các thành phố lớn mỗi năm để tìm kiếm việc làm thu nhập cao."
+      },
+      {
+        "stt": 14,
+        "word": "unemployment",
+        "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+        "pos": "n",
+        "meaning": "tình trạng thất nghiệp",
+        "example": "Rising unemployment rates among young workers remain a critical issue in urban centers.",
+        "exampleVi": "Tỷ lệ thất nghiệp gia tăng ở người lao động trẻ vẫn là vấn đề nan giải tại các trung tâm đô thị."
+      },
+      {
+        "stt": 15,
+        "word": "affordable",
+        "ipa": "/əˈfɔːdəbl/",
+        "pos": "adj",
+        "meaning": "(giá cả) rẻ, phải chăng",
+        "example": "Access to affordable healthcare and clean water is an essential human right.",
+        "exampleVi": "Tiếp cận chăm sóc y tế giá cả phải chăng và nước sạch là quyền cơ bản của con người."
+      },
+      {
+        "stt": 16,
+        "word": "infrastructure",
+        "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+        "pos": "n",
+        "meaning": "cơ sở hạ tầng",
+        "example": "Significant capital must be allocated to upgrading aging bridges and water supply infrastructure.",
+        "exampleVi": "Nguồn vốn đáng kể phải được phân bổ để nâng cấp những cây cầu và cơ sở hạ tầng cấp nước xuống cấp."
+      },
+      {
+        "stt": 17,
+        "word": "resident",
+        "ipa": "/ˈrezɪdənt/",
+        "pos": "n",
+        "meaning": "người dân",
+        "example": "Local residents have expressed deep dissatisfaction with excessive noise from overnight construction.",
+        "exampleVi": "Cư dân địa phương bày tỏ sự bất bình sâu sắc trước tiếng ồn quá mức từ công trường ban đêm."
+      },
+      {
+        "stt": 18,
+        "word": "colonial",
+        "ipa": "/kəˈləʊniəl/",
+        "pos": "adj",
+        "meaning": "thuộc địa, thuộc dân",
+        "example": "Several French colonial structures in the historical quarter have been thoroughly restored.",
+        "exampleVi": "Một số công trình thời thuộc địa Pháp trong khu phố cổ đã được trùng tu hoàn thiện."
+      },
+      {
+        "stt": 19,
+        "word": "gradually",
+        "ipa": "/ˈɡrædʒuəli/",
+        "pos": "adv",
+        "meaning": "dần dần",
+        "example": "As technology advances, fossil-fueled vehicles are gradually being replaced by electric alternatives.",
+        "exampleVi": "Khi công nghệ tiến bộ, các phương tiện chạy bằng nhiên liệu hóa thạch đang dần dần được thay thế bằng xe điện."
+      },
+      {
+        "stt": 20,
+        "word": "modernise",
+        "ipa": "/ˈmɒdənaɪz/",
+        "pos": "v",
+        "meaning": "hiện đại hoá",
+        "example": "The city authorities have invested heavily to modernise public healthcare facilities.",
+        "exampleVi": "Chính quyền thành phố đã đầu tư mạnh mẽ để hiện đại hóa các cơ sở y tế công cộng."
+      },
+      {
+        "stt": 21,
+        "word": "concern",
+        "ipa": "/kənˈsɜːn/",
+        "pos": "n",
+        "meaning": "mối lo ngại",
+        "example": "Air quality deterioration has become a paramount environmental concern among citizens.",
+        "exampleVi": "Sự suy giảm chất lượng không khí đã trở thành mối lo ngại môi trường hàng đầu của người dân."
+      },
+      {
+        "stt": 22,
+        "word": "rapidly",
+        "ipa": "/ˈræpɪdli/",
+        "pos": "adv",
+        "meaning": "rất nhanh, với tốc độ cao",
+        "example": "The town expanded rapidly following the construction of the new international seaport.",
+        "exampleVi": "Thị trấn đã phát triển rất nhanh chóng sau khi xây dựng cảng biển quốc tế mới."
+      },
+      {
+        "stt": 23,
+        "word": "reliable",
+        "ipa": "/rɪˈlaɪəbl/",
+        "pos": "adj",
+        "meaning": "đáng tin cậy",
+        "example": "A reliable public transport system encourages citizens to leave their personal vehicles at home.",
+        "exampleVi": "Hệ thống giao thông công cộng đáng tin cậy khuyến khích người dân để xe cá nhân ở nhà."
+      }
+    ],
+    "grammar": {
+      "title": "Present Perfect & Double Comparison (Thì hiện tại hoàn thành và So sánh kép)",
+      "sections": [
+        {
+          "heading": "1. Present Perfect (Thì hiện tại hoàn thành)",
+          "content": "Thì hiện tại hoàn thành diễn tả hành động xảy ra trong quá khứ nhưng kết quả hoặc tầm ảnh hưởng vẫn còn lưu lại hoặc kéo dài đến hiện tại.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Cách dùng cốt lõi:",
+              "example": "• Nhấn mạnh đến kết quả của hành động:\n(Eg: I have done my homework. / I have read this book three times.)\n• Nhấn mạnh kết quả mong muốn tại hiện tại:\n(Eg: I have washed the car. -> The car is clean now.)\n• Diễn tả trải nghiệm, kinh nghiệm cho đến hiện tại:\n(Eg: Have you ever visited that historical high-rise building?)",
+              "highlight": true
+            },
+            {
+              "rule": "Công thức cơ bản:",
+              "example": "• Khẳng định: S + has / have + V3/ed\n• Phủ định: S + has / have + not (hasn't / haven't) + V3/ed\n• Nghi vấn: Has / Have + S + V3/ed ?",
+              "highlight": true
+            },
+            {
+              "rule": "Dấu hiệu nhận biết (DHNB):",
+              "example": "• ever, never, just, already, recently, lately\n• since + mốc thời gian (since 2010, since last year)\n• for + khoảng thời gian (for five months, for a long time)\n• so far, up to now, twice, many times...",
+              "highlight": false
+            },
+            {
+              "rule": "Quy tắc kết hợp thì với SINCE:",
+              "example": "• Cấu trúc: [Hiện tại hoàn thành] SINCE [Quá khứ đơn]\n• Cấu trúc đảo: SINCE [Quá khứ đơn] , [Hiện tại hoàn thành]\n🡪 The workers of this factory have stopped working since the pandemic broke out.\n(Công nhân của nhà máy này đã ngừng làm việc kể từ khi dịch bệnh bùng phát.)\n🡪 City residents have experienced a lot of problems since urban sprawl started.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Double comparison (So sánh kép)",
+          "content": "So sánh kép gồm hai dạng chính: So sánh lũy tiến (càng ngày càng...) và So sánh đồng tiến (càng... thì càng...).",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "A. So sánh lũy tiến (Càng ngày càng... / Mỗi lúc một HƠN):",
+              "example": "• Tính từ / Trạng từ ngắn:\nS + V + Adj/Adv_ER + AND + Adj/Adv_ER\n(Eg: She is getting fatter and fatter.)\n• Tính từ / Trạng từ dài:\nS + V + MORE AND MORE + Adj/Adv\n(Eg: She becomes more and more beautiful.)\n• Danh từ:\nS + V + MORE AND MORE + Noun\n(Eg: Children spend more and more time watching TV.)",
+              "highlight": true
+            },
+            {
+              "rule": "B. So sánh lũy tiến (Càng ngày càng ít... / Càng ngày càng KÉM):",
+              "example": "• Tính từ / Trạng từ bất kỳ:\nS + V + LESS AND LESS + Adj/Adv\n(Eg: My father becomes less and less strong.)\n• Danh từ:\nLESS AND LESS + Noun + V...\n(Eg: Less and less money is spent on this project.)",
+              "highlight": false
+            },
+            {
+              "rule": "C. So sánh đồng tiến (Càng... thì càng...):",
+              "example": "• Cấu trúc chuẩn:\nTHE + Comparative (Adj/Adv_er / more / less + ...) + S + V ,\nTHE + Comparative (Adj/Adv_er / more / less + ...) + S + V\n\n• Ví dụ minh họa:\n🡪 The darker it gets, the colder it is.\n(Trời càng tối thì trời càng lạnh.)\n🡪 The less money you spend, the more you can save.\n(Bạn càng tiêu ít tiền, bạn càng tiết kiệm được nhiều.)\n🡪 The more beautiful she is, the more miserable her husband is.",
+              "highlight": true
+            },
+            {
+              "rule": "D. Chú ý biến đổi tính từ & Bảng bất quy tắc:",
+              "example": "• Tính từ 1 âm tiết kết thúc bằng 1 phụ âm đơn (trừ w, x, z) đứng sau 1 nguyên âm đơn -> gấp đôi phụ âm cuối trước khi thêm -ER: big -> bigger, hot -> hotter.\n• Tính từ 2 âm tiết tận cùng là -y, -le, -et, -ow, -er biến đổi như tính từ ngắn: clever -> cleverer, happy -> happier, quiet -> quieter.\n• Trường hợp bất quy tắc:\n- bad / badly / ill 🡪 worse 🡪 worst\n- good / well 🡪 better 🡪 best\n- much / many 🡪 more 🡪 most\n- little 🡪 less 🡪 least\n- far 🡪 farther (khoảng cách) / further (thời gian, mức độ) 🡪 farthest / furthest",
+              "highlight": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Bài tập trắc nghiệm (Multiple Choice Questions)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "High-rise buildings are built continuously to tackle the demand for __________ in big cities.",
+          "options": ["A. unemployment", "B. housing", "C. leisure", "D. concern"],
+          "correctIndex": 1,
+          "explanation": "Kiến thức từ vựng: demand for housing (nhu cầu về nhà ở). Các tòa nhà cao tầng được xây dựng liên tục để giải quyết nhu cầu nhà ở tại các đô thị lớn."
+        },
+        {
+          "id": 2,
+          "question": "Traffic jams during __________ have become a daily nightmare for urban residents.",
+          "options": ["A. urban sprawl", "B. convenience store", "C. rush hour", "D. high-rise"],
+          "correctIndex": 2,
+          "explanation": "Cụm danh từ: rush hour (giờ cao điểm). Tắc đường vào giờ cao điểm là nỗi ám ảnh hàng ngày của người dân đô thị."
+        },
+        {
+          "id": 3,
+          "question": "Due to rapid __________, many green spaces in the city have been replaced by concrete roads.",
+          "options": ["A. urbanisation", "B. resident", "C. infrastructure", "D. leisure"],
+          "correctIndex": 0,
+          "explanation": "Sau tính từ 'rapid' cần một danh từ chỉ sự biến đổi xã hội: 'urbanisation' (quá trình đô thị hóa)."
+        },
+        {
+          "id": 4,
+          "question": "Public transport in this city is not very __________, so most people prefer driving their own motorbikes.",
+          "options": ["A. convenient", "B. reliable", "C. crowded", "D. colonial"],
+          "correctIndex": 1,
+          "explanation": "Dựa vào ngữ cảnh xe buýt hay trễ giờ và người dân không tin cậy: 'reliable' (đáng tin cậy, chuẩn giờ)."
+        },
+        {
+          "id": 5,
+          "question": "Young people move to major cities to __________ better job opportunities and higher standards of living.",
+          "options": ["A. expand", "B. afford", "C. seek", "D. modernise"],
+          "correctIndex": 2,
+          "explanation": "Cụm động từ: seek job opportunities (tìm kiếm cơ hội việc làm)."
+        },
+        {
+          "id": 6,
+          "question": "Many low-income families cannot __________ to buy an apartment in central urban areas.",
+          "options": ["A. afford", "B. expand", "C. concern", "D. modernise"],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc: cannot afford to + V (không đủ khả năng tài chính để làm gì)."
+        },
+        {
+          "id": 7,
+          "question": "The local authorities plan to __________ the old bus network to improve public travel.",
+          "options": ["A. seek", "B. modernise", "C. expand", "D. afford"],
+          "correctIndex": 1,
+          "explanation": "Động từ: modernise (hiện đại hóa). Chính quyền địa phương lên kế hoạch hiện đại hóa mạng lưới xe buýt cũ."
+        },
+        {
+          "id": 8,
+          "question": "The area has changed __________ over the past decade, turning from a quiet village into a busy town.",
+          "options": ["A. rapidly", "B. reliable", "C. crowded", "D. convenient"],
+          "correctIndex": 0,
+          "explanation": "Bổ nghĩa cho động từ 'has changed' cần một trạng từ: 'rapidly' (một cách nhanh chóng)."
+        },
+        {
+          "id": 9,
+          "question": "High rates of __________ remain a big challenge for young workers arriving in big cities.",
+          "options": ["A. convenience", "B. unemployment", "C. infrastructure", "D. leisure"],
+          "correctIndex": 1,
+          "explanation": "Danh từ: rate of unemployment (tỷ lệ thất nghiệp) là thách thức lớn cho lao động trẻ."
+        },
+        {
+          "id": 10,
+          "question": "The government has built new bridges and roads, __________ has greatly improved the city's infrastructure.",
+          "options": ["A. which", "B. that", "C. who", "D. where"],
+          "correctIndex": 0,
+          "explanation": "Mệnh đề quan hệ thay thế cho cả một mệnh đề đứng trước: dùng đại từ quan hệ ', which' (có dấu phẩy đứng trước)."
+        },
+        {
+          "id": 11,
+          "question": "The city has grown ___________ crowded over the last five years.",
+          "options": ["A. more and more", "B. less and less", "C. much and much", "D. the more"],
+          "correctIndex": 0,
+          "explanation": "So sánh lũy tiến với tính từ dài 'crowded': S + V + more and more + Adj (ngày càng đông đúc hơn)."
+        },
+        {
+          "id": 12,
+          "question": "The __________ the city becomes, the __________ the air pollution gets.",
+          "options": ["A. bigger / worse", "B. big / bad", "C. bigger / worst", "D. more big / worse"],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc so sánh đồng tiến: The + comparative, the + comparative. 'big' -> 'bigger'; 'bad' -> so sánh hơn bất quy tắc 'worse'."
+        },
+        {
+          "id": 13,
+          "question": "The more people move to urban areas, __________ job competition becomes.",
+          "options": ["A. the higher", "B. higher", "C. the highest", "D. more high"],
+          "correctIndex": 0,
+          "explanation": "Vế thứ hai của so sánh đồng tiến bắt buộc phải có 'the + comparative': 'the higher'."
+        },
+        {
+          "id": 14,
+          "question": "Since 2010, the government __________ millions of dollars in modernising public transport.",
+          "options": ["A. invested", "B. has invested", "C. invests", "D. is investing"],
+          "correctIndex": 1,
+          "explanation": "Dấu hiệu 'Since + mốc thời gian' (Since 2010) chia ở thì Hiện tại hoàn thành: 'has invested'."
+        },
+        {
+          "id": 15,
+          "question": "City residents __________ a lot of problems since the urban sprawl started.",
+          "options": ["A. experience", "B. have experienced", "C. experienced", "D. are experiencing"],
+          "correctIndex": 1,
+          "explanation": "Quy tắc phối thì với 'since': Mệnh đề chính chia Hiện tại hoàn thành (have experienced) + since + Quá khứ đơn (started)."
+        },
+        {
+          "id": 16,
+          "question": "The longer you live in a noisy city, the __________ patient you may become.",
+          "options": ["A. less", "B. little", "C. least", "D. lesser"],
+          "correctIndex": 0,
+          "explanation": "So sánh đồng tiến dạng giảm dần: 'the less patient' (bạn càng trở nên ít kiên nhẫn hơn). 'little' biến đổi so sánh hơn thành 'less'."
+        },
+        {
+          "id": 17,
+          "question": "I __________ three different convenience stores today, but none of them had the item I needed.",
+          "options": ["A. visited", "B. have visited", "C. visit", "D. am visiting"],
+          "correctIndex": 1,
+          "explanation": "Hành động đã làm nhiều lần trong khoảng thời gian hôm nay chưa kết thúc: dùng Hiện tại hoàn thành 'have visited'."
+        },
+        {
+          "id": 18,
+          "question": "The faster the population grows, the __________ affordable housing becomes.",
+          "options": ["A. less", "B. more less", "C. least", "D. lesser"],
+          "correctIndex": 0,
+          "explanation": "So sánh đồng tiến: The faster ..., the less affordable housing becomes (Dân số tăng càng nhanh thì nhà ở giá rẻ càng ít đi)."
+        },
+        {
+          "id": 19,
+          "question": "She __________ in a high-rise apartment since she moved to the capital.",
+          "options": ["A. lives", "B. lived", "C. has lived", "D. is living"],
+          "correctIndex": 2,
+          "explanation": "Cấu trúc 'since + QKĐ': vế chính chia Hiện tại hoàn thành 'has lived'."
+        },
+        {
+          "id": 20,
+          "question": "The __________ you work in the city, the __________ money you can save for your retirement.",
+          "options": ["A. harder / more", "B. hard / more", "C. harder / much", "D. hardest / more"],
+          "correctIndex": 0,
+          "explanation": "So sánh đồng tiến: The harder you work (bạn càng làm việc chăm chỉ), the more money you can save (bạn càng tiết kiệm được nhiều tiền)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền từ vào chỗ trống (Fill in the Blanks)",
+      "wordbank": [
+        "infrastructure",
+        "urban sprawl",
+        "affordable",
+        "high-rise",
+        "leisure",
+        "residents",
+        "convenience stores",
+        "concerns",
+        "colonial",
+        "gradually",
+        "expand",
+        "modernise",
+        "seek",
+        "reliable",
+        "crowded"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Finding _______ housing is one of the biggest challenges for immigrants in big cities.",
+          "sentence": "Finding _______ housing is one of the biggest challenges for immigrants in big cities.",
+          "answer": "affordable",
+          "acceptAlternatives": ["affordable"]
+        },
+        {
+          "id": 2,
+          "question": "Many old _______ buildings from the late 19th century are still preserved in the city center.",
+          "sentence": "Many old _______ buildings from the late 19th century are still preserved in the city center.",
+          "answer": "colonial",
+          "acceptAlternatives": ["colonial"]
+        },
+        {
+          "id": 3,
+          "question": "Modern city dwellers often lack time for _______ activities due to long working hours.",
+          "sentence": "Modern city dwellers often lack time for _______ activities due to long working hours.",
+          "answer": "leisure",
+          "acceptAlternatives": ["leisure"]
+        },
+        {
+          "id": 4,
+          "question": "Small 24-hour _______ have opened on almost every street corner in the metropolitan area.",
+          "sentence": "Small 24-hour _______ have opened on almost every street corner in the metropolitan area.",
+          "answer": "convenience stores",
+          "acceptAlternatives": ["convenience stores", "convenience store"]
+        },
+        {
+          "id": 5,
+          "question": "Uncontrolled _______ leads to the destruction of farmland around big cities.",
+          "sentence": "Uncontrolled _______ leads to the destruction of farmland around big cities.",
+          "answer": "urban sprawl",
+          "acceptAlternatives": ["urban sprawl"]
+        },
+        {
+          "id": 6,
+          "question": "The municipal government plans to _______ the subway line to connect rural suburbs.",
+          "sentence": "The municipal government plans to _______ the subway line to connect rural suburbs.",
+          "answer": "expand",
+          "acceptAlternatives": ["expand"]
+        },
+        {
+          "id": 7,
+          "question": "High-density residential towers and _______ apartments dominate the city skyline.",
+          "sentence": "High-density residential towers and _______ apartments dominate the city skyline.",
+          "answer": "high-rise",
+          "acceptAlternatives": ["high-rise", "high rise"]
+        },
+        {
+          "id": 8,
+          "question": "The city's transport _______ needs urgent improvement to reduce traffic congestion.",
+          "sentence": "The city's transport _______ needs urgent improvement to reduce traffic congestion.",
+          "answer": "infrastructure",
+          "acceptAlternatives": ["infrastructure"]
+        },
+        {
+          "id": 9,
+          "question": "City _______ have raised serious complaints about noise pollution from night construction.",
+          "sentence": "City _______ have raised serious complaints about noise pollution from night construction.",
+          "answer": "residents",
+          "acceptAlternatives": ["residents", "resident"]
+        },
+        {
+          "id": 10,
+          "question": "The living standards in this suburb have _______ improved thanks to new investments.",
+          "sentence": "The living standards in this suburb have _______ improved thanks to new investments.",
+          "answer": "gradually",
+          "acceptAlternatives": ["gradually"]
+        },
+        {
+          "id": 11,
+          "question": "Growing traffic jams during peak hours have raised major safety _______ for daily commuters.",
+          "sentence": "Growing traffic jams during peak hours have raised major safety _______ for daily commuters.",
+          "answer": "concerns",
+          "acceptAlternatives": ["concerns", "concern"]
+        },
+        {
+          "id": 12,
+          "question": "Buses in this city are not very _______, as they are often late during rush hours.",
+          "sentence": "Buses in this city are not very _______, as they are often late during rush hours.",
+          "answer": "reliable",
+          "acceptAlternatives": ["reliable"]
+        },
+        {
+          "id": 13,
+          "question": "Many young graduates head to urban centers to _______ stable employment.",
+          "sentence": "Many young graduates head to urban centers to _______ stable employment.",
+          "answer": "seek",
+          "acceptAlternatives": ["seek"]
+        },
+        {
+          "id": 14,
+          "question": "Downtown streets are always _______ with vehicles and pedestrians during weekends.",
+          "sentence": "Downtown streets are always _______ with vehicles and pedestrians during weekends.",
+          "answer": "crowded",
+          "acceptAlternatives": ["crowded"]
+        },
+        {
+          "id": 15,
+          "question": "The local council decided to _______ the public parks by installing smart facilities.",
+          "sentence": "The local council decided to _______ the public parks by installing smart facilities.",
+          "answer": "modernise",
+          "acceptAlternatives": ["modernise", "modernize"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu hoàn chỉnh (Sentence Reordering)",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["The", "higher", "the cost of living", "is,", "the", "more", "difficult", "it is", "to save money."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "The higher the cost of living is, the more difficult it is to save money.",
+          "acceptAlternatives": [
+            "The higher the cost of living is, the more difficult it is to save money.",
+            "The higher the cost of living is the more difficult it is to save money."
+          ]
+        },
+        {
+          "id": 2,
+          "words": ["The", "city", "has", "changed", "drastically", "since", "the government", "modernised", "public transport."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "The city has changed drastically since the government modernised public transport.",
+          "acceptAlternatives": [
+            "The city has changed drastically since the government modernised public transport.",
+            "The city has changed drastically since the government modernized public transport."
+          ]
+        },
+        {
+          "id": 3,
+          "words": ["More and more", "high-rise", "apartments", "are", "being", "built", "to meet", "housing demand."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "More and more high-rise apartments are being built to meet housing demand.",
+          "acceptAlternatives": [
+            "More and more high-rise apartments are being built to meet housing demand."
+          ]
+        },
+        {
+          "id": 4,
+          "words": ["The", "more", "overcrowded", "roads", "become,", "the", "more", "severe", "traffic jams", "get."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+          "answer": "The more overcrowded roads become, the more severe traffic jams get.",
+          "acceptAlternatives": [
+            "The more overcrowded roads become, the more severe traffic jams get.",
+            "The more overcrowded roads become the more severe traffic jams get."
+          ]
+        },
+        {
+          "id": 5,
+          "words": ["Many", "people", "have", "moved", "from the countryside", "to", "cities", "for", "better jobs."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "Many people have moved from the countryside to cities for better jobs.",
+          "acceptAlternatives": [
+            "Many people have moved from the countryside to cities for better jobs."
+          ]
+        },
+        {
+          "id": 6,
+          "words": ["The", "faster", "urbanisation", "happens,", "the", "more fast", "traditional", "lifestyles", "disappear."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "The faster urbanisation happens, the more fast traditional lifestyles disappear.",
+          "acceptAlternatives": [
+            "The faster urbanisation happens, the more fast traditional lifestyles disappear.",
+            "The faster urbanisation happens, the faster traditional lifestyles disappear.",
+            "The faster urbanization happens, the more fast traditional lifestyles disappear."
+          ]
+        },
+        {
+          "id": 7,
+          "words": ["The", "standard of living", "in", "this", "area", "has", "improved", "recently."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "The standard of living in this area has improved recently.",
+          "acceptAlternatives": [
+            "The standard of living in this area has improved recently."
+          ]
+        },
+        {
+          "id": 8,
+          "words": ["Clean", "air", "is", "less and less", "available", "in", "large", "industrial", "cities."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+          "answer": "Clean air is less and less available in large industrial cities.",
+          "acceptAlternatives": [
+            "Clean air is less and less available in large industrial cities."
+          ]
+        },
+        {
+          "id": 9,
+          "words": ["The", "younger", "you", "are,", "the", "easier", "it is to", "adapt", "to", "city life."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+          "answer": "The younger you are, the easier it is to adapt to city life.",
+          "acceptAlternatives": [
+            "The younger you are, the easier it is to adapt to city life.",
+            "The younger you are the easier it is to adapt to city life."
+          ]
+        },
+        {
+          "id": 10,
+          "words": ["Local", "residents", "have", "complained", "since", "the", "construction", "started."],
+          "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7],
+          "answer": "Local residents have complained since the construction started.",
+          "acceptAlternatives": [
+            "Local residents have complained since the construction started."
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu theo gợi ý (Sentence Rewriting with Hints)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "As the city grows larger, traffic congestion becomes worse.",
+          "hint": "Use double comparison with 'The + comparative...'",
+          "startWith": "The larger",
+          "answer": "The larger the city grows, the worse traffic congestion becomes.",
+          "acceptAlternatives": [
+            "The larger the city grows, the worse traffic congestion becomes.",
+            "The larger the city grows, the worse traffic congestion becomes",
+            "the city grows, the worse traffic congestion becomes."
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Living in a city is becoming increasingly expensive every year.",
+          "hint": "Use 'more and more'",
+          "startWith": "Living in a city",
+          "answer": "Living in a city is becoming more and more expensive every year.",
+          "acceptAlternatives": [
+            "Living in a city is becoming more and more expensive every year.",
+            "Living in a city is becoming more and more expensive every year",
+            "is becoming more and more expensive every year."
+          ]
+        },
+        {
+          "id": 3,
+          "question": "He started searching for an affordable apartment two months ago and is still searching.",
+          "hint": "Use Present Perfect with 'for'",
+          "startWith": "He has",
+          "answer": "He has searched for an affordable apartment for two months.",
+          "acceptAlternatives": [
+            "He has searched for an affordable apartment for two months.",
+            "He has been searching for an affordable apartment for two months.",
+            "searched for an affordable apartment for two months.",
+            "been searching for an affordable apartment for two months."
+          ]
+        },
+        {
+          "id": 4,
+          "question": "When the population increases, the demand for healthcare services becomes higher.",
+          "hint": "Use double comparison with 'The + comparative...'",
+          "startWith": "The more",
+          "answer": "The more the population increases, the higher the demand for healthcare services becomes.",
+          "acceptAlternatives": [
+            "The more the population increases, the higher the demand for healthcare services becomes.",
+            "The more the population increases, the higher the demand for healthcare services becomes",
+            "the population increases, the higher the demand for healthcare services becomes."
+          ]
+        },
+        {
+          "id": 5,
+          "question": "The air quality in urban areas is getting progressively worse.",
+          "hint": "Use 'worse and worse'",
+          "startWith": "The air quality",
+          "answer": "The air quality in urban areas is getting worse and worse.",
+          "acceptAlternatives": [
+            "The air quality in urban areas is getting worse and worse.",
+            "The air quality in urban areas is getting worse and worse",
+            "in urban areas is getting worse and worse."
+          ]
+        },
+        {
+          "id": 6,
+          "question": "She last visited a convenience store last week.",
+          "hint": "Use Present Perfect with 'since'",
+          "startWith": "She has not",
+          "answer": "She has not visited a convenience store since last week.",
+          "acceptAlternatives": [
+            "She has not visited a convenience store since last week.",
+            "She hasn't visited a convenience store since last week.",
+            "visited a convenience store since last week."
+          ]
+        },
+        {
+          "id": 7,
+          "question": "As you drive fast, the journey becomes dangerous.",
+          "hint": "Use double comparison with 'The + comparative...'",
+          "startWith": "The faster",
+          "answer": "The faster you drive, the more dangerous the journey becomes.",
+          "acceptAlternatives": [
+            "The faster you drive, the more dangerous the journey becomes.",
+            "The faster you drive, the more dangerous the journey becomes",
+            "you drive, the more dangerous the journey becomes."
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Fewer people are using public buses nowadays.",
+          "hint": "Use 'less and less' or 'fewer and fewer'",
+          "startWith": "Fewer and",
+          "answer": "Fewer and fewer people are using public buses nowadays.",
+          "acceptAlternatives": [
+            "Fewer and fewer people are using public buses nowadays.",
+            "Fewer and fewer people are using public buses nowadays",
+            "fewer people are using public buses nowadays."
+          ]
+        },
+        {
+          "id": 9,
+          "question": "They began modernising the old city center in 2020.",
+          "hint": "Use Present Perfect with 'since'",
+          "startWith": "They have",
+          "answer": "They have modernised the old city center since 2020.",
+          "acceptAlternatives": [
+            "They have modernised the old city center since 2020.",
+            "They have modernized the old city center since 2020.",
+            "They have been modernising the old city center since 2020.",
+            "modernised the old city center since 2020.",
+            "modernized the old city center since 2020."
+          ]
+        },
+        {
+          "id": 10,
+          "question": "If you work hard in the city, you will gain more experience.",
+          "hint": "Use double comparison with 'The + comparative...'",
+          "startWith": "The harder",
+          "answer": "The harder you work in the city, the more experience you will gain.",
+          "acceptAlternatives": [
+            "The harder you work in the city, the more experience you will gain.",
+            "The harder you work in the city, the more experience you will gain",
+            "you work in the city, the more experience you will gain."
+          ]
+        },
+        {
+          "id": 11,
+          "question": "People are building more and more high-rise buildings in the central district.",
+          "hint": "Rewrite using double comparison 'more and more'",
+          "startWith": "More and",
+          "answer": "More and more high-rise buildings are being built in the central district.",
+          "acceptAlternatives": [
+            "More and more high-rise buildings are being built in the central district.",
+            "More and more high-rise buildings are being built in the central district",
+            "more high-rise buildings are being built in the central district."
+          ]
+        },
+        {
+          "id": 12,
+          "question": "I haven't seen such a crowded street during rush hour before.",
+          "hint": "Use Present Perfect with 'This is the first time...'",
+          "startWith": "This is the first time",
+          "answer": "This is the first time I have seen such a crowded street during rush hour.",
+          "acceptAlternatives": [
+            "This is the first time I have seen such a crowded street during rush hour.",
+            "This is the first time I've seen such a crowded street during rush hour.",
+            "I have seen such a crowded street during rush hour."
+          ]
+        },
+        {
+          "id": 13,
+          "question": "As housing prices get cheaper, more people can afford to buy homes.",
+          "hint": "Use double comparison with 'The + comparative...'",
+          "startWith": "The cheaper",
+          "answer": "The cheaper housing prices get, the more people can afford to buy homes.",
+          "acceptAlternatives": [
+            "The cheaper housing prices get, the more people can afford to buy homes.",
+            "The cheaper housing prices get, the more people can afford to buy homes",
+            "housing prices get, the more people can afford to buy homes."
+          ]
+        },
+        {
+          "id": 14,
+          "question": "He became unemployed five months ago.",
+          "hint": "Use Present Perfect with 'for'",
+          "startWith": "He has",
+          "answer": "He has been unemployed for five months.",
+          "acceptAlternatives": [
+            "He has been unemployed for five months.",
+            "He has been unemployed for five months",
+            "been unemployed for five months."
+          ]
+        },
+        {
+          "id": 15,
+          "question": "When urban sprawl expands rapidly, green space disappears quickly.",
+          "hint": "Use double comparison with 'The + comparative...'",
+          "startWith": "The more rapidly",
+          "answer": "The more rapidly urban sprawl expands, the more quickly green space disappears.",
+          "acceptAlternatives": [
+            "The more rapidly urban sprawl expands, the more quickly green space disappears.",
+            "The more rapidly urban sprawl expands, the faster green space disappears.",
+            "urban sprawl expands, the more quickly green space disappears."
+          ]
+        }
+      ]
+    }
+  }
+}

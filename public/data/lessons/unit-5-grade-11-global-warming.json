@@ -1,0 +1,985 @@
+{
+  "id": "unit-5-grade-11-global-warming",
+  "title": "Unit 5: Global Warming (Grade 11)",
+  "tags": ["Lớp 11"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "atmosphere",
+        "ipa": "/ˈætməsfɪr/",
+        "pos": "n",
+        "meaning": "khí quyển",
+        "example": "Greenhouse gases trap heat in the atmosphere, leading to warmer global temperatures.",
+        "exampleVi": "Khí nhà kính giữ nhiệt trong bầu khí quyển, dẫn đến nhiệt độ toàn cầu ấm hơn."
+      },
+      {
+        "stt": 2,
+        "word": "balance",
+        "ipa": "/ˈbæləns/",
+        "pos": "n/v",
+        "meaning": "sự cân bằng, cân nhắc",
+        "example": "Human activities are upsetting the natural ecological balance of the planet.",
+        "exampleVi": "Các hoạt động của con người đang làm đảo lộn sự cân bằng sinh thái tự nhiên của hành tinh."
+      },
+      {
+        "stt": 3,
+        "word": "coal",
+        "ipa": "/koʊl/",
+        "pos": "n",
+        "meaning": "than đá",
+        "example": "Many countries are trying to phase out coal to reduce greenhouse gas emissions.",
+        "exampleVi": "Nhiều quốc gia đang cố gắng loại bỏ dần than đá để giảm lượng khí thải nhà kính."
+      },
+      {
+        "stt": 4,
+        "word": "conference",
+        "ipa": "/ˈkɒnfərəns/",
+        "pos": "n",
+        "meaning": "hội nghị, hội thảo",
+        "example": "World leaders attended the international climate conference in Paris.",
+        "exampleVi": "Các nhà lãnh đạo thế giới đã tham dự hội nghị khí hậu quốc tế tại Paris."
+      },
+      {
+        "stt": 5,
+        "word": "consequences",
+        "ipa": "/ˈkɒnsɪkwɛnsɪz/",
+        "pos": "n",
+        "meaning": "hậu quả, kết quả",
+        "example": "Severe flooding and intense droughts are devastating consequences of global warming.",
+        "exampleVi": "Lũ lụt nghiêm trọng và hạn hán gay gắt là những hậu quả tàn khốc của sự nóng lên toàn cầu."
+      },
+      {
+        "stt": 6,
+        "word": "contribute to",
+        "ipa": "/kənˈtrɪbjut tuː/",
+        "pos": "v",
+        "meaning": "đóng góp vào, góp phần vào",
+        "example": "Deforestation significantly contributes to the increase in global temperatures.",
+        "exampleVi": "Nạn phá rừng góp phần đáng kể vào sự gia tăng nhiệt độ toàn cầu."
+      },
+      {
+        "stt": 7,
+        "word": "crop",
+        "ipa": "/krɒp/",
+        "pos": "n",
+        "meaning": "vụ mùa, mùa vụ, cây trồng",
+        "example": "Extreme weather can damage crops and cause food shortages.",
+        "exampleVi": "Thời tiết khắc nghiệt có thể tàn phá mùa màng và gây ra tình trạng khan hiếm lương thực."
+      },
+      {
+        "stt": 8,
+        "word": "emission",
+        "ipa": "/ɪˈmɪʃən/",
+        "pos": "n",
+        "meaning": "khí thải, sự phát thải",
+        "example": "Governments must introduce strict laws to limit carbon dioxide emissions from factories.",
+        "exampleVi": "Các chính phủ cần ban hành luật nghiêm ngặt để hạn chế khí thải carbon dioxide từ các nhà máy."
+      },
+      {
+        "stt": 9,
+        "word": "farmland",
+        "ipa": "/ˈfɑːrmlænd/",
+        "pos": "n",
+        "meaning": "vùng đất nông nghiệp",
+        "example": "Rising sea levels threaten fertile farmland in low-lying delta regions.",
+        "exampleVi": "Nước biển dâng đe dọa đất nông nghiệp màu mỡ ở các vùng đồng bằng trũng thấp."
+      },
+      {
+        "stt": 10,
+        "word": "fossil fuel",
+        "ipa": "/ˈfɑːsl ˈfjuːəl/",
+        "pos": "n",
+        "meaning": "nhiên liệu hóa thạch",
+        "example": "Burning fossil fuels like oil, gas, and coal releases massive amounts of CO2.",
+        "exampleVi": "Đốt nhiên liệu hóa thạch như dầu, khí đốt và than đá thải ra lượng lớn khí CO2."
+      },
+      {
+        "stt": 11,
+        "word": "global warming",
+        "ipa": "/ˈɡloʊbəl ˈwɔrmɪŋ/",
+        "pos": "n",
+        "meaning": "sự nóng lên toàn cầu",
+        "example": "Global warming is causing glaciers to melt and sea levels to rise at an alarming rate.",
+        "exampleVi": "Sự nóng lên toàn cầu đang khiến các sông băng tan chảy và mực nước biển dâng cao với tốc độ đáng báo động."
+      },
+      {
+        "stt": 12,
+        "word": "greenhouse effect",
+        "ipa": "/ˈɡrinˌhaʊs ɪˈfɛkt/",
+        "pos": "n",
+        "meaning": "hiệu ứng nhà kính",
+        "example": "The enhanced greenhouse effect is responsible for the rapid rise in average global temperatures.",
+        "exampleVi": "Hiệu ứng nhà kính tăng cường là nguyên nhân chính khiến nhiệt độ trung bình toàn cầu tăng nhanh."
+      },
+      {
+        "stt": 13,
+        "word": "greenhouse gases",
+        "ipa": "/ˈɡrinˌhaʊs ˈɡæsɪz/",
+        "pos": "n",
+        "meaning": "khí nhà kính",
+        "example": "Carbon dioxide and methane are the two most prevalent greenhouse gases.",
+        "exampleVi": "Carbon dioxide và metan là hai loại khí nhà kính phổ biến nhất."
+      },
+      {
+        "stt": 14,
+        "word": "intend",
+        "ipa": "/ɪnˈtɛnd/",
+        "pos": "v",
+        "meaning": "dự định, có ý định",
+        "example": "The city intends to replace all diesel buses with electric models by 2030.",
+        "exampleVi": "Thành phố dự định thay thế toàn bộ xe buýt diesel bằng các mẫu xe điện vào năm 2030."
+      },
+      {
+        "stt": 15,
+        "word": "meet the challenge",
+        "ipa": "/miːt ðə ˈʧælɪndʒ/",
+        "pos": "phrase",
+        "meaning": "đối mặt với thách thức",
+        "example": "We need international cooperation to meet the challenge of climate change.",
+        "exampleVi": "Chúng ta cần sự hợp tác quốc tế để đối mặt với thách thức của biến đổi khí hậu."
+      },
+      {
+        "stt": 16,
+        "word": "melt",
+        "ipa": "/mɛlt/",
+        "pos": "v",
+        "meaning": "tan chảy",
+        "example": "Polar ice caps melt faster during the summer due to rising atmospheric temperatures.",
+        "exampleVi": "Băng bao cực tan nhanh hơn vào mùa hè do nhiệt độ khí quyển tăng."
+      },
+      {
+        "stt": 17,
+        "word": "methane (ch4)",
+        "ipa": "/ˈmɛθeɪn/",
+        "pos": "n",
+        "meaning": "khí metan (ch4)",
+        "example": "Methane is released during the production of coal, natural gas, and oil, as well as livestock farming.",
+        "exampleVi": "Khí metan được thải ra trong quá trình sản xuất than, khí tự nhiên, dầu mỏ và chăn nuôi gia súc."
+      },
+      {
+        "stt": 18,
+        "word": "organic waste",
+        "ipa": "/ɔrˈɡænɪk weɪst/",
+        "pos": "n",
+        "meaning": "chất thải hữu cơ",
+        "example": "Composting organic waste produces rich fertilizer while reducing landfill emissions.",
+        "exampleVi": "Ủ chất thải hữu cơ tạo ra phân bón giàu dinh dưỡng đồng thời giảm phát thải từ các bãi rác."
+      },
+      {
+        "stt": 19,
+        "word": "polar ice cap",
+        "ipa": "/ˈpoʊlər aɪs kæp/",
+        "pos": "n",
+        "meaning": "băng bao cực",
+        "example": "The shrinking polar ice caps threaten wildlife like polar bears and seals.",
+        "exampleVi": "Các dải băng bao cực đang thu hẹp đe dọa các loài động vật hoang dã như gấu bắc cực và hải cẩu."
+      },
+      {
+        "stt": 20,
+        "word": "pollutant",
+        "ipa": "/pəˈlutənt/",
+        "pos": "n",
+        "meaning": "chất gây ô nhiễm",
+        "example": "Chemical pollutants discharged into waterways harm aquatic ecosystems.",
+        "exampleVi": "Các chất gây ô nhiễm hóa học thải vào nguồn nước gây hại cho hệ sinh thái thủy sinh."
+      },
+      {
+        "stt": 21,
+        "word": "presentation",
+        "ipa": "/ˌprɛzənˈteɪʃən/",
+        "pos": "n",
+        "meaning": "bài thuyết trình",
+        "example": "Students prepared an engaging presentation about renewable energy solutions.",
+        "exampleVi": "Học sinh đã chuẩn bị một bài thuyết trình hấp dẫn về các giải pháp năng lượng tái tạo."
+      },
+      {
+        "stt": 22,
+        "word": "produce",
+        "ipa": "/prəˈduːs/",
+        "pos": "v",
+        "meaning": "sản xuất, tạo ra",
+        "example": "Solar panels produce electricity without releasing harmful emissions.",
+        "exampleVi": "Pin năng lượng mặt trời sản xuất điện mà không thải ra khí thải độc hại."
+      },
+      {
+        "stt": 23,
+        "word": "release into",
+        "ipa": "/rɪˈlis ˈɪntuː/",
+        "pos": "phr. v",
+        "meaning": "thải ra, xả ra vào",
+        "example": "Factories must be penalized if they release hazardous fumes into the environment.",
+        "exampleVi": "Các nhà máy phải bị xử phạt nếu họ xả khói độc hại vào môi trường."
+      },
+      {
+        "stt": 24,
+        "word": "reliable",
+        "ipa": "/rɪˈlaɪəbl/",
+        "pos": "adj",
+        "meaning": "đáng tin cậy, đáng tin",
+        "example": "Modern wind turbines provide a reliable source of green energy.",
+        "exampleVi": "Tua bin gió hiện đại cung cấp nguồn năng lượng xanh đáng tin cậy."
+      },
+      {
+        "stt": 25,
+        "word": "renewable",
+        "ipa": "/rɪˈnuːəbl/",
+        "pos": "adj",
+        "meaning": "tái tạo, có thể tái tạo",
+        "example": "Investing in renewable energy is crucial for achieving long-term sustainability.",
+        "exampleVi": "Đầu tư vào năng lượng tái tạo là điều sống còn để đạt được sự bền vững lâu dài."
+      },
+      {
+        "stt": 26,
+        "word": "representative",
+        "ipa": "/ˌrɛprɪˈzɛntətɪv/",
+        "pos": "n",
+        "meaning": "đại diện, người đại diện",
+        "example": "The youth representative called for immediate climate action at the UN summit.",
+        "exampleVi": "Đại diện thanh niên đã kêu gọi hành động khí hậu ngay lập tức tại hội nghị thượng đỉnh Liên Hợp Quốc."
+      },
+      {
+        "stt": 27,
+        "word": "soil",
+        "ipa": "/sɔɪl/",
+        "pos": "n",
+        "meaning": "đất, đất trồng",
+        "example": "Healthy soil stores substantial amounts of carbon dioxide.",
+        "exampleVi": "Đất trồng màu mỡ và khỏe mạnh có khả năng tích trữ một lượng lớn carbon dioxide."
+      },
+      {
+        "stt": 28,
+        "word": "solid fuels",
+        "ipa": "/ˈsɑːlɪd ˈfjuːəlz/",
+        "pos": "n",
+        "meaning": "nhiên liệu rắn",
+        "example": "Burning solid fuels such as wood and coal inside homes can cause severe respiratory problems.",
+        "exampleVi": "Đốt các loại nhiên liệu rắn như gỗ và than đá trong nhà có thể gây ra các vấn đề hô hấp nghiêm trọng."
+      },
+      {
+        "stt": 29,
+        "word": "soot",
+        "ipa": "/sut/",
+        "pos": "n",
+        "meaning": "than bám, bồ hóng",
+        "example": "Black soot from burning diesel covers snow in the Arctic, accelerating ice melt.",
+        "exampleVi": "Bồ hóng đen từ việc đốt dầu diesel phủ lên tuyết ở Bắc Cực, làm tăng tốc độ tan băng."
+      },
+      {
+        "stt": 30,
+        "word": "substance",
+        "ipa": "/ˈsʌbstəns/",
+        "pos": "n",
+        "meaning": "chất liệu, chất",
+        "example": "Chlorofluorocarbons (CFCs) are harmful substances that destroy the ozone layer.",
+        "exampleVi": "CFCs là các chất độc hại phá hủy tầng ozone."
+      },
+      {
+        "stt": 31,
+        "word": "suffer from",
+        "ipa": "/ˈsʌfər frəm/",
+        "pos": "phrase",
+        "meaning": "chịu đựng, gánh chịu từ",
+        "example": "Many developing countries suffer from the devastating impacts of recurring natural disasters.",
+        "exampleVi": "Nhiều quốc gia đang phát triển phải chịu đựng những tác động tàn phá của các thảm họa thiên nhiên liên tiếp."
+      },
+      {
+        "stt": 32,
+        "word": "waste",
+        "ipa": "/weɪst/",
+        "pos": "n",
+        "meaning": "chất thải, rác",
+        "example": "Proper recycling reduces the volume of toxic waste that ends up in municipal dumps.",
+        "exampleVi": "Tái chế đúng cách giúp giảm lượng rác thải độc hại đưa vào các bãi chôn lấp đô thị."
+      },
+      {
+        "stt": 33,
+        "word": "world leader",
+        "ipa": "/wɜrld ˈliːdər/",
+        "pos": "n",
+        "meaning": "nhà lãnh đạo thế giới",
+        "example": "World leaders must collaborate closely to draft ambitious global emissions targets.",
+        "exampleVi": "Các nhà lãnh đạo thế giới cần hợp tác chặt chẽ để soạn thảo các mục tiêu giảm phát thải đầy tham vọng."
+      }
+    ],
+    "grammar": {
+      "title": "Present Participle and Past Participle Clauses (Hiện tại phân từ và Quá khứ phân từ)",
+      "sections": [
+        {
+          "heading": "1. Gerund (Danh động từ V-ing)",
+          "content": "Danh động từ có hình thức V-ing, mang nghĩa CHỦ ĐỘNG và có chức năng ngữ pháp như một DANH TỪ.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "1. Làm chủ ngữ trong câu:",
+              "example": "• Entering university is a wonderful experience.\n• Planting trees helps combat global warming.",
+              "highlight": true
+            },
+            {
+              "rule": "2. Đứng sau các động từ (Verbs) chỉ định:",
+              "example": "avoid, consider, dislike, enjoy, finish, forgive, imagine, involve, practise, suggest, mind, encourage, permit, risk, recommend, regret …\n• Eg: My parents suggested studying abroad.",
+              "highlight": true
+            },
+            {
+              "rule": "3. Đứng sau các động từ đi với giới từ (Verb + Preposition):",
+              "example": "agree with, apologise for, concentrate on, depend on, dream of, insist on, rely on, succeed in, focus on, carry on …\n• Eg: He concentrates on preparing for the exam.",
+              "highlight": true
+            },
+            {
+              "rule": "4. Đứng sau các cụm thành ngữ cố định (Idiomatic Expressions):",
+              "example": "can't help, can't stand, feel like, be worth, no use, no good, no point …\n• Eg: It's worth taking a gap year before university.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Present Participle (Hiện tại phân từ V-ing)",
+          "content": "Hiện tại phân từ có hình thức V-ing, mang nghĩa CHỦ ĐỘNG và có chức năng ngữ pháp như một TÍNH TỪ.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "1. Miêu tả tính chất của vật, sự việc, bản chất con người:",
+              "example": "• This is an interesting film.\n• He is an interesting person.",
+              "highlight": true
+            },
+            {
+              "rule": "2. Hình thành mệnh đề phân từ chỉ NGUYÊN NHÂN / LÝ DO:",
+              "example": "• Seeing the fire, the kid called the police.\n(= Because the kid saw the fire, he called the police.)",
+              "highlight": true
+            },
+            {
+              "rule": "3. Hình thành mệnh đề phân từ chỉ 2 HÀNH ĐỘNG XẢY RA ĐỒNG THỜI:",
+              "example": "• Standing there, she cried.\n(= While she was standing there, she cried.)",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Past Participle (Quá khứ phân từ V3/ed)",
+          "content": "Quá khứ phân từ có hình thức V3/ed, mang nghĩa BỊ ĐỘNG và có chức năng ngữ pháp như một TÍNH TỪ.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "1. Miêu tả cảm xúc, tâm trạng của người:",
+              "example": "• She is interested in the film.\n• We are worried about climate change.",
+              "highlight": true
+            },
+            {
+              "rule": "2. Hình thành mệnh đề phân từ giải thích LÝ DO (mang nghĩa bị động):",
+              "example": "• Worried about global warming, children planted more trees.\n(= Because they were worried about global warming, children planted more trees.)",
+              "highlight": true
+            },
+            {
+              "rule": "3. Hình thành mệnh đề phân từ thể hiện ĐIỀU KIỆN (mang nghĩa bị động):",
+              "example": "• Burnt for energy, fossil fuels release CO2 into the atmosphere.\n(= If fossil fuels are burnt for energy, they release CO2 into the atmosphere.)",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "4. Mệnh đề phân từ (Participle Clauses) & Quy tắc nối 2 mệnh đề có cùng chủ ngữ",
+          "content": "Mệnh đề phân từ là dạng mệnh đề phụ thuộc dùng để nối hai mệnh đề có chung chủ ngữ, giúp câu văn cô đọng và trang trọng hơn. MĐ phân từ hiện tại (V-ing) chỉ hành động chủ động; MĐ phân từ quá khứ (V3/V-ed) chỉ hành động bị động.",
+          "highlight": true,
+          "layout": "two-columns",
+          "points": [
+            {
+              "rule": "NỐI TẠO THÀNH MỆNH ĐỀ PHÂN TỪ HIỆN TẠI (V-ing - Chủ động):",
+              "example": "• Điều kiện: 2 mệnh đề trong câu có chung chủ ngữ.\n• B1: Xác định mệnh đề chỉ nguyên nhân, thời gian... bằng cách gạch chân liên từ (because, since, as, when...).\n• B2: Lược bỏ liên từ, bỏ chủ ngữ (nếu chủ ngữ là danh từ riêng/cụm danh từ thì chuyển ra thay thế đại từ ở mệnh đề chính).\n• B3: Biến động từ chính thành V-ing. Giữ nguyên vế còn lại.\n• Ví dụ:\nBecause my sister hoped to pass the exam, she worked hard.\n➔ Hoping to pass the exam, my sister worked hard.",
+              "highlight": true
+            },
+            {
+              "rule": "NỐI TẠO THÀNH MỆNH ĐỀ PHÂN TỪ QUÁ KHỨ (V3/ed - Bị động):",
+              "example": "• Điều kiện: 2 mệnh đề trong câu có chung chủ ngữ.\n• B1: Xác định mệnh đề chỉ nguyên nhân, điều kiện... (because, since, as, if...).\n• B2: Lược bỏ liên từ, bỏ chủ ngữ (nếu chủ ngữ là danh từ thì chuyển ra thay thế đại từ ở mệnh đề chính).\n• B3: Biến động từ to be + V3/ed thành V3/ed (lược bỏ to be). Giữ nguyên vế còn lại.\n• Ví dụ:\nBecause dwellers were warned about the danger, they moved to other places.\n➔ Warned about the danger, dwellers moved to other places.",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Trắc nghiệm khách quan (Multiple Choice - 20 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Burning __________ such as coal and oil releases massive amounts of carbon dioxide into the atmosphere.",
+          "options": ["organic waste", "fossil fuels", "polar ice caps", "solid waste"],
+          "correctIndex": 1,
+          "explanation": "'fossil fuels' (nhiên liệu hóa thạch) bao gồm than đá, dầu mỏ và khí đốt tự nhiên; khi bị đốt cháy giải phóng lượng lớn CO2."
+        },
+        {
+          "id": 2,
+          "question": "The melting of __________ causes sea levels to rise, threatening coastal cities worldwide.",
+          "options": ["farmland", "soot", "polar ice caps", "crops"],
+          "correctIndex": 2,
+          "explanation": "'polar ice caps' (các dải băng bao cực) khi tan chảy (melting) khiến mực nước biển dâng cao."
+        },
+        {
+          "id": 3,
+          "question": "Trees absorb carbon dioxide and help keep the Earth's climate in __________.",
+          "options": ["balance", "consequence", "presentation", "emission"],
+          "correctIndex": 0,
+          "explanation": "Cụm từ cố định (collocation): 'keep something in balance' (giữ cho cái gì ở trạng thái cân bằng)."
+        },
+        {
+          "id": 4,
+          "question": "Methane is a powerful greenhouse gas produced mainly by agricultural activities and decaying __________ waste.",
+          "options": ["solid", "organic", "reliable", "renewable"],
+          "correctIndex": 1,
+          "explanation": "'organic waste' (chất thải hữu cơ) khi phân hủy sinh ra lượng lớn khí methane (CH4)."
+        },
+        {
+          "id": 5,
+          "question": "Environmentalists call for replacing coal with __________ energy sources like wind and solar power.",
+          "options": ["fossil", "pollutant", "renewable", "harmful"],
+          "correctIndex": 2,
+          "explanation": "'renewable energy' (năng lượng tái tạo) như năng lượng gió và mặt trời."
+        },
+        {
+          "id": 6,
+          "question": "Thousands of farmers in the region __________ severe droughts caused by climate change.",
+          "options": ["suffer from", "contribute to", "release into", "balance with"],
+          "correctIndex": 0,
+          "explanation": "Cụm động từ: 'suffer from' mang nghĩa hứng chịu, gánh chịu hậu quả tiêu cực của hạn hán."
+        },
+        {
+          "id": 7,
+          "question": "World leaders gathered at the international climate __________ to set new targets for reducing emissions.",
+          "options": ["substance", "conference", "farmland", "atmosphere"],
+          "correctIndex": 1,
+          "explanation": "'climate conference' (hội nghị khí hậu quốc tế) nơi các nguyên thủ quốc gia tụ họp đàm phán."
+        },
+        {
+          "id": 8,
+          "question": "If we want to protect the environment, we must find effective ways to __________ the challenge of global warming.",
+          "options": ["meet", "make", "proposal", "discuss"],
+          "correctIndex": 0,
+          "explanation": "Cụm thành ngữ cố định: 'meet the challenge' (đối mặt và giải quyết thách thức thành công)."
+        },
+        {
+          "id": 9,
+          "question": "Fine particles of __________ from factories settle on buildings and pollute the air.",
+          "options": ["crop", "soot", "soil", "balance"],
+          "correctIndex": 1,
+          "explanation": "'soot' (muội than, bồ hóng) là các hạt bụi than siêu mịn từ ống khói nhà máy làm đen các công trình."
+        },
+        {
+          "id": 10,
+          "question": "Carbon dioxide is the main __________ responsible for trapping heat in the Earth's atmosphere.",
+          "options": ["pollutant", "representative", "farmland", "challenge"],
+          "correctIndex": 0,
+          "explanation": "'pollutant' (chất gây ô nhiễm) đóng vai trò giữ nhiệt làm ấm bầu khí quyển."
+        },
+        {
+          "id": 11,
+          "question": "__________ in large quantities, greenhouse gases trap solar heat and warm the planet.",
+          "options": ["Releasing", "Released", "Release", "To release"],
+          "correctIndex": 1,
+          "explanation": "Mệnh đề phân từ quá khứ mang nghĩa bị động: 'Released in large quantities,...' (= When they are released in large quantities,...)."
+        },
+        {
+          "id": 12,
+          "question": "__________ the severe consequences of global warming, people are switching to electric vehicles.",
+          "options": ["Realized", "Realizing", "Realize", "Realizes"],
+          "correctIndex": 1,
+          "explanation": "Mệnh đề phân từ hiện tại chỉ nguyên nhân chủ động: 'Realizing the severe consequences,...' (= Because they realize...)."
+        },
+        {
+          "id": 13,
+          "question": "__________ from fossil fuels, harmful emissions damage both human health and the environment.",
+          "options": ["Produced", "Producing", "Produce", "To produce"],
+          "correctIndex": 0,
+          "explanation": "Mệnh đề phân từ quá khứ mang nghĩa bị động: 'Produced from fossil fuels,...' (= As they are produced from fossil fuels,...)."
+        },
+        {
+          "id": 14,
+          "question": "__________ on organic farms, these crops do not contain toxic pesticides or chemicals.",
+          "options": ["Growing", "Grown", "Grow", "To grow"],
+          "correctIndex": 1,
+          "explanation": "Mệnh đề phân từ quá khứ mang nghĩa bị động: 'Grown on organic farms,...' (= Because these crops are grown on organic farms,...)."
+        },
+        {
+          "id": 15,
+          "question": "__________ about the rising temperature of the ocean, scientists conducted more research.",
+          "options": ["Worrying", "Worried", "Worry", "Worries"],
+          "correctIndex": 1,
+          "explanation": "Mệnh đề phân từ quá khứ thể hiện cảm xúc/nguyên nhân: 'Worried about...' (= Because scientists were worried about...)."
+        },
+        {
+          "id": 16,
+          "question": "__________ in rural areas, many farmers rely heavily on natural rain to water their crops.",
+          "options": ["Living", "Lived", "Live", "To live"],
+          "correctIndex": 0,
+          "explanation": "Mệnh đề phân từ hiện tại mang nghĩa chủ động: 'Living in rural areas,...' (= Because many farmers live in rural areas,...)."
+        },
+        {
+          "id": 17,
+          "question": "__________ by world leaders last week, the new climate treaty aims to cut emissions by 30%.",
+          "options": ["Signing", "Signed", "Sign", "To sign"],
+          "correctIndex": 1,
+          "explanation": "Mệnh đề phân từ quá khứ mang nghĩa bị động có 'by world leaders': 'Signed by world leaders,...' (= After the treaty was signed by world leaders,...)."
+        },
+        {
+          "id": 18,
+          "question": "Scientists warn that __________ forest land for agriculture accelerates climate change.",
+          "options": ["clearing", "cleared", "clear", "to cleared"],
+          "correctIndex": 0,
+          "explanation": "Danh động từ (Gerund) 'clearing' đóng vai trò làm chủ ngữ cho mệnh đề phụ sau 'that'."
+        },
+        {
+          "id": 19,
+          "question": "__________ up the beach, the volunteers collected over 100 kilograms of plastic waste.",
+          "options": ["Cleaned", "Cleaning", "Clean", "To clean"],
+          "correctIndex": 1,
+          "explanation": "Mệnh đề phân từ hiện tại chỉ hai hành động xảy ra đồng thời/liên tiếp chủ động: 'Cleaning up the beach,...' (= While they were cleaning up the beach,...)."
+        },
+        {
+          "id": 20,
+          "question": "__________ by high temperatures, the glacier melted much faster than expected.",
+          "options": ["Affecting", "Affected", "Affect", "To affect"],
+          "correctIndex": 1,
+          "explanation": "Mệnh đề phân từ quá khứ mang nghĩa bị động: 'Affected by high temperatures,...' (= Because the glacier was affected by high temperatures,...)."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền từ vào chỗ trống (Fill in the Blanks - 15 câu)",
+      "wordbank": [
+        "greenhouse effect",
+        "atmosphere",
+        "emissions",
+        "consequences",
+        "farmland",
+        "reliable",
+        "intend",
+        "substances",
+        "Suffering",
+        "Trapped",
+        "Burned",
+        "Looking",
+        "Prepared",
+        "Absorbed",
+        "Caused"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "The Earth's _______ traps heat from the sun, keeping the planet warm enough for life.",
+          "sentence": "The Earth's _______ traps heat from the sun, keeping the planet warm enough for life.",
+          "answer": "atmosphere",
+          "acceptAlternatives": ["atmosphere"],
+          "hint": "Bầu khí quyển bao quanh Trái Đất"
+        },
+        {
+          "id": 2,
+          "question": "Without the natural _______, the Earth would be too cold for humans to survive.",
+          "sentence": "Without the natural _______, the Earth would be too cold for humans to survive.",
+          "answer": "greenhouse effect",
+          "acceptAlternatives": ["greenhouse effect"],
+          "hint": "Hiệu ứng nhà kính tự nhiên"
+        },
+        {
+          "id": 3,
+          "question": "Renewable energy sources like solar and wind provide a clean and _______ supply of power.",
+          "sentence": "Renewable energy sources like solar and wind provide a clean and _______ supply of power.",
+          "answer": "reliable",
+          "acceptAlternatives": ["reliable"],
+          "hint": "Tính từ: đáng tin cậy, ổn định"
+        },
+        {
+          "id": 4,
+          "question": "Extreme weather events like floods and severe heatwaves are direct _______ of climate change.",
+          "sentence": "Extreme weather events like floods and severe heatwaves are direct _______ of climate change.",
+          "answer": "consequences",
+          "acceptAlternatives": ["consequences"],
+          "hint": "Danh từ số nhiều: hậu quả trực tiếp"
+        },
+        {
+          "id": 5,
+          "question": "Overuse of chemical fertilizers damages the quality of fertile _______ in the long term.",
+          "sentence": "Overuse of chemical fertilizers damages the quality of fertile _______ in the long term.",
+          "answer": "farmland",
+          "acceptAlternatives": ["farmland"],
+          "hint": "Đất nông nghiệp màu mỡ"
+        },
+        {
+          "id": 6,
+          "question": "Factory chimneys release toxic _______ into the air every single day.",
+          "sentence": "Factory chimneys release toxic _______ into the air every single day.",
+          "answer": "emissions",
+          "acceptAlternatives": ["emissions"],
+          "hint": "Danh từ: các loại khí thải độc hại"
+        },
+        {
+          "id": 7,
+          "question": "The local government does not _______ to build another coal-fired power plant here.",
+          "sentence": "The local government does not _______ to build another coal-fired power plant here.",
+          "answer": "intend",
+          "acceptAlternatives": ["intend"],
+          "hint": "Động từ nguyên mẫu: có dự định, ý định"
+        },
+        {
+          "id": 8,
+          "question": "Harmful chemical _______ found in industrial waste pollute nearby rivers and lakes.",
+          "sentence": "Harmful chemical _______ found in industrial waste pollute nearby rivers and lakes.",
+          "answer": "substances",
+          "acceptAlternatives": ["substances"],
+          "hint": "Danh từ số nhiều: các chất hóa học độc hại"
+        },
+        {
+          "id": 9,
+          "question": "_______ from severe heatwaves, many elderly people were admitted to the hospital.",
+          "sentence": "_______ from severe heatwaves, many elderly people were admitted to the hospital.",
+          "answer": "Suffering",
+          "acceptAlternatives": ["Suffering", "suffering"],
+          "hint": "Hiện tại phân từ (V-ing) chỉ nguyên nhân: phải chịu đựng nắng nóng gay gắt"
+        },
+        {
+          "id": 10,
+          "question": "_______ inside the Earth's atmosphere, heat causes global temperatures to rise steadily.",
+          "sentence": "_______ inside the Earth's atmosphere, heat causes global temperatures to rise steadily.",
+          "answer": "Trapped",
+          "acceptAlternatives": ["Trapped", "trapped"],
+          "hint": "Quá khứ phân từ (V-ed) bị động: Bị mắc kẹt bên trong khí quyển"
+        },
+        {
+          "id": 11,
+          "question": "_______ for energy, coal releases black soot and carbon dioxide into the air.",
+          "sentence": "_______ for energy, coal releases black soot and carbon dioxide into the air.",
+          "answer": "Burned",
+          "acceptAlternatives": ["Burned", "burned"],
+          "hint": "Quá khứ phân từ (V-ed) bị động: Được đốt cháy để lấy năng lượng"
+        },
+        {
+          "id": 12,
+          "question": "_______ for ways to reduce waste, the students started a school recycling campaign.",
+          "sentence": "_______ for ways to reduce waste, the students started a school recycling campaign.",
+          "answer": "Looking",
+          "acceptAlternatives": ["Looking", "looking"],
+          "hint": "Hiện tại phân từ (V-ing) chủ động: Tìm kiếm các phương pháp"
+        },
+        {
+          "id": 13,
+          "question": "_______ carefully by environmental experts, the presentation convinced the audience.",
+          "sentence": "_______ carefully by environmental experts, the presentation convinced the audience.",
+          "answer": "Prepared",
+          "acceptAlternatives": ["Prepared", "prepared"],
+          "hint": "Quá khứ phân từ (V-ed) bị động: Được chuẩn bị kỹ càng"
+        },
+        {
+          "id": 14,
+          "question": "_______ by trees and soil, carbon dioxide is stored naturally instead of warming the air.",
+          "sentence": "_______ by trees and soil, carbon dioxide is stored naturally instead of warming the air.",
+          "answer": "Absorbed",
+          "acceptAlternatives": ["Absorbed", "absorbed"],
+          "hint": "Quá khứ phân từ (V-ed) bị động: Được hấp thụ bởi cây cối và đất"
+        },
+        {
+          "id": 15,
+          "question": "_______ by rising sea levels, flooding has become a major problem for coastal villages.",
+          "sentence": "_______ by rising sea levels, flooding has become a major problem for coastal villages.",
+          "answer": "Caused",
+          "acceptAlternatives": ["Caused", "caused"],
+          "hint": "Quá khứ phân từ (V-ed) bị động: Bị gây ra bởi mực nước biển dâng"
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu hoàn chỉnh (Sentence Reordering - 10 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["Burning fossil fuels", "releases", "huge amounts", "of greenhouse gases", "into the atmosphere."],
+          "answer": "Burning fossil fuels releases huge amounts of greenhouse gases into the atmosphere.",
+          "acceptAlternatives": [
+            "Burning fossil fuels releases huge amounts of greenhouse gases into the atmosphere.",
+            "Burning fossil fuels releases huge amounts of greenhouse gases into the atmosphere"
+          ]
+        },
+        {
+          "id": 2,
+          "words": ["The greenhouse effect", "keeps", "our planet", "warm enough", "for living things."],
+          "answer": "The greenhouse effect keeps our planet warm enough for living things.",
+          "acceptAlternatives": [
+            "The greenhouse effect keeps our planet warm enough for living things.",
+            "The greenhouse effect keeps our planet warm enough for living things"
+          ]
+        },
+        {
+          "id": 3,
+          "words": ["Many countries", "suffer from", "extreme weather events", "due to", "global warming."],
+          "answer": "Many countries suffer from extreme weather events due to global warming.",
+          "acceptAlternatives": [
+            "Many countries suffer from extreme weather events due to global warming.",
+            "Many countries suffer from extreme weather events due to global warming"
+          ]
+        },
+        {
+          "id": 4,
+          "words": ["Knowing", "about the dangers of pollution,", "they", "stopped using", "single-use plastics."],
+          "answer": "Knowing about the dangers of pollution, they stopped using single-use plastics.",
+          "acceptAlternatives": [
+            "Knowing about the dangers of pollution, they stopped using single-use plastics.",
+            "Knowing about the dangers of pollution, they stopped using single-use plastics"
+          ]
+        },
+        {
+          "id": 5,
+          "words": ["Toxic gases", "released into", "the air", "from factories", "pollute the environment."],
+          "answer": "Toxic gases released into the air from factories pollute the environment.",
+          "acceptAlternatives": [
+            "Toxic gases released into the air from factories pollute the environment.",
+            "Toxic gases released into the air from factories pollute the environment"
+          ]
+        },
+        {
+          "id": 6,
+          "words": ["Solar power", "is", "a reliable and renewable", "energy source", "for the future."],
+          "answer": "Solar power is a reliable and renewable energy source for the future.",
+          "acceptAlternatives": [
+            "Solar power is a reliable and renewable energy source for the future.",
+            "Solar power is a reliable and renewable energy source for the future"
+          ]
+        },
+        {
+          "id": 7,
+          "words": ["Coastal areas", "affected by", "rising sea levels", "face", "serious flooding."],
+          "answer": "Coastal areas affected by rising sea levels face serious flooding.",
+          "acceptAlternatives": [
+            "Coastal areas affected by rising sea levels face serious flooding.",
+            "Coastal areas affected by rising sea levels face serious flooding"
+          ]
+        },
+        {
+          "id": 8,
+          "words": ["Planting", "more trees", "absorbs", "carbon dioxide", "from the atmosphere."],
+          "answer": "Planting more trees absorbs carbon dioxide from the atmosphere.",
+          "acceptAlternatives": [
+            "Planting more trees absorbs carbon dioxide from the atmosphere.",
+            "Planting more trees absorbs carbon dioxide from the atmosphere"
+          ]
+        },
+        {
+          "id": 9,
+          "words": ["Alarmed by", "the melting of ice caps,", "world leaders", "took action", "to cut emissions."],
+          "answer": "Alarmed by the melting of ice caps, world leaders took action to cut emissions.",
+          "acceptAlternatives": [
+            "Alarmed by the melting of ice caps, world leaders took action to cut emissions.",
+            "Alarmed by the melting of ice caps, world leaders took action to cut emissions"
+          ]
+        },
+        {
+          "id": 10,
+          "words": ["Organic waste", "can be converted", "into useful", "biogas", "for cooking."],
+          "answer": "Organic waste can be converted into useful biogas for cooking.",
+          "acceptAlternatives": [
+            "Organic waste can be converted into useful biogas for cooking.",
+            "Organic waste can be converted into useful biogas for cooking"
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu với Mệnh đề phân từ (Sentence Rewriting with Participle Clauses - 15 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Because they realized the danger of climate change, young people started planting trees.",
+          "hint": "Use Present Participle Clause (V-ing)",
+          "startWith": "Realizing",
+          "answer": "Realizing the danger of climate change, young people started planting trees.",
+          "acceptAlternatives": [
+            "Realizing the danger of climate change, young people started planting trees.",
+            "Realizing the danger of climate change, young people started planting trees",
+            "the danger of climate change, young people started planting trees.",
+            "the danger of climate change, young people started planting trees"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Because coal is burned for electricity, it releases a high level of carbon emissions.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Burned",
+          "answer": "Burned for electricity, coal releases a high level of carbon emissions.",
+          "acceptAlternatives": [
+            "Burned for electricity, coal releases a high level of carbon emissions.",
+            "Burned for electricity, coal releases a high level of carbon emissions",
+            "for electricity, coal releases a high level of carbon emissions.",
+            "for electricity, coal releases a high level of carbon emissions"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "As she was worried about global warming, Mai gave a presentation at school.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Worried",
+          "answer": "Worried about global warming, Mai gave a presentation at school.",
+          "acceptAlternatives": [
+            "Worried about global warming, Mai gave a presentation at school.",
+            "Worried about global warming, Mai gave a presentation at school",
+            "about global warming, Mai gave a presentation at school.",
+            "about global warming, Mai gave a presentation at school"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Since they lived near the coast, the villagers experienced severe floods every year.",
+          "hint": "Use Present Participle Clause (V-ing)",
+          "startWith": "Living",
+          "answer": "Living near the coast, the villagers experienced severe floods every year.",
+          "acceptAlternatives": [
+            "Living near the coast, the villagers experienced severe floods every year.",
+            "Living near the coast, the villagers experienced severe floods every year",
+            "near the coast, the villagers experienced severe floods every year.",
+            "near the coast, the villagers experienced severe floods every year"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Because the project was funded by environmental organizations, it succeeded quickly.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Funded",
+          "answer": "Funded by environmental organizations, the project succeeded quickly.",
+          "acceptAlternatives": [
+            "Funded by environmental organizations, the project succeeded quickly.",
+            "Funded by environmental organizations, the project succeeded quickly",
+            "by environmental organizations, the project succeeded quickly.",
+            "by environmental organizations, the project succeeded quickly"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "When farmers burn agricultural waste, they pollute the surrounding air.",
+          "hint": "Use Present Participle Clause (V-ing)",
+          "startWith": "Burning",
+          "answer": "Burning agricultural waste, farmers pollute the surrounding air.",
+          "acceptAlternatives": [
+            "Burning agricultural waste, farmers pollute the surrounding air.",
+            "Burning agricultural waste, farmers pollute the surrounding air",
+            "agricultural waste, farmers pollute the surrounding air.",
+            "agricultural waste, farmers pollute the surrounding air"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Because it was damaged by the storm, the power station stopped operating.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Damaged",
+          "answer": "Damaged by the storm, the power station stopped operating.",
+          "acceptAlternatives": [
+            "Damaged by the storm, the power station stopped operating.",
+            "Damaged by the storm, the power station stopped operating",
+            "by the storm, the power station stopped operating.",
+            "by the storm, the power station stopped operating"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "As they wanted to save energy, my family turned off all unnecessary lights.",
+          "hint": "Use Present Participle Clause (V-ing)",
+          "startWith": "Wanting",
+          "answer": "Wanting to save energy, my family turned off all unnecessary lights.",
+          "acceptAlternatives": [
+            "Wanting to save energy, my family turned off all unnecessary lights.",
+            "Wanting to save energy, my family turned off all unnecessary lights",
+            "to save energy, my family turned off all unnecessary lights.",
+            "to save energy, my family turned off all unnecessary lights"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Because greenhouse gases are trapped in the atmosphere, they warm the Earth's surface.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Trapped",
+          "answer": "Trapped in the atmosphere, greenhouse gases warm the Earth's surface.",
+          "acceptAlternatives": [
+            "Trapped in the atmosphere, greenhouse gases warm the Earth's surface.",
+            "Trapped in the atmosphere, greenhouse gases warm the Earth's surface",
+            "in the atmosphere, greenhouse gases warm the Earth's surface.",
+            "in the atmosphere, greenhouse gases warm the Earth's surface"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "After he finished his research on renewable energy, the scientist wrote a report.",
+          "hint": "Use Present Participle Clause (V-ing)",
+          "startWith": "Finishing",
+          "answer": "Finishing his research on renewable energy, the scientist wrote a report.",
+          "acceptAlternatives": [
+            "Finishing his research on renewable energy, the scientist wrote a report.",
+            "Finishing his research on renewable energy, the scientist wrote a report",
+            "his research on renewable energy, the scientist wrote a report.",
+            "his research on renewable energy, the scientist wrote a report"
+          ]
+        },
+        {
+          "id": 11,
+          "question": "Because she was shocked by the environmental damage, she joined a green group.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Shocked",
+          "answer": "Shocked by the environmental damage, she joined a green group.",
+          "acceptAlternatives": [
+            "Shocked by the environmental damage, she joined a green group.",
+            "Shocked by the environmental damage, she joined a green group",
+            "by the environmental damage, she joined a green group.",
+            "by the environmental damage, she joined a green group"
+          ]
+        },
+        {
+          "id": 12,
+          "question": "As they switch to electric buses, cities can reduce air pollution significantly.",
+          "hint": "Use Present Participle Clause (V-ing)",
+          "startWith": "Switching",
+          "answer": "Switching to electric buses, cities can reduce air pollution significantly.",
+          "acceptAlternatives": [
+            "Switching to electric buses, cities can reduce air pollution significantly.",
+            "Switching to electric buses, cities can reduce air pollution significantly",
+            "to electric buses, cities can reduce air pollution significantly.",
+            "to electric buses, cities can reduce air pollution significantly"
+          ]
+        },
+        {
+          "id": 13,
+          "question": "Because organic waste is dumped in landfill sites, it produces methane gas.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Dumped",
+          "answer": "Dumped in landfill sites, organic waste produces methane gas.",
+          "acceptAlternatives": [
+            "Dumped in landfill sites, organic waste produces methane gas.",
+            "Dumped in landfill sites, organic waste produces methane gas",
+            "in landfill sites, organic waste produces methane gas.",
+            "in landfill sites, organic waste produces methane gas"
+          ]
+        },
+        {
+          "id": 14,
+          "question": "When people reuse plastic containers, they help minimize plastic pollution.",
+          "hint": "Use Present Participle Clause (V-ing)",
+          "startWith": "Reusing",
+          "answer": "Reusing plastic containers, people help minimize plastic pollution.",
+          "acceptAlternatives": [
+            "Reusing plastic containers, people help minimize plastic pollution.",
+            "Reusing plastic containers, people help minimize plastic pollution",
+            "plastic containers, people help minimize plastic pollution.",
+            "plastic containers, people help minimize plastic pollution"
+          ]
+        },
+        {
+          "id": 15,
+          "question": "Because the report was written by climate experts, it provided reliable information.",
+          "hint": "Use Past Participle Clause (V3/V-ed)",
+          "startWith": "Written",
+          "answer": "Written by climate experts, the report provided reliable information.",
+          "acceptAlternatives": [
+            "Written by climate experts, the report provided reliable information.",
+            "Written by climate experts, the report provided reliable information",
+            "by climate experts, the report provided reliable information.",
+            "by climate experts, the report provided reliable information"
+          ]
+        }
+      ]
+    }
+  }
+}

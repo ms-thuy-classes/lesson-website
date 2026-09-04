@@ -1,7 +1,43 @@
 {
-  "totalLessons": 16,
+  "totalLessons": 19,
   "lessonsPerPage": 10,
   "lessons": [
+    {
+      "id": "unit-5-grade-11-global-warming",
+      "title": "Unit 5: Global Warming (Lớp 11)",
+      "description": "Sự nóng lên toàn cầu, biến đổi khí hậu & chuyên đề Mệnh đề phân từ (Present & Past Participle Clauses)",
+      "tags": ["Lớp 11"],
+      "level": "Intermediate",
+      "vocabCount": 33,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-5-grade-11-global-warming.json",
+      "thumbnail": "gradient-emerald"
+    },
+    {
+      "id": "unit-4-grade-11-asean-and-vietnam",
+      "title": "Unit 4: ASEAN and Vietnam (Lớp 11)",
+      "description": "Hiệp hội các quốc gia Đông Nam Á, quan hệ đối ngoại & chuyên đề Danh động từ (Gerunds: V-ing vs To-V)",
+      "tags": ["Lớp 11"],
+      "level": "Intermediate",
+      "vocabCount": 43,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-4-grade-11-asean-and-vietnam.json",
+      "thumbnail": "gradient-pastel"
+    },
+    {
+      "id": "unit-4-grade-12-urbanisation",
+      "title": "Unit 4: Urbanisation (Lớp 12)",
+      "description": "Đô thị hoá, đời sống thành phố & chuyên đề Thì hiện tại hoàn thành (Present Perfect) và So sánh kép (Double Comparison)",
+      "tags": ["Lớp 12"],
+      "level": "Intermediate",
+      "vocabCount": 23,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-4-grade-12-urbanisation.json",
+      "thumbnail": "gradient-pastel"
+    },
     {
       "id": "unit-3-grade-12-green-living",
       "title": "Unit 3: Green Living (Lớp 12)",
