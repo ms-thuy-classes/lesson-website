@@ -1,0 +1,978 @@
+{
+  "id": "unit-3-grade-12-green-living",
+  "title": "Unit 3: Green Living (Grade 12)",
+  "tags": ["Lớp 12"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "awareness",
+        "ipa": "/əˈweənəs/",
+        "pos": "n",
+        "meaning": "sự nhận thức",
+        "example": "Environmental awareness campaigns encourage people to adopt eco-friendly habits.",
+        "exampleVi": "Các chiến dịch nâng cao nhận thức về môi trường khuyến khích mọi người áp dụng các thói quen thân thiện với sinh thái."
+      },
+      {
+        "stt": 2,
+        "word": "carbon footprint",
+        "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+        "pos": "n",
+        "meaning": "tổng lượng phát thải khí nhà kính",
+        "example": "Walking or cycling to school helps teenagers reduce their carbon footprint.",
+        "exampleVi": "Đi bộ hoặc đạp xe đến trường giúp thanh thiếu niên giảm lượng phát thải khí nhà kính."
+      },
+      {
+        "stt": 3,
+        "word": "resource",
+        "ipa": "/rɪˈsɔːs/",
+        "pos": "n",
+        "meaning": "nguồn tài nguyên",
+        "example": "Fresh water and clean air are precious natural resources that we must preserve.",
+        "exampleVi": "Nước ngọt và không khí sạch là những nguồn tài nguyên thiên nhiên quý giá mà chúng ta phải bảo tồn."
+      },
+      {
+        "stt": 4,
+        "word": "efficiently",
+        "ipa": "/ɪˈfɪʃntli/",
+        "pos": "adv",
+        "meaning": "một cách hiệu quả",
+        "example": "Solar panels generate and store electricity efficiently even on cloudy days.",
+        "exampleVi": "Các tấm pin mặt trời tạo ra và lưu trữ điện năng một cách hiệu quả ngay cả trong những ngày nhiều mây."
+      },
+      {
+        "stt": 5,
+        "word": "eco-friendly",
+        "ipa": "/ˌiːkəʊ ˈfrendli/",
+        "pos": "adj",
+        "meaning": "thân thiện / tốt cho hệ sinh thái",
+        "example": "Consumers prefer eco-friendly products made from biodegradable materials.",
+        "exampleVi": "Người tiêu dùng ưa chuộng các sản phẩm thân thiện với hệ sinh thái được làm từ vật liệu có thể phân hủy sinh học."
+      },
+      {
+        "stt": 6,
+        "word": "decompose",
+        "ipa": "/ˌdiːkəmˈpəʊz/",
+        "pos": "v",
+        "meaning": "phân huỷ",
+        "example": "Organic food waste decomposes quickly in a compost pile, releasing natural nutrients.",
+        "exampleVi": "Rác thải thực phẩm hữu cơ phân hủy nhanh chóng trong đống phân ủ, giải phóng các chất dinh dưỡng tự nhiên."
+      },
+      {
+        "stt": 7,
+        "word": "reusable",
+        "ipa": "/ˌriːˈjuːzəbl/",
+        "pos": "adj",
+        "meaning": "có thể tái sử dụng",
+        "example": "Bringing reusable shopping bags to the grocery store prevents tons of plastic waste.",
+        "exampleVi": "Mang túi mua sắm có thể tái sử dụng đến cửa hàng tạp hóa giúp ngăn chặn hàng tấn rác thải nhựa."
+      },
+      {
+        "stt": 8,
+        "word": "single-use",
+        "ipa": "/ˌsɪŋɡl ˈjuːs/",
+        "pos": "adj",
+        "meaning": "dùng một lần",
+        "example": "Many countries have banned single-use plastic straws, cups, and utensils.",
+        "exampleVi": "Nhiều quốc gia đã cấm ống hút, cốc và đồ dùng bằng nhựa dùng một lần."
+      },
+      {
+        "stt": 9,
+        "word": "ecotourism",
+        "ipa": "/ˈiːkəʊtʊərɪzəm/",
+        "pos": "n",
+        "meaning": "du lịch sinh thái",
+        "example": "Ecotourism provides income for local communities while safeguarding natural wildlife habitats.",
+        "exampleVi": "Du lịch sinh thái mang lại thu nhập cho cộng đồng địa phương đồng thời bảo vệ môi trường sống của động vật hoang dã."
+      },
+      {
+        "stt": 10,
+        "word": "waste",
+        "ipa": "/weɪst/",
+        "pos": "n",
+        "meaning": "rác thải, sự lãng phí",
+        "example": "Proper waste separation at source is essential for successful municipal recycling.",
+        "exampleVi": "Việc phân loại rác thải đúng cách tại nguồn là điều thiết yếu cho việc tái chế thành công của đô thị."
+      },
+      {
+        "stt": 11,
+        "word": "landfill",
+        "ipa": "/ˈlændfɪl/",
+        "pos": "n",
+        "meaning": "bãi rác",
+        "example": "Tons of solid waste are dumped into landfills every day, posing risks to groundwater.",
+        "exampleVi": "Hàng tấn chất thải rắn bị đổ vào các bãi rác mỗi ngày, gây nguy cơ cho nguồn nước ngầm."
+      },
+      {
+        "stt": 12,
+        "word": "reuse",
+        "ipa": "/ˌriːˈjuːz/",
+        "pos": "v",
+        "meaning": "tái sử dụng",
+        "example": "You can clean and reuse glass jars to store food, spices, or small household items.",
+        "exampleVi": "Bạn có thể rửa sạch và tái sử dụng các lọ thủy tinh để đựng thực phẩm, gia vị hoặc đồ dùng nhỏ trong nhà."
+      },
+      {
+        "stt": 13,
+        "word": "packaging",
+        "ipa": "/ˈpækɪdʒɪŋ/",
+        "pos": "n",
+        "meaning": "bao bì",
+        "example": "Manufacturers are encouraged to reduce excessive plastic packaging on consumer goods.",
+        "exampleVi": "Các nhà sản xuất được khuyến khích cắt giảm bao bì nhựa thừa thãi trên hàng tiêu dùng."
+      },
+      {
+        "stt": 14,
+        "word": "container",
+        "ipa": "/kənˈteɪnə(r)/",
+        "pos": "n",
+        "meaning": "thùng, hộp, vật chứa",
+        "example": "Store your leftover soup in an airtight glass container inside the refrigerator.",
+        "exampleVi": "Hãy cất phần canh thừa của bạn trong một hộp thủy tinh kín khí bên trong tủ lạnh."
+      },
+      {
+        "stt": 15,
+        "word": "recyclable",
+        "ipa": "/ˌriːˈsaɪkləbl/",
+        "pos": "adj",
+        "meaning": "có thể tái chế",
+        "example": "Clean cardboard and aluminium cans are easily recyclable materials.",
+        "exampleVi": "Bìa các-tông sạch và lon nhôm là những vật liệu dễ dàng tái chế được."
+      },
+      {
+        "stt": 16,
+        "word": "cardboard",
+        "ipa": "/ˈkɑːdbɔːd/",
+        "pos": "n/adj",
+        "meaning": "bìa cứng, làm bằng bìa cứng",
+        "example": "Flatten cardboard boxes before putting them in the paper recycling container.",
+        "exampleVi": "Hãy làm phẳng các hộp bìa cứng trước khi cho chúng vào thùng tái chế giấy."
+      },
+      {
+        "stt": 17,
+        "word": "leftover",
+        "ipa": "/ˈleftəʊvə(r)/",
+        "pos": "n",
+        "meaning": "thức ăn thừa",
+        "example": "We can reheat yesterday's leftovers for lunch instead of ordering takeout.",
+        "exampleVi": "Chúng ta có thể hâm nóng thức ăn thừa hôm qua cho bữa trưa thay vì gọi đồ ăn mang về."
+      },
+      {
+        "stt": 18,
+        "word": "contaminated",
+        "ipa": "/kənˈtæmɪneɪtɪd/",
+        "pos": "adj",
+        "meaning": "nhiễm độc, nhiễm khuẩn",
+        "example": "The river became severely contaminated because chemical plants discharged untreated sewage.",
+        "exampleVi": "Dòng sông bị nhiễm độc nghiêm trọng vì các nhà máy hóa chất xả nước thải chưa qua xử lý."
+      },
+      {
+        "stt": 19,
+        "word": "compost",
+        "ipa": "/ˈkɒmpɒst/",
+        "pos": "n",
+        "meaning": "phân hữu cơ",
+        "example": "Adding compost to the soil provides natural minerals for flowers and vegetables.",
+        "exampleVi": "Bón thêm phân hữu cơ vào đất cung cấp khoáng chất tự nhiên cho hoa và rau củ."
+      },
+      {
+        "stt": 20,
+        "word": "sort",
+        "ipa": "/sɔːt/",
+        "pos": "v",
+        "meaning": "phân loại",
+        "example": "Students learned how to sort trash into organic waste and recyclable items.",
+        "exampleVi": "Học sinh đã học cách phân loại rác thành rác thải hữu cơ và các món đồ có thể tái chế."
+      },
+      {
+        "stt": 21,
+        "word": "layer",
+        "ipa": "/ˈleɪə(r)/",
+        "pos": "n",
+        "meaning": "tầng, lớp",
+        "example": "When making compost, add a layer of dry leaves followed by a layer of kitchen scraps.",
+        "exampleVi": "Khi làm phân ủ, hãy thêm một lớp lá khô rồi tiếp theo là một lớp rác nhà bếp."
+      },
+      {
+        "stt": 22,
+        "word": "household waste",
+        "ipa": "/ˌhaʊshəʊld weɪst/",
+        "pos": "n",
+        "meaning": "rác thải sinh hoạt",
+        "example": "Reducing household waste begins with mindful buying and avoiding food spoilage.",
+        "exampleVi": "Giảm rác thải sinh hoạt bắt đầu từ việc mua sắm có ý thức và tránh để thức ăn bị ôi thiu."
+      },
+      {
+        "stt": 23,
+        "word": "fruit peel",
+        "ipa": "/ˈfruːt piːl/",
+        "pos": "n",
+        "meaning": "vỏ hoa quả",
+        "example": "Do not throw banana and orange fruit peels into the general garbage; add them to compost.",
+        "exampleVi": "Đừng vứt vỏ chuối và cam vào thùng rác chung; hãy cho chúng vào đống phân ủ."
+      },
+      {
+        "stt": 24,
+        "word": "pile",
+        "ipa": "/paɪl/",
+        "pos": "n",
+        "meaning": "đống",
+        "example": "The gardener built a large compost pile in the backyard to fertilize his trees.",
+        "exampleVi": "Người làm vườn đã dựng một đống phân ủ lớn ở sân sau để bón cho cây cối."
+      },
+      {
+        "stt": 25,
+        "word": "recycle",
+        "ipa": "/ˌriːˈsaɪkl/",
+        "pos": "v",
+        "meaning": "tái chế",
+        "example": "Specialist recycling facilities can recycle plastic bottles into textile fibers for clothing.",
+        "exampleVi": "Các cơ sở tái chế chuyên dụng có thể tái chế chai nhựa thành sợi dệt để may quần áo."
+      },
+      {
+        "stt": 26,
+        "word": "sustainable",
+        "ipa": "/səˈsteɪnəbl/",
+        "pos": "adj",
+        "meaning": "bền vững, thân thiện với môi trường",
+        "example": "Using renewable solar and wind energy ensures sustainable long-term development.",
+        "exampleVi": "Sử dụng năng lượng tái tạo từ mặt trời và gió đảm bảo sự phát triển bền vững lâu dài."
+      },
+      {
+        "stt": 27,
+        "word": "release",
+        "ipa": "/rɪˈliːs/",
+        "pos": "v",
+        "meaning": "thải ra, phóng thích",
+        "example": "Old coal-burning power stations release tons of harmful carbon dioxide into the atmosphere.",
+        "exampleVi": "Các nhà máy nhiệt điện than cũ thải ra hàng tấn khí CO2 độc hại vào khí quyển."
+      },
+      {
+        "stt": 28,
+        "word": "raise awareness",
+        "ipa": "/reɪz əˈweənəs/",
+        "pos": "phrase",
+        "meaning": "nâng cao nhận thức",
+        "example": "The youth organization held workshops to raise awareness of climate change.",
+        "exampleVi": "Tổ chức thanh niên đã tổ chức các buổi hội thảo để nâng cao nhận thức về biến đổi khí hậu."
+      },
+      {
+        "stt": 29,
+        "word": "clean up",
+        "ipa": "/kliːn ʌp/",
+        "pos": "phrase",
+        "meaning": "dọn dẹp",
+        "example": "Volunteers gathered on Saturday morning to clean up plastic trash along the coastline.",
+        "exampleVi": "Các tình nguyện viên đã tập trung vào sáng thứ Bảy để dọn dẹp rác thải nhựa dọc bờ biển."
+      },
+      {
+        "stt": 30,
+        "word": "throw something away",
+        "ipa": "/θrəʊ ˈsʌmθɪŋ əˈweɪ/",
+        "pos": "phrase",
+        "meaning": "vứt thứ gì đó đi",
+        "example": "Before you throw something away, check if it can be repaired or repurposed.",
+        "exampleVi": "Trước khi bạn vứt thứ gì đi, hãy kiểm tra xem nó có thể sửa chữa hay tái sử dụng được không."
+      },
+      {
+        "stt": 31,
+        "word": "a waste of something",
+        "ipa": "/ə weɪst ɒv ˈsʌmθɪŋ/",
+        "pos": "phrase",
+        "meaning": "sự lãng phí thứ gì",
+        "example": "Leaving the lights on when nobody is in the room is a huge waste of electricity.",
+        "exampleVi": "Để đèn sáng khi không có ai trong phòng là một sự lãng phí điện năng rất lớn."
+      },
+      {
+        "stt": 32,
+        "word": "go green",
+        "ipa": "/ɡəʊ ɡriːn/",
+        "pos": "phrase",
+        "meaning": "sống xanh, chuyển sang lối sống thân thiện môi trường",
+        "example": "More and more households are choosing to go green by saving energy and cutting down on waste.",
+        "exampleVi": "Ngày càng nhiều hộ gia đình chọn sống xanh bằng cách tiết kiệm năng lượng và cắt giảm rác thải."
+      },
+      {
+        "stt": 33,
+        "word": "get rid of",
+        "ipa": "/ɡɛt rɪd ɒv/",
+        "pos": "phrase",
+        "meaning": "loại bỏ, tống khứ",
+        "example": "We should get rid of single-use plastic bags completely in our daily shopping.",
+        "exampleVi": "Chúng ta nên loại bỏ hoàn toàn túi ni-lông dùng một lần trong việc mua sắm hàng ngày."
+      },
+      {
+        "stt": 34,
+        "word": "rinse out",
+        "ipa": "/rɪns aʊt/",
+        "pos": "phrase",
+        "meaning": "rửa sạch, súc sạch",
+        "example": "Make sure you rinse out milk cartons and food containers before placing them in the recycling bin.",
+        "exampleVi": "Hãy chắc chắn bạn đã rửa sạch hộp sữa và hộp đựng thức ăn trước khi cho vào thùng tái chế."
+      },
+      {
+        "stt": 35,
+        "word": "in the long run",
+        "ipa": "/ɪn ðə lɒŋ rʌn/",
+        "pos": "phrase",
+        "meaning": "về lâu về dài",
+        "example": "Investing in high-quality eco-friendly items saves money and resources in the long run.",
+        "exampleVi": "Đầu tư vào các món đồ thân thiện môi trường chất lượng cao giúp tiết kiệm tiền bạc và tài nguyên về lâu dài."
+      },
+      {
+        "stt": 36,
+        "word": "in the long/medium/short term",
+        "ipa": "/ɪn ðə tɜːm/",
+        "pos": "phrase",
+        "meaning": "về lâu dài / trong thời gian không xa / trong thời gian trước mắt",
+        "example": "In the short term, changing habits feels hard, but in the long term, our planet will thrive.",
+        "exampleVi": "Trong thời gian trước mắt, thay đổi thói quen có vẻ khó khăn, nhưng về lâu dài, hành tinh của chúng ta sẽ phát triển tốt đẹp."
+      }
+    ],
+    "grammar": {
+      "title": "Prepositions after certain verbs & Relative clauses referring to a whole sentence",
+      "sections": [
+        {
+          "heading": "1. Prepositions after certain verbs (Giới từ theo sau một số động từ)",
+          "content": "Một số động từ thường có các giới từ cố định đi kèm theo sau để diễn đạt ý nghĩa chính xác.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Động từ đi với giới từ 'TO':",
+              "example": "• adjust to sth ~ adapt to: thích nghi với cái gì\n• agree to sth: đồng tình, tán thành, đồng ý với việc gì\n• look forward to: mong đợi, chờ đợi\n• object to: chống đối, phản đối với",
+              "highlight": true
+            },
+            {
+              "rule": "Động từ đi với giới từ 'FROM':",
+              "example": "• keep from sth: ngăn cản, nén, kiêng, nhịn, nín\n• recover from sth: phục hồi, hồi phục\n• suffer from sth: chịu đựng, bị, đau cái gì\n• refrain from sth: ngăn cản, ngừng, kìm lại, nhịn không làm gì",
+              "highlight": true
+            },
+            {
+              "rule": "Động từ đi với giới từ 'WITH':",
+              "example": "• agree with sb / sth: đồng tình, đồng ý với ai/ điều gì\n• mess with sb / sth: can thiệp vào, xía vào, dính vào",
+              "highlight": false
+            },
+            {
+              "rule": "Động từ đi với giới từ 'OF':",
+              "example": "• approve of: tán thành, chấp thuận, bằng lòng\n• dream of: mơ ước về điều gì (lúc bạn thức)\n• take care of: chăm sóc, trông nom\n• think of: nghĩ tới, nhớ tới, tưởng tượng",
+              "highlight": false
+            },
+            {
+              "rule": "Động từ đi với giới từ 'FOR':",
+              "example": "• apologize for sth: xin lỗi về điều gì\n• care for sb - take care of sb: chăm sóc ai đó đang bị ốm, người già hoặc trẻ em\n• care for sb / sth: thích, yêu mến ai/ điều gì\n• stand for sth: là chữ viết tắt của cái gì; đại diện cho cái gì; tha thứ cho điều gì; ủng hộ điều gì\n• wait for sb / sth: đợi ai/ điều gì",
+              "highlight": false
+            },
+            {
+              "rule": "Động từ đi với giới từ 'IN':",
+              "example": "• believe in: tin tưởng, tin ở ai/ cái gì\n• deal in sth: buôn bán\n• engage in sth: tham gia, tiến hành làm gì\n• participate/ take part + in sth: tham gia vào\n• result in sth: gây ra, dẫn đến, đưa đến\n• specialize in sth: chuyên về, trở thành chuyên gia về, nổi tiếng về\n• succeed in sth: thành công trong việc làm gì",
+              "highlight": true
+            },
+            {
+              "rule": "Động từ đi với giới từ 'ON':",
+              "example": "• agree on sth: đồng ý việc gì\n• concentrate on: tập trung\n• depend on: phụ thuộc\n• go on: tiếp tục\n• insist on: khăng khăng\n• keep on: tiếp tục\n• plan on: có ý định/ dự định làm gì\n• rely on: tin cậy vào, dựa vào, tin vào",
+              "highlight": true
+            },
+            {
+              "rule": "Động từ đi với giới từ 'ABOUT':",
+              "example": "• agree about sth: đồng ý, đồng tình về điều gì / agree on sth\n• argue about sth: tranh luận/ tranh cãi về điều gì\n• care about sb / sth: quan tâm, chú ý đến ai/ điều gì đó\n• complain about sth: phàn nàn, kêu ca về điều gì\n• forget about sth: quên điều gì đó\n• talk about: nói về/ bàn về\n• think about: nghĩ về, xem xét\n• worry about: lo lắng về\n• dream about: mơ về",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "heading": "2. Relative clauses referring to a whole sentence (Mệnh đề quan hệ thay thế cho cả câu)",
+          "content": "Đại từ quan hệ 'WHICH' dùng để thay thế và bổ nghĩa cho toàn bộ một mệnh đề đứng trước nó.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Quy tắc & Đặc điểm cấu trúc:",
+              "example": "• Which: dùng để thay thế cho cả một mệnh đề\n• Trước 'which' bắt buộc phải có một dấu phẩy (,)\n• Động từ theo sau 'which' luôn chia ở dạng số ít",
+              "highlight": true
+            },
+            {
+              "rule": "Ví dụ minh họa & Chuyển đổi câu:",
+              "example": "• Tom came home late. That made his mom worried.\n🡪 Tom came home late, which made his mom worried.\n(Tom về nhà muộn, điều này khiến mẹ cậu ấy lo lắng.)\n\n• Burning garbage releases harmful gases. This pollutes the air.\n🡪 Burning garbage releases harmful gases, which pollutes the air.\n(Đốt rác thải ra khí độc hại, điều này làm ô nhiễm bầu không khí.)",
+              "highlight": true
+            },
+            {
+              "rule": "Lưu ý chống bẫy ngữ pháp:",
+              "example": "• KHÔNG ĐƯỢC dùng 'THAT' để thay thế cho cả một mệnh đề đứng trước\n• KHÔNG ĐƯỢC dùng 'WHAT' hay 'IT' trong cấu trúc nối này\n• Luôn kiểm tra dấu phẩy (,) ngăn cách giữa hai mệnh đề",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Bài tập trắc nghiệm (Multiple Choice Questions)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Using plastic bags once and throwing them away increases your carbon __________ significantly.",
+          "options": ["layer", "footprint", "container", "resource"],
+          "correctIndex": 1,
+          "explanation": "Cụm danh từ 'carbon footprint' có nghĩa là tổng lượng phát thải khí nhà kính (dấu chân carbon)."
+        },
+        {
+          "id": 2,
+          "question": "Many young people decide to __________ by using public transport and carrying reusable bottles.",
+          "options": ["go green", "clean up", "get rid of", "rinse out"],
+          "correctIndex": 0,
+          "explanation": "Thành ngữ 'go green' mang nghĩa là sống xanh, chuyển sang lối sống bảo vệ môi trường."
+        },
+        {
+          "id": 3,
+          "question": "You should __________ plastic containers before placing them into the recycling bin.",
+          "options": ["decompose", "release", "rinse out", "specialize"],
+          "correctIndex": 2,
+          "explanation": "Cụm động từ 'rinse out' có nghĩa là súc sạch, rửa sạch thức ăn còn đọng lại trước khi tái chế."
+        },
+        {
+          "id": 4,
+          "question": "The government is trying to __________ public awareness about the harmful effects of household waste.",
+          "options": ["object", "raise", "result", "insist"],
+          "correctIndex": 1,
+          "explanation": "Cụm collocation cố định 'raise public awareness' nghĩa là nâng cao nhận thức của cộng đồng."
+        },
+        {
+          "id": 5,
+          "question": "Organic waste like fruit __________ can be turned into nutrient-rich compost.",
+          "options": ["packaging", "peel", "pile", "cardboard"],
+          "correctIndex": 1,
+          "explanation": "'Fruit peel' có nghĩa là vỏ hoa quả, là loại rác hữu cơ rất tốt để ủ phân compost."
+        },
+        {
+          "id": 6,
+          "question": "They decided to __________ the trash into paper, glass, and plastic before taking it out.",
+          "options": ["sort", "recover", "refrain", "mess"],
+          "correctIndex": 0,
+          "explanation": "Động từ 'sort' nghĩa là phân loại (sort the trash into...: phân loại rác thành...)."
+        },
+        {
+          "id": 7,
+          "question": "Buying products with excessive cardboard __________ is a waste of natural resources.",
+          "options": ["ecotourism", "landfill", "packaging", "leftover"],
+          "correctIndex": 2,
+          "explanation": "'Cardboard packaging' nghĩa là bao bì làm bằng bìa cứng carton."
+        },
+        {
+          "id": 8,
+          "question": "Investing in solar energy will benefit our environment __________ the long run.",
+          "options": ["at", "in", "on", "for"],
+          "correctIndex": 1,
+          "explanation": "Cụm từ cố định 'in the long run' mang nghĩa là về lâu về dài."
+        },
+        {
+          "id": 9,
+          "question": "Plastic items take hundreds of years to __________ completely in landfills.",
+          "options": ["decompose", "specialize", "participate", "apologize"],
+          "correctIndex": 0,
+          "explanation": "Động từ 'decompose' mang nghĩa là phân hủy (đồ nhựa mất hàng trăm năm để phân hủy hoàn toàn)."
+        },
+        {
+          "id": 10,
+          "question": "The water was contaminated by factory waste, __________ made it unsafe for local resident use.",
+          "options": ["that", "which", "who", "where"],
+          "correctIndex": 1,
+          "explanation": "Dùng đại từ quan hệ 'which' có dấu phẩy đứng trước để thay thế cho toàn bộ mệnh đề phía trước."
+        },
+        {
+          "id": 11,
+          "question": "She suffers __________ respiratory problems due to living near an industrial zone.",
+          "options": ["from", "to", "with", "on"],
+          "correctIndex": 0,
+          "explanation": "Động từ 'suffer' đi với giới từ 'from' (suffer from sth: bị mắc bệnh, chịu đựng cái gì)."
+        },
+        {
+          "id": 12,
+          "question": "Everyone should refrain __________ throwing single-use items into the ocean.",
+          "options": ["on", "from", "for", "about"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc: 'refrain from + V-ing/sth' có nghĩa là kiềm chế, nhịn, tránh làm việc gì."
+        },
+        {
+          "id": 13,
+          "question": "Do you believe __________ the effectiveness of community cleanup projects?",
+          "options": ["in", "on", "at", "with"],
+          "correctIndex": 0,
+          "explanation": "Cụm động từ: 'believe in sth' nghĩa là tin tưởng vào cái gì."
+        },
+        {
+          "id": 14,
+          "question": "The entire community succeeded __________ reducing overall waste by 30% this year.",
+          "options": ["to", "for", "in", "on"],
+          "correctIndex": 2,
+          "explanation": "Cấu trúc: 'succeed in + V-ing' nghĩa là thành công trong việc làm gì."
+        },
+        {
+          "id": 15,
+          "question": "Many students agreed __________ the new plan to ban single-use plastics at school.",
+          "options": ["to", "on", "with", "in"],
+          "correctIndex": 0,
+          "explanation": "'Agree to sth' dùng khi đồng ý, chấp thuận một kế hoạch/đề xuất (agree to the plan). 'Agree with sb' dùng khi đồng tình với người."
+        },
+        {
+          "id": 16,
+          "question": "My mother always complains __________ the high amount of packaging material from online shopping.",
+          "options": ["about", "for", "to", "in"],
+          "correctIndex": 0,
+          "explanation": "Cụm động từ: 'complain about sth' nghĩa là phàn nàn, kêu ca về điều gì."
+        },
+        {
+          "id": 17,
+          "question": "He insists __________ using reusable cotton bags whenever he goes to the supermarket.",
+          "options": ["on", "in", "about", "with"],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc: 'insist on + V-ing' mang nghĩa là khăng khăng, nhất quyết làm việc gì."
+        },
+        {
+          "id": 18,
+          "question": "Local volunteers cleared up all the garbage on the beach, __________ pleased the residents.",
+          "options": ["that", "which", "what", "it"],
+          "correctIndex": 1,
+          "explanation": "Đại từ quan hệ 'which' có dấu phẩy đứng trước thay thế cho toàn bộ hành động 'dọn sạch rác trên bãi biển' ở mệnh đề trước."
+        },
+        {
+          "id": 19,
+          "question": "They are looking forward __________ participating in the upcoming tree-planting event.",
+          "options": ["for", "to", "with", "about"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc quen thuộc: 'look forward to + V-ing' mang nghĩa là mong chờ, mong đợi điều gì."
+        },
+        {
+          "id": 20,
+          "question": "We must take care __________ our natural resources before they run out completely.",
+          "options": ["for", "of", "in", "about"],
+          "correctIndex": 1,
+          "explanation": "Cụm từ cố định: 'take care of sth' mang nghĩa là chăm sóc, gìn giữ, bảo vệ cái gì."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền vào chỗ trống (Fill in the blanks)",
+      "wordbank": [
+        "cardboard",
+        "ecotourism",
+        "landfill",
+        "sustainable",
+        "reusable",
+        "leftovers",
+        "contaminated",
+        "result in",
+        "specialized in",
+        "objects to",
+        "recover from",
+        "depends on",
+        "concentrated on",
+        "apologize for",
+        "care for"
+      ],
+      "questions": [
+        {
+          "id": 21,
+          "question": "Instead of buying new plastic bottles every day, you should buy a durable _________ water bottle.",
+          "answer": "reusable",
+          "acceptAlternatives": ["reusable", "durable reusable"]
+        },
+        {
+          "id": 22,
+          "question": "Most of our household trash ends up in a local _________, causing severe environmental issues.",
+          "answer": "landfill",
+          "acceptAlternatives": ["landfill", "local landfill"]
+        },
+        {
+          "id": 23,
+          "question": "Building a _________ lifestyle requires continuous effort from both individuals and organizations.",
+          "answer": "sustainable",
+          "acceptAlternatives": ["sustainable"]
+        },
+        {
+          "id": 24,
+          "question": "Please put the vegetable scraps and food _________ into the compost bin.",
+          "answer": "leftovers",
+          "acceptAlternatives": ["leftovers", "food leftovers"]
+        },
+        {
+          "id": 25,
+          "question": "Developing _________ allows travelers to enjoy nature while supporting local conservation efforts.",
+          "answer": "ecotourism",
+          "acceptAlternatives": ["ecotourism"]
+        },
+        {
+          "id": 26,
+          "question": "These boxes are made of recycled _________, which helps reduce forest deforestation.",
+          "answer": "cardboard",
+          "acceptAlternatives": ["cardboard", "recycled cardboard"]
+        },
+        {
+          "id": 27,
+          "question": "The ground soil became heavily _________ after chemical leaks from the nearby plant.",
+          "answer": "contaminated",
+          "acceptAlternatives": ["contaminated"]
+        },
+        {
+          "id": 28,
+          "question": "Careless disposal of toxic chemicals can _________ serious groundwater pollution.",
+          "answer": "result in",
+          "acceptAlternatives": ["result in"]
+        },
+        {
+          "id": 29,
+          "question": "She has _________ environmental science to help solve pollution issues.",
+          "answer": "specialized in",
+          "acceptAlternatives": ["specialized in"]
+        },
+        {
+          "id": 30,
+          "question": "The community elder strongly _________ building a new highway through the protected forest.",
+          "answer": "objects to",
+          "acceptAlternatives": ["objects to"]
+        },
+        {
+          "id": 31,
+          "question": "It takes a long time for natural ecosystems to _________ devastating oil spills.",
+          "answer": "recover from",
+          "acceptAlternatives": ["recover from"]
+        },
+        {
+          "id": 32,
+          "question": "The success of our green initiative _________ how well people sort their daily waste.",
+          "answer": "depends on",
+          "acceptAlternatives": ["depends on"]
+        },
+        {
+          "id": 33,
+          "question": "During the workshop, everyone _________ finding practical solutions for plastic reduction.",
+          "answer": "concentrated on",
+          "acceptAlternatives": ["concentrated on"]
+        },
+        {
+          "id": 34,
+          "question": "The factory manager had to _________ the accidental release of untreated wastewater into the river.",
+          "answer": "apologize for",
+          "acceptAlternatives": ["apologize for"]
+        },
+        {
+          "id": 35,
+          "question": "Do you really _________ the future of our planet, or are you just ignoring the climate crisis?",
+          "answer": "care for",
+          "acceptAlternatives": ["care for"]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu (Sentence Reordering)",
+      "questions": [
+        {
+          "id": 36,
+          "words": ["We", "should", "get rid of", "single-use plastics", "completely", "from", "our daily life"],
+          "answer": "We should get rid of single-use plastics completely from our daily life.",
+          "acceptAlternatives": [
+            "We should get rid of single-use plastics completely from our daily life",
+            "We should get rid of single-use plastics completely from our daily life."
+          ]
+        },
+        {
+          "id": 37,
+          "words": ["You", "should", "add", "a layer of", "fruit peels", "to build", "organic compost"],
+          "answer": "You should add a layer of fruit peels to build organic compost.",
+          "acceptAlternatives": [
+            "You should add a layer of fruit peels to build organic compost",
+            "You should add a layer of fruit peels to build organic compost."
+          ]
+        },
+        {
+          "id": 38,
+          "words": ["They", "threw away", "a lot of", "food", "last night,", "which", "was", "a waste of", "money"],
+          "answer": "They threw away a lot of food last night, which was a waste of money.",
+          "acceptAlternatives": [
+            "They threw away a lot of food last night, which was a waste of money",
+            "They threw away a lot of food last night, which was a waste of money."
+          ]
+        },
+        {
+          "id": 39,
+          "words": ["The", "success of", "the recycling project", "depends", "on", "the participation of", "local residents"],
+          "answer": "The success of the recycling project depends on the participation of local residents.",
+          "acceptAlternatives": [
+            "The success of the recycling project depends on the participation of local residents",
+            "The success of the recycling project depends on the participation of local residents."
+          ]
+        },
+        {
+          "id": 40,
+          "words": ["Students", "were encouraged", "to engage", "in", "school", "clean-up", "activities"],
+          "answer": "Students were encouraged to engage in school clean-up activities.",
+          "acceptAlternatives": [
+            "Students were encouraged to engage in school clean-up activities",
+            "Students were encouraged to engage in school clean-up activities."
+          ]
+        },
+        {
+          "id": 41,
+          "words": ["Using", "eco-friendly", "products", "can", "save money", "in the long term"],
+          "answer": "Using eco-friendly products can save money in the long term.",
+          "acceptAlternatives": [
+            "Using eco-friendly products can save money in the long term",
+            "Using eco-friendly products can save money in the long term.",
+            "Switching to eco-friendly products can save money in the long term",
+            "Switching to eco-friendly products can save money in the long term."
+          ]
+        },
+        {
+          "id": 42,
+          "words": ["Burning", "garbage", "releases", "harmful gases,", "which", "pollutes", "the air"],
+          "answer": "Burning garbage releases harmful gases, which pollutes the air.",
+          "acceptAlternatives": [
+            "Burning garbage releases harmful gases, which pollutes the air",
+            "Burning garbage releases harmful gases, which pollutes the air."
+          ]
+        },
+        {
+          "id": 43,
+          "words": ["We", "are", "looking forward", "to", "visiting", "the new", "eco-friendly market"],
+          "answer": "We are looking forward to visiting the new eco-friendly market.",
+          "acceptAlternatives": [
+            "We are looking forward to visiting the new eco-friendly market",
+            "We are looking forward to visiting the new eco-friendly market."
+          ]
+        },
+        {
+          "id": 44,
+          "words": ["The council", "agreed on", "the plan,", "which", "helped", "clean the", "city"],
+          "answer": "The council agreed on the plan, which helped clean the city.",
+          "acceptAlternatives": [
+            "The council agreed on the plan, which helped clean the city",
+            "The council agreed on the plan, which helped clean the city."
+          ]
+        },
+        {
+          "id": 45,
+          "words": ["Refraining from", "using", "unnecessary packaging", "helps", "reduce", "household", "waste"],
+          "answer": "Refraining from using unnecessary packaging helps reduce household waste.",
+          "acceptAlternatives": [
+            "Refraining from using unnecessary packaging helps reduce household waste",
+            "Refraining from using unnecessary packaging helps reduce household waste."
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu có gợi ý (Sentence Rewriting with hints)",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Tom turned off all electric appliances before leaving. This saved a lot of energy.",
+          "hint": "relative clause with 'which'",
+          "startWith": "Tom turned off",
+          "answer": "Tom turned off all electric appliances before leaving, which saved a lot of energy.",
+          "acceptAlternatives": [
+            "Tom turned off all electric appliances before leaving, which saved a lot of energy.",
+            "Tom turned off all electric appliances before leaving, which saved a lot of energy",
+            "all electric appliances before leaving, which saved a lot of energy.",
+            "all electric appliances before leaving, which saved a lot of energy"
+          ]
+        },
+        {
+          "id": 47,
+          "question": "The villagers collected all the plastic waste on the shore. This helped protect marine life.",
+          "hint": "relative clause with 'which'",
+          "startWith": "The villagers collected",
+          "answer": "The villagers collected all the plastic waste on the shore, which helped protect marine life.",
+          "acceptAlternatives": [
+            "The villagers collected all the plastic waste on the shore, which helped protect marine life.",
+            "The villagers collected all the plastic waste on the shore, which helped protect marine life",
+            "all the plastic waste on the shore, which helped protect marine life.",
+            "all the plastic waste on the shore, which helped protect marine life"
+          ]
+        },
+        {
+          "id": 48,
+          "question": "My father stopped smoking for a cleaner living space.",
+          "hint": "refrain from",
+          "startWith": "My father decided to",
+          "answer": "My father decided to refrain from smoking for a cleaner living space.",
+          "acceptAlternatives": [
+            "My father decided to refrain from smoking for a cleaner living space.",
+            "My father decided to refrain from smoking for a cleaner living space",
+            "refrain from smoking for a cleaner living space.",
+            "refrain from smoking for a cleaner living space"
+          ]
+        },
+        {
+          "id": 49,
+          "question": "She is eager to join the environmental protection club at university.",
+          "hint": "look forward to",
+          "startWith": "She is",
+          "answer": "She is looking forward to joining the environmental protection club at university.",
+          "acceptAlternatives": [
+            "She is looking forward to joining the environmental protection club at university.",
+            "She is looking forward to joining the environmental protection club at university",
+            "looking forward to joining the environmental protection club at university.",
+            "looking forward to joining the environmental protection club at university"
+          ]
+        },
+        {
+          "id": 50,
+          "question": "They don't support the idea of dumping untreated waste into rivers.",
+          "hint": "object to",
+          "startWith": "They",
+          "answer": "They object to dumping untreated waste into rivers.",
+          "acceptAlternatives": [
+            "They object to dumping untreated waste into rivers.",
+            "They object to dumping untreated waste into rivers",
+            "object to dumping untreated waste into rivers.",
+            "object to dumping untreated waste into rivers"
+          ]
+        },
+        {
+          "id": 51,
+          "question": "We spent two hours sorting our household waste yesterday.",
+          "hint": "participate in",
+          "startWith": "We",
+          "answer": "We participated in sorting our household waste yesterday.",
+          "acceptAlternatives": [
+            "We participated in sorting our household waste yesterday.",
+            "We participated in sorting our household waste yesterday",
+            "participated in sorting our household waste yesterday.",
+            "participated in sorting our household waste yesterday"
+          ]
+        },
+        {
+          "id": 52,
+          "question": "His careless driving resulted in a serious accident last week.",
+          "hint": "result in / result from",
+          "startWith": "A serious accident",
+          "answer": "A serious accident resulted from his careless driving last week.",
+          "acceptAlternatives": [
+            "A serious accident resulted from his careless driving last week.",
+            "A serious accident resulted from his careless driving last week",
+            "resulted from his careless driving last week.",
+            "resulted from his careless driving last week"
+          ]
+        },
+        {
+          "id": 53,
+          "question": "Throwing away good food when many people are starving is a complete waste.",
+          "hint": "a waste of",
+          "startWith": "It is",
+          "answer": "It is a waste of food to throw it away when many people are starving.",
+          "acceptAlternatives": [
+            "It is a waste of food to throw it away when many people are starving.",
+            "It is a waste of food to throw it away when many people are starving",
+            "a waste of food to throw it away when many people are starving.",
+            "a waste of food to throw it away when many people are starving",
+            "It is a waste of good food to throw it away when many people are starving.",
+            "It is a waste of good food to throw it away when many people are starving",
+            "a waste of good food to throw it away when many people are starving.",
+            "a waste of good food to throw it away when many people are starving",
+            "It is a waste to throw away good food when many people are starving.",
+            "a waste to throw away good food when many people are starving."
+          ]
+        },
+        {
+          "id": 54,
+          "question": "The city council discussed the strategy for waste management.",
+          "hint": "talk about",
+          "startWith": "The city council",
+          "answer": "The city council talked about the strategy for waste management.",
+          "acceptAlternatives": [
+            "The city council talked about the strategy for waste management.",
+            "The city council talked about the strategy for waste management",
+            "talked about the strategy for waste management.",
+            "talked about the strategy for waste management"
+          ]
+        },
+        {
+          "id": 55,
+          "question": "Don't interfere with my business!",
+          "hint": "mess with",
+          "startWith": "Don't",
+          "answer": "Don't mess with my business!",
+          "acceptAlternatives": [
+            "Don't mess with my business!",
+            "Don't mess with my business",
+            "mess with my business!",
+            "mess with my business"
+          ]
+        },
+        {
+          "id": 56,
+          "question": "People are paying more attention to green living choices these days.",
+          "hint": "care about",
+          "startWith": "People",
+          "answer": "People care about green living choices more these days.",
+          "acceptAlternatives": [
+            "People care about green living choices more these days.",
+            "People care about green living choices more these days",
+            "care about green living choices more these days.",
+            "care about green living choices more these days",
+            "People care more about green living choices these days.",
+            "People care more about green living choices these days",
+            "care more about green living choices these days.",
+            "care more about green living choices these days",
+            "People are caring about green living choices more these days.",
+            "are caring about green living choices more these days."
+          ]
+        },
+        {
+          "id": 57,
+          "question": "You need to adapt to the eco-friendly lifestyle gradually.",
+          "hint": "adjust to",
+          "startWith": "You need",
+          "answer": "You need to adjust to the eco-friendly lifestyle gradually.",
+          "acceptAlternatives": [
+            "You need to adjust to the eco-friendly lifestyle gradually.",
+            "You need to adjust to the eco-friendly lifestyle gradually",
+            "to adjust to the eco-friendly lifestyle gradually.",
+            "to adjust to the eco-friendly lifestyle gradually",
+            "adjust to the eco-friendly lifestyle gradually.",
+            "adjust to the eco-friendly lifestyle gradually"
+          ]
+        },
+        {
+          "id": 58,
+          "question": "Lan always dreams about becoming an environmentalist in the future.",
+          "hint": "dream of",
+          "startWith": "Lan always",
+          "answer": "Lan always dreams of becoming an environmentalist in the future.",
+          "acceptAlternatives": [
+            "Lan always dreams of becoming an environmentalist in the future.",
+            "Lan always dreams of becoming an environmentalist in the future",
+            "dreams of becoming an environmentalist in the future.",
+            "dreams of becoming an environmentalist in the future"
+          ]
+        },
+        {
+          "id": 59,
+          "question": "He didn't say sorry for throwing trash on the street.",
+          "hint": "apologize for",
+          "startWith": "He didn't",
+          "answer": "He didn't apologize for throwing trash on the street.",
+          "acceptAlternatives": [
+            "He didn't apologize for throwing trash on the street.",
+            "He didn't apologize for throwing trash on the street",
+            "apologize for throwing trash on the street.",
+            "apologize for throwing trash on the street"
+          ]
+        },
+        {
+          "id": 60,
+          "question": "They plan to reduce their household waste in the short term.",
+          "hint": "plan on",
+          "startWith": "They",
+          "answer": "They plan on reducing their household waste in the short term.",
+          "acceptAlternatives": [
+            "They plan on reducing their household waste in the short term.",
+            "They plan on reducing their household waste in the short term",
+            "plan on reducing their household waste in the short term.",
+            "plan on reducing their household waste in the short term"
+          ]
+        }
+      ]
+    }
+  }
+}

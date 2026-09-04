@@ -1,7 +1,19 @@
 {
-  "totalLessons": 15,
+  "totalLessons": 16,
   "lessonsPerPage": 10,
   "lessons": [
+    {
+      "id": "unit-3-grade-12-green-living",
+      "title": "Unit 3: Green Living (Lớp 12)",
+      "description": "Lối sống xanh, bảo vệ môi trường & chuyên đề Giới từ theo sau động từ và Mệnh đề quan hệ thay thế cho cả câu (Relative clauses with which)",
+      "tags": ["Lớp 12"],
+      "level": "Intermediate",
+      "vocabCount": 36,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-3-grade-12-green-living.json",
+      "thumbnail": "gradient-pastel"
+    },
     {
       "id": "unit-3-grade-11-cities-of-the-future",
       "title": "Unit 3: Cities of the Future (Lớp 11)",

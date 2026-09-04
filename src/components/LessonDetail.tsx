@@ -7,6 +7,7 @@ import { MCQExercise } from './exercises/MCQExercise';
 import { FillBlankExercise } from './exercises/FillBlankExercise';
 import { ArrangeExercise } from './exercises/ArrangeExercise';
 import { RewriteExercise } from './exercises/RewriteExercise';
+import { LessonBookmark } from './LessonBookmark';
 
 interface LessonDetailProps {
   lesson: LessonData;
@@ -52,7 +53,10 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
   const currentLessonScore10 = currentLessonTotal > 0 ? (currentLessonCorrect / currentLessonTotal) * 10 : 0;
 
   return (
-    <div id="lesson-detail-page" className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+    <div id="lesson-detail-page" className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-8 relative">
+      {/* Floating Translucent Bookmark Navigation */}
+      <LessonBookmark lesson={lesson} />
+
       {/* Navigation Top Bar */}
       <div className="flex flex-wrap items-center justify-between gap-3 mb-6">
         <button
@@ -81,7 +85,7 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
       </div>
 
       {/* Lesson Banner */}
-      <div className="glass-panel rounded-3xl p-6 sm:p-8 border border-white/80 shadow-md mb-8 relative overflow-hidden">
+      <div id="lesson-banner" className="glass-panel rounded-3xl p-6 sm:p-8 border border-white/80 shadow-md mb-8 relative overflow-hidden">
         <div className="relative z-10">
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-purple-100 text-purple-800 text-xs font-bold mb-3">
             <Sparkles className="w-3.5 h-3.5" />
@@ -209,7 +213,7 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
         />
 
         {/* Completion Card */}
-        <div className="glass-panel rounded-2xl p-6 sm:p-8 text-center border border-white/80 shadow-sm mt-8">
+        <div id="lesson-completion-card" className="glass-panel rounded-2xl p-6 sm:p-8 text-center border border-white/80 shadow-sm mt-8">
           <div className="w-14 h-14 rounded-2xl gradient-pastel-bg text-white flex items-center justify-center mx-auto mb-4 shadow-md shadow-purple-200">
             <Award className="w-7 h-7" />
           </div>

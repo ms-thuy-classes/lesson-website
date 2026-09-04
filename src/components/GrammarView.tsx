@@ -1,10 +1,95 @@
 import React from 'react';
-import { BookOpenCheck, Bookmark, CheckCircle, Info } from 'lucide-react';
+import { BookOpenCheck, Bookmark, CheckCircle2, ArrowRight } from 'lucide-react';
 import { GrammarTheory } from '../types';
 
 interface GrammarViewProps {
   grammar: GrammarTheory;
 }
+
+// Helper to render lines with bullets, arrows, and phrase formatting
+const FormattedGrammarText: React.FC<{ text: string; isExample?: boolean }> = ({ text, isExample = false }) => {
+  if (!text) return null;
+
+  const lines = text.split('\n').map((l) => l.trim()).filter(Boolean);
+
+  // If it's a simple single line without bullets or arrows, show compact style
+  const hasBulletsOrArrows = lines.some((l) => /^[-•*]/.test(l) || /^(->|→|🡪|=>)/.test(l) || l.includes('->') || l.includes('→') || l.includes('🡪'));
+
+  if (lines.length === 1 && !hasBulletsOrArrows && isExample) {
+    return (
+      <div className="pl-6 text-xs sm:text-sm text-purple-800 font-normal">
+        <span className="font-semibold text-purple-950 not-italic mr-1.5">Ví dụ:</span>
+        <span className="italic">"{lines[0]}"</span>
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-1.5 mt-1.5">
+      {lines.map((line, idx) => {
+        // Check if line is an arrow / transformation (e.g. 🡪 Tom came home... or -> ...)
+        const isArrowLine = /^(->|→|🡪|=>)/.test(line);
+        if (isArrowLine) {
+          const arrowContent = line.replace(/^(->|→|🡪|=>)\s*/, '').trim();
+          return (
+            <div
+              key={idx}
+              className="flex items-start gap-2.5 p-2.5 rounded-xl bg-indigo-50/90 border border-indigo-200/80 text-indigo-950 text-xs sm:text-sm shadow-2xs my-1"
+            >
+              <ArrowRight className="w-4 h-4 text-indigo-600 shrink-0 mt-0.5" />
+              <div className="flex-1 font-semibold leading-relaxed">{arrowContent}</div>
+            </div>
+          );
+        }
+
+        // Check if line is a note in parentheses like (Tom về nhà...) or (Eg: ...)
+        if (line.startsWith('(') && line.endsWith(')')) {
+          return (
+            <div key={idx} className="pl-6 text-xs sm:text-sm text-slate-500 italic py-0.5">
+              {line}
+            </div>
+          );
+        }
+
+        // Check if line starts with a bullet point (•, -, *)
+        const isBullet = /^[-•*]\s*/.test(line);
+        const cleanLine = isBullet ? line.replace(/^[-•*]\s*/, '').trim() : line;
+
+        // Check if line has a key phrase with colon, e.g. "adjust to sth ~ adapt to: thích nghi..."
+        const colonIdx = cleanLine.indexOf(':');
+        let phrasePart = '';
+        let meaningPart = cleanLine;
+
+        if (colonIdx > 0 && colonIdx < 50 && !cleanLine.startsWith('http')) {
+          phrasePart = cleanLine.slice(0, colonIdx).trim();
+          meaningPart = cleanLine.slice(colonIdx + 1).trim();
+        }
+
+        return (
+          <div key={idx} className="flex items-start gap-2.5 py-1 text-xs sm:text-sm leading-relaxed">
+            {isBullet ? (
+              <span className="w-2 h-2 rounded-full bg-purple-500 mt-1.5 shrink-0 shadow-xs" />
+            ) : (
+              <span className="w-1.5 h-1.5 rounded-full bg-slate-300 mt-2 shrink-0" />
+            )}
+            <div className="flex-1 text-slate-700">
+              {phrasePart ? (
+                <>
+                  <span className="font-semibold text-purple-950 bg-purple-100/70 border border-purple-200/60 px-1.5 py-0.5 rounded-md font-mono text-xs sm:text-sm inline-block mr-1.5 shadow-2xs">
+                    {phrasePart}:
+                  </span>
+                  <span>{meaningPart}</span>
+                </>
+              ) : (
+                <span>{cleanLine}</span>
+              )}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+};
 
 export const GrammarView: React.FC<GrammarViewProps> = ({ grammar }) => {
   return (
@@ -25,63 +110,77 @@ export const GrammarView: React.FC<GrammarViewProps> = ({ grammar }) => {
       </div>
 
       {/* Grammar Sections */}
-      <div className="space-y-6">
-        {grammar.sections.map((sec, idx) => (
-          <div
-            key={idx}
-            id={`grammar-block-${idx}`}
-            className="glass-panel rounded-2xl p-5 sm:p-6 border border-white/80 shadow-sm"
-          >
-            {/* Section Heading */}
-            <div className="flex items-center gap-2 mb-3">
-              <Bookmark className="w-4 h-4 text-purple-500" />
-              <h4 className="text-base sm:text-lg font-bold text-slate-800">
-                {sec.heading}
-              </h4>
-            </div>
+      <div className="space-y-8">
+        {grammar.sections.map((sec, idx) => {
+          // If section has 4 or more points (like verb-preposition categories), display as responsive 2-column grid
+          const isMultiColumn = sec.points && sec.points.length >= 4;
 
-            {/* Formula / Primary Content */}
-            {sec.content && (
-              <div
-                className={`p-3.5 sm:p-4 rounded-xl mb-4 font-medium text-xs sm:text-sm whitespace-pre-line leading-relaxed ${
-                  sec.highlight
-                    ? 'bg-gradient-to-r from-purple-50/90 via-pink-50/70 to-cyan-50/60 border-l-4 border-purple-500 text-purple-950 font-semibold shadow-xs'
-                    : 'bg-slate-50/80 text-slate-700 border border-slate-200/60'
-                }`}
-              >
-                {sec.content}
+          return (
+            <div
+              key={idx}
+              id={`grammar-block-${idx}`}
+              className="glass-panel rounded-2xl p-5 sm:p-7 border border-white/80 shadow-sm"
+            >
+              {/* Section Heading */}
+              <div className="flex items-center gap-2.5 mb-4">
+                <Bookmark className="w-5 h-5 text-purple-600 shrink-0" />
+                <h4 className="text-base sm:text-lg font-bold text-slate-800">
+                  {sec.heading}
+                </h4>
               </div>
-            )}
 
-            {/* Usage Points */}
-            {sec.points && sec.points.length > 0 && (
-              <div className="space-y-3">
-                {sec.points.map((pt, pIdx) => (
-                  <div
-                    key={pIdx}
-                    className={`p-3.5 rounded-xl transition-all ${
-                      pt.highlight
-                        ? 'bg-pink-50/60 border-l-4 border-pink-400 pl-4 shadow-2xs'
-                        : 'bg-white/60 border border-slate-100 pl-4'
-                    }`}
-                  >
-                    <div className="flex items-start gap-2 mb-1.5">
-                      <CheckCircle className="w-4 h-4 text-emerald-500 shrink-0 mt-0.5" />
-                      <p className="text-xs sm:text-sm font-semibold text-slate-800">
-                        {pt.rule}
-                      </p>
-                    </div>
-                    {pt.example && (
-                      <div className="pl-6 text-xs sm:text-sm text-purple-700 italic font-normal">
-                        Ví dụ: "{pt.example}"
+              {/* Formula / Primary Content */}
+              {sec.content && (
+                <div
+                  className={`p-4 sm:p-5 rounded-xl mb-5 font-medium text-xs sm:text-sm leading-relaxed ${
+                    sec.highlight
+                      ? 'bg-gradient-to-r from-purple-50/90 via-pink-50/70 to-cyan-50/60 border-l-4 border-purple-500 text-purple-950 font-semibold shadow-xs'
+                      : 'bg-slate-50/80 text-slate-700 border border-slate-200/60'
+                  }`}
+                >
+                  <FormattedGrammarText text={sec.content} />
+                </div>
+              )}
+
+              {/* Usage Points - 2 columns for 4+ items, 1 column for fewer items */}
+              {sec.points && sec.points.length > 0 && (
+                <div
+                  className={
+                    isMultiColumn
+                      ? 'grid grid-cols-1 md:grid-cols-2 gap-4'
+                      : 'space-y-4'
+                  }
+                >
+                  {sec.points.map((pt, pIdx) => (
+                    <div
+                      key={pIdx}
+                      className={`p-4 rounded-xl transition-all flex flex-col justify-between ${
+                        pt.highlight
+                          ? 'bg-purple-50/60 border-l-4 border-purple-400 pl-4.5 shadow-2xs'
+                          : 'bg-white/80 border border-slate-200/80 pl-4.5 shadow-2xs'
+                      }`}
+                    >
+                      <div>
+                        {/* Point Rule / Title */}
+                        <div className="flex items-start gap-2 mb-2 pb-1.5 border-b border-slate-100">
+                          <CheckCircle2 className="w-4 h-4 text-emerald-500 shrink-0 mt-0.5" />
+                          <p className="text-xs sm:text-sm font-bold text-slate-800 tracking-tight">
+                            {pt.rule}
+                          </p>
+                        </div>
+
+                        {/* Point Content / Example / List of Verbs */}
+                        {pt.example && (
+                          <FormattedGrammarText text={pt.example} isExample={true} />
+                        )}
                       </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-            )}
-          </div>
-        ))}
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          );
+        })}
       </div>
     </div>
   );
