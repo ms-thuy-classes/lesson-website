@@ -1,0 +1,933 @@
+{
+  "id": "unit-1-grade-11-a-long-and-healthy-life",
+  "title": "Unit 1: A Long and Healthy Life (Grade 11)",
+  "tags": ["Lớp 11"],
+  "level": "Intermediate",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "antibiotic",
+        "ipa": "/ˌæntibaɪˈɒtɪk/",
+        "pos": "n",
+        "meaning": "thuốc kháng sinh",
+        "example": "You must finish the prescribed course of antibiotics even if you start feeling better.",
+        "exampleVi": "Bạn phải uống hết liệu trình thuốc kháng sinh được kê đơn ngay cả khi bạn bắt đầu cảm thấy đỡ hơn."
+      },
+      {
+        "stt": 2,
+        "word": "food poisoning",
+        "ipa": "/fuːd ˈpɔɪzənɪŋ/",
+        "pos": "n",
+        "meaning": "ngộ độc thực phẩm",
+        "example": "Eating undercooked poultry or street food can lead to painful food poisoning.",
+        "exampleVi": "Ăn thịt gia cầm nấu chưa chín hoặc thức ăn đường phố có thể dẫn đến ngộ độc thực phẩm đau đớn."
+      },
+      {
+        "stt": 3,
+        "word": "germ",
+        "ipa": "/dʒɜːm/",
+        "pos": "n",
+        "meaning": "mầm bệnh, vi trùng",
+        "example": "Washing hands regularly with warm water and soap eliminates most common germs.",
+        "exampleVi": "Rửa tay thường xuyên bằng nước ấm và xà phòng giúp tiêu diệt hầu hết các vi trùng thông thường."
+      },
+      {
+        "stt": 4,
+        "word": "give up",
+        "ipa": "/ɡɪv ʌp/",
+        "pos": "ph. v",
+        "meaning": "từ bỏ, bỏ (thói quen, thuốc lá...)",
+        "example": "My grandfather decided to give up smoking to protect his cardiovascular health.",
+        "exampleVi": "Ông tôi đã quyết định từ bỏ hút thuốc lá để bảo vệ sức khỏe tim mạch của mình."
+      },
+      {
+        "stt": 5,
+        "word": "infection",
+        "ipa": "/ɪnˈfekʃn/",
+        "pos": "n",
+        "meaning": "sự nhiễm trùng, bệnh lây nhiễm",
+        "example": "Keep the wound thoroughly disinfected to prevent a bacterial infection.",
+        "exampleVi": "Hãy giữ vết thương được sát trùng kỹ càng để ngăn ngừa sự nhiễm trùng do vi khuẩn."
+      },
+      {
+        "stt": 6,
+        "word": "ingredient",
+        "ipa": "/ɪnˈɡriːdiənt/",
+        "pos": "n",
+        "meaning": "thành phần, nguyên liệu món ăn",
+        "example": "Always inspect food labels to avoid artificial ingredients and high fructose corn syrup.",
+        "exampleVi": "Luôn kiểm tra nhãn thực phẩm để tránh các thành phần nhân tạo và si-rô ngô nhiều đường."
+      },
+      {
+        "stt": 7,
+        "word": "life expectancy",
+        "ipa": "/ˈlaɪf ɪkspektənsi/",
+        "pos": "n",
+        "meaning": "tuổi thọ kỳ vọng",
+        "example": "Advancements in healthcare sanitation have substantially prolonged average human life expectancy.",
+        "exampleVi": "Những tiến bộ trong vệ sinh chăm sóc y tế đã kéo dài đáng kể tuổi thọ kỳ vọng trung bình của con người."
+      },
+      {
+        "stt": 8,
+        "word": "muscle",
+        "ipa": "/ˈmʌsl/",
+        "pos": "n",
+        "meaning": "cơ bắp",
+        "example": "Resistance training and weight lifting stimulate muscle hypertrophy and physical endurance.",
+        "exampleVi": "Tập luyện kháng lực và nâng tạ giúp kích thích phát triển cơ bắp và độ bền thể chất."
+      },
+      {
+        "stt": 9,
+        "word": "nutrient",
+        "ipa": "/ˈnjuːtriənt/",
+        "pos": "n",
+        "meaning": "chất dinh dưỡng",
+        "example": "Leafy green vegetables provide vital nutrients like iron, potassium, and vitamin K.",
+        "exampleVi": "Các loại rau lá xanh đậm cung cấp các chất dinh dưỡng thiết yếu như sắt, kali và vitamin K."
+      },
+      {
+        "stt": 10,
+        "word": "organism",
+        "ipa": "/ˈɔːɡənɪzəm/",
+        "pos": "n",
+        "meaning": "sinh vật, cơ thể sống",
+        "example": "Microscopic single-celled organisms exist everywhere in our surrounding natural environment.",
+        "exampleVi": "Các sinh vật đơn bào siêu nhỏ tồn tại ở khắp mọi nơi trong môi trường tự nhiên xung quanh chúng ta."
+      },
+      {
+        "stt": 11,
+        "word": "press-up",
+        "ipa": "/ˈpres ʌp/",
+        "pos": "n",
+        "meaning": "động tác chống đẩy (hít đất)",
+        "example": "Performing twenty press-ups every morning helps tone chest and triceps muscles.",
+        "exampleVi": "Thực hiện hai mươi lần chống đẩy mỗi buổi sáng giúp làm săn chắc cơ ngực và cơ tay sau."
+      },
+      {
+        "stt": 12,
+        "word": "bacteria",
+        "ipa": "/bækˈtɪəriə/",
+        "pos": "n",
+        "meaning": "vi khuẩn",
+        "example": "Beneficial gut bacteria assist digestion and strengthen your internal immune defense.",
+        "exampleVi": "Lợi khuẩn đường ruột hỗ trợ hệ tiêu hóa và tăng cường hàng rào miễn dịch bên trong cơ thể."
+      },
+      {
+        "stt": 13,
+        "word": "properly",
+        "ipa": "/ˈprɒpəli/",
+        "pos": "adv",
+        "meaning": "một cách đúng đắn, đúng cách, hợp lý",
+        "example": "Food must be refrigerated properly to inhibit rapid microbial contamination.",
+        "exampleVi": "Thực phẩm cần được bảo quản lạnh đúng cách để ngăn chặn sự lây nhiễm vi sinh vật nhanh chóng."
+      },
+      {
+        "stt": 14,
+        "word": "recipe",
+        "ipa": "/ˈresəpi/",
+        "pos": "n",
+        "meaning": "công thức nấu ăn",
+        "example": "This Mediterranean soup recipe uses organic olive oil, fresh tomatoes, and garlic.",
+        "exampleVi": "Công thức nấu súp Địa Trung Hải này sử dụng dầu ô liu hữu cơ, cà chua tươi và tỏi."
+      },
+      {
+        "stt": 15,
+        "word": "regular",
+        "ipa": "/ˈreɡjələ(r)/",
+        "pos": "a",
+        "meaning": "đều đặn, thường xuyên",
+        "example": "Maintaining regular sleep patterns reduces mental fatigue and improves concentration.",
+        "exampleVi": "Duy trì giấc ngủ đều đặn giúp giảm mệt mỏi tinh thần và cải thiện sự tập trung."
+      },
+      {
+        "stt": 16,
+        "word": "spread",
+        "ipa": "/spred/",
+        "pos": "n",
+        "meaning": "sự lây lan, lan rộng",
+        "example": "Wearing medical masks in crowded places dramatically limits the spread of influenza.",
+        "exampleVi": "Đeo khẩu trang y tế ở nơi đông người giúp hạn chế đáng kể sự lây lan của bệnh cúm."
+      },
+      {
+        "stt": 17,
+        "word": "star jump",
+        "ipa": "/stɑː(r) dʒʌmp/",
+        "pos": "np",
+        "meaning": "động tác nhảy giang tay chân (nhảy sao)",
+        "example": "She incorporated star jumps into her warm-up routine to raise her heart rate.",
+        "exampleVi": "Cô ấy đã đưa động tác nhảy giang tay chân vào bài khởi động để làm tăng nhịp tim."
+      },
+      {
+        "stt": 18,
+        "word": "strength",
+        "ipa": "/streŋθ/",
+        "pos": "n",
+        "meaning": "sức mạnh, thể lực",
+        "example": "Consistent calisthenics exercises build core strength and muscular flexibility.",
+        "exampleVi": "Tập luyện thể hình đều đặn giúp xây dựng sức mạnh vùng cơ lõi và độ linh hoạt của cơ bắp."
+      },
+      {
+        "stt": 19,
+        "word": "suffer",
+        "ipa": "/ˈsʌfə(r)/",
+        "pos": "v",
+        "meaning": "chịu đựng, mắc bệnh (suffer from)",
+        "example": "Many desk workers suffer from chronic lower back pain due to poor sitting posture.",
+        "exampleVi": "Nhiều nhân viên văn phòng phải chịu đựng chứng đau thắt lưng mãn tính do tư thế ngồi không đúng."
+      },
+      {
+        "stt": 20,
+        "word": "treatment",
+        "ipa": "/ˈtriːtmənt/",
+        "pos": "n",
+        "meaning": "phương pháp điều trị, sự chữa trị",
+        "example": "Early medical treatment increases the probability of complete recovery from infectious illnesses.",
+        "exampleVi": "Điều trị y tế sớm làm tăng khả năng hồi phục hoàn toàn khỏi các bệnh truyền nhiễm."
+      },
+      {
+        "stt": 21,
+        "word": "tuberculosis",
+        "ipa": "/tjuːˌbɜːkjuˈləʊsɪs/",
+        "pos": "n",
+        "meaning": "bệnh lao",
+        "example": "Tuberculosis primarily attacks the pulmonary system but can be cured with intensive antibiotic therapy.",
+        "exampleVi": "Bệnh lao chủ yếu tấn công hệ hô hấp nhưng có thể chữa khỏi bằng liệu pháp kháng sinh chuyên sâu."
+      },
+      {
+        "stt": 22,
+        "word": "virus",
+        "ipa": "/ˈvaɪrəs/",
+        "pos": "n",
+        "meaning": "vi-rút",
+        "example": "A virus needs a living host cell in order to replicate and cause illness.",
+        "exampleVi": "Vi-rút cần một tế bào vật chủ sống để nhân lên và gây bệnh."
+      },
+      {
+        "stt": 23,
+        "word": "balanced",
+        "ipa": "/ˈbælənst/",
+        "pos": "a",
+        "meaning": "cân bằng, hài hòa (a balanced diet)",
+        "example": "A balanced diet rich in whole grains and fresh fruit provides sustained stamina throughout the day.",
+        "exampleVi": "Chế độ ăn cân bằng giàu ngũ cốc nguyên hạt và hoa quả tươi cung cấp năng lượng bền bỉ suốt cả ngày."
+      },
+      {
+        "stt": 24,
+        "word": "work out",
+        "ipa": "/wɜːk aʊt/",
+        "pos": "ph. v",
+        "meaning": "tập thể dục, tập thể hình",
+        "example": "I try to work out at least forty-five minutes every afternoon after finishing school.",
+        "exampleVi": "Tôi cố gắng tập thể dục ít nhất bốn mươi lăm phút mỗi buổi chiều sau khi tan học."
+      },
+      {
+        "stt": 25,
+        "word": "cut down on",
+        "ipa": "/kʌt daʊn ɒn/",
+        "pos": "ph. v",
+        "meaning": "cắt giảm (tiêu thụ thực phẩm, chi tiêu...)",
+        "example": "To lower your cholesterol levels, you should cut down on saturated animal fats.",
+        "exampleVi": "Để giảm mức cholesterol, bạn nên cắt giảm chất béo động vật bão hòa."
+      },
+      {
+        "stt": 26,
+        "word": "diameter",
+        "ipa": "/daɪˈæmɪtə(r)/",
+        "pos": "n",
+        "meaning": "đường kính",
+        "example": "The diameter of human capillaries is barely wide enough for a single red blood cell to pass.",
+        "exampleVi": "Đường kính của các mao mạch người hầu như chỉ vừa đủ cho một tế bào hồng cầu đi qua."
+      },
+      {
+        "stt": 27,
+        "word": "disease",
+        "ipa": "/dɪˈziːz/",
+        "pos": "n",
+        "meaning": "bệnh tật, căn bệnh",
+        "example": "Adopting an active physical lifestyle significantly mitigates the danger of chronic heart disease.",
+        "exampleVi": "Áp dụng lối sống vận động tích cực giúp giảm thiểu đáng kể nguy cơ mắc bệnh tim mãn tính."
+      },
+      {
+        "stt": 28,
+        "word": "energy",
+        "ipa": "/ˈenədʒi/",
+        "pos": "n",
+        "meaning": "năng lượng, sức lực",
+        "example": "Whole grain oatmeal provides complex carbohydrates that release steady energy throughout the morning.",
+        "exampleVi": "Yến mạch nguyên hạt cung cấp carbohydrate phức hợp giúp giải phóng năng lượng ổn định suốt buổi sáng."
+      },
+      {
+        "stt": 29,
+        "word": "examine",
+        "ipa": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "meaning": "khám bệnh, kiểm tra kỹ lưỡng",
+        "example": "The specialist will examine your throat and ears to diagnose the source of your fever.",
+        "exampleVi": "Bác sĩ chuyên khoa sẽ khám họng và tai của bạn để chẩn đoán nguồn gốc cơn sốt."
+      },
+      {
+        "stt": 30,
+        "word": "fitness",
+        "ipa": "/ˈfɪtnəs/",
+        "pos": "n",
+        "meaning": "sự khỏe khoắn, thể lực, thể hình",
+        "example": "Joining the outdoor cycling club helped him attain an exceptional level of physical fitness.",
+        "exampleVi": "Tham gia câu lạc bộ đạp xe ngoài trời đã giúp anh ấy đạt được mức thể lực thể chất vượt trội."
+      }
+    ],
+    "grammar": {
+      "title": "Past Simple vs. Present Perfect (Thì Quá khứ đơn và Thì Hiện tại hoàn thành)",
+      "sections": [
+        {
+          "heading": "1. So sánh Công thức & Cách dùng: Quá khứ đơn (Past Simple) vs. Hiện tại hoàn thành (Present Perfect)",
+          "content": "Bảng tổng hợp chi tiết công thức, cách dùng và dấu hiệu nhận biết giữa Thì Quá khứ đơn (Past Simple) và Thì Hiện tại hoàn thành (Present Perfect):",
+          "highlight": true,
+          "layout": "two-columns",
+          "points": [
+            {
+              "rule": "THÌ QUÁ KHỨ ĐƠN (PAST SIMPLE):",
+              "example": "• CÔNG THỨC:\n  (+) S + V2/ed + (O)\n      (với to be: S + was/were + ...)\n  (-) S + did not (didn't) + V(bare)\n      (với to be: S + was/were not + ...)\n  (?) Did + S + V(bare)...?\n      (với to be: Was/Were + S + ...?)\n\n• CÁCH DÙNG:\n  - Diễn tả một hành động đã xảy ra và chấm dứt hoàn toàn trong quá khứ tại thời điểm xác định:\n    Eg: My mother left this city 2 years ago.\n  - Diễn đạt chuỗi hành động xảy ra liên tiếp trong quá khứ:\n    Eg: She came home, switched on the computer and checked her e-mails.\n\n• DẤU HIỆU NHẬN BIẾT:\n  - yesterday, yesterday morning...\n  - last night / last week / last year...\n  - ago (2 years ago, 5 days ago...)\n  - in + năm trong quá khứ (in 1999, in 2020)\n  - when + mệnh đề quá khứ",
+              "highlight": true
+            },
+            {
+              "rule": "THÌ HIỆN TẠI HOÀN THÀNH (PRESENT PERFECT):",
+              "example": "• CÔNG THỨC:\n  (+) S + have / has + V3/ed + (O)\n      (I/You/We/They + have, He/She/It + has)\n  (-) S + have not (haven't) / has not (hasn't) + V3/ed\n  (?) Have / Has + S + V3/ed...?\n\n• CÁCH DÙNG:\n  - Nhấn mạnh đến kết quả của hành động tính tới thời điểm hiện tại (không rõ thời gian):\n    Eg: I have done my homework. I have read this book three times.\n  - Kết quả mong muốn / hành động để lại kết quả ở hiện tại:\n    Eg: I have washed the car. (The car is clean now).\n  - Hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn ở hiện tại (đi với since/for):\n    Eg: We have lived here for five years.\n\n• DẤU HIỆU NHẬN BIẾT:\n  - ever, never, just, already, yet\n  - recently, lately, so far, up to now\n  - since (+ mốc thời gian / mđề QKĐ)\n  - for (+ khoảng thời gian)\n  - once, twice, three times, many times...",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "2. Sự kết hợp thì với liên từ SINCE (Conjunction 'Since')",
+          "content": "Trong câu có liên từ 'since', mệnh đề đi liền sau 'since' chia ở Quá khứ đơn (mốc thời gian bắt đầu), mệnh đề còn lại chia ở Hiện tại hoàn thành.",
+          "highlight": true,
+          "points": [
+            {
+              "rule": "Cấu trúc kết hợp thì:",
+              "example": "• S + have/has + V3/ed + since + S + V2/ed\n• Since + S + V2/ed, S + have/has + V3/ed\n\nVí dụ minh họa:\n• The workers of this factory have stopped working since the pandemic broke out.\n• Since he recovered from his knee injury, Nam has exercised in the park every morning.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "heading": "3. Trọng tâm 5 Công thức Chuyển đổi câu giữa Quá khứ đơn và Hiện tại hoàn thành",
+          "content": "Tổng hợp 5 mẫu câu chuyển đổi qua lại giữa Past Simple và Present Perfect thường xuất hiện trong các bài thi và kiểm tra:",
+          "highlight": true,
+          "layout": "two-columns",
+          "points": [
+            {
+              "rule": "DẠNG 1 & DẠNG 2: 4 câu đồng nghĩa & Lần đầu tiên làm gì",
+              "example": "• DẠNG 1: 4 CÂU ĐỒNG NGHĨA KHOẢNG THỜI GIAN:\n  1. The last time + S + V2/ed... + was + ktg + ago.\n  2. S + haven't / hasn't + V3/ed + for + ktg (since + mtg).\n  3. S + last + V2/ed + ktg + ago (in / when...).\n  4. It is / has been + ktg + since + S + (last) + V2/ed.\n  VD: The last time I did press-ups was 3 months ago.\n  = I haven't done press-ups for 3 months.\n  = It is 3 months since I last did press-ups.\n\n• DẠNG 2: LẦN ĐẦU TIÊN LÀM GÌ:\n  S + have/has + never / not + V3/ed + before.\n  → This / It is the first time + S + have/has + V3/ed.\n  VD: I have never eaten such a balanced meal before.\n  → This is the first time I have eaten such a balanced meal.",
+              "highlight": true
+            },
+            {
+              "rule": "DẠNG 3, 4 & 5: Bắt đầu làm gì & Các câu hỏi thời gian",
+              "example": "• DẠNG 3: BẮT ĐẦU LÀM GÌ (Started / Began):\n  S + started / began + to V / V-ing + ktg + ago.\n  = S + have/has + V3/ed + for + ktg (since + mtg).\n  VD: She started going to the gym 2 years ago.\n  = She has gone to the gym for 2 years.\n\n• DẠNG 4: HỎI VỀ KHOẢNG THỜI GIAN:\n  When + did + S + start/begin + to V/V-ing...?\n  = How long + have/has + S + V3/ed...?\n  = How long ago + did + S + start/begin...?\n  = How long is it since + S + V2/ed...?\n\n• DẠNG 5: HỎI LẦN CUỐI LÀM GÌ:\n  When was the last time + S + V2/ed...?\n  = When did + S + last + V(bare)...?",
+              "highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Phần I: Trắc nghiệm khách quan (Multiple Choice - 20 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "You should finish the whole course of __________ prescribed by the doctor to kill all bacteria.",
+          "options": ["antibiotics", "recipes", "nutrients", "muscles"],
+          "correctIndex": 0,
+          "explanation": "'antibiotics' (thuốc kháng sinh) do bác sĩ kê đơn để tiêu diệt vi khuẩn gây bệnh."
+        },
+        {
+          "id": 2,
+          "question": "Eating undercooked seafood can lead to severe __________, causing stomach pain and vomiting.",
+          "options": ["life expectancy", "food poisoning", "press-up", "star jump"],
+          "correctIndex": 1,
+          "explanation": "'food poisoning' (ngộ độc thực phẩm) do ăn đồ hải sản chưa nấu chín kỹ, gây đau dạ dày và nôn mửa."
+        },
+        {
+          "id": 3,
+          "question": "Regular physical exercise helps to build strong __________ and improve overall heart health.",
+          "options": ["organisms", "ingredients", "muscles", "recipes"],
+          "correctIndex": 2,
+          "explanation": "'muscles' (cơ bắp). 'build strong muscles': phát triển cơ bắp săn chắc, khỏe mạnh."
+        },
+        {
+          "id": 4,
+          "question": "Fresh fruits and vegetables are packed with essential __________ that boost your immune system.",
+          "options": ["treatments", "nutrients", "germs", "diameters"],
+          "correctIndex": 1,
+          "explanation": "'nutrients' (các chất dinh dưỡng thiết yếu) có nhiều trong rau củ quả tươi giúp tăng cường hệ miễn dịch."
+        },
+        {
+          "id": 5,
+          "question": "Advances in modern medicine have greatly increased human __________ over the past century.",
+          "options": ["life expectancy", "food poisoning", "tuberculosis", "fitness"],
+          "correctIndex": 0,
+          "explanation": "'life expectancy' (tuổi thọ kỳ vọng của con người) đã tăng mạnh nhờ những tiến bộ trong y học."
+        },
+        {
+          "id": 6,
+          "question": "Doctors advise heavy smokers to __________ smoking immediately to lower the risk of lung disease.",
+          "options": ["work out", "give up", "cut down on", "examine"],
+          "correctIndex": 1,
+          "explanation": "'give up smoking' (từ bỏ hẳn việc hút thuốc lá ngay lập tức)."
+        },
+        {
+          "id": 7,
+          "question": "Washing your hands with soap before meals helps prevent the __________ of dangerous viruses.",
+          "options": ["spread", "strength", "treatment", "recipe"],
+          "correctIndex": 0,
+          "explanation": "'the spread of viruses' (sự lây lan, phát tán của vi-rút nguy hiểm)."
+        },
+        {
+          "id": 8,
+          "question": "If you want to lose weight safely, you should __________ fast food and sugary drinks.",
+          "options": ["work out", "give up", "cut down on", "examine"],
+          "correctIndex": 2,
+          "explanation": "'cut down on' (cắt giảm lượng tiêu thụ thức ăn nhanh và nước ngọt có đường)."
+        },
+        {
+          "id": 9,
+          "question": "Doing thirty __________ every morning is a great way to strengthen your upper body.",
+          "options": ["press-ups", "recipes", "treatments", "ingredients"],
+          "correctIndex": 0,
+          "explanation": "'press-ups' (động tác chống đẩy/hít đất) giúp rèn luyện cơ thể phần trên."
+        },
+        {
+          "id": 10,
+          "question": "The physician will __________ the patient carefully before deciding on the appropriate treatment.",
+          "options": ["suffer", "examine", "spread", "work out"],
+          "correctIndex": 1,
+          "explanation": "'examine' (thăm khám, kiểm tra thể trạng người bệnh cẩn thận)."
+        },
+        {
+          "id": 11,
+          "question": "Penicillin was one of the earliest medicines used to treat bacterial __________. ",
+          "options": ["infections", "recipes", "star jumps", "fitness"],
+          "correctIndex": 0,
+          "explanation": "'bacterial infections' (các bệnh nhiễm trùng do vi khuẩn gây ra)."
+        },
+        {
+          "id": 12,
+          "question": "A __________ diet contains a wide variety of foods in the right proportions to maintain health.",
+          "options": ["regular", "balanced", "proper", "tiring"],
+          "correctIndex": 1,
+          "explanation": "'a balanced diet' (chế độ dinh dưỡng cân bằng và hợp lý)."
+        },
+        {
+          "id": 13,
+          "question": "She goes to the local gym three times a week to __________ and stay fit.",
+          "options": ["work out", "cut down on", "give up", "examine"],
+          "correctIndex": 0,
+          "explanation": "'work out' (tập thể dục, rèn luyện thể lực tại phòng gym)."
+        },
+        {
+          "id": 14,
+          "question": "Thousands of people in developing regions still __________ from respiratory illnesses each year.",
+          "options": ["examine", "suffer", "spread", "work out"],
+          "correctIndex": 1,
+          "explanation": "Cụm động từ: 'suffer from' (phải chịu đựng/mắc phải các căn bệnh đường hô hấp)."
+        },
+        {
+          "id": 15,
+          "question": "Microscopic __________ like bacteria and viruses can cause serious health problems if swallowed.",
+          "options": ["germs", "recipes", "treatments", "ingredients"],
+          "correctIndex": 0,
+          "explanation": "'germs' (mầm bệnh, vi trùng) bao gồm các vi khuẩn và vi-rút siêu hiển vi."
+        },
+        {
+          "id": 16,
+          "question": "My grandfather __________ smoking ten years ago and has felt much healthier ever since.",
+          "options": ["has given up", "gave up", "gives up", "had given up"],
+          "correctIndex": 1,
+          "explanation": "Có mốc thời gian rõ ràng trong quá khứ ('ten years ago') nên dùng thì Quá khứ đơn (Past Simple): 'gave up'."
+        },
+        {
+          "id": 17,
+          "question": "Scientists __________ a breakthrough cure for that rare disease yet.",
+          "options": ["didn't find", "haven't found", "don't find", "haven't been found"],
+          "correctIndex": 1,
+          "explanation": "Có trạng từ 'yet' ở cuối câu phủ định ➔ chia thì Hiện tại hoàn thành (Present Perfect): 'haven't found'."
+        },
+        {
+          "id": 18,
+          "question": "Nam __________ in the park every morning since he recovered from his knee injury.",
+          "options": ["exercised", "has exercised", "exercises", "was exercising"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc kết hợp thì: 'S + HTHT + since + S + QKĐ'. Mệnh đề chính chia Hiện tại hoàn thành: 'has exercised'."
+        },
+        {
+          "id": 19,
+          "question": "The doctor __________ three patients since 8 o'clock this morning.",
+          "options": ["examined", "has examined", "examines", "was examining"],
+          "correctIndex": 1,
+          "explanation": "Nhấn mạnh số lượng kết quả tính từ mốc 'since 8 o'clock this morning' ➔ chia Hiện tại hoàn thành: 'has examined'."
+        },
+        {
+          "id": 20,
+          "question": "I __________ my leg while I was doing star jumps during gym class yesterday.",
+          "options": ["have hurt", "hurt", "hurts", "was hurting"],
+          "correctIndex": 1,
+          "explanation": "Hành động ngắn cắt ngang ('hurt') hành động dài đang diễn ra trong quá khứ ('was doing star jumps') ➔ dùng Quá khứ đơn: 'hurt'."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Phần II: Điền từ vào chỗ trống (Fill in the Blanks - 15 câu)",
+      "wordbank": [
+        "bacteria",
+        "recipe",
+        "treatment",
+        "tuberculosis",
+        "properly",
+        "strength",
+        "fitness",
+        "organism",
+        "diameter",
+        "since",
+        "for",
+        "ago",
+        "have suffered",
+        "worked out",
+        "haven't eaten"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Fresh garlic contains natural properties that can fight off harmful _______ in the body.",
+          "sentence": "Fresh garlic contains natural properties that can fight off harmful _______ in the body.",
+          "answer": "bacteria",
+          "acceptAlternatives": ["bacteria"],
+          "hint": "Danh từ: các loại vi khuẩn có hại"
+        },
+        {
+          "id": 2,
+          "question": "Follow this healthy salad _______ to prepare a nutritious meal in less than fifteen minutes.",
+          "sentence": "Follow this healthy salad _______ to prepare a nutritious meal in less than fifteen minutes.",
+          "answer": "recipe",
+          "acceptAlternatives": ["recipe"],
+          "hint": "Danh từ: công thức nấu ăn, chế biến món ăn"
+        },
+        {
+          "id": 3,
+          "question": "The hospital is offering an effective new _______ for patients with chronic skin conditions.",
+          "sentence": "The hospital is offering an effective new _______ for patients with chronic skin conditions.",
+          "answer": "treatment",
+          "acceptAlternatives": ["treatment"],
+          "hint": "Danh từ: phương pháp điều trị, liệu trình chữa trị"
+        },
+        {
+          "id": 4,
+          "question": "Highly infectious diseases such as _______ require months of targeted medical care.",
+          "sentence": "Highly infectious diseases such as _______ require months of targeted medical care.",
+          "answer": "tuberculosis",
+          "acceptAlternatives": ["tuberculosis"],
+          "hint": "Danh từ: căn bệnh lao truyền nhiễm"
+        },
+        {
+          "id": 5,
+          "question": "It is important to wash raw vegetables _______ under running water before cooking.",
+          "sentence": "It is important to wash raw vegetables _______ under running water before cooking.",
+          "answer": "properly",
+          "acceptAlternatives": ["properly"],
+          "hint": "Trạng từ: rửa một cách đúng cách, cẩn thận"
+        },
+        {
+          "id": 6,
+          "question": "Swimming regularly helps build endurance and muscular _______ without straining your joints.",
+          "sentence": "Swimming regularly helps build endurance and muscular _______ without straining your joints.",
+          "answer": "strength",
+          "acceptAlternatives": ["strength"],
+          "hint": "Danh từ: sức mạnh cơ bắp (muscular strength)"
+        },
+        {
+          "id": 7,
+          "question": "Joining an aerobic dance class is an enjoyable way to improve your overall physical _______.",
+          "sentence": "Joining an aerobic dance class is an enjoyable way to improve your overall physical _______.",
+          "answer": "fitness",
+          "acceptAlternatives": ["fitness"],
+          "hint": "Danh từ: thể lực, thể chất (physical fitness)"
+        },
+        {
+          "id": 8,
+          "question": "An amoeba is a single-celled _______ that can only be seen under a powerful microscope.",
+          "sentence": "An amoeba is a single-celled _______ that can only be seen under a powerful microscope.",
+          "answer": "organism",
+          "acceptAlternatives": ["organism"],
+          "hint": "Danh từ: sinh vật, cơ thể sống đơn bào"
+        },
+        {
+          "id": 9,
+          "question": "The red blood cell is extremely tiny, with a _______ of only about seven micrometers.",
+          "sentence": "The red blood cell is extremely tiny, with a _______ of only about seven micrometers.",
+          "answer": "diameter",
+          "acceptAlternatives": ["diameter"],
+          "hint": "Danh từ: đường kính"
+        },
+        {
+          "id": 10,
+          "question": "They have lived a health-conscious lifestyle _______ they moved to the countryside.",
+          "sentence": "They have lived a health-conscious lifestyle _______ they moved to the countryside.",
+          "answer": "since",
+          "acceptAlternatives": ["since"],
+          "hint": "Liên từ thời gian nối mệnh đề Quá khứ đơn: kể từ khi"
+        },
+        {
+          "id": 11,
+          "question": "Dr. John has conducted research on viral infections _______ more than fifteen years.",
+          "sentence": "Dr. John has conducted research on viral infections _______ more than fifteen years.",
+          "answer": "for",
+          "acceptAlternatives": ["for"],
+          "hint": "Giới từ đi với khoảng thời gian: trong suốt hơn 15 năm"
+        },
+        {
+          "id": 12,
+          "question": "The health center launched a campaign to promote balanced diets two months _______.",
+          "sentence": "The health center launched a campaign to promote balanced diets two months _______.",
+          "answer": "ago",
+          "acceptAlternatives": ["ago"],
+          "hint": "Trạng từ thời gian đứng sau khoảng thời gian trong quá khứ: cách đây 2 tháng"
+        },
+        {
+          "id": 13,
+          "question": "Many elderly citizens _______ from joint pain during cold winter weather recently.",
+          "sentence": "Many elderly citizens _______ from joint pain during cold winter weather recently.",
+          "answer": "have suffered",
+          "acceptAlternatives": ["have suffered"],
+          "hint": "Động từ chia thì Hiện tại hoàn thành với 'recently': have suffered"
+        },
+        {
+          "id": 14,
+          "question": "She _______ at the fitness center for two hours yesterday afternoon.",
+          "sentence": "She _______ at the fitness center for two hours yesterday afternoon.",
+          "answer": "worked out",
+          "acceptAlternatives": ["worked out"],
+          "hint": "Động từ chia thì Quá khứ đơn có 'yesterday afternoon': worked out"
+        },
+        {
+          "id": 15,
+          "question": "I _______ any junk food since I started my new health regime last week.",
+          "sentence": "I _______ any junk food since I started my new health regime last week.",
+          "answer": "haven't eaten",
+          "acceptAlternatives": ["haven't eaten", "have not eaten"],
+          "hint": "Động từ phủ định thì Hiện tại hoàn thành với 'since': haven't eaten"
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Phần III: Sắp xếp câu hoàn chỉnh (Sentence Reordering - 10 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["To stay healthy,", "you should", "cut down on", "processed sugar and fat."],
+          "answer": "To stay healthy, you should cut down on processed sugar and fat.",
+          "acceptAlternatives": [
+            "To stay healthy, you should cut down on processed sugar and fat.",
+            "To stay healthy, you should cut down on processed sugar and fat"
+          ]
+        },
+        {
+          "id": 2,
+          "words": ["Regular exercise", "helps", "boost", "your body's immune system and", "life expectancy."],
+          "answer": "Regular exercise helps boost your body's immune system and life expectancy.",
+          "acceptAlternatives": [
+            "Regular exercise helps boost your body's immune system and life expectancy.",
+            "Regular exercise helps boost your body's immune system and life expectancy"
+          ]
+        },
+        {
+          "id": 3,
+          "words": ["The doctor", "examined", "the patient carefully", "before writing", "the prescription."],
+          "answer": "The doctor examined the patient carefully before writing the prescription.",
+          "acceptAlternatives": [
+            "The doctor examined the patient carefully before writing the prescription.",
+            "The doctor examined the patient carefully before writing the prescription"
+          ]
+        },
+        {
+          "id": 4,
+          "words": ["Washing your hands", "prevents", "germs", "from spreading", "to other people."],
+          "answer": "Washing your hands prevents germs from spreading to other people.",
+          "acceptAlternatives": [
+            "Washing your hands prevents germs from spreading to other people.",
+            "Washing your hands prevents germs from spreading to other people"
+          ]
+        },
+        {
+          "id": 5,
+          "words": ["They", "have been", "working out", "at the gym", "since early this morning."],
+          "answer": "They have been working out at the gym since early this morning.",
+          "acceptAlternatives": [
+            "They have been working out at the gym since early this morning.",
+            "They have been working out at the gym since early this morning"
+          ]
+        },
+        {
+          "id": 6,
+          "words": ["Antibiotics", "cannot kill", "viruses,", "so", "you shouldn't take them", "for a cold."],
+          "answer": "Antibiotics cannot kill viruses, so you shouldn't take them for a cold.",
+          "acceptAlternatives": [
+            "Antibiotics cannot kill viruses, so you shouldn't take them for a cold.",
+            "Antibiotics cannot kill viruses, so you shouldn't take them for a cold"
+          ]
+        },
+        {
+          "id": 7,
+          "words": ["How long", "have you", "suffered", "from this severe headache?"],
+          "answer": "How long have you suffered from this severe headache?",
+          "acceptAlternatives": [
+            "How long have you suffered from this severe headache?",
+            "How long have you suffered from this severe headache"
+          ]
+        },
+        {
+          "id": 8,
+          "words": ["Eating a", "balanced diet", "provides", "essential nutrients", "for your daily activities."],
+          "answer": "Eating a balanced diet provides essential nutrients for your daily activities.",
+          "acceptAlternatives": [
+            "Eating a balanced diet provides essential nutrients for your daily activities.",
+            "Eating a balanced diet provides essential nutrients for your daily activities"
+          ]
+        },
+        {
+          "id": 9,
+          "words": ["He", "gave up", "smoking", "because", "it affected", "his respiratory system."],
+          "answer": "He gave up smoking because it affected his respiratory system.",
+          "acceptAlternatives": [
+            "He gave up smoking because it affected his respiratory system.",
+            "He gave up smoking because it affected his respiratory system"
+          ]
+        },
+        {
+          "id": 10,
+          "words": ["This", "is", "the first time", "I have tried", "this healthy smoothie recipe."],
+          "answer": "This is the first time I have tried this healthy smoothie recipe.",
+          "acceptAlternatives": [
+            "This is the first time I have tried this healthy smoothie recipe.",
+            "This is the first time I have tried this healthy smoothie recipe"
+          ]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Phần IV: Viết lại câu chuyển đổi thì (Sentence Transformation: Past Simple ⇋ Present Perfect - 15 câu)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The last time I did press-ups was three months ago.",
+          "hint": "I haven't...",
+          "startWith": "I haven't",
+          "answer": "I haven't done press-ups for three months.",
+          "acceptAlternatives": [
+            "I haven't done press-ups for three months.",
+            "I haven't done press-ups for three months",
+            "done press-ups for three months.",
+            "done press-ups for three months"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "She started going to the gym to work out in 2022.",
+          "hint": "She has...",
+          "startWith": "She has",
+          "answer": "She has gone to the gym to work out since 2022.",
+          "acceptAlternatives": [
+            "She has gone to the gym to work out since 2022.",
+            "She has gone to the gym to work out since 2022",
+            "She has worked out at the gym since 2022.",
+            "She has worked out at the gym since 2022",
+            "gone to the gym to work out since 2022.",
+            "gone to the gym to work out since 2022",
+            "worked out at the gym since 2022.",
+            "worked out at the gym since 2022"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "I have never eaten such a delicious balanced meal before.",
+          "hint": "This is the first time...",
+          "startWith": "This is the first time",
+          "answer": "This is the first time I have eaten such a delicious balanced meal.",
+          "acceptAlternatives": [
+            "This is the first time I have eaten such a delicious balanced meal.",
+            "This is the first time I have eaten such a delicious balanced meal",
+            "This is the first time I have ever eaten such a delicious balanced meal.",
+            "This is the first time I have ever eaten such a delicious balanced meal",
+            "I have eaten such a delicious balanced meal.",
+            "I have eaten such a delicious balanced meal",
+            "I have ever eaten such a delicious balanced meal.",
+            "I have ever eaten such a delicious balanced meal"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "How long have you suffered from this stomach infection?",
+          "hint": "When did you start...",
+          "startWith": "When did you start",
+          "answer": "When did you start to suffer from this stomach infection?",
+          "acceptAlternatives": [
+            "When did you start to suffer from this stomach infection?",
+            "When did you start to suffer from this stomach infection",
+            "When did you start suffering from this stomach infection?",
+            "When did you start suffering from this stomach infection",
+            "to suffer from this stomach infection?",
+            "to suffer from this stomach infection",
+            "suffering from this stomach infection?",
+            "suffering from this stomach infection"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "It has been two years since he last took antibiotics.",
+          "hint": "He last...",
+          "startWith": "He last",
+          "answer": "He last took antibiotics two years ago.",
+          "acceptAlternatives": [
+            "He last took antibiotics two years ago.",
+            "He last took antibiotics two years ago",
+            "took antibiotics two years ago.",
+            "took antibiotics two years ago"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "My sister began cutting down on sugar two weeks ago.",
+          "hint": "My sister has...",
+          "startWith": "My sister has",
+          "answer": "My sister has cut down on sugar for two weeks.",
+          "acceptAlternatives": [
+            "My sister has cut down on sugar for two weeks.",
+            "My sister has cut down on sugar for two weeks",
+            "cut down on sugar for two weeks.",
+            "cut down on sugar for two weeks"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "When was the last time you checked your fitness level?",
+          "hint": "When did you last...",
+          "startWith": "When did you last",
+          "answer": "When did you last check your fitness level?",
+          "acceptAlternatives": [
+            "When did you last check your fitness level?",
+            "When did you last check your fitness level",
+            "check your fitness level?",
+            "check your fitness level"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "I haven't visited the doctor for a medical check-up since 2023.",
+          "hint": "The last time...",
+          "startWith": "The last time",
+          "answer": "The last time I visited the doctor for a medical check-up was in 2023.",
+          "acceptAlternatives": [
+            "The last time I visited the doctor for a medical check-up was in 2023.",
+            "The last time I visited the doctor for a medical check-up was in 2023",
+            "I visited the doctor for a medical check-up was in 2023.",
+            "I visited the doctor for a medical check-up was in 2023"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "It is three years since we started following this healthy diet.",
+          "hint": "We have...",
+          "startWith": "We have",
+          "answer": "We have followed this healthy diet for three years.",
+          "acceptAlternatives": [
+            "We have followed this healthy diet for three years.",
+            "We have followed this healthy diet for three years",
+            "followed this healthy diet for three years.",
+            "followed this healthy diet for three years"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "They haven't had food poisoning for a very long time.",
+          "hint": "It is a very long time since...",
+          "startWith": "It is a very long time since",
+          "answer": "It is a very long time since they last had food poisoning.",
+          "acceptAlternatives": [
+            "It is a very long time since they last had food poisoning.",
+            "It is a very long time since they last had food poisoning",
+            "It is a very long time since they had food poisoning.",
+            "It is a very long time since they had food poisoning",
+            "they last had food poisoning.",
+            "they last had food poisoning",
+            "they had food poisoning.",
+            "they had food poisoning"
+          ]
+        },
+        {
+          "id": 11,
+          "question": "He hasn't exercised for five days.",
+          "hint": "The last time he...",
+          "startWith": "The last time he",
+          "answer": "The last time he exercised was five days ago.",
+          "acceptAlternatives": [
+            "The last time he exercised was five days ago.",
+            "The last time he exercised was five days ago",
+            "exercised was five days ago.",
+            "exercised was five days ago"
+          ]
+        },
+        {
+          "id": 12,
+          "question": "I last drank fresh fruit juice when I was in Da Lat.",
+          "hint": "I haven't...",
+          "startWith": "I haven't",
+          "answer": "I haven't drunk fresh fruit juice since I was in Da Lat.",
+          "acceptAlternatives": [
+            "I haven't drunk fresh fruit juice since I was in Da Lat.",
+            "I haven't drunk fresh fruit juice since I was in Da Lat",
+            "drunk fresh fruit juice since I was in Da Lat.",
+            "drunk fresh fruit juice since I was in Da Lat"
+          ]
+        },
+        {
+          "id": 13,
+          "question": "When did you begin taking these health supplements?",
+          "hint": "How long is it since...",
+          "startWith": "How long is it since",
+          "answer": "How long is it since you began taking these health supplements?",
+          "acceptAlternatives": [
+            "How long is it since you began taking these health supplements?",
+            "How long is it since you began taking these health supplements",
+            "you began taking these health supplements?",
+            "you began taking these health supplements"
+          ]
+        },
+        {
+          "id": 14,
+          "question": "She hasn't eaten fast food since she was a teenager.",
+          "hint": "She last...",
+          "startWith": "She last",
+          "answer": "She last ate fast food when she was a teenager.",
+          "acceptAlternatives": [
+            "She last ate fast food when she was a teenager.",
+            "She last ate fast food when she was a teenager",
+            "ate fast food when she was a teenager.",
+            "ate fast food when she was a teenager"
+          ]
+        },
+        {
+          "id": 15,
+          "question": "This is the first time he has suffered from food poisoning.",
+          "hint": "He has never...",
+          "startWith": "He has never",
+          "answer": "He has never suffered from food poisoning before.",
+          "acceptAlternatives": [
+            "He has never suffered from food poisoning before.",
+            "He has never suffered from food poisoning before",
+            "suffered from food poisoning before.",
+            "suffered from food poisoning before"
+          ]
+        }
+      ]
+    }
+  }
+}

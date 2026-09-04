@@ -17,8 +17,12 @@ import toeicData from '../../public/data/lessons/toeic-business-communication.js
 import unit4Grade11Data from '../../public/data/lessons/unit-4-grade-11-asean-and-vietnam.json';
 import unit5Grade11Data from '../../public/data/lessons/unit-5-grade-11-global-warming.json';
 import unit5Grade12Data from '../../public/data/lessons/unit-5-grade-12-the-world-of-work.json';
+import unit1Grade11Data from '../../public/data/lessons/unit-1-grade-11-a-long-and-healthy-life.json';
+import unit1Grade12Data from '../../public/data/lessons/unit-1-grade-12-life-stories-we-admire.json';
 
 const bundledLessons: Record<string, LessonData> = {
+  'unit-1-grade-12-life-stories-we-admire': unit1Grade12Data as LessonData,
+  'unit-1-grade-11-a-long-and-healthy-life': unit1Grade11Data as LessonData,
   'unit-5-grade-12-the-world-of-work': unit5Grade12Data as LessonData,
   'unit-5-grade-11-global-warming': unit5Grade11Data as LessonData,
   'unit-4-grade-11-asean-and-vietnam': unit4Grade11Data as LessonData,

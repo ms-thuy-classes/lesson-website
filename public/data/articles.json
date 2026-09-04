@@ -1,7 +1,31 @@
 {
-  "totalLessons": 20,
+  "totalLessons": 21,
   "lessonsPerPage": 10,
   "lessons": [
+    {
+      "id": "unit-1-grade-12-life-stories-we-admire",
+      "title": "Unit 1: Life Stories We Admire (Lớp 12)",
+      "description": "Những câu chuyện cuộc đời đáng ngưỡng mộ & chuyên đề Thì Quá khứ đơn và Quá khứ tiếp diễn (Past Simple vs. Past Continuous with When/While)",
+      "tags": ["Lớp 12"],
+      "level": "Intermediate",
+      "vocabCount": 50,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-1-grade-12-life-stories-we-admire.json",
+      "thumbnail": "gradient-purple"
+    },
+    {
+      "id": "unit-1-grade-11-a-long-and-healthy-life",
+      "title": "Unit 1: A Long and Healthy Life (Lớp 11)",
+      "description": "Sức khỏe, lối sống lành mạnh & chuyên đề Phân biệt Quá khứ đơn và Hiện tại hoàn thành (Past Simple vs. Present Perfect)",
+      "tags": ["Lớp 11"],
+      "level": "Intermediate",
+      "vocabCount": 30,
+      "exerciseCount": 4,
+      "totalQuestions": 60,
+      "file": "data/lessons/unit-1-grade-11-a-long-and-healthy-life.json",
+      "thumbnail": "gradient-emerald"
+    },
     {
       "id": "unit-5-grade-12-the-world-of-work",
       "title": "Unit 5: The World of Work (Lớp 12)",
@@ -96,18 +120,6 @@
       "exerciseCount": 4,
       "totalQuestions": 60,
       "file": "data/lessons/unit-2-grade-11-generation-gap.json",
-      "thumbnail": "gradient-pastel"
-    },
-    {
-      "id": "unit-1-life-stories",
-      "title": "Unit 1: Life Stories We Admire",
-      "description": "Học từ vựng và ngữ pháp về các câu chuyện đời sống đáng ngưỡng mộ",
-      "tags": ["Lớp 10", "Lớp 11"],
-      "level": "Intermediate",
-      "vocabCount": 8,
-      "exerciseCount": 4,
-      "totalQuestions": 8,
-      "file": "data/lessons/unit-1-life-stories.json",
       "thumbnail": "gradient-pastel"
     },
     {
