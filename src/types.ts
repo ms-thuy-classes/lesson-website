@@ -79,6 +79,25 @@ export interface RewriteQuestion {
   acceptAlternatives?: string[];
 }
 
+export interface CollocationTableItem {
+  id: string;
+  phrase: string;
+  meaning: string;
+  correctCategory: 'MAKE' | 'DO';
+  explanation: string;
+}
+
+export interface CollocationTableExercise {
+  title: string;
+  description?: string;
+  categories: {
+    key: 'MAKE' | 'DO';
+    label: string;
+    rule: string;
+  }[];
+  items: CollocationTableItem[];
+}
+
 export interface LessonData {
   id: string;
   title: string;
@@ -93,6 +112,7 @@ export interface LessonData {
       title: string;
       questions: MCQQuestion[];
     };
+    collocationTable?: CollocationTableExercise;
     fillBlank: {
       title: string;
       wordbank?: string[];

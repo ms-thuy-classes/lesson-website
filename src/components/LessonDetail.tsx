@@ -4,6 +4,7 @@ import { LessonData } from '../types';
 import { VocabularyGrid } from './VocabularyGrid';
 import { GrammarView } from './GrammarView';
 import { MCQExercise } from './exercises/MCQExercise';
+import { CollocationTableExercise } from './exercises/CollocationTableExercise';
 import { FillBlankExercise } from './exercises/FillBlankExercise';
 import { ArrangeExercise } from './exercises/ArrangeExercise';
 import { RewriteExercise } from './exercises/RewriteExercise';
@@ -23,6 +24,7 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
   // Keep scores of each exercise in this lesson
   const [exerciseScores, setExerciseScores] = useState<Record<string, { correct: number; total: number }>>({
     mcq: { correct: 0, total: lesson.exercises?.mcq?.questions?.length ?? 0 },
+    collocationTable: { correct: 0, total: lesson.exercises?.collocationTable?.items?.length ?? 0 },
     fillBlank: { correct: 0, total: lesson.exercises?.fillBlank?.questions?.length ?? 0 },
     arrange: { correct: 0, total: lesson.exercises?.arrange?.questions?.length ?? 0 },
     rewrite: { correct: 0, total: lesson.exercises?.rewrite?.questions?.length ?? 0 },
@@ -131,7 +133,7 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
               }`}
             >
               <CheckSquare className="w-4 h-4" />
-              <span>Phần 2: Bài tập (4 dạng)</span>
+              <span>Phần 2: Bài tập thực hành</span>
             </button>
           </div>
         </div>
@@ -188,6 +190,14 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
           <MCQExercise
             title={lesson.exercises.mcq.title}
             questions={lesson.exercises.mcq.questions}
+            onScoreUpdate={handleScoreUpdate}
+          />
+        )}
+
+        {/* Collocation Table Exercise (Phân loại MAKE vs DO) */}
+        {lesson.exercises?.collocationTable && (
+          <CollocationTableExercise
+            exercise={lesson.exercises.collocationTable}
             onScoreUpdate={handleScoreUpdate}
           />
         )}

@@ -1,0 +1,778 @@
+{
+  "id": "mindset-ielts-foundation-unit-1",
+  "title": "Mindset for IELTS Foundation - Unit 1: Daily Life",
+  "tags": ["IELTS"],
+  "level": "Foundation (A2-B1)",
+  "theory": {
+    "vocabulary": [
+      {
+        "stt": 1,
+        "word": "past",
+        "ipa": "/pæst/",
+        "pos": "prep",
+        "meaning": "hơn, qua (dùng khi nói phút hơn từ phút 01 đến phút 30)",
+        "example": "It is ten past nine in the morning.",
+        "exampleVi": "Bây giờ là chín giờ mười phút sáng."
+      },
+      {
+        "stt": 2,
+        "word": "to",
+        "ipa": "/tuː/",
+        "pos": "prep",
+        "meaning": "kém (dùng khi nói phút kém từ phút 31 đến phút 59)",
+        "example": "Hurry up! It's ten to nine and the bus is coming.",
+        "exampleVi": "Nhanh lên nào! Đã chín giờ kém mười rồi và xe buýt đang tới."
+      },
+      {
+        "stt": 3,
+        "word": "a quarter",
+        "ipa": "/ə ˈkwɔːrtər/",
+        "pos": "noun",
+        "meaning": "15 phút (một phần tư giờ, 1/4 của 60 phút)",
+        "example": "Our flight departs at a quarter past five.",
+        "exampleVi": "Chuyến bay của chúng tôi khởi hành lúc năm giờ mười lăm phút."
+      },
+      {
+        "stt": 4,
+        "word": "half past",
+        "ipa": "/hæf pæst/",
+        "pos": "phrase",
+        "meaning": "rưỡi, 30 phút qua một giờ",
+        "example": "The afternoon lecture begins at half past two.",
+        "exampleVi": "Bài giảng buổi chiều bắt đầu lúc hai giờ rưỡi."
+      },
+      {
+        "stt": 5,
+        "word": "o’clock",
+        "ipa": "/əˈklɑːk/",
+        "pos": "adv",
+        "meaning": "đúng giờ (dùng khi phút là 00 tròn trĩnh)",
+        "example": "The bank opens at twelve o'clock sharp.",
+        "exampleVi": "Ngân hàng mở cửa đúng vào lúc mười hai giờ."
+      },
+      {
+        "stt": 6,
+        "word": "midday / noon",
+        "ipa": "/ˌmɪdˈdeɪ / nuːn/",
+        "pos": "noun",
+        "meaning": "buổi trưa, đúng 12 giờ trưa",
+        "example": "We stopped working and had lunch at midday.",
+        "exampleVi": "Chúng tôi dừng làm việc và dùng bữa trưa vào lúc giữa trưa."
+      },
+      {
+        "stt": 7,
+        "word": "midnight",
+        "ipa": "/ˈmɪdnaɪt/",
+        "pos": "noun",
+        "meaning": "nửa đêm, đúng 12 giờ đêm (00:00)",
+        "example": "He usually switches off the lights at about midnight.",
+        "exampleVi": "Anh ấy thường tắt đèn đi ngủ vào khoảng lúc nửa đêm."
+      },
+      {
+        "stt": 8,
+        "word": "make the bed",
+        "ipa": "/meɪk ðə bed/",
+        "pos": "collocation",
+        "meaning": "gấp chăn gối, dọn dẹp giường ngủ sau khi ngủ dậy",
+        "example": "I always make the bed right after getting up.",
+        "exampleVi": "Tôi luôn dọn giường ngay sau khi thức dậy."
+      },
+      {
+        "stt": 9,
+        "word": "make a mess",
+        "ipa": "/meɪk ə mes/",
+        "pos": "collocation",
+        "meaning": "bày bừa lung tung, làm bẩn và lộn xộn",
+        "example": "The children always make a mess with their toys in the living room.",
+        "exampleVi": "Lũ trẻ luôn bày bừa đồ chơi khắp phòng khách."
+      },
+      {
+        "stt": 10,
+        "word": "make lunch / dinner",
+        "ipa": "/meɪk lʌntʃ / ˈdɪnər/",
+        "pos": "collocation",
+        "meaning": "nấu bữa trưa / bữa tối, chuẩn bị đồ ăn",
+        "example": "My mother makes delicious dinner for the entire family.",
+        "exampleVi": "Mẹ tôi nấu bữa tối thơm ngon cho cả gia đình."
+      },
+      {
+        "stt": 11,
+        "word": "make a cake",
+        "ipa": "/meɪk ə keɪk/",
+        "pos": "collocation",
+        "meaning": "nướng bánh, làm bánh ngọt",
+        "example": "She wants to make a chocolate cake for her sister's birthday.",
+        "exampleVi": "Cô ấy muốn làm một chiếc bánh sô-cô-la cho sinh nhật em gái."
+      },
+      {
+        "stt": 12,
+        "word": "do the cleaning",
+        "ipa": "/duː ðə ˈkliːnɪŋ/",
+        "pos": "collocation",
+        "meaning": "dọn dẹp vệ sinh nhà cửa, lau chùi phòng ốc",
+        "example": "We usually do the cleaning on Saturday mornings.",
+        "exampleVi": "Chúng tôi thường dọn dẹp vệ sinh vào các sáng thứ Bảy."
+      },
+      {
+        "stt": 13,
+        "word": "do the housework",
+        "ipa": "/duː ðə ˈhaʊswɜːrk/",
+        "pos": "collocation",
+        "meaning": "làm công việc nhà (nhiệm vụ gia đình hàng ngày)",
+        "example": "Both my parents share and do the housework together.",
+        "exampleVi": "Cả bố và mẹ tôi cùng chia sẻ và làm việc nhà với nhau."
+      },
+      {
+        "stt": 14,
+        "word": "do the shopping",
+        "ipa": "/duː ðə ˈʃɑːpɪŋ/",
+        "pos": "collocation",
+        "meaning": "đi mua sắm đồ dùng gia đình, đi chợ mua thực phẩm",
+        "example": "My father does the shopping at the local supermarket.",
+        "exampleVi": "Bố tôi đi mua sắm đồ ăn tại siêu thị địa phương."
+      },
+      {
+        "stt": 15,
+        "word": "do the laundry",
+        "ipa": "/duː ðə ˈlɔːndri/",
+        "pos": "collocation",
+        "meaning": "giặt giũ quần áo",
+        "example": "He needs to do the laundry because he has no clean shirts left.",
+        "exampleVi": "Anh ấy cần giặt đồ vì không còn chiếc áo sơ mi sạch nào."
+      },
+      {
+        "stt": 16,
+        "word": "do some homework",
+        "ipa": "/duː səm ˈhoʊmwɜːrk/",
+        "pos": "collocation",
+        "meaning": "làm bài tập về nhà",
+        "example": "Students should do some homework before watching television.",
+        "exampleVi": "Học sinh nên làm bài tập về nhà trước khi xem tivi."
+      },
+      {
+        "stt": 17,
+        "word": "do the washing up",
+        "ipa": "/duː ðə ˈwɑːʃɪŋ ʌp/",
+        "pos": "collocation",
+        "meaning": "rửa bát đĩa, xoong chảo sau bữa ăn",
+        "example": "Tom's wife cooks and Tom does the washing up.",
+        "exampleVi": "Vợ Tom nấu nướng còn Tom đảm nhận việc rửa bát đĩa."
+      },
+      {
+        "stt": 18,
+        "word": "host family",
+        "ipa": "/hoʊst ˈfæməli/",
+        "pos": "noun",
+        "meaning": "gia đình bản xứ (cho học sinh/sinh viên quốc tế ở trọ)",
+        "example": "My host family are very nice and welcoming.",
+        "exampleVi": "Gia đình bản xứ của tôi rất tốt bụng và hiếu khách."
+      },
+      {
+        "stt": 19,
+        "word": "apartment",
+        "ipa": "/əˈpɑːrtmənt/",
+        "pos": "noun",
+        "meaning": "căn hộ chung cư",
+        "example": "They live in a modern apartment in an area called Pantin.",
+        "exampleVi": "Họ sống trong một căn hộ hiện đại tại một khu vực có tên là Pantin."
+      },
+      {
+        "stt": 20,
+        "word": "journalist",
+        "ipa": "/ˈdʒɜːrnəlɪst/",
+        "pos": "noun",
+        "meaning": "nhà báo, phóng viên báo chí",
+        "example": "Both of his parents work as journalists for a national newspaper.",
+        "exampleVi": "Cả bố mẹ anh ấy đều làm nghề nhà báo cho một tờ báo quốc gia."
+      },
+      {
+        "stt": 21,
+        "word": "work as",
+        "ipa": "/wɜːrk æz/",
+        "pos": "phrasal verb",
+        "meaning": "làm nghề gì đó (theo sau là danh từ chỉ nghề nghiệp)",
+        "example": "She works as an English teacher in Hanoi.",
+        "exampleVi": "Cô ấy làm nghề giáo viên tiếng Anh tại Hà Nội."
+      },
+      {
+        "stt": 22,
+        "word": "catch a bus",
+        "ipa": "/kætʃ ə bʌs/",
+        "pos": "phrase",
+        "meaning": "bắt xe buýt, đón xe buýt (= take a bus)",
+        "example": "If I am late in the morning, I catch a bus to school.",
+        "exampleVi": "Nếu buổi sáng bị muộn, tôi bắt xe buýt để đến trường."
+      },
+      {
+        "stt": 23,
+        "word": "go out",
+        "ipa": "/ɡoʊ aʊt/",
+        "pos": "phrasal verb",
+        "meaning": "đi ra ngoài chơi, dạo phố, giải trí",
+        "example": "We go out in the evenings to the cinema with friends.",
+        "exampleVi": "Chúng tôi ra ngoài vào các buổi tối để đi xem phim với bạn bè."
+      },
+      {
+        "stt": 24,
+        "word": "switch off",
+        "ipa": "/swɪtʃ ɔːf/",
+        "pos": "phrasal verb",
+        "meaning": "tắt đèn, ngắt công tắc thiết bị điện",
+        "example": "My brother switches off his light at about midnight.",
+        "exampleVi": "Em trai tôi tắt đèn vào khoảng nửa đêm."
+      },
+      {
+        "stt": 25,
+        "word": "practise",
+        "ipa": "/ˈpræktɪs/",
+        "pos": "verb",
+        "meaning": "luyện tập, rèn luyện kỹ năng đều đặn",
+        "example": "My brother is good at chess and practises every single day.",
+        "exampleVi": "Em trai tôi chơi cờ rất cừ và luyện tập mỗi ngày."
+      },
+      {
+        "stt": 26,
+        "word": "relax",
+        "ipa": "/rɪˈlæks/",
+        "pos": "verb",
+        "meaning": "thư giãn, xả hơi, nghỉ ngơi tĩnh tâm",
+        "example": "Nadia relaxes by doing yoga in the garden.",
+        "exampleVi": "Nadia thư giãn bằng cách tập yoga trong vườn."
+      }
+    ],
+    "grammar": {
+      "title": "Chuyên đề: Cách nói giờ trong tiếng Anh, Collocations 'Make & Do' và Chia động từ Hiện tại đơn",
+      "sections": [
+        {
+          "heading": "1. Bảng ngữ pháp: Cách nói giờ trong tiếng Anh (Telling the Time)",
+          "highlight": true,
+          "content": "| Cấu trúc / Từ vựng | Ý nghĩa | Công thức / Ví dụ |\n|---|---|---|\n| **Past** | Hơn (dùng từ phút 01 → 30) | Số phút + past + Số giờ *(VD: 09:10 = ten past nine)* |\n| **To** | Kém (dùng từ phút 31 → 59) | Số phút thiếu + to + Giờ tiếp theo *(VD: 20:50 = 21:00 thiếu 10p = ten to nine)* |\n| **A quarter** | 15 phút (1/4 giờ) | 15 phút hơn: a quarter past [giờ] ; 15 phút kém: a quarter to [giờ tiếp theo] |\n| **Half past** | 30 phút (Rưỡi) | half past + [giờ] *(VD: 14:30 = half past two)* |\n| **O’clock** | Đúng giờ (00 phút) | [Giờ] + o’clock *(VD: 12:00 = twelve o'clock)* |\n\n💡 Mở rộng cách nói giờ số trực tiếp (Digital Native Format):\nBên cạnh cách nói truyền thống (văn nói với past/to), bạn có thể đọc trực tiếp theo thứ tự Giờ + Phút: 05:15 = five fifteen; 08:20 = eight twenty; 06:45 = six forty-five; 10:05 = ten oh-five; 12:00 = midday / noon; 16:55 = four fifty-five (p.m).",
+          "points": [
+            {
+              "rule": "Quy tắc dùng 'PAST' (Hơn - từ phút 01 đến 30)",
+              "example": "Công thức: Số phút + past + Số giờ hiện tại\n• 09:10 -> It's ten past nine (Chín giờ mười phút)\n• 08:20 -> It's twenty past eight (Tám giờ hai mươi phút)\n• 05:15 -> It's a quarter past five (Năm giờ mười lăm phút)"
+            },
+            {
+              "rule": "Quy tắc dùng 'TO' (Kém - từ phút 31 đến 59)",
+              "example": "Công thức: Số phút còn thiếu để đủ 60p + to + Số giờ kế tiếp\n• 20:50 (còn 10p là tới 9h tối) -> It's ten to nine\n• 06:45 (còn 15p là tới 7h) -> It's a quarter to seven\n• 15:35 (còn 25p là tới 4h chiều) -> It's twenty-five to four\n• 16:55 (còn 5p là tới 5h chiều) -> It's five to five"
+            }
+          ]
+        },
+        {
+          "heading": "2. Bảng từ vựng: Phân biệt 'MAKE' và 'DO' (Collocations)",
+          "highlight": true,
+          "content": "| Động từ | Nguyên tắc sử dụng cốt lõi | Danh từ đi kèm trọng tâm trong bài |\n|---|---|---|\n| **MAKE** | Tạo ra cái gì mới, sản xuất, chế tạo, chuẩn bị thức ăn/đồ uống. | • make the bed (gấp chăn ga / dọn giường ngủ)<br>• make a mess (bày bừa, làm bẩn phòng)<br>• make lunch / dinner (nấu cơm trưa / tối)<br>• make a cake (làm / nướng bánh) |\n| **DO** | Thực hiện một công việc, nhiệm vụ, nghĩa vụ hoặc hoạt động chung. | • do the cleaning / the housework (dọn dẹp / việc nhà)<br>• do the shopping (đi mua sắm, đi chợ)<br>• do the laundry (giặt giũ quần áo)<br>• do some homework (làm bài tập về nhà)<br>• do the washing up (rửa bát đĩa) |",
+          "points": [
+            {
+              "rule": "Bản chất của MAKE (Creation & Production)",
+              "example": "Dùng MAKE khi hành động tạo ra một kết quả hoặc sản phẩm mới hữu hình (món ăn, cái bánh, chiếc giường được xếp gọn gàng, hoặc bãi chiến trường bừa bộn):\n• make the bed (dọn giường gọn gàng)\n• make lunch / dinner (nấu bữa ăn)\n• make a cake (nướng bánh)\n• make a mess (gây ra sự bừa bộn)"
+            },
+            {
+              "rule": "Bản chất của DO (Tasks, Jobs & Routine Chores)",
+              "example": "Dùng DO khi nói về công việc, nghĩa vụ, bài tập hoặc các hoạt động dọn dẹp hàng ngày không tạo ra sản phẩm mới:\n• do the cleaning / the housework (làm việc nhà)\n• do some homework (làm bài tập)\n• do the laundry (giặt giũ đồ)\n• do the shopping (đi sắm đồ)\n• do the washing up (rửa bát)"
+            }
+          ]
+        },
+        {
+          "heading": "3. Bảng ngữ pháp: Thì Hiện tại đơn (Present Simple - 3rd Person -s/-es)",
+          "highlight": true,
+          "content": "Khi chủ ngữ là ngôi thứ 3 số ít (He, She, It, Danh từ số ít, Tên riêng), động từ ở thể khẳng định thì Hiện tại đơn cần thêm đuôi -s hoặc -es theo các quy tắc sau:\n\n| Quy tắc | Căn cứ / Đuôi động từ | Ví dụ minh hoạ |\n|---|---|---|\n| **Thêm -es** | Động từ kết thúc bằng: -ch, -sh, -s, -x, -z, -o | watch → watches, wash → washes, catch → catches, relax → relaxes, switch off → switches off, go → goes, do → does |\n| **Đổi -y thành -ies** | Phụ âm + -y | cry → cries, fly → flies, study → studies, try → tries |\n| **Thêm -s** | Các trường hợp còn lại | practise → practises, give → gives, work → works, cook → cooks |",
+          "points": [
+            {
+              "rule": "Trường hợp thêm đuôi -es (-ch, -sh, -s, -x, -z, -o)",
+              "example": "Khi động từ tận cùng bằng các âm xì/suýt hoặc nguyên âm -o, ta thêm -es để phát âm dễ dàng:\n• wash -> washes (rửa/giặt)\n• watch -> watches (xem)\n• catch -> catches (bắt xe)\n• relax -> relaxes (thư giãn)\n• switch off -> switches off (tắt đèn)\n• go -> goes (đi)\n• do -> does (làm)"
+            },
+            {
+              "rule": "Trường hợp đổi -y thành -ies (Phụ âm + y)",
+              "example": "Nếu trước chữ 'y' là một phụ âm (r, l, d...), đổi 'y' thành 'i' rồi thêm 'es':\n• cry -> cries (khóc)\n• fly -> flies (bay)\n• study -> studies (học tập)\n(Lưu ý: Nếu trước 'y' là nguyên âm như play, say thì chỉ thêm -s: plays, says)"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "mcq": {
+      "title": "Exercise 1: Match the digital times with the times in words",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 05:15 ]:",
+          "options": [
+            "It’s a quarter past five.",
+            "It’s a quarter to five.",
+            "It’s half past five.",
+            "It’s five to five."
+          ],
+          "correctIndex": 0,
+          "explanation": "05:15 là 5 giờ hơn 15 phút. 15 phút hơn = 'a quarter past'. Đáp án là: 'It’s a quarter past five.' (Dạng số trực tiếp / Digital Native: 'It's five fifteen')."
+        },
+        {
+          "id": 2,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 08:20 ]:",
+          "options": [
+            "It’s twenty to eight.",
+            "It’s twenty past eight.",
+            "It’s eight to twenty.",
+            "It’s a quarter past eight."
+          ],
+          "correctIndex": 1,
+          "explanation": "08:20 là 8 giờ hơn 20 phút. Từ phút 01 đến 30 dùng 'past' (Số phút + past + Số giờ) -> 'It’s twenty past eight.' (Dạng số trực tiếp: 'It's eight twenty')."
+        },
+        {
+          "id": 3,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 06:45 ]:",
+          "options": [
+            "It’s a quarter past six.",
+            "It’s a quarter to six.",
+            "It’s a quarter to seven.",
+            "It’s forty-five past six."
+          ],
+          "correctIndex": 2,
+          "explanation": "06:45 là 7 giờ kém 15 phút (còn 15 phút nữa là đến 7 giờ). Dùng 'a quarter to [giờ kế tiếp]' -> 'It’s a quarter to seven.' (Dạng số trực tiếp: 'It's six forty-five')."
+        },
+        {
+          "id": 4,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 14:30 ]:",
+          "options": [
+            "It’s half past two.",
+            "It’s half to two.",
+            "It’s thirty past fourteen.",
+            "It’s half past three."
+          ],
+          "correctIndex": 0,
+          "explanation": "14:30 theo hệ 12 giờ là 2:30 chiều (2 giờ rưỡi). 30 phút rưỡi dùng 'half past + [giờ]' -> 'It’s half past two.' (Dạng số trực tiếp: 'It's two thirty (p.m)')."
+        },
+        {
+          "id": 5,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 20:50 ]:",
+          "options": [
+            "It’s ten to eight.",
+            "It’s ten to nine.",
+            "It’s fifty past eight.",
+            "It’s ten past nine."
+          ],
+          "correctIndex": 1,
+          "explanation": "20:50 là 8 giờ 50 tối, tức là 9 giờ kém 10 phút. Dùng công thức: Phút thiếu (10) + to + Giờ kế tiếp (nine) -> 'It’s ten to nine.' (Dạng số trực tiếp: 'It's eight fifty (p.m)')."
+        },
+        {
+          "id": 6,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 09:10 ]:",
+          "options": [
+            "It’s ten to nine.",
+            "It’s nine past ten.",
+            "It’s ten past nine.",
+            "It’s nine o'clock ten."
+          ],
+          "correctIndex": 2,
+          "explanation": "09:10 là 9 giờ 10 phút hơn. Phút (ten) + past + Giờ (nine) -> 'It’s ten past nine.' (Dạng số trực tiếp: 'It's nine ten')."
+        },
+        {
+          "id": 7,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 15:35 ]:",
+          "options": [
+            "It’s twenty-five to four.",
+            "It’s thirty-five past three.",
+            "It’s twenty-five to three.",
+            "It’s thirty-five to four."
+          ],
+          "correctIndex": 0,
+          "explanation": "15:35 là 3 giờ 35 chiều, tức 4 giờ kém 25 phút (60 - 35 = 25 phút thiếu đến 4h). Đáp án: 'It’s twenty-five to four.' (Dạng số trực tiếp: 'It's three thirty-five (p.m)')."
+        },
+        {
+          "id": 8,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 10:05 ]:",
+          "options": [
+            "It’s five to ten.",
+            "It’s five past ten.",
+            "It’s ten past five.",
+            "It’s ten oh-five o'clock."
+          ],
+          "correctIndex": 1,
+          "explanation": "10:05 là 10 giờ 5 phút hơn. Phút (five) + past + Giờ (ten) -> 'It’s five past ten.' (Dạng số trực tiếp: 'It's ten oh-five')."
+        },
+        {
+          "id": 9,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 12:00 ] (buổi trưa):",
+          "options": [
+            "It’s twelve o’clock.",
+            "It’s twelve to twelve.",
+            "It’s zero past twelve.",
+            "It’s midnight."
+          ],
+          "correctIndex": 0,
+          "explanation": "12:00 đúng giờ tròn dùng 'o'clock' -> 'It’s twelve o’clock.' (Đồng thời cũng có thể nói là: 'It's midday' hoặc 'It's noon')."
+        },
+        {
+          "id": 10,
+          "question": "Chọn cách nói giờ chuẩn xác cho mốc giờ điện tử [ 16:55 ]:",
+          "options": [
+            "It’s five to five.",
+            "It’s five past four.",
+            "It’s five to four.",
+            "It’s fifty-five past four."
+          ],
+          "correctIndex": 0,
+          "explanation": "16:55 là 4 giờ 55 chiều, tức 5 giờ kém 5 phút (60 - 55 = 5 phút thiếu đến 5h). Đáp án: 'It’s five to five.' (Dạng số trực tiếp: 'It's four fifty-five (p.m)')."
+        }
+      ]
+    },
+    "collocationTable": {
+      "title": "Exercise 3: Complete the table using the words in the box (MAKE vs DO)",
+      "description": "Phân loại các danh từ / cụm từ đi kèm đúng vào cột MAKE hoặc DO theo nguyên tắc sử dụng",
+      "categories": [
+        {
+          "key": "MAKE",
+          "label": "MAKE",
+          "rule": "Tạo ra cái mới, sản xuất, chuẩn bị thức ăn/đồ uống (Creation & Preparation)"
+        },
+        {
+          "key": "DO",
+          "label": "DO",
+          "rule": "Thực hiện công việc, nghĩa vụ, hoạt động thường nhật (Tasks & Chores)"
+        }
+      ],
+      "items": [
+        {
+          "id": "item-1",
+          "phrase": "the bed",
+          "meaning": "gấp chăn ga / dọn giường ngủ",
+          "correctCategory": "MAKE",
+          "explanation": "Dùng 'make the bed' vì hành động này sắp xếp, tạo ra chiếc giường gọn gàng ngăn nắp."
+        },
+        {
+          "id": "item-2",
+          "phrase": "the cleaning",
+          "meaning": "dọn dẹp vệ sinh nhà cửa",
+          "correctCategory": "DO",
+          "explanation": "Dùng 'do the cleaning' vì cleaning là một công việc/nhiệm vụ dọn dẹp hàng ngày."
+        },
+        {
+          "id": "item-3",
+          "phrase": "a mess",
+          "meaning": "bày bừa, làm bừa bộn",
+          "correctCategory": "MAKE",
+          "explanation": "Dùng 'make a mess' vì tạo ra một tình trạng/kết quả bừa bãi lộn xộn."
+        },
+        {
+          "id": "item-4",
+          "phrase": "the housework",
+          "meaning": "làm công việc nhà",
+          "correctCategory": "DO",
+          "explanation": "Dùng 'do the housework' vì housework chỉ các công việc nội trợ, nhiệm vụ gia đình."
+        },
+        {
+          "id": "item-5",
+          "phrase": "lunch",
+          "meaning": "nấu cơm trưa, chuẩn bị bữa trưa",
+          "correctCategory": "MAKE",
+          "explanation": "Dùng 'make lunch' vì thuộc nhóm chuẩn bị thức ăn và đồ uống (food preparation)."
+        },
+        {
+          "id": "item-6",
+          "phrase": "some homework",
+          "meaning": "làm bài tập về nhà",
+          "correctCategory": "DO",
+          "explanation": "Dùng 'do some homework' vì homework là nhiệm vụ học tập bắt buộc."
+        },
+        {
+          "id": "item-7",
+          "phrase": "dinner",
+          "meaning": "nấu cơm tối, chuẩn bị bữa tối",
+          "correctCategory": "MAKE",
+          "explanation": "Dùng 'make dinner' vì thuộc nhóm chuẩn bị thức ăn và đồ uống (food preparation)."
+        },
+        {
+          "id": "item-8",
+          "phrase": "the shopping",
+          "meaning": "đi mua sắm đồ dùng, đi chợ",
+          "correctCategory": "DO",
+          "explanation": "Dùng 'do the shopping' vì đây là một hoạt động thường nhật quen thuộc."
+        },
+        {
+          "id": "item-9",
+          "phrase": "a cake",
+          "meaning": "làm bánh, nướng bánh ngọt",
+          "correctCategory": "MAKE",
+          "explanation": "Dùng 'make a cake' vì tạo ra một món bánh mới từ nguyên liệu bột đường trứng sữa."
+        },
+        {
+          "id": "item-10",
+          "phrase": "the laundry",
+          "meaning": "giặt quần áo, giặt giũ",
+          "correctCategory": "DO",
+          "explanation": "Dùng 'do the laundry' vì laundry là việc nhà định kỳ."
+        }
+      ]
+    },
+    "fillBlank": {
+      "title": "Exercise 4: Complete the email (Harry to Sam)",
+      "wordbank": [
+        "live",
+        "work",
+        "get up",
+        "leave",
+        "have",
+        "walk",
+        "catch",
+        "finish",
+        "meet",
+        "go out"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Hi Sam, I’m having a great time here in France and I’m learning lots of French. My host family are very nice. They (1) ______ in an apartment in an area called Pantin...",
+          "answer": "live",
+          "acceptAlternatives": ["live"]
+        },
+        {
+          "id": 2,
+          "question": "...and they both (2) ______ as journalists. [💡 Cấu trúc: work as + job: làm nghề gì đó]",
+          "answer": "work",
+          "acceptAlternatives": ["work"]
+        },
+        {
+          "id": 3,
+          "question": "They (3) ______ very early...",
+          "answer": "get up",
+          "acceptAlternatives": ["get up"]
+        },
+        {
+          "id": 4,
+          "question": "...and (4) ______ home before me.",
+          "answer": "leave",
+          "acceptAlternatives": ["leave"]
+        },
+        {
+          "id": 5,
+          "question": "I (5) ______ breakfast at about 8 a.m. and then go to the language school.",
+          "answer": "have",
+          "acceptAlternatives": ["have"]
+        },
+        {
+          "id": 6,
+          "question": "I usually (6) ______ there...",
+          "answer": "walk",
+          "acceptAlternatives": ["walk"]
+        },
+        {
+          "id": 7,
+          "question": "...but if I’m late I (7) ______ a bus. [💡 Cấu trúc: catch a bus: bắt xe buýt = take a bus]",
+          "answer": "catch",
+          "acceptAlternatives": ["catch"]
+        },
+        {
+          "id": 8,
+          "question": "Lessons at the school (8) ______ at 4 p.m.",
+          "answer": "finish",
+          "acceptAlternatives": ["finish"]
+        },
+        {
+          "id": 9,
+          "question": "The other students are very nice and I have made lots of new friends. We (9) ______ after school in a café...",
+          "answer": "meet",
+          "acceptAlternatives": ["meet"]
+        },
+        {
+          "id": 10,
+          "question": "...or (10) ______ in the evenings to the cinema. - Harry [💡 Cấu trúc: go out: đi ra ngoài chơi]",
+          "answer": "go out",
+          "acceptAlternatives": ["go out"]
+        }
+      ]
+    },
+    "rewrite": {
+      "title": "Exercise 5: Complete the sentences with the 3rd person forms",
+      "questions": [
+        {
+          "id": 1,
+          "question": "My dad (wash) his car every weekend.",
+          "hint": "(wash) [Kết thúc -sh → thêm -es]",
+          "startWith": "My dad",
+          "answer": "My dad washes his car every weekend.",
+          "acceptAlternatives": [
+            "washes",
+            "washes his car every weekend",
+            "My dad washes his car every weekend"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Jim (watch) too much TV.",
+          "hint": "(watch) [Kết thúc -ch → thêm -es]",
+          "startWith": "Jim",
+          "answer": "Jim watches too much TV.",
+          "acceptAlternatives": [
+            "watches",
+            "watches too much TV",
+            "Jim watches too much TV"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Adrian’s baby (cry) a lot.",
+          "hint": "(cry) [Kết thúc phụ âm + -y → đổi -y thành -ies]",
+          "startWith": "Adrian’s baby",
+          "answer": "Adrian’s baby cries a lot.",
+          "acceptAlternatives": [
+            "cries",
+            "cries a lot",
+            "Adrian's baby cries a lot",
+            "Adrian’s baby cries a lot"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "My brother is good at chess and (practise) every day.",
+          "hint": "(practise) [Thêm -s bình thường]",
+          "startWith": "My brother is good at chess and",
+          "answer": "My brother is good at chess and practises every day.",
+          "acceptAlternatives": [
+            "practises",
+            "practises every day",
+            "My brother is good at chess and practises every day"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Olga (go) jogging most evenings after work.",
+          "hint": "(go) [Kết thúc -o → thêm -es]",
+          "startWith": "Olga",
+          "answer": "Olga goes jogging most evenings after work.",
+          "acceptAlternatives": [
+            "goes",
+            "goes jogging most evenings after work",
+            "Olga goes jogging most evenings after work"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Tom’s wife cooks and Tom (do) the washing up.",
+          "hint": "(do) [Kết thúc -o → thêm -es]",
+          "startWith": "Tom’s wife cooks and Tom",
+          "answer": "Tom’s wife cooks and Tom does the washing up.",
+          "acceptAlternatives": [
+            "does",
+            "does the washing up",
+            "Tom's wife cooks and Tom does the washing up",
+            "Tom’s wife cooks and Tom does the washing up"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Anna (catch) the 253 bus to college each morning.",
+          "hint": "(catch) [Kết thúc -ch → thêm -es]",
+          "startWith": "Anna",
+          "answer": "Anna catches the 253 bus to college each morning.",
+          "acceptAlternatives": [
+            "catches",
+            "catches the 253 bus to college each morning",
+            "Anna catches the 253 bus to college each morning"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Nadia (relax) by doing yoga.",
+          "hint": "(relax) [Kết thúc -x → thêm -es]",
+          "startWith": "Nadia",
+          "answer": "Nadia relaxes by doing yoga.",
+          "acceptAlternatives": [
+            "relaxes",
+            "relaxes by doing yoga",
+            "Nadia relaxes by doing yoga"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "I think our teacher (give) us too much homework.",
+          "hint": "(give) [Chủ ngữ 'our teacher' số ít → thêm -s]",
+          "startWith": "I think our teacher",
+          "answer": "I think our teacher gives us too much homework.",
+          "acceptAlternatives": [
+            "gives",
+            "gives us too much homework",
+            "I think our teacher gives us too much homework"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "My brother (switch off) his light at about midnight.",
+          "hint": "(switch off) [Kết thúc -ch → thêm -es vào động từ chính switch]",
+          "startWith": "My brother",
+          "answer": "My brother switches off his light at about midnight.",
+          "acceptAlternatives": [
+            "switches off",
+            "switches off his light at about midnight",
+            "My brother switches off his light at about midnight"
+          ]
+        }
+      ]
+    },
+    "arrange": {
+      "title": "Exercise 6: Sentence Reordering — Sắp xếp câu hoàn chỉnh",
+      "questions": [
+        {
+          "id": 1,
+          "words": ["is", "It", "past", "five", "now", "quarter", "a"],
+          "correctOrder": [1, 0, 6, 5, 2, 3, 4],
+          "answer": "It is a quarter past five now"
+        },
+        {
+          "id": 2,
+          "words": ["bed", "the", "always", "morning", "makes", "in", "the", "sister", "My"],
+          "correctOrder": [8, 7, 2, 4, 1, 0, 5, 6, 3],
+          "answer": "My sister always makes the bed in the morning"
+        },
+        {
+          "id": 3,
+          "words": ["washing", "does", "Tom", "the", "after", "dinner", "up"],
+          "correctOrder": [2, 1, 3, 0, 6, 4, 5],
+          "answer": "Tom does the washing up after dinner"
+        },
+        {
+          "id": 4,
+          "words": ["bus", "at", "ten", "to", "catches", "a", "nine", "She"],
+          "correctOrder": [7, 4, 5, 0, 1, 2, 3, 6],
+          "answer": "She catches a bus at ten to nine"
+        },
+        {
+          "id": 5,
+          "words": ["work", "both", "journalists", "They", "in", "as", "Paris"],
+          "correctOrder": [3, 1, 0, 5, 2, 4, 6],
+          "answer": "They both work as journalists in Paris"
+        },
+        {
+          "id": 6,
+          "words": ["cries", "a", "lot", "night", "at", "Adrian's", "baby"],
+          "correctOrder": [5, 6, 0, 1, 2, 4, 3],
+          "answer": "Adrian's baby cries a lot at night"
+        },
+        {
+          "id": 7,
+          "words": ["evening", "by", "yoga", "Nadia", "relaxes", "doing", "every"],
+          "correctOrder": [3, 4, 1, 5, 2, 6, 0],
+          "answer": "Nadia relaxes by doing yoga every evening"
+        },
+        {
+          "id": 8,
+          "words": ["café", "school", "often", "meet", "in", "after", "a", "We"],
+          "correctOrder": [7, 2, 3, 5, 1, 4, 6, 0],
+          "answer": "We often meet after school in a café"
+        },
+        {
+          "id": 9,
+          "words": ["the", "mess", "Don't", "a", "in", "living", "make", "room"],
+          "correctOrder": [2, 6, 3, 1, 4, 0, 5, 7],
+          "answer": "Don't make a mess in the living room"
+        },
+        {
+          "id": 10,
+          "words": ["midnight", "his", "switches", "at", "off", "He", "light", "about"],
+          "correctOrder": [5, 2, 4, 1, 6, 3, 7, 0],
+          "answer": "He switches off his light at about midnight"
+        }
+      ]
+    }
+  }
+}

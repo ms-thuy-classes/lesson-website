@@ -19,8 +19,10 @@ import unit5Grade11Data from '../../public/data/lessons/unit-5-grade-11-global-w
 import unit5Grade12Data from '../../public/data/lessons/unit-5-grade-12-the-world-of-work.json';
 import unit1Grade11Data from '../../public/data/lessons/unit-1-grade-11-a-long-and-healthy-life.json';
 import unit1Grade12Data from '../../public/data/lessons/unit-1-grade-12-life-stories-we-admire.json';
+import mindsetUnit1Data from '../../public/data/lessons/mindset-ielts-foundation-unit-1.json';
 
 const bundledLessons: Record<string, LessonData> = {
+  'mindset-ielts-foundation-unit-1': mindsetUnit1Data as LessonData,
   'unit-1-grade-12-life-stories-we-admire': unit1Grade12Data as LessonData,
   'unit-1-grade-11-a-long-and-healthy-life': unit1Grade11Data as LessonData,
   'unit-5-grade-12-the-world-of-work': unit5Grade12Data as LessonData,

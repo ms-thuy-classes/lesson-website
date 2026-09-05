@@ -1,7 +1,19 @@
 {
-  "totalLessons": 21,
+  "totalLessons": 22,
   "lessonsPerPage": 10,
   "lessons": [
+    {
+      "id": "mindset-ielts-foundation-unit-1",
+      "title": "Mindset for IELTS Foundation - Unit 1: Daily Life",
+      "description": "Cách nói giờ trong tiếng Anh (Telling the Time), Phân biệt Collocations 'Make' & 'Do', và Chia động từ Hiện tại đơn ngôi thứ 3 số ít (-s/-es).",
+      "tags": ["IELTS"],
+      "level": "Foundation",
+      "vocabCount": 26,
+      "exerciseCount": 5,
+      "totalQuestions": 50,
+      "file": "data/lessons/mindset-ielts-foundation-unit-1.json",
+      "thumbnail": "gradient-blue"
+    },
     {
       "id": "unit-1-grade-12-life-stories-we-admire",
       "title": "Unit 1: Life Stories We Admire (Lớp 12)",

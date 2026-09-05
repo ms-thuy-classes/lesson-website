@@ -6,11 +6,94 @@ interface GrammarViewProps {
   grammar: GrammarTheory;
 }
 
-// Helper to render lines with bullets, arrows, and phrase formatting
+// Helper to render lines with bullets, arrows, markdown tables, and phrase formatting
 const FormattedGrammarText: React.FC<{ text: string; isExample?: boolean }> = ({ text, isExample = false }) => {
   if (!text) return null;
 
+  // Check if text contains a markdown table
   const lines = text.split('\n').map((l) => l.trim()).filter(Boolean);
+  const tableLineIndices: number[] = [];
+  lines.forEach((line, idx) => {
+    if (line.startsWith('|') && line.endsWith('|')) {
+      tableLineIndices.push(idx);
+    }
+  });
+
+  // If there are consecutive table lines with a separator
+  if (tableLineIndices.length >= 2) {
+    const isConsecutive = tableLineIndices.every((val, i) => i === 0 || val === tableLineIndices[i - 1] + 1);
+    if (isConsecutive) {
+      const tableLines = lines.slice(tableLineIndices[0], tableLineIndices[tableLineIndices.length - 1] + 1);
+      const nonTableBefore = lines.slice(0, tableLineIndices[0]);
+      const nonTableAfter = lines.slice(tableLineIndices[tableLineIndices.length - 1] + 1);
+
+      // Parse table
+      const headerLine = tableLines[0];
+      const headers = headerLine
+        .split('|')
+        .map((s) => s.trim())
+        .filter(Boolean);
+      
+      const bodyLines = tableLines.slice(1).filter((l) => !l.includes('---'));
+      const rows = bodyLines.map((row) =>
+        row
+          .split('|')
+          .map((s) => s.trim())
+          .filter(Boolean)
+      );
+
+      return (
+        <div className="space-y-3">
+          {nonTableBefore.length > 0 && (
+            <FormattedGrammarText text={nonTableBefore.join('\n')} isExample={isExample} />
+          )}
+
+          <div className="overflow-x-auto my-3 rounded-xl border border-purple-200/90 shadow-2xs bg-white">
+            <table className="w-full text-left text-xs sm:text-sm border-collapse">
+              <thead>
+                <tr className="bg-purple-100/90 text-purple-950 font-bold border-b border-purple-200">
+                  {headers.map((h, hIdx) => (
+                    <th key={hIdx} className="px-3.5 py-2.5 font-bold tracking-tight">
+                      {h.replace(/\*\*/g, '')}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-purple-100/70">
+                {rows.map((row, rIdx) => (
+                  <tr key={rIdx} className={rIdx % 2 === 0 ? 'bg-white' : 'bg-purple-50/40 hover:bg-purple-50/70 transition-colors'}>
+                    {row.map((cell, cIdx) => (
+                      <td key={cIdx} className="px-3.5 py-2.5 align-top text-slate-800 leading-relaxed">
+                        {cell.split(/<br\s*\/?>/gi).map((part, pIdx) => {
+                          const cleanPart = part.trim();
+                          const isBold = cleanPart.startsWith('**') && cleanPart.endsWith('**');
+                          const content = cleanPart.replace(/\*\*/g, '');
+
+                          return (
+                            <div key={pIdx} className={pIdx > 0 ? 'mt-1' : ''}>
+                              {isBold ? (
+                                <span className="font-bold text-purple-950">{content}</span>
+                              ) : (
+                                <span>{content}</span>
+                              )}
+                            </div>
+                          );
+                        })}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {nonTableAfter.length > 0 && (
+            <FormattedGrammarText text={nonTableAfter.join('\n')} isExample={isExample} />
+          )}
+        </div>
+      );
+    }
+  }
 
   // If it's a simple single line without bullets or arrows, show compact style
   const hasBulletsOrArrows = lines.some((l) => /^[-•*]/.test(l) || /^(->|→|🡪|=>)/.test(l) || l.includes('->') || l.includes('→') || l.includes('🡪'));
