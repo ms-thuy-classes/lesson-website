@@ -417,6 +417,102 @@
         }
       ]
     },
+    "matching": {
+      "title": "Exercise 2: Match the Daily Activities with their Definitions",
+      "description": "Nối các từ/cụm từ chỉ hoạt động hàng ngày ở Cột A (đánh số 1 đến 8) với định nghĩa tương ứng ở Cột B (đánh chữ A đến H) bằng cách chọn ký tự trong menu thả xuống đằng sau mỗi từ.",
+      "columnA": [
+        {
+          "id": 1,
+          "word": "alarm clock",
+          "hint": "n",
+          "correctMatch": "C",
+          "explanation": "alarm clock = a clock that can be set to make a sound and wake you up at a particular time in the morning."
+        },
+        {
+          "id": 2,
+          "word": "commute",
+          "hint": "v",
+          "correctMatch": "F",
+          "explanation": "commute = to make the regular journey between your home and your place of work or study."
+        },
+        {
+          "id": 3,
+          "word": "laundry",
+          "hint": "n",
+          "correctMatch": "A",
+          "explanation": "laundry = clothes, sheets, and towels that need to be washed or have just been washed."
+        },
+        {
+          "id": 4,
+          "word": "routine",
+          "hint": "n",
+          "correctMatch": "E",
+          "explanation": "routine = a customary sequence of actions or fixed habits followed on a regular basis."
+        },
+        {
+          "id": 5,
+          "word": "midday",
+          "hint": "n",
+          "correctMatch": "G",
+          "explanation": "midday = twelve o'clock in the middle of the day; noon."
+        },
+        {
+          "id": 6,
+          "word": "housework",
+          "hint": "n",
+          "correctMatch": "B",
+          "explanation": "housework = the regular domestic work of keeping a home clean and tidy, such as cooking and cleaning."
+        },
+        {
+          "id": 7,
+          "word": "catch the bus",
+          "hint": "phrase",
+          "correctMatch": "H",
+          "explanation": "catch the bus = to arrive in time to get onto a public transit bus before it departs."
+        },
+        {
+          "id": 8,
+          "word": "switch off",
+          "hint": "phr v",
+          "correctMatch": "D",
+          "explanation": "switch off = to turn off an electrical appliance, light, or machine."
+        }
+      ],
+      "columnB": [
+        {
+          "key": "A",
+          "text": "clothes, sheets, and towels that need to be washed or have just been washed."
+        },
+        {
+          "key": "B",
+          "text": "the regular domestic work of keeping a home clean and tidy, such as cooking and sweeping."
+        },
+        {
+          "key": "C",
+          "text": "a clock that you can set to make a sound and wake you up at a particular time in the morning."
+        },
+        {
+          "key": "D",
+          "text": "to turn off an electrical appliance, light, or machine by pressing a switch or button."
+        },
+        {
+          "key": "E",
+          "text": "a customary sequence of actions or fixed habits followed on a regular basis."
+        },
+        {
+          "key": "F",
+          "text": "to make the regular journey between your home and your place of work or study."
+        },
+        {
+          "key": "G",
+          "text": "twelve o’clock in the middle of the day; the middle of the daylight hours (noon)."
+        },
+        {
+          "key": "H",
+          "text": "to arrive in time to get onto a public transit vehicle before it departs."
+        }
+      ]
+    },
     "collocationTable": {
       "title": "Exercise 3: Complete the table using the words in the box (MAKE vs DO)",
       "description": "Phân loại các danh từ / cụm từ đi kèm đúng vào cột MAKE hoặc DO theo nguyên tắc sử dụng",

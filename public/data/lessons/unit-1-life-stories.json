@@ -643,6 +643,102 @@
         }
       ]
     },
+    "matching": {
+      "title": "Nối từ với định nghĩa tương ứng (Matching Exercise)",
+      "description": "Nối các từ vựng ở Cột A (đánh số 1 đến 8) với định nghĩa tương ứng ở Cột B (đánh chữ A đến H) bằng cách chọn ký tự trong menu thả xuống đằng sau mỗi từ.",
+      "columnA": [
+        {
+          "id": 1,
+          "word": "admire",
+          "hint": "v",
+          "correctMatch": "C",
+          "explanation": "'admire' nghĩa là ngưỡng mộ, khâm phục (to respect and approve of someone or their behavior)."
+        },
+        {
+          "id": 2,
+          "word": "surgeon",
+          "hint": "n",
+          "correctMatch": "A",
+          "explanation": "'surgeon' nghĩa là bác sĩ phẫu thuật (a doctor who specializes in performing medical operations)."
+        },
+        {
+          "id": 3,
+          "word": "volunteer",
+          "hint": "v",
+          "correctMatch": "G",
+          "explanation": "'volunteer' nghĩa là tình nguyện, tự nguyện tham gia (to offer to do something without being forced or paid)."
+        },
+        {
+          "id": 4,
+          "word": "resistance war",
+          "hint": "n",
+          "correctMatch": "F",
+          "explanation": "'resistance war' nghĩa là cuộc kháng chiến (a prolonged military struggle fought against an invading foreign army)."
+        },
+        {
+          "id": 5,
+          "word": "cutting-edge",
+          "hint": "adj",
+          "correctMatch": "H",
+          "explanation": "'cutting-edge' nghĩa là tiên tiến nhất, hiện đại hàng đầu (the most modern, advanced, or innovative stage in technology)."
+        },
+        {
+          "id": 6,
+          "word": "determination",
+          "hint": "n",
+          "correctMatch": "E",
+          "explanation": "'determination' nghĩa là lòng kiên định, sự quyết tâm (the resolute ability to continue trying to achieve something difficult)."
+        },
+        {
+          "id": 7,
+          "word": "drop out",
+          "hint": "phr v",
+          "correctMatch": "D",
+          "explanation": "'drop out' nghĩa là bỏ học giữa chừng (to leave school or university before completing the course)."
+        },
+        {
+          "id": 8,
+          "word": "devote",
+          "hint": "v",
+          "correctMatch": "B",
+          "explanation": "'devote' nghĩa là cống hiến, dành trọn tâm huyết (to give a large part of one's time, energy, or life to a noble purpose)."
+        }
+      ],
+      "columnB": [
+        {
+          "key": "A",
+          "text": "a medical doctor specifically trained to perform surgical operations in hospitals or battlefields."
+        },
+        {
+          "key": "B",
+          "text": "to give a large part of your time, attention, or energy to a person, cause, or noble purpose."
+        },
+        {
+          "key": "C",
+          "text": "to respect and warmly approve of someone’s achievements, noble character, or moral conduct."
+        },
+        {
+          "key": "D",
+          "text": "to leave school, college, or university before finishing your degree or formal studies."
+        },
+        {
+          "key": "E",
+          "text": "the resolute ability to continue trying to achieve something difficult without giving up."
+        },
+        {
+          "key": "F",
+          "text": "a prolonged armed struggle against foreign invading forces to defend national freedom."
+        },
+        {
+          "key": "G",
+          "text": "to offer to do something beneficial for society freely without being paid or compelled."
+        },
+        {
+          "key": "H",
+          "text": "representing the newest, most innovative, and most advanced state of modern technology."
+        }
+      ]
+    },
     "fillBlank": {
       "title": "Phần II: Điền từ vào chỗ trống (Fill in the Blanks - 15 câu)",
       "wordbank": [

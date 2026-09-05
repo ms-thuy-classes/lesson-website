@@ -4,6 +4,7 @@ import { LessonData } from '../types';
 import { VocabularyGrid } from './VocabularyGrid';
 import { GrammarView } from './GrammarView';
 import { MCQExercise } from './exercises/MCQExercise';
+import { MatchingExercise } from './exercises/MatchingExercise';
 import { CollocationTableExercise } from './exercises/CollocationTableExercise';
 import { FillBlankExercise } from './exercises/FillBlankExercise';
 import { ArrangeExercise } from './exercises/ArrangeExercise';
@@ -21,16 +22,41 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
   onBack,
   onUpdateTotalScore,
 }) => {
+  // Helper to build initial score state for available exercises
+  const getInitialScores = (l: LessonData): Record<string, { correct: number; total: number }> => {
+    const scores: Record<string, { correct: number; total: number }> = {};
+    if (l.exercises?.mcq?.questions) {
+      scores.mcq = { correct: 0, total: l.exercises.mcq.questions.length };
+    }
+    if (l.exercises?.matching?.columnA) {
+      scores.matching = { correct: 0, total: l.exercises.matching.columnA.length };
+    }
+    if (l.exercises?.collocationTable?.items) {
+      scores.collocationTable = { correct: 0, total: l.exercises.collocationTable.items.length };
+    }
+    if (l.exercises?.fillBlank?.questions) {
+      scores.fillBlank = { correct: 0, total: l.exercises.fillBlank.questions.length };
+    }
+    if (l.exercises?.arrange?.questions) {
+      scores.arrange = { correct: 0, total: l.exercises.arrange.questions.length };
+    }
+    if (l.exercises?.rewrite?.questions) {
+      scores.rewrite = { correct: 0, total: l.exercises.rewrite.questions.length };
+    }
+    return scores;
+  };
+
   // Keep scores of each exercise in this lesson
-  const [exerciseScores, setExerciseScores] = useState<Record<string, { correct: number; total: number }>>({
-    mcq: { correct: 0, total: lesson.exercises?.mcq?.questions?.length ?? 0 },
-    collocationTable: { correct: 0, total: lesson.exercises?.collocationTable?.items?.length ?? 0 },
-    fillBlank: { correct: 0, total: lesson.exercises?.fillBlank?.questions?.length ?? 0 },
-    arrange: { correct: 0, total: lesson.exercises?.arrange?.questions?.length ?? 0 },
-    rewrite: { correct: 0, total: lesson.exercises?.rewrite?.questions?.length ?? 0 },
-  });
+  const [exerciseScores, setExerciseScores] = useState<Record<string, { correct: number; total: number }>>(() =>
+    getInitialScores(lesson)
+  );
 
   const [activeSectionTab, setActiveSectionTab] = useState<'theory' | 'exercises'>('theory');
+
+  // Re-initialize scores when switching lessons
+  useEffect(() => {
+    setExerciseScores(getInitialScores(lesson));
+  }, [lesson]);
 
   const handleScoreUpdate = (exerciseKey: string, correctCount: number, totalCount: number) => {
     setExerciseScores((prev) => {
@@ -43,7 +69,11 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
       const scoresList: { correct: number; total: number }[] = Object.values(updated);
       const totalCorrect = scoresList.reduce((acc, curr) => acc + curr.correct, 0);
       const totalQuestions = scoresList.reduce((acc, curr) => acc + curr.total, 0);
-      onUpdateTotalScore(lesson.id, totalCorrect, totalQuestions);
+
+      // Defer parent state update outside the current render / setState execution phase
+      queueMicrotask(() => {
+        onUpdateTotalScore(lesson.id, totalCorrect, totalQuestions);
+      });
 
       return updated;
     });
@@ -190,6 +220,14 @@ export const LessonDetail: React.FC<LessonDetailProps> = ({
           <MCQExercise
             title={lesson.exercises.mcq.title}
             questions={lesson.exercises.mcq.questions}
+            onScoreUpdate={handleScoreUpdate}
+          />
+        )}
+
+        {/* Exercise: Matching (Nối từ 2 cột) */}
+        {lesson.exercises?.matching && (
+          <MatchingExercise
+            exercise={lesson.exercises.matching}
             onScoreUpdate={handleScoreUpdate}
           />
         )}

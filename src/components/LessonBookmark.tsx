@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import {
   Bookmark,
   X,
@@ -11,6 +11,8 @@ import {
   Edit3,
   Award,
   ChevronRight,
+  Layers,
+  Link2,
 } from 'lucide-react';
 import { LessonData } from '../types';
 
@@ -28,56 +30,106 @@ export const LessonBookmark: React.FC<LessonBookmarkProps> = ({ lesson }) => {
     setIsOpen(true);
   }, [lesson.id]);
 
-  const sections = [
-    {
-      id: 'lesson-banner',
-      title: 'Tổng quan bài học',
-      icon: Sparkles,
-      tag: 'Bắt đầu',
-    },
-    {
-      id: 'vocabulary-section',
-      title: 'A. Từ vựng trọng tâm',
-      icon: BookOpen,
-      tag: `${lesson.theory.vocabulary.length} từ`,
-    },
-    {
-      id: 'grammar-section',
-      title: 'B. Ngữ pháp trọng điểm',
-      icon: BookOpenCheck,
-      tag: 'Lý thuyết',
-    },
-    {
-      id: 'exercise-mcq-container',
-      title: '1. Trắc nghiệm (MCQ)',
-      icon: CheckSquare,
-      tag: `${lesson.exercises?.mcq?.questions?.length ?? 0} câu`,
-    },
-    {
-      id: 'exercise-fillblank-container',
-      title: '2. Điền từ khuyết',
-      icon: PenTool,
-      tag: `${lesson.exercises?.fillBlank?.questions?.length ?? 0} câu`,
-    },
-    {
-      id: 'exercise-arrange-container',
-      title: '3. Sắp xếp câu',
-      icon: ArrowDownUp,
-      tag: `${lesson.exercises?.arrange?.questions?.length ?? 0} câu`,
-    },
-    {
-      id: 'exercise-rewrite-container',
-      title: '4. Viết lại câu',
-      icon: Edit3,
-      tag: `${lesson.exercises?.rewrite?.questions?.length ?? 0} câu`,
-    },
-    {
+  // Dynamically compute bookmark sections based on what actual content exists in the lesson
+  const sections = useMemo(() => {
+    const list: Array<{
+      id: string;
+      title: string;
+      icon: React.ComponentType<{ className?: string }>;
+      tag: string;
+    }> = [
+      {
+        id: 'lesson-banner',
+        title: 'Tổng quan bài học',
+        icon: Sparkles,
+        tag: 'Bắt đầu',
+      },
+    ];
+
+    if (lesson.theory?.vocabulary && lesson.theory.vocabulary.length > 0) {
+      list.push({
+        id: 'vocabulary-section',
+        title: 'A. Từ vựng trọng tâm',
+        icon: BookOpen,
+        tag: `${lesson.theory.vocabulary.length} từ`,
+      });
+    }
+
+    if (lesson.theory?.grammar) {
+      list.push({
+        id: 'grammar-section',
+        title: 'B. Ngữ pháp trọng điểm',
+        icon: BookOpenCheck,
+        tag: 'Lý thuyết',
+      });
+    }
+
+    // Dynamic numbering for exercises
+    let exerciseIndex = 1;
+
+    if (lesson.exercises?.mcq?.questions && lesson.exercises.mcq.questions.length > 0) {
+      list.push({
+        id: 'exercise-mcq-container',
+        title: `${exerciseIndex++}. Trắc nghiệm (MCQ)`,
+        icon: CheckSquare,
+        tag: `${lesson.exercises.mcq.questions.length} câu`,
+      });
+    }
+
+    if (lesson.exercises?.matching?.columnA && lesson.exercises.matching.columnA.length > 0) {
+      list.push({
+        id: 'exercise-matching-container',
+        title: `${exerciseIndex++}. Nối từ (Matching)`,
+        icon: Link2,
+        tag: `${lesson.exercises.matching.columnA.length} cặp`,
+      });
+    }
+
+    if (lesson.exercises?.collocationTable?.items && lesson.exercises.collocationTable.items.length > 0) {
+      list.push({
+        id: 'exercise-collocation-table-container',
+        title: `${exerciseIndex++}. Phân loại từ`,
+        icon: Layers,
+        tag: `${lesson.exercises.collocationTable.items.length} cụm`,
+      });
+    }
+
+    if (lesson.exercises?.fillBlank?.questions && lesson.exercises.fillBlank.questions.length > 0) {
+      list.push({
+        id: 'exercise-fillblank-container',
+        title: `${exerciseIndex++}. Điền từ khuyết`,
+        icon: PenTool,
+        tag: `${lesson.exercises.fillBlank.questions.length} câu`,
+      });
+    }
+
+    if (lesson.exercises?.arrange?.questions && lesson.exercises.arrange.questions.length > 0) {
+      list.push({
+        id: 'exercise-arrange-container',
+        title: `${exerciseIndex++}. Sắp xếp câu`,
+        icon: ArrowDownUp,
+        tag: `${lesson.exercises.arrange.questions.length} câu`,
+      });
+    }
+
+    if (lesson.exercises?.rewrite?.questions && lesson.exercises.rewrite.questions.length > 0) {
+      list.push({
+        id: 'exercise-rewrite-container',
+        title: `${exerciseIndex++}. Viết lại câu`,
+        icon: Edit3,
+        tag: `${lesson.exercises.rewrite.questions.length} câu`,
+      });
+    }
+
+    list.push({
       id: 'lesson-completion-card',
       title: 'Tổng kết & Điểm số',
       icon: Award,
       tag: 'Kết quả',
-    },
-  ];
+    });
+
+    return list;
+  }, [lesson]);
 
   // Track active section on scroll
   useEffect(() => {

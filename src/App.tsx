@@ -3,7 +3,7 @@
  * @license Apache-2.0
  */
 
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { SearchBar } from './components/SearchBar';
@@ -98,12 +98,17 @@ export default function App() {
   };
 
   // Update score from LessonDetail
-  const handleUpdateTotalScore = (lessonId: string, correct: number, total: number) => {
-    setLessonScores((prev) => ({
-      ...prev,
-      [lessonId]: { correct, total },
-    }));
-  };
+  const handleUpdateTotalScore = useCallback((lessonId: string, correct: number, total: number) => {
+    setLessonScores((prev) => {
+      if (prev[lessonId]?.correct === correct && prev[lessonId]?.total === total) {
+        return prev;
+      }
+      return {
+        ...prev,
+        [lessonId]: { correct, total },
+      };
+    });
+  }, []);
 
   // Calculate global score summary for Header
   const scoreSummary: StudentScoreSummary = useMemo(() => {

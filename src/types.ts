@@ -98,6 +98,26 @@ export interface CollocationTableExercise {
   items: CollocationTableItem[];
 }
 
+export interface MatchingItemA {
+  id: number;
+  word: string;
+  hint?: string;
+  correctMatch: string; // e.g. 'A', 'B', 'C', 'D'...
+  explanation?: string;
+}
+
+export interface MatchingItemB {
+  key: string; // 'A', 'B', 'C', 'D'...
+  text: string;
+}
+
+export interface MatchingExercise {
+  title: string;
+  description?: string;
+  columnA: MatchingItemA[];
+  columnB: MatchingItemB[];
+}
+
 export interface LessonData {
   id: string;
   title: string;
@@ -108,21 +128,22 @@ export interface LessonData {
     grammar: GrammarTheory;
   };
   exercises: {
-    mcq: {
+    mcq?: {
       title: string;
       questions: MCQQuestion[];
     };
+    matching?: MatchingExercise;
     collocationTable?: CollocationTableExercise;
-    fillBlank: {
+    fillBlank?: {
       title: string;
       wordbank?: string[];
       questions: FillBlankQuestion[];
     };
-    arrange: {
+    arrange?: {
       title: string;
       questions: ArrangeQuestion[];
     };
-    rewrite: {
+    rewrite?: {
       title: string;
       questions: RewriteQuestion[];
     };
