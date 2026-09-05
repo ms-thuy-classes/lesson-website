@@ -60,6 +60,9 @@ export interface FillBlankQuestion {
   sentence?: string;
   answer: string;
   acceptAlternatives?: string[];
+  hint?: string;
+  explanation?: string;
+  translationVi?: string;
 }
 
 export interface ArrangeQuestion {
@@ -68,6 +71,9 @@ export interface ArrangeQuestion {
   correctOrder?: number[];
   answer: string;
   acceptAlternatives?: string[];
+  hint?: string;
+  explanation?: string;
+  translationVi?: string;
 }
 
 export interface RewriteQuestion {
@@ -77,6 +83,8 @@ export interface RewriteQuestion {
   startWith?: string;
   answer: string;
   acceptAlternatives?: string[];
+  explanation?: string;
+  translationVi?: string;
 }
 
 export interface CollocationTableItem {
@@ -103,12 +111,14 @@ export interface MatchingItemA {
   word: string;
   hint?: string;
   correctMatch: string; // e.g. 'A', 'B', 'C', 'D'...
+  vietnameseMeaning?: string;
   explanation?: string;
 }
 
 export interface MatchingItemB {
   key: string; // 'A', 'B', 'C', 'D'...
   text: string;
+  vietnameseMeaning?: string;
 }
 
 export interface MatchingExercise {

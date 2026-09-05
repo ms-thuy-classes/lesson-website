@@ -256,12 +256,33 @@ export const MatchingExercise: React.FC<MatchingExerciseProps> = ({
                         </div>
                       )}
 
-                      {item.explanation && (
-                        <div className="mt-1 text-slate-600 bg-white/60 p-2 rounded-lg border border-slate-200/50">
-                          <span className="font-bold text-slate-700">Giải thích: </span>
-                          {item.explanation}
-                        </div>
-                      )}
+                      {/* Box giải thích chi tiết kèm Nghĩa Tiếng Việt */}
+                      <div className="mt-2 p-2.5 rounded-lg bg-white/95 border border-slate-200/80 text-xs space-y-1.5 shadow-2xs">
+                        {(item.vietnameseMeaning || columnB.find((b) => b.key === item.correctMatch)?.vietnameseMeaning) && (
+                          <div className="text-purple-950 bg-purple-50/80 p-2 rounded-md border border-purple-100/90 text-xs space-y-1">
+                            {item.vietnameseMeaning && (
+                              <div className="flex items-baseline gap-1.5">
+                                <span className="font-bold text-purple-700 shrink-0">🇻🇳 Nghĩa tiếng Việt của từ:</span>
+                                <span className="font-bold text-purple-900">{item.word}:</span>
+                                <span className="font-semibold text-purple-800">{item.vietnameseMeaning}</span>
+                              </div>
+                            )}
+                            {columnB.find((b) => b.key === item.correctMatch)?.vietnameseMeaning && (
+                              <div className="flex items-baseline gap-1.5 text-slate-600 pt-0.5 border-t border-purple-100/60">
+                                <span className="font-semibold text-slate-700 shrink-0">Dịch nghĩa định nghĩa ({item.correctMatch}):</span>
+                                <span className="italic text-slate-700">{columnB.find((b) => b.key === item.correctMatch)?.vietnameseMeaning}</span>
+                              </div>
+                            )}
+                          </div>
+                        )}
+
+                        {item.explanation && (
+                          <div className="text-slate-600 leading-relaxed text-xs pt-0.5">
+                            <span className="font-bold text-slate-700">💡 Giải thích chi tiết: </span>
+                            <span>{item.explanation}</span>
+                          </div>
+                        )}
+                      </div>
                     </div>
                   )}
                 </div>
@@ -333,19 +354,22 @@ export const MatchingExercise: React.FC<MatchingExerciseProps> = ({
         <div className="mt-6 p-4 rounded-2xl bg-amber-50/80 border border-amber-200 animate-in fade-in">
           <div className="flex items-center gap-2 font-bold text-amber-800 text-sm mb-2">
             <Eye className="w-4 h-4" />
-            <span>Đáp án mẫu (Answer Key):</span>
+            <span>Đáp án mẫu (Answer Key kèm nghĩa tiếng Việt):</span>
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
             {columnA.map((item, idx) => (
               <div
                 key={item.id}
-                className="bg-white p-2 rounded-lg border border-amber-200 flex items-center justify-between"
+                className="bg-white p-2.5 rounded-lg border border-amber-200 flex items-center justify-between gap-2"
               >
-                <span className="font-semibold text-slate-700">
-                  #{idx + 1} {item.word}:
-                </span>
-                <span className="font-extrabold text-purple-700 bg-purple-100 px-2 py-0.5 rounded-md">
-                  {item.correctMatch}
+                <div className="text-slate-700">
+                  <span className="font-bold">#{idx + 1} {item.word}</span>
+                  {item.vietnameseMeaning && (
+                    <span className="text-purple-700 font-medium ml-1">({item.vietnameseMeaning})</span>
+                  )}
+                </div>
+                <span className="font-extrabold text-purple-700 bg-purple-100 px-2 py-0.5 rounded-md shrink-0">
+                  → {item.correctMatch}
                 </span>
               </div>
             ))}

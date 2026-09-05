@@ -425,91 +425,107 @@
           "id": 1,
           "word": "alarm clock",
           "hint": "n",
+          "vietnameseMeaning": "đồng hồ báo thức",
           "correctMatch": "C",
-          "explanation": "alarm clock = a clock that can be set to make a sound and wake you up at a particular time in the morning."
+          "explanation": "'alarm clock' (đồng hồ báo thức) tương ứng với định nghĩa C: chiếc đồng hồ bạn có thể cài giờ reo chuông để đánh thức bạn dậy vào một khung giờ cố định buổi sáng."
         },
         {
           "id": 2,
           "word": "commute",
           "hint": "v",
+          "vietnameseMeaning": "đi làm / đi học thường nhật (chặng đường đi lại hàng ngày)",
           "correctMatch": "F",
-          "explanation": "commute = to make the regular journey between your home and your place of work or study."
+          "explanation": "'commute' (đi làm / đi học hàng ngày bằng phương tiện) tương ứng với định nghĩa F: việc di chuyển đều đặn giữa nơi ở và nơi làm việc hoặc trường học."
         },
         {
           "id": 3,
           "word": "laundry",
           "hint": "n",
+          "vietnameseMeaning": "quần áo, đồ giặt giũ",
           "correctMatch": "A",
-          "explanation": "laundry = clothes, sheets, and towels that need to be washed or have just been washed."
+          "explanation": "'laundry' (đồ giặt giũ) tương ứng với định nghĩa A: quần áo, khăn trải giường, khăn tắm cần giặt sạch hoặc vừa mới giặt xong."
         },
         {
           "id": 4,
           "word": "routine",
           "hint": "n",
+          "vietnameseMeaning": "thói quen / lịch trình sinh hoạt cố định hàng ngày",
           "correctMatch": "E",
-          "explanation": "routine = a customary sequence of actions or fixed habits followed on a regular basis."
+          "explanation": "'routine' (lịch sinh hoạt thường nhật) tương ứng với định nghĩa E: chuỗi hành động hoặc thói quen quen thuộc được thực hiện đều đặn theo trình tự cố định."
         },
         {
           "id": 5,
           "word": "midday",
           "hint": "n",
+          "vietnameseMeaning": "buổi trưa, đúng 12 giờ trưa (noon)",
           "correctMatch": "G",
-          "explanation": "midday = twelve o'clock in the middle of the day; noon."
+          "explanation": "'midday' (giữa trưa) tương ứng với định nghĩa G: 12 giờ trưa vào giữa ngày, thời điểm giữa các giờ ban ngày (noon)."
         },
         {
           "id": 6,
           "word": "housework",
           "hint": "n",
+          "vietnameseMeaning": "công việc nhà (nấu cơm, dọn dẹp, quét dọn...)",
           "correctMatch": "B",
-          "explanation": "housework = the regular domestic work of keeping a home clean and tidy, such as cooking and cleaning."
+          "explanation": "'housework' (việc nội trợ, việc nhà) tương ứng với định nghĩa B: công việc giữ gìn nhà cửa sạch sẽ và ngăn nắp như nấu nướng, giặt giũ, quét dọn."
         },
         {
           "id": 7,
           "word": "catch the bus",
           "hint": "phrase",
+          "vietnameseMeaning": "bắt xe buýt, đón xe buýt kịp giờ",
           "correctMatch": "H",
-          "explanation": "catch the bus = to arrive in time to get onto a public transit bus before it departs."
+          "explanation": "'catch the bus' (đón kịp chuyến xe buýt) tương ứng với định nghĩa H: đến điểm dừng kịp giờ để bước lên một phương tiện giao thông công cộng trước khi nó rời đi."
         },
         {
           "id": 8,
           "word": "switch off",
           "hint": "phr v",
+          "vietnameseMeaning": "tắt (đèn, quạt, máy móc, thiết bị điện)",
           "correctMatch": "D",
-          "explanation": "switch off = to turn off an electrical appliance, light, or machine."
+          "explanation": "'switch off' (tắt thiết bị) tương ứng với định nghĩa D: ngắt điện một thiết bị gia dụng, đèn hoặc máy móc bằng cách ấn công tắc hoặc nút bấm."
         }
       ],
       "columnB": [
         {
           "key": "A",
-          "text": "clothes, sheets, and towels that need to be washed or have just been washed."
+          "text": "clothes, sheets, and towels that need to be washed or have just been washed.",
+          "vietnameseMeaning": "quần áo, khăn trải giường và khăn tắm cần giặt hoặc vừa mới giặt xong."
         },
         {
           "key": "B",
-          "text": "the regular domestic work of keeping a home clean and tidy, such as cooking and sweeping."
+          "text": "the regular domestic work of keeping a home clean and tidy, such as cooking and sweeping.",
+          "vietnameseMeaning": "công việc nội trợ thường ngày giữ cho nhà cửa sạch sẽ, ngăn nắp như nấu ăn và quét dọn."
         },
         {
           "key": "C",
-          "text": "a clock that you can set to make a sound and wake you up at a particular time in the morning."
+          "text": "a clock that you can set to make a sound and wake you up at a particular time in the morning.",
+          "vietnameseMeaning": "chiếc đồng hồ bạn có thể cài đặt phát ra chuông để đánh thức bạn dậy vào giờ nhất định buổi sáng."
         },
         {
           "key": "D",
-          "text": "to turn off an electrical appliance, light, or machine by pressing a switch or button."
+          "text": "to turn off an electrical appliance, light, or machine by pressing a switch or button.",
+          "vietnameseMeaning": "tắt thiết bị điện, đèn hoặc máy móc bằng cách ấn công tắc hoặc nút bấm."
         },
         {
           "key": "E",
-          "text": "a customary sequence of actions or fixed habits followed on a regular basis."
+          "text": "a customary sequence of actions or fixed habits followed on a regular basis.",
+          "vietnameseMeaning": "chuỗi hành động theo thói quen quen thuộc hoặc lịch trình cố định được tuân theo thường xuyên."
         },
         {
           "key": "F",
-          "text": "to make the regular journey between your home and your place of work or study."
+          "text": "to make the regular journey between your home and your place of work or study.",
+          "vietnameseMeaning": "thực hiện hành trình đi lại đều đặn giữa nhà và nơi làm việc hoặc trường học."
         },
         {
           "key": "G",
-          "text": "twelve o’clock in the middle of the day; the middle of the daylight hours (noon)."
+          "text": "twelve o’clock in the middle of the day; the middle of the daylight hours (noon).",
+          "vietnameseMeaning": "mười hai giờ vào giữa ngày; thời điểm giữa ban ngày (buổi trưa)."
         },
         {
           "key": "H",
-          "text": "to arrive in time to get onto a public transit vehicle before it departs."
+          "text": "to arrive in time to get onto a public transit vehicle before it departs.",
+          "vietnameseMeaning": "đến kịp lúc để bước lên một phương tiện giao thông công cộng trước khi nó khởi hành."
         }
       ]
     },

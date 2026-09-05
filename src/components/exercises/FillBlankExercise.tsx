@@ -232,10 +232,10 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
               {/* Feedback after check */}
               {isChecked && (
                 <div
-                  className={`mt-2 p-2.5 rounded-lg text-xs sm:text-sm flex items-center justify-between gap-2 ${
+                  className={`mt-2.5 p-3 rounded-xl text-xs sm:text-sm space-y-2 ${
                     isCorrect
-                      ? 'bg-emerald-50 text-emerald-800 border border-emerald-200'
-                      : 'bg-rose-50 text-rose-900 border border-rose-200'
+                      ? 'bg-emerald-50/90 text-emerald-800 border border-emerald-200'
+                      : 'bg-rose-50/90 text-rose-900 border border-rose-200'
                   }`}
                 >
                   <div className="flex items-center gap-2">
@@ -246,13 +246,13 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
                     )}
                     <span>
                       {isCorrect ? (
-                        'Đúng chính xác!'
+                        <strong className="text-emerald-800">Đúng chính xác!</strong>
                       ) : (
                         <span>
                           Chưa đúng. Đáp án chuẩn:{' '}
-                          <strong className="underline">{q.answer}</strong>
+                          <strong className="underline font-bold text-slate-900">{q.answer}</strong>
                           {q.acceptAlternatives && q.acceptAlternatives.length > 0 && (
-                            <span className="text-slate-500 ml-1">
+                            <span className="text-slate-600 ml-1 font-medium">
                               (Chấp nhận thêm: {q.acceptAlternatives.join(', ')})
                             </span>
                           )}
@@ -260,6 +260,30 @@ export const FillBlankExercise: React.FC<FillBlankExerciseProps> = ({
                       )}
                     </span>
                   </div>
+
+                  {/* Vietnamese meaning / hint / explanation */}
+                  {(q.hint || q.explanation || q.translationVi) && (
+                    <div className="pt-2 border-t border-slate-200/60 text-xs text-slate-700 space-y-1">
+                      {q.hint && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-purple-700 shrink-0">🇻🇳 Nghĩa / Gợi ý:</span>
+                          <span className="text-purple-900 font-medium">{q.hint}</span>
+                        </div>
+                      )}
+                      {q.explanation && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-slate-700 shrink-0">💡 Giải thích:</span>
+                          <span className="text-slate-600">{q.explanation}</span>
+                        </div>
+                      )}
+                      {q.translationVi && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-indigo-700 shrink-0">📖 Dịch câu:</span>
+                          <span className="italic text-indigo-900">{q.translationVi}</span>
+                        </div>
+                      )}
+                    </div>
+                  )}
                 </div>
               )}
             </div>

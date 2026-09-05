@@ -236,30 +236,56 @@ export const ArrangeExercise: React.FC<ArrangeExerciseProps> = ({
               {/* Feedback after check */}
               {isChecked && (
                 <div
-                  className={`mt-4 p-3 rounded-lg text-xs sm:text-sm flex items-start gap-2 ${
+                  className={`mt-4 p-3.5 rounded-xl text-xs sm:text-sm space-y-2 ${
                     isCorrect
-                      ? 'bg-emerald-50 text-emerald-800 border border-emerald-200'
-                      : 'bg-rose-50 text-rose-900 border border-rose-200'
+                      ? 'bg-emerald-50/90 text-emerald-800 border border-emerald-200'
+                      : 'bg-rose-50/90 text-rose-900 border border-rose-200'
                   }`}
                 >
-                  {isCorrect ? (
-                    <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
-                  ) : (
-                    <XCircle className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
-                  )}
-                  <div>
-                    <span className="font-bold">
-                      {isCorrect ? 'Tuyệt vời, câu hoàn toàn chính xác!' : 'Chưa chính xác.'}{' '}
-                    </span>
-                    {!isCorrect && (
-                      <div className="mt-1">
-                        Đáp án đúng:{' '}
-                        <strong className="underline text-purple-900">
-                          {q.answer}
-                        </strong>
-                      </div>
+                  <div className="flex items-start gap-2">
+                    {isCorrect ? (
+                      <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
+                    ) : (
+                      <XCircle className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
                     )}
+                    <div>
+                      <span className="font-bold">
+                        {isCorrect ? 'Tuyệt vời, câu hoàn toàn chính xác!' : 'Chưa chính xác.'}{' '}
+                      </span>
+                      {!isCorrect && (
+                        <div className="mt-1">
+                          Đáp án đúng:{' '}
+                          <strong className="underline text-purple-900 font-bold">
+                            {q.answer}
+                          </strong>
+                        </div>
+                      )}
+                    </div>
                   </div>
+
+                  {/* Vietnamese translation & explanation */}
+                  {(q.translationVi || q.explanation || q.hint) && (
+                    <div className="pt-2 border-t border-slate-200/60 text-xs text-slate-700 space-y-1">
+                      {q.translationVi && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-purple-700 shrink-0">🇻🇳 Dịch nghĩa câu:</span>
+                          <span className="text-slate-800 font-medium italic">{q.translationVi}</span>
+                        </div>
+                      )}
+                      {q.explanation && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-slate-700 shrink-0">💡 Giải thích:</span>
+                          <span className="text-slate-600">{q.explanation}</span>
+                        </div>
+                      )}
+                      {q.hint && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-indigo-700 shrink-0">📌 Gợi ý cấu trúc:</span>
+                          <span className="text-slate-600">{q.hint}</span>
+                        </div>
+                      )}
+                    </div>
+                  )}
                 </div>
               )}
             </div>

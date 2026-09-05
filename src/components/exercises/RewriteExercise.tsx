@@ -146,37 +146,63 @@ export const RewriteExercise: React.FC<RewriteExerciseProps> = ({
               {/* Feedback after check */}
               {isChecked && (
                 <div
-                  className={`ml-0 sm:ml-6 p-3 rounded-xl text-xs sm:text-sm flex items-start gap-2 ${
+                  className={`ml-0 sm:ml-6 p-3.5 rounded-xl text-xs sm:text-sm space-y-2 ${
                     isCorrect
-                      ? 'bg-emerald-50 text-emerald-800 border border-emerald-200'
-                      : 'bg-rose-50 text-rose-900 border border-rose-200'
+                      ? 'bg-emerald-50/90 text-emerald-800 border border-emerald-200'
+                      : 'bg-rose-50/90 text-rose-900 border border-rose-200'
                   }`}
                 >
-                  {isCorrect ? (
-                    <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
-                  ) : (
-                    <XCircle className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
-                  )}
-                  <div>
-                    <span className="font-bold">
-                      {isCorrect ? 'Chính xác tuyệt đối!' : 'Chưa chính xác.'}{' '}
-                    </span>
-                    {!isCorrect && (
-                      <div className="mt-1 space-y-1">
-                        <div>
-                          Đáp án chuẩn:{' '}
-                          <strong className="underline text-slate-800">
-                            {q.answer}
-                          </strong>
-                        </div>
-                        {q.acceptAlternatives && q.acceptAlternatives.length > 0 && (
-                          <div className="text-slate-600 text-[11px]">
-                            Các cách viết khác được chấp nhận: {q.acceptAlternatives.join(' / ')}
-                          </div>
-                        )}
-                      </div>
+                  <div className="flex items-start gap-2">
+                    {isCorrect ? (
+                      <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
+                    ) : (
+                      <XCircle className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
                     )}
+                    <div>
+                      <span className="font-bold">
+                        {isCorrect ? 'Chính xác tuyệt đối!' : 'Chưa chính xác.'}{' '}
+                      </span>
+                      {!isCorrect && (
+                        <div className="mt-1 space-y-1">
+                          <div>
+                            Đáp án chuẩn:{' '}
+                            <strong className="underline text-slate-900 font-bold">
+                              {q.answer}
+                            </strong>
+                          </div>
+                          {q.acceptAlternatives && q.acceptAlternatives.length > 0 && (
+                            <div className="text-slate-600 text-[11px]">
+                              Các cách viết khác được chấp nhận: {q.acceptAlternatives.join(' / ')}
+                            </div>
+                          )}
+                        </div>
+                      )}
+                    </div>
                   </div>
+
+                  {/* Vietnamese explanation and hints */}
+                  {(q.hint || q.explanation || q.translationVi) && (
+                    <div className="pt-2 border-t border-slate-200/60 text-xs text-slate-700 space-y-1">
+                      {q.hint && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-purple-700 shrink-0">🇻🇳 Hướng dẫn / Cấu trúc:</span>
+                          <span className="text-purple-950 font-medium">{q.hint}</span>
+                        </div>
+                      )}
+                      {q.translationVi && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-indigo-700 shrink-0">📖 Dịch nghĩa:</span>
+                          <span className="italic text-indigo-900">{q.translationVi}</span>
+                        </div>
+                      )}
+                      {q.explanation && (
+                        <div className="flex items-baseline gap-1.5">
+                          <span className="font-bold text-slate-700 shrink-0">💡 Giải thích:</span>
+                          <span className="text-slate-600">{q.explanation}</span>
+                        </div>
+                      )}
+                    </div>
+                  )}
                 </div>
               )}
             </div>

@@ -651,91 +651,107 @@
           "id": 1,
           "word": "admire",
           "hint": "v",
+          "vietnameseMeaning": "ngưỡng mộ, khâm phục, ca ngợi",
           "correctMatch": "C",
-          "explanation": "'admire' nghĩa là ngưỡng mộ, khâm phục (to respect and approve of someone or their behavior)."
+          "explanation": "'admire' (ngưỡng mộ, tôn kính) tương ứng với định nghĩa C: tôn trọng và hết sức tán thưởng thành tựu, phẩm chất đạo đức cao đẹp của ai đó."
         },
         {
           "id": 2,
           "word": "surgeon",
           "hint": "n",
+          "vietnameseMeaning": "bác sĩ phẫu thuật",
           "correctMatch": "A",
-          "explanation": "'surgeon' nghĩa là bác sĩ phẫu thuật (a doctor who specializes in performing medical operations)."
+          "explanation": "'surgeon' (bác sĩ ngoại khoa/phẫu thuật) tương ứng với định nghĩa A: bác sĩ y khoa được đào tạo chuyên môn để trực tiếp thực hiện các ca mổ phẫu thuật."
         },
         {
           "id": 3,
           "word": "volunteer",
           "hint": "v",
+          "vietnameseMeaning": "tình nguyện, tự nguyện xung phong tham gia",
           "correctMatch": "G",
-          "explanation": "'volunteer' nghĩa là tình nguyện, tự nguyện tham gia (to offer to do something without being forced or paid)."
+          "explanation": "'volunteer' (tình nguyện, tự nguyện) tương ứng với định nghĩa G: tự nguyện đề xuất làm việc có ích cho cộng đồng mà không vì mục đích tiền bạc hay bị ép buộc."
         },
         {
           "id": 4,
           "word": "resistance war",
           "hint": "n",
+          "vietnameseMeaning": "cuộc kháng chiến chống giặc ngoại xâm",
           "correctMatch": "F",
-          "explanation": "'resistance war' nghĩa là cuộc kháng chiến (a prolonged military struggle fought against an invading foreign army)."
+          "explanation": "'resistance war' (cuộc kháng chiến giữ nước) tương ứng với định nghĩa F: cuộc chiến tranh vũ trang kiên cường chống lại quân đội xâm lược để giành lại độc lập tự do."
         },
         {
           "id": 5,
           "word": "cutting-edge",
           "hint": "adj",
+          "vietnameseMeaning": "tiên tiến, tối tân, hiện đại bậc nhất",
           "correctMatch": "H",
-          "explanation": "'cutting-edge' nghĩa là tiên tiến nhất, hiện đại hàng đầu (the most modern, advanced, or innovative stage in technology)."
+          "explanation": "'cutting-edge' (tối tân, đột phá hàng đầu) tương ứng với định nghĩa H: thể hiện giai đoạn phát triển mới nhất, tân tiến nhất của khoa học và công nghệ."
         },
         {
           "id": 6,
           "word": "determination",
           "hint": "n",
+          "vietnameseMeaning": "sự quyết tâm, lòng kiên định bất khuất",
           "correctMatch": "E",
-          "explanation": "'determination' nghĩa là lòng kiên định, sự quyết tâm (the resolute ability to continue trying to achieve something difficult)."
+          "explanation": "'determination' (ý chí quyết tâm) tương ứng với định nghĩa E: nghị lực kiên định tiếp tục theo đuổi mục tiêu dù gặp muôn vàn gian nan, không bao giờ bỏ cuộc."
         },
         {
           "id": 7,
           "word": "drop out",
           "hint": "phr v",
+          "vietnameseMeaning": "bỏ học giữa chừng (trước khi tốt nghiệp)",
           "correctMatch": "D",
-          "explanation": "'drop out' nghĩa là bỏ học giữa chừng (to leave school or university before completing the course)."
+          "explanation": "'drop out' (nghỉ học giữa chừng) tương ứng với định nghĩa D: rời bỏ trường học hoặc trường đại học trước khi hoàn thành chương trình hay nhận bằng tốt nghiệp."
         },
         {
           "id": 8,
           "word": "devote",
           "hint": "v",
+          "vietnameseMeaning": "cống hiến, dành trọn tâm huyết (devote... to...)",
           "correctMatch": "B",
-          "explanation": "'devote' nghĩa là cống hiến, dành trọn tâm huyết (to give a large part of one's time, energy, or life to a noble purpose)."
+          "explanation": "'devote' (cống hiến hết mình) tương ứng với định nghĩa B: dành phần lớn thời gian, sức lực hoặc cuộc đời mình cho một mục tiêu hay lý tưởng cao cả."
         }
       ],
       "columnB": [
         {
           "key": "A",
-          "text": "a medical doctor specifically trained to perform surgical operations in hospitals or battlefields."
+          "text": "a medical doctor specifically trained to perform surgical operations in hospitals or battlefields.",
+          "vietnameseMeaning": "bác sĩ y khoa được đào tạo chuyên sâu để thực hiện các ca phẫu thuật trong bệnh viện hoặc nơi chiến trường."
         },
         {
           "key": "B",
-          "text": "to give a large part of your time, attention, or energy to a person, cause, or noble purpose."
+          "text": "to give a large part of your time, attention, or energy to a person, cause, or noble purpose.",
+          "vietnameseMeaning": "dành phần lớn thời gian, sự tập trung hoặc năng lượng cho một con người, lý tưởng hoặc mục đích cao cả."
         },
         {
           "key": "C",
-          "text": "to respect and warmly approve of someone’s achievements, noble character, or moral conduct."
+          "text": "to respect and warmly approve of someone’s achievements, noble character, or moral conduct.",
+          "vietnameseMeaning": "tôn trọng và hết lòng tán đồng những thành tựu, phẩm chất cao đẹp hoặc nhân cách đạo đức của một ai đó."
         },
         {
           "key": "D",
-          "text": "to leave school, college, or university before finishing your degree or formal studies."
+          "text": "to leave school, college, or university before finishing your degree or formal studies.",
+          "vietnameseMeaning": "nghỉ học ở trường phổ thông, cao đẳng hoặc đại học trước khi hoàn thành bằng cấp hoặc khóa học chính quy."
         },
         {
           "key": "E",
-          "text": "the resolute ability to continue trying to achieve something difficult without giving up."
+          "text": "the resolute ability to continue trying to achieve something difficult without giving up.",
+          "vietnameseMeaning": "khả năng kiên quyết tiếp tục cố gắng đạt được điều gì đó khó khăn mà không bao giờ bỏ cuộc."
         },
         {
           "key": "F",
-          "text": "a prolonged armed struggle against foreign invading forces to defend national freedom."
+          "text": "a prolonged armed struggle against foreign invading forces to defend national freedom.",
+          "vietnameseMeaning": "cuộc đấu tranh vũ trang lâu dài chống lại các lực lượng xâm lược nước ngoài để bảo vệ tự do dân tộc."
         },
         {
           "key": "G",
-          "text": "to offer to do something beneficial for society freely without being paid or compelled."
+          "text": "to offer to do something beneficial for society freely without being paid or compelled.",
+          "vietnameseMeaning": "tự nguyện đề nghị làm điều gì đó có ích cho xã hội một cách hoàn toàn tự do, không vì tiền bạc hay bị ép buộc."
         },
         {
           "key": "H",
-          "text": "representing the newest, most innovative, and most advanced state of modern technology."
+          "text": "representing the newest, most innovative, and most advanced state of modern technology.",
+          "vietnameseMeaning": "đại diện cho giai đoạn mới nhất, sáng tạo nhất và tiên tiến hàng đầu của công nghệ hiện đại."
         }
       ]
     },
